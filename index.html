@@ -21,10 +21,17 @@
         margin: 0 auto;
       }
 
+      .header {
+        text-align: center;
+      }
+
       .lib {
         padding: 16px;
         margin: 8px 0;
 
+        border-top: 1px solid #ced4da;
+      }
+      .lib:last-child {
         border-bottom: 1px solid #ced4da;
       }
 
@@ -64,14 +71,25 @@
 
   <body>
     <div class="content">
-      <h1>Excalidraw Libraries</h1>
+      <div class="header">
+        <h1>Excalidraw Libraries</h1>
+        <p>
+          Read the
+          <a href="https://github.com/excalidraw/excalidraw-libs"
+            >instructions</a
+          >
+          on GitHub on how to add your own to the list.
+        </p>
+      </div>
       <div class="lib" id="template">
         <h2>
           {name}
           <small>(by <a href="{url}" target="_blank">{author}</a>)</small>
         </h2>
         <p>{description}</p>
-        <a class="btn" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
+        <a class="btn" href="{addToLib}" target="_excalidraw"
+          >Add to Excalidraw</a
+        >
         <a class="btn" href="{source}">Download</a>
       </div>
     </div>
