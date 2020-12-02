@@ -19,7 +19,7 @@ fetchJSONFile('libs.json', (libs) => {
     divLib.classList.add('lib');
     let inner = template.innerHTML;
 
-    const source = `libs/${lib.source}`
+    const source = `libs/${lib.source}`;
     inner = inner.replace('{name}', lib.name);
     inner = inner.replace('{description}', lib.description);
     inner = inner.replace('{source}', source);
@@ -27,7 +27,10 @@ fetchJSONFile('libs.json', (libs) => {
     inner = inner.replace('{author}', lib.author);
     inner = inner.replace(
       '{addToLib}',
-      `https://excalidraw.com/?addLibrary=${location.href}/${source}`,
+      `https://excalidraw.com/?addLibrary=${location.href.replace(
+        'index.html',
+        '',
+      )}${source}`,
     );
     divLib.innerHTML = inner;
     template.after(divLib);
