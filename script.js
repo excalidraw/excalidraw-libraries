@@ -25,6 +25,7 @@ fetchJSONFile('libs.json', (libs) => {
     inner = inner.replace('{source}', source);
     inner = inner.replace('{url}', lib.url);
     inner = inner.replace('{author}', lib.author);
+    inner = inner.replace('{preview}', `libs/${lib.preview}`);
     inner = inner.replace(
       '{addToLib}',
       `https://excalidraw.com/?addLibrary=${location.href.replace(

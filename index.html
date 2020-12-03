@@ -26,13 +26,21 @@
       }
 
       .lib {
-        padding: 16px;
+        padding: 16px 8px;
         margin: 8px 0;
 
         border-top: 1px solid #ced4da;
       }
+
       .lib:last-child {
         border-bottom: 1px solid #ced4da;
+      }
+
+      .lib img {
+        float: right;
+        max-height: 96px;
+        max-width: 50%;
+        margin-left: 8px;
       }
 
       h2 {
@@ -42,6 +50,7 @@
       small {
         color: #868e96;
         font-size: 0.8em;
+        font-weight: 300;
       }
 
       a {
@@ -82,6 +91,7 @@
         </p>
       </div>
       <div class="lib" id="template">
+        <img src="{preview}" />
         <h2>
           {name}
           <small>(by <a href="{url}" target="_blank">{author}</a>)</small>
