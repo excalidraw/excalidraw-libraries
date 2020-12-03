@@ -57,7 +57,7 @@
       small {
         color: #868e96;
         font-size: 0.8em;
-        font-weight: 400;
+        font-weight: 300;
       }
 
       a {
@@ -78,6 +78,11 @@
 
       .btn {
         margin-right: 12px;
+      }
+
+      .updated {
+        font-size: .7em;
+        color: #868e96;
       }
 
       #template {
@@ -125,6 +130,7 @@
           {name}
           <small>(by <a href="{url}" target="_blank">{author}</a>)</small>
         </h2>
+        <span class="updated">Updated: {updated}</span>
         <p>{description}</p>
         <a class="btn" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
         <a class="btn" href="{source}">Download</a>
