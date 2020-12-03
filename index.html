@@ -10,6 +10,7 @@
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue",
           Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         color: #343a40;
+        box-sizing: border-box;
       }
 
       body {
@@ -24,7 +25,10 @@
 
       .header {
         text-align: center;
-        margin: 32px 0;
+        margin: 32px auto;
+        max-width: 100%;
+        width: 600px;
+        padding: 0 8px;
       }
 
       .lib {
@@ -96,9 +100,14 @@
       <div class="header">
         <h1>Excalidraw Libraries</h1>
         <p>
+          <a href="https://excalidraw.com">Excalidraw</a> now supports library. You can easily add the shapes that you are using the most
+          into the library, and later use it or share it with with your team or why not with the
+          world if they are useful.
+        </p>
+        <p>
           Read the
           <a href="https://github.com/excalidraw/excalidraw-libs">instructions</a>
-          on GitHub on how to add your own to the list.
+          on GitHub on how to add your own library to this list.
         </p>
       </div>
       <div class="lib" id="template">
