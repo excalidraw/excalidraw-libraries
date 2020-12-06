@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <title>Excalidraw Libraries</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/open-color/1.7.0/open-color.min.css"
+    />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css/normalize.min.css" />
     <style>
       * {
@@ -14,7 +18,7 @@
       }
 
       body {
-        background-color: #f8f9fa;
+        background-color: var(--oc-gray-0);
       }
 
       .content {
@@ -35,11 +39,11 @@
         padding: 16px 8px;
         margin: 8px 0;
 
-        border-top: 1px solid #ced4da;
+        border-top: 1px solid var(--oc-gray-4);
       }
 
       .lib:last-child {
-        border-bottom: 1px solid #ced4da;
+        border-bottom: 1px solid var(--oc-gray-4);
       }
 
       .lib img {
@@ -55,7 +59,7 @@
 
       .small,
       small {
-        color: #868e96;
+        color: var(--oc-gray-6);
         font-size: 0.8em;
         font-weight: 300;
       }
@@ -63,26 +67,31 @@
       a {
         font-weight: 500;
         text-decoration: none;
-      }
-
-      a:link,
-      a:visited,
-      a:active {
-        color: #1c7ed6;
+        color: var(--oc-blue-7);
       }
 
       a:hover {
         text-decoration: underline;
-        color: #1864ab;
+        color: var(--oc-blue-9);
       }
 
       .btn {
         margin-right: 12px;
       }
 
+      .primary {
+        color: var(--oc-green-7);
+        font-size: 1.1em;
+        font-weight: 600;
+      }
+
+      .primary:hover {
+        color: var(--oc-green-9);
+      }
+
       .updated {
-        font-size: .7em;
-        color: #868e96;
+        font-size: 0.7em;
+        color: var(--oc-gray-6);
       }
 
       #template {
@@ -106,14 +115,14 @@
       <div class="header">
         <h1>Excalidraw Libraries</h1>
         <p>
-          <a href="https://excalidraw.com">Excalidraw</a> now supports library. You can easily add
-          the shapes that you are using the most into the library, and later use it or share it with
-          with your team or why not with the world if they are useful.
+          Easily start add shapes that you are using the most into the library of
+          <a href="https://excalidraw.com">Excalidraw</a> , and later use it or share it with with
+          your team.
         </p>
         <p>
-          Read the
+          Follow the
           <a href="https://github.com/excalidraw/excalidraw-libs">instructions</a>
-          on GitHub on how to <strong>add your own library</strong> to this list.
+          on how to <strong>add your own library</strong> into this list.
         </p>
         <p class="small">
           All the following libraries are under
@@ -132,7 +141,7 @@
         </h2>
         <span class="updated">Updated: {updated}</span>
         <p>{description}</p>
-        <a class="btn" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
+        <a class="btn primary" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
         <a class="btn" href="{source}">Download</a>
       </div>
     </div>
