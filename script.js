@@ -31,21 +31,21 @@ const getDate = (date) => {
   return `${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`;
 };
 
-fetchJSONFile("libs.json", (libs) => {
+fetchJSONFile("libraries.json", (libraries) => {
   const template = document.getElementById("template");
-  for (lib of libs) {
+  for (library of libraries) {
     const divLib = document.createElement("div");
-    divLib.classList.add("lib");
+    divLib.classList.add("library");
     let inner = template.innerHTML;
 
-    const source = `libs/${lib.source}`;
-    inner = inner.replace("{name}", lib.name);
-    inner = inner.replace("{description}", lib.description);
+    const source = `libraries/${library.source}`;
+    inner = inner.replace("{name}", library.name);
+    inner = inner.replace("{description}", library.description);
     inner = inner.replace("{source}", source);
-    inner = inner.replace("{url}", lib.url);
-    inner = inner.replace("{author}", lib.author);
-    inner = inner.replace("{preview}", `libs/${lib.preview}`);
-    inner = inner.replace("{updated}", getDate(lib.date));
+    inner = inner.replace("{url}", library.url);
+    inner = inner.replace("{author}", library.author);
+    inner = inner.replace("{preview}", `libraries/${library.preview}`);
+    inner = inner.replace("{updated}", getDate(library.date));
     inner = inner.replace(
       "{addToLib}",
       `https://excalidraw.com/?addLibrary=${location.href.replace("index.html", "")}${source}`
