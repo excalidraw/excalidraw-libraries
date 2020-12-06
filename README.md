@@ -1,8 +1,8 @@
 # Excalidraw Libraries
 
-> [Explore](https://excalidraw.github.io/excalidraw-libs/)
+> ### Explore [libraries.excalidraw.com](https://libraries.excalidraw.com)
 
-## Add your own lib to the list
+## Add your own library to the list
 
 1. Fork this repo
 2. Create a directory with your `name` in the [libs](libs)
