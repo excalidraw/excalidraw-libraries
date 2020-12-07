@@ -9,139 +9,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/open-color/1.7.0/open-color.min.css"
     />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css/normalize.min.css" />
-    <style>
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/FG_Virgil.woff2");
-      }
-
-      :root {
-        --text: var(--oc-gray-7);
-        --muted: var(--oc-gray-6);
-        --link: var(--oc-blue-8);
-        --link-hover: var(--oc-blue-9);
-        --primary: var(--oc-lime-8);
-        --primary-hover: var(--oc-lime-9);
-        --vertical-padding: 16px;
-        --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue",
-          Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-      }
-      * {
-        font-family: var(--font-family);
-        box-sizing: border-box;
-      }
-
-      body {
-        background-color: var(--oc-gray-0);
-        color: var(--text);
-      }
-
-      .content {
-        width: 800px;
-        max-width: 100%;
-        margin: 0 auto;
-      }
-
-      .header {
-        text-align: center;
-        margin: 32px auto;
-        max-width: 100%;
-        width: 640px;
-        padding: 0 var(--vertical-padding);
-      }
-
-      .library {
-        padding: var(--vertical-padding);
-        margin: 24px 0;
-        border-top: 1px solid var(--oc-gray-4);
-      }
-
-      .library:last-child {
-        border-bottom: 1px solid var(--oc-gray-4);
-      }
-
-      .library img {
-        float: right;
-        max-height: 96px;
-        max-width: 50%;
-        margin-left: 8px;
-      }
-
-      h1 {
-        font-family: "Virgil", var(--font-family);
-        font-size: 3em;
-      }
-
-      h2 {
-        margin: 0;
-      }
-
-      .lead {
-        font-size: 1.2em;
-      }
-
-      .small,
-      small {
-        color: var(--muted);
-        font-size: 0.8em;
-        font-weight: 300;
-      }
-
-      a {
-        font-weight: 500;
-        text-decoration: none;
-        color: var(--link);
-      }
-
-      a:hover {
-        text-decoration: underline;
-        color: var(--link-hover);
-      }
-
-      .actions {
-        margin-top: 24px;
-      }
-
-      .btn {
-        margin-right: 12px;
-        border: 1px solid var(--link);
-        padding: 4px 8px;
-        border-radius: 4px;
-      }
-      .btn:hover {
-        border-color: var(--link-hover);
-        text-decoration: none;
-        border-width: 2px;
-        padding: 3px 7px;
-      }
-
-      .primary {
-        color: var(--primary);
-        font-size: 1.1em;
-        font-weight: 600;
-        border: 1px solid var(--primary);
-      }
-
-      .primary:hover {
-        color: var(--primary-hover);
-        border-color: var(--primary-hover);
-      }
-
-      .updated {
-        font-size: 0.7em;
-        color: var(--muted);
-      }
-
-      #template {
-        display: none;
-      }
-
-      @media only screen and (max-width: 600px) {
-        h1 {
-          font-size: 2em;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-387204-13"></script>
     <script>
@@ -156,7 +24,7 @@
 
   <body>
     <div class="content">
-      <div class="header">
+      <header>
         <h1>Excalidraw Libraries</h1>
         <p class="lead">
           A directory of public libraries that you can easily add to
@@ -177,18 +45,26 @@
             >MIT License</a
           >.
         </p>
-      </div>
-      <div class="library" id="template">
-        <img src="{preview}" />
-        <h2>{name}</h2>
-        <small><a href="{url}" target="_blank">@{author}</a></small>
-        <span class="updated">Updated: {updated}</span>
-        <p>{description}</p>
-        <div class="actions">
-          <a class="btn primary" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
-          <a class="btn" href="{source}">Download</a>
+      </header>
+      <main>
+        <div class="library" id="template">
+          <img src="{preview}" />
+          <h2>{name}</h2>
+          <small><a href="{url}" target="_blank">@{author}</a></small>
+          <span class="updated">Updated: {updated}</span>
+          <p>{description}</p>
+          <div class="actions">
+            <a class="btn primary" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
+            <a class="btn" href="{source}">Download</a>
+          </div>
         </div>
-      </div>
+      </main>
+      <footer>
+        <div>
+          © 2020 Excalidraw •
+          <a href="https://github.com/excalidraw/excalidraw-libraries">Source</a>
+        </div>
+      </footer>
     </div>
     <script type="text/javascript" src="libraries.json"></script>
     <script src="script.js"></script>
