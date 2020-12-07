@@ -63,15 +63,11 @@ footer {
   align-items: center;
   justify-content: center;
   border-top: 1px solid var(--border-color);
+  font-weight: 500;
 }
 
 .library {
-  padding: var(--vertical-padding);
-  margin: 24px 0;
-  border-top: 1px solid var(--border-color);
-}
-
-.library:last-child {
+  padding: calc(2 * var(--vertical-padding)) var(--vertical-padding);
   border-bottom: 1px solid var(--border-color);
 }
 
