@@ -11,7 +11,7 @@
 3. Edit the [`libraries.json`](libraries.json) and add your entry to the end
 4. Create a PR to this repo
 
-Once reviewed and approved your library will appear on the [website](https://excalidraw.github.io/excalidraw-libs/), but keep in mind your libraries have to be for wide usage and not specific to your needs.
+Once reviewed and approved your library will appear on the [website](https://libraries.excalidraw.com), but keep in mind your libraries have to be for wide usage and not specific to your needs.
 
 ### Notes
 
