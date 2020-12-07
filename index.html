@@ -10,15 +10,23 @@
     />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css/normalize.min.css" />
     <style>
+      :root {
+        --text: var(--oc-gray-7);
+        --muted: var(--oc-gray-6);
+        --link: var(--oc-blue-8);
+        --link-hover: var(--oc-blue-9);
+        --primary: var(--oc-lime-8);
+        --primary-hover: var(--oc-lime-9);
+      }
       * {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue",
           Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        color: #343a40;
         box-sizing: border-box;
       }
 
       body {
         background-color: var(--oc-gray-0);
+        color: var(--text);
       }
 
       .content {
@@ -31,7 +39,7 @@
         text-align: center;
         margin: 32px auto;
         max-width: 100%;
-        width: 600px;
+        width: 640px;
         padding: 0 8px;
       }
 
@@ -57,9 +65,13 @@
         margin: 0;
       }
 
+      .lead {
+        font-size: 1.2em;
+      }
+
       .small,
       small {
-        color: var(--oc-gray-6);
+        color: var(--muted);
         font-size: 0.8em;
         font-weight: 300;
       }
@@ -67,12 +79,12 @@
       a {
         font-weight: 500;
         text-decoration: none;
-        color: var(--oc-blue-7);
+        color: var(--link);
       }
 
       a:hover {
         text-decoration: underline;
-        color: var(--oc-blue-9);
+        color: var(--link-hover);
       }
 
       .btn {
@@ -80,18 +92,18 @@
       }
 
       .primary {
-        color: var(--oc-green-7);
+        color: var(--primary);
         font-size: 1.1em;
         font-weight: 600;
       }
 
       .primary:hover {
-        color: var(--oc-green-9);
+        color: var(--primary-hover);
       }
 
       .updated {
         font-size: 0.7em;
-        color: var(--oc-gray-6);
+        color: var(--muted);
       }
 
       #template {
@@ -114,17 +126,16 @@
     <div class="content">
       <div class="header">
         <h1>Excalidraw Libraries</h1>
-        <p>
-          Easily start add shapes that you are using the most into the library of
-          <a href="https://excalidraw.com">Excalidraw</a> , and later use it or share it with with
-          your team.
+        <p class="lead">
+          A directory of public libraries that you can easily add to
+          <a href="https://excalidraw.com">Excalidraw</a>.
         </p>
         <p>
           Follow the
           <a href="https://github.com/excalidraw/excalidraw-libs#add-your-own-library-to-the-list"
             >instructions</a
           >
-          on how to <strong>add your own library</strong> into this list.
+          if you want to <strong>add your own library</strong> into this list.
         </p>
         <p class="small">
           All the following libraries are under
