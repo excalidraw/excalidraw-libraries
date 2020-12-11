@@ -39,13 +39,13 @@ fetchJSONFile("libraries.json", (libraries) => {
     let inner = template.innerHTML;
 
     const source = `libraries/${library.source}`;
-    inner = inner.replace("{name}", library.name);
-    inner = inner.replace("{description}", library.description);
-    inner = inner.replace("{source}", source);
-    inner = inner.replace("{url}", library.url);
-    inner = inner.replace("{author}", library.author);
-    inner = inner.replace("{preview}", `libraries/${library.preview}`);
-    inner = inner.replace("{updated}", getDate(library.date));
+    inner = inner.replace(/\{name\}/g, library.name);
+    inner = inner.replace(/\{description\}/g, library.description);
+    inner = inner.replace(/\{source\}/g, source);
+    inner = inner.replace(/\{url\}/g, library.url);
+    inner = inner.replace(/\{author\}/g, library.author);
+    inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
+    inner = inner.replace(/\{updated\}/g, getDate(library.date));
     inner = inner.replace(
       "{addToLib}",
       `https://excalidraw.com/?addLibrary=${location.href.replace("index.html", "")}${source}`

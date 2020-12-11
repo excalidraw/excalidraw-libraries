@@ -19,6 +19,13 @@
       }
       gtag("js", new Date());
       gtag("config", "UA-387204-13");
+      window.trackEvent = function (category, name, label, value) {
+        window.gtag("event", name, {
+          event_category: category,
+          event_label: label,
+          value,
+        });
+      };
     </script>
   </head>
 
@@ -54,8 +61,10 @@
           <span class="updated">Updated: {updated}</span>
           <p>{description}</p>
           <div class="actions">
-            <a class="btn primary" href="{addToLib}" target="_excalidraw">Add to Excalidraw</a>
-            <a class="btn" href="{source}">Download</a>
+            <a class="btn primary" href="{addToLib}" target="_excalidraw" onclick="trackEvent('library', 'import', '{name}')"
+              >Add to Excalidraw</a
+            >
+            <a class="btn" href="{source}" onclick="trackEvent('library', 'download', '{name}')">Download</a>
           </div>
         </div>
       </main>
