@@ -15,4 +15,4 @@ Once reviewed and approved your library will appear on the [website](https://lib
 
 ### Notes
 
-By uploading libraries to our repo, you are automatically complying with our [MIT License](LICENSE), which in short means anyone can use them withouth restrictions.
+By uploading libraries to our repo, you are automatically complying with our [MIT License](LICENSE), which in short means anyone can use them without restrictions.
