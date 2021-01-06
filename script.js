@@ -36,9 +36,15 @@ fetchJSONFile("libraries.json", (libraries) => {
   for (library of libraries) {
     const divLib = document.createElement("div");
     divLib.classList.add("library");
+    const replaceText = { "/": "-", ".excalidrawlib": "" };
+    const divId = library.source.replace(/\/|.excalidrawlib/g, function (match) {
+      return replaceText[match];
+    });
+    divLib.setAttribute("id", divId);
     let inner = template.innerHTML;
 
     const source = `libraries/${library.source}`;
+    inner = inner.replace(/\{libraryId\}/g, divId);
     inner = inner.replace(/\{name\}/g, library.name);
     inner = inner.replace(/\{description\}/g, library.description);
     inner = inner.replace(/\{source\}/g, source);
