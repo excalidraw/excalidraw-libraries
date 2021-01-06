@@ -78,6 +78,14 @@ footer {
   margin-left: 8px;
 }
 
+.library h2 > a {
+  visibility: hidden;
+}
+
+.library h2:hover > a {
+  visibility: visible;
+}
+
 h1 {
   font-family: "Virgil", var(--font-family);
   font-size: 3em;
