@@ -23,11 +23,7 @@
     />
 
     <!-- OG tags require an absolute url for images -->
-    <meta
-      property="og:image"
-      name="twitter:image"
-      content="https://excalidraw.com/og-image.png"
-    />
+    <meta property="og:image" name="twitter:image" content="https://excalidraw.com/og-image.png" />
     <meta
       property="og:image:secure_url"
       name="twitter:image"
@@ -94,14 +90,24 @@
         <div class="library" id="template">
           <img src="{preview}" alt="{name}" />
           <h2>{name} <a aria-label="Anchor" href="#{libraryId}">#</a></h2>
-          <small><a href="{url}" target="_blank">@{author}</a></small>
-          <span class="updated">Updated: {updated}</span>
+          <p class="author"><a href="{url}" target="_blank">@{author}</a></p>
+          <p class="downloads" title="Downloads">⬇️ {total}</p>
+          <p class="updated">Updated: {updated}</p>
           <p>{description}</p>
           <div class="actions">
-            <a class="btn primary" href="{addToLib}" target="_excalidraw" onclick="trackEvent('library', 'import', '{libraryId}')"
+            <a
+              class="btn primary"
+              href="{addToLib}"
+              target="_excalidraw"
+              onclick="trackEvent('library', 'import', '{libraryId}')"
               >Add to Excalidraw</a
             >
-            <a class="btn" href="{source}" onclick="trackEvent('library', 'download', '{libraryId}')">Download</a>
+            <a
+              class="btn"
+              href="{source}"
+              onclick="trackEvent('library', 'download', '{libraryId}')"
+              >Download</a
+            >
           </div>
         </div>
       </main>

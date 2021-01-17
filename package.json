@@ -1,8 +1,17 @@
 {
   "dependencies": {
-    "node-static": "0.7.11"
+    "node-static": "0.7.11",
+    "prettier": "2.2.1"
   },
+  "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "yarn build:key && yarn build:stats && yarn format",
+    "build:stats": "python3 stats.py",
+    "build:key": "python3 key.py",
+    "format": "yarn format:prettier && yarn format:python",
+    "format:prettier": "prettier . --write",
+    "format:python": "black .",
+    "postinstall": "pip install --upgrade google-api-python-client oauth2client black"
   }
 }
