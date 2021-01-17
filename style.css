@@ -10,7 +10,8 @@
   --link-hover: var(--oc-blue-9);
   --primary: var(--oc-lime-8);
   --primary-hover: var(--oc-lime-9);
-  --vertical-padding: 16px;
+  --vertical-padding: 32px;
+  --horizontal-padding: 16px;
   --border-color: var(--oc-gray-4);
   --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial,
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -53,7 +54,7 @@ header {
   margin: 0 auto;
   max-width: 100%;
   width: 640px;
-  padding: 0 var(--vertical-padding);
+  padding: 0 var(--horizontal-padding);
 }
 
 footer {
@@ -67,7 +68,7 @@ footer {
 }
 
 .library {
-  padding: calc(2 * var(--vertical-padding)) var(--vertical-padding);
+  padding: var(--vertical-padding) var(--horizontal-padding);
   border-bottom: 1px solid var(--border-color);
 }
 
@@ -76,6 +77,9 @@ footer {
   max-height: 96px;
   max-width: 50%;
   margin-left: 8px;
+  padding: 4px;
+  border: 1px solid var(--border-color);
+  border-radius: 2px;
 }
 
 .library h2 > a {
