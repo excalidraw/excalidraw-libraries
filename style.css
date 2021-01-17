@@ -86,6 +86,22 @@ footer {
   visibility: visible;
 }
 
+.library .downloads {
+  font-weight: 600;
+  margin: 8px 0;
+  opacity: 0.8;
+}
+
+.library .author {
+  margin: 8px 0;
+}
+
+.library .updated {
+  font-size: 0.7em;
+  color: var(--muted);
+  margin: 8px 0;
+}
+
 h1 {
   font-family: "Virgil", var(--font-family);
   font-size: 3em;
@@ -144,11 +160,6 @@ a:hover {
 .primary:hover {
   color: var(--primary-hover);
   border-color: var(--primary-hover);
-}
-
-.updated {
-  font-size: 0.7em;
-  color: var(--muted);
 }
 
 #template {
