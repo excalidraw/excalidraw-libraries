@@ -101,7 +101,7 @@ def main():
 
     current_date = today + timedelta(days=-14)
     # Set current date to 2020-12-11 to count all visits from the beginning:
-    # current_date = datetime(2020, 12, 11)
+    current_date = datetime(2020, 12, 11)
     stats = {}
     analytics = initialize_analyticsreporting()
     while current_date <= today:
