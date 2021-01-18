@@ -138,20 +138,21 @@ a:hover {
 }
 
 .actions {
-  margin-top: 24px;
+  margin-top: 32px;
 }
 
 .btn {
   margin-right: 12px;
   border: 1px solid var(--link);
-  padding: 4px 8px;
+  padding: 8px 16px;
   border-radius: 4px;
 }
+
 .btn:hover {
   border-color: var(--link-hover);
   text-decoration: none;
   border-width: 2px;
-  padding: 3px 7px;
+  padding: 7px 15px;
 }
 
 .primary {
