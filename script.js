@@ -45,8 +45,8 @@ fetchJSONFile("libraries.json", (libraries) => {
       });
       library["id"] = libraryId;
       library["downloads"] = {
-        total: stats[libraryId].total,
-        week: stats[libraryId].week,
+        total: libraryId in stats ? stats[libraryId].total : 0,
+        week: libraryId in stats ? stats[libraryId].week : 0,
       };
 
       libraries_.push(library);
