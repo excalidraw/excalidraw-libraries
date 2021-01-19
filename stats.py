@@ -1,4 +1,5 @@
 from apiclient.discovery import build
+from datetime import date
 from datetime import datetime
 from datetime import timedelta
 from oauth2client.service_account import ServiceAccountCredentials
@@ -97,13 +98,17 @@ def main():
         print("Key file not found", KEY_FILE)
         return
 
-    today = datetime.today()
+    today = date.today()
 
     current_date = today + timedelta(days=-14)
     # Set current date to 2020-12-11 to count all visits from the beginning:
-    current_date = datetime(2020, 12, 11)
+    current_date = date(2020, 12, 11)
     stats = {}
     analytics = initialize_analyticsreporting()
+    total_downloads = 0
+    total_downloads_day = 0
+    total_downloads_week = 0
+
     while current_date <= today:
         day = current_date.strftime("%Y-%m-%d")
         print()
@@ -113,13 +118,17 @@ def main():
         libraries = print_library_response(response)
 
         for library in libraries:
+            total = libraries[library]
+            total_downloads += total
             if library in stats:
-                stats[library]["total"] += libraries[library]
+                stats[library]["total"] += total
             else:
-                stats[library] = {"total": libraries[library], "week": 0}
-
+                stats[library] = {"total": total, "week": 0}
             if current_date > today + timedelta(days=-7):
-                stats[library]["week"] += libraries[library]
+                total_downloads_week += total
+                stats[library]["week"] += total
+            if current_date == today:
+                total_downloads_day += total
 
         if libraries:
             with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
@@ -128,6 +137,16 @@ def main():
         if stats:
             with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
                 json.dump(stats, outfile, indent=2)
+            with open(os.path.join(ROOT_DIR, "total.json"), "w") as outfile:
+                json.dump(
+                    {
+                        "total": total_downloads,
+                        "week": total_downloads_week,
+                        "day": total_downloads_day,
+                    },
+                    outfile,
+                    indent=2,
+                )
 
         current_date += timedelta(days=1)
 
