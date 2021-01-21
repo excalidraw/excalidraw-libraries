@@ -23,11 +23,7 @@
     />
 
     <!-- OG tags require an absolute url for images -->
-    <meta
-      property="og:image"
-      name="twitter:image"
-      content="https://excalidraw.com/og-image.png"
-    />
+    <meta property="og:image" name="twitter:image" content="https://excalidraw.com/og-image.png" />
     <meta
       property="og:image:secure_url"
       name="twitter:image"
@@ -46,7 +42,7 @@
     />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css/normalize.min.css" />
     <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="favicon.ico" /> 
+    <link rel="icon" href="favicon.ico" />
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-387204-13"></script>
     <script>
@@ -94,21 +90,31 @@
         <div class="library" id="template">
           <img src="{preview}" alt="{name}" />
           <h2>{name} <a aria-label="Anchor" href="#{libraryId}">#</a></h2>
-          <small><a href="{url}" target="_blank">@{author}</a></small>
-          <span class="updated">Updated: {updated}</span>
+          <p class="author"><a href="{url}" target="_blank">@{author}</a></p>
+          <p class="downloads"><span title="Downloads">⬇️ {total}</span></p>
+          <p class="updated">Updated: {updated}</p>
           <p>{description}</p>
           <div class="actions">
-            <a class="btn primary" href="{addToLib}" target="_excalidraw" onclick="trackEvent('library', 'import', '{name}')"
-              >Add to Excalidraw</a
+            <a
+              class="btn primary"
+              href="{addToLib}"
+              target="_excalidraw"
+              onclick="trackEvent('library', 'import', '{libraryId}')"
+              >➡️ Add to Excalidraw</a
             >
-            <a class="btn" href="{source}" onclick="trackEvent('library', 'download', '{name}')">Download</a>
+            <a
+              class="btn"
+              href="{source}"
+              onclick="trackEvent('library', 'download', '{libraryId}')"
+              >⬇️ Download</a
+            >
           </div>
         </div>
       </main>
       <footer>
         <div>
-          © 2020 Excalidraw •
-          <a href="https://github.com/excalidraw/excalidraw-libraries">Source</a>
+          © 2021 <a href="https://excalidraw.com">Excalidraw</a> •
+          <a href="https://github.com/excalidraw/excalidraw-libraries">Source Code</a>
         </div>
       </footer>
     </div>
