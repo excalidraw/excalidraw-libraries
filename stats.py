@@ -80,15 +80,12 @@ def print_library_response(response):
             label = dimensions[2]
             label = label if label not in MAP else MAP[label]
             value = int(metrics[0]["values"][0])
-
             if label in counts:
                 counts[label] += value
             else:
                 counts[label] = value
-
         for download in counts:
             print(download, ":", counts[download])
-
     return counts
 
 
@@ -99,7 +96,6 @@ def main():
 
     today = date.today()
 
-    current_date = today + timedelta(days=-14)
     # Set current date to 2020-12-11 to count all visits from the beginning:
     current_date = date(2020, 12, 11)
     stats = {}
@@ -115,7 +111,6 @@ def main():
         print("-" * 40)
         response = get_library_report(analytics, day)
         libraries = print_library_response(response)
-
         for library in libraries:
             total = libraries[library]
             total_downloads += total
@@ -128,11 +123,9 @@ def main():
                 stats[library]["week"] += total
             if current_date == today:
                 total_downloads_day += total
-
         if libraries:
             with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
                 json.dump(libraries, outfile, indent=2)
-
         if stats:
             with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
                 json.dump(stats, outfile, indent=2)
@@ -146,9 +139,7 @@ def main():
                     outfile,
                     indent=2,
                 )
-
         current_date += timedelta(days=1)
-
         print()
 
 
