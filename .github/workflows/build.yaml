@@ -25,8 +25,8 @@ jobs:
         run: |
           FILE_CHANGED=$(git diff stats.json)
           if [ ! -z "${FILE_CHANGED}" ]; then
-            git config --global user.name 'Panayiotis Lipiridis'
-            git config --global user.email 'lipiridis@gmail.com'
+            git config --global user.name 'Excalidraw Bot'
+            git config --global user.email 'bot@excalidraw.com'
             git add .
             git commit -am "Auto commit: New data"
             git push
