@@ -1,6 +1,5 @@
 from apiclient.discovery import build
 from datetime import date
-from datetime import datetime
 from datetime import timedelta
 from oauth2client.service_account import ServiceAccountCredentials
 import os
