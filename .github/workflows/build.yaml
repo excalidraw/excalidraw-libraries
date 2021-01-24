@@ -1,0 +1,33 @@
+name: Build
+
+on:
+  push:
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: yarn
+      - name: Building stats
+        env:
+          ANALYTICS_PRIVATE_KEY: ${{ secrets.ANALYTICS_PRIVATE_KEY }}
+          ANALYTICS_PRIVATE_KEY_ID: ${{ secrets.ANALYTICS_PRIVATE_KEY_ID }}
+        run: yarn build
+      - name: Commit changes
+        run: |
+          FILE_CHANGED=$(git diff stats.json)
+          if [ ! -z "${FILE_CHANGED}" ]; then
+            git config --global user.name 'Panayiotis Lipiridis'
+            git config --global user.email 'lipiridis@gmail.com'
+            git add .
+            git commit -am "Auto commit: New data"
+            git push
+          fi
