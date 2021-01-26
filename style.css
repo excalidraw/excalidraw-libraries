@@ -139,13 +139,17 @@ a:hover {
 
 .actions {
   margin-top: 32px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .btn {
+  margin: 5px;
   margin-right: 12px;
   border: 1px solid var(--link);
   padding: 8px 16px;
   border-radius: 4px;
+  white-space: nowrap;
 }
 
 .btn:hover {
