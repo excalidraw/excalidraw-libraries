@@ -5,11 +5,11 @@
 ## Add your own library to the list
 
 1. Fork this repo
-2. Create a directory with your `name` in the [libraries](libraries)
+2. Create a directory with your `name` in the [libraries](libraries) (use `kebab-case` for all files and directories)
    1. Upload your `.excalidrawlib` files
    2. Upload the screenshot of the preview (as PNG)
 3. Edit the [`libraries.json`](libraries.json) and add your entry to the end
-4. Create a PR to this repo
+4. Create a Pull Request to this repo
 
 Once reviewed and approved your library will appear on the [website](https://libraries.excalidraw.com), but keep in mind your libraries have to be for wide usage and not specific to your needs.
 
