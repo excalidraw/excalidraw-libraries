@@ -107,11 +107,19 @@ def main():
 
     while current_date <= today:
         day = current_date.strftime("%Y-%m-%d")
-        print()
-        print(day)
-        print("-" * 40)
-        response = get_library_report(analytics, day)
-        libraries = print_library_response(response)
+        # Load data from JSON if it's older than N days
+        if current_date < today + timedelta(days=-2):
+            libraries_file = os.path.join(STATS_DIR, day + ".json")
+            with open(libraries_file, "r") as day_totals:
+                libraries = json.load(day_totals)
+        else:
+            print()
+            print(day)
+            print("-" * 40)
+            response = get_library_report(analytics, day)
+            libraries = print_library_response(response)
+            print()
+
         for library in libraries:
             total = libraries[library]
             total_downloads += total
@@ -141,7 +149,6 @@ def main():
                     indent=2,
                 )
         current_date += timedelta(days=1)
-        print()
 
 
 if __name__ == "__main__":
