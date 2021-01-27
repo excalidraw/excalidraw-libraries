@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "imagemin-cli": "6.0.0",
     "node-static": "0.7.11",
     "prettier": "2.2.1"
   },
@@ -12,6 +13,7 @@
     "format": "yarn format:prettier && yarn format:python",
     "format:prettier": "prettier . --write",
     "format:python": "black .",
-    "postinstall": "pip install --upgrade google-api-python-client oauth2client black"
+    "postinstall": "pip install --upgrade google-api-python-client oauth2client black",
+    "imagemin": "yarn imagemin"
   }
 }
