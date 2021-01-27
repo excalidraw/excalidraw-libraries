@@ -33,6 +33,7 @@ MAP = {
     "Stars": "lipis-stars",
     "Stick figures": "youritjang-stick-figures",
     "Stick Figures": "youritjang-stick-figures",
+    "Technology Logos": "drwnio-drwnio",
 }
 
 
