@@ -162,15 +162,6 @@
     "date": "2021-01-20"
   },
   {
-    "name": "Technology Logos",
-    "description": "Collection of IT logos, including: Kubernetes, git, quarkus.io, Java, Spring, Cloud Foundry",
-    "author": "Matthias Haeussler",
-    "url": "https://twitter.com/maeddes",
-    "source": "maeddes/technology-logos.excalidrawlib",
-    "preview": "maeddes/technology-logos.png",
-    "date": "2021-01-21"
-  },
-  {
     "name": "Software Logos",
     "description": "Software architecture logos: archive, database, docker, JSON, Kubernetes, load balancer, Postgres, Redis, Nginx, RabbitMQ, server, chip, reverse proxy, and more.",
     "author": "drwn.io",
@@ -178,5 +169,14 @@
     "source": "drwnio/drwnio.excalidrawlib",
     "preview": "drwnio/drwnio.png",
     "date": "2021-01-25"
+  },
+  {
+    "name": "Technology Logos",
+    "description": "Collection of technology logos mostly from the cloud-native space. Featuring: Kubernetes, Java, Docker, git, Cloud Foundry, Terraform, Spring, Quarkus, Micronaut, Knative, Camunda, Azure, Kafka, Kotlin, OpenStack, paketo.io, Neo4J, Redis",
+    "author": "Matthias Haeussler",
+    "url": "https://twitter.com/maeddes",
+    "source": "maeddes/technology-logos.excalidrawlib",
+    "preview": "maeddes/technology-logos.png",
+    "date": "2021-01-27"
   }
 ]
