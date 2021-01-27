@@ -5,7 +5,7 @@
 ## Add your own library to the list
 
 1. Fork this repo
-2. Create a directory with your `name` in the [libraries](libraries) (use `kebab-case` for all files and directories)
+2. Create a directory with your `name` in the [`libraries`](libraries) (use `kebab-case` for all files and directories)
    1. Upload your `.excalidrawlib` files
    2. Upload the screenshot of the preview (as PNG)
 3. Edit the [`libraries.json`](libraries.json) and add your entry to the end
