@@ -63,8 +63,8 @@
     "date": "2020-12-17"
   },
   {
-    "name": "RaspberryPI",
-    "description": "A RaspberryPI 3 header component.",
+    "name": "Raspberry Pi",
+    "description": "A Raspberry Pi 3 header component.",
     "author": "revolunet",
     "url": "https://github.com/revolunet",
     "source": "raspberrypi/raspberrypi3.excalidrawlib",
@@ -187,5 +187,14 @@
     "source": "drwnio/storytelling.excalidrawlib",
     "preview": "drwnio/storytelling.png",
     "date": "2021-01-28"
-  }
+  },
+  {
+    "name": "Raspberry Pi Zero",
+    "description": "A RaspberryPI Zero pin diagram",
+    "author": "@marcottebear",
+    "url": "https://github.com/marcottebear",
+    "source": "raspberrypi/raspberrypi-zero.excalidrawlib",
+    "preview": "raspberrypi/raspberrypi-zero.png",
+    "date": "2021-01-24"
+   }
 ]
