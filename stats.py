@@ -122,7 +122,6 @@ def main():
             print()
 
         for library in libraries:
-            print("###", library)
             total = libraries[library]
             total_downloads += total
             if library in stats:
