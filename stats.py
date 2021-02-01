@@ -19,7 +19,8 @@ MAP = {
     "Android": "g-script-android",
     "Apple Devices Frames": "franky47-apple-devices-frames",
     "Charts": "g-script-charts",
-    "Data Viz": "dbssticky-DataViz",
+    "Data Viz": "dbssticky-data-viz",
+    "dbssticky-DataViz": "dbssticky-data-viz",
     "Dropdowns": "h7y-dropdowns",
     "Forms": "g-script-forms",
     "Gadgets": "morgemoensch-gadgets",
@@ -121,6 +122,7 @@ def main():
             print()
 
         for library in libraries:
+            print("###", library)
             total = libraries[library]
             total_downloads += total
             if library in stats:
