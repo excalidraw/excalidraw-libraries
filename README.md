@@ -7,7 +7,7 @@
 1. Fork this repo
 2. Create a directory with your `name` in the [`libraries`](libraries) (use `kebab-case` for all files and directories)
    1. Upload your `.excalidrawlib` files
-   2. Upload the screenshot of the preview (as PNG)
+   2. Upload the screenshot of the preview (as landscape PNG with max width 800px)
 3. Edit the [`libraries.json`](libraries.json) and add your entry to the end
 4. Create a Pull Request to this repo
 
