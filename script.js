@@ -75,7 +75,7 @@ fetchJSONFile("libraries.json", (libraries) => {
       inner = inner.replace(/\{description\}/g, library.description);
       inner = inner.replace(/\{source\}/g, source);
       for (author of library.authors) {
-        authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name + " "}</a>`;
+        authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
       }
       inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
       inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
