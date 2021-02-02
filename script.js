@@ -69,12 +69,15 @@ fetchJSONFile("libraries.json", (libraries) => {
       div.setAttribute("id", library.id);
       let inner = template.innerHTML;
       const source = `libraries/${library.source}`;
+      let authorsInnerHTML = "";
       inner = inner.replace(/\{libraryId\}/g, library.id);
       inner = inner.replace(/\{name\}/g, library.name);
       inner = inner.replace(/\{description\}/g, library.description);
       inner = inner.replace(/\{source\}/g, source);
-      inner = inner.replace(/\{url\}/g, library.url);
-      inner = inner.replace(/\{author\}/g, library.author);
+      for (author of library.authors) {
+        authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
+      }
+      inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
       inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
       inner = inner.replace(/\{updated\}/g, getDate(library.date));
       inner = inner.replace(
