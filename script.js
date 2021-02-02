@@ -40,15 +40,14 @@ fetchJSONFile("libraries.json", (libraries) => {
     const libraries_ = [];
     for (library of libraries) {
       const replaceText = { "/": "-", ".excalidrawlib": "" };
-      const libraryId = library.source.replace(/\/|.excalidrawlib/g, function (match) {
-        return replaceText[match];
-      });
+      const libraryId = library.source
+        .toLowerCase()
+        .replace(/\/|.excalidrawlib/g, (match) => replaceText[match]);
       library["id"] = libraryId;
       library["downloads"] = {
         total: libraryId in stats ? stats[libraryId].total : 0,
         week: libraryId in stats ? stats[libraryId].week : 0,
       };
-
       libraries_.push(library);
     }
 
