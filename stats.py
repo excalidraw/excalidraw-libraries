@@ -135,10 +135,10 @@ def main():
                 total_downloads_day += total
         if libraries:
             with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
-                json.dump(libraries, outfile, indent=2)
+                json.dump(libraries, outfile, indent=2, sort_keys=True)
         if stats:
             with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
-                json.dump(stats, outfile, indent=2)
+                json.dump(stats, outfile, indent=2, sort_keys=True)
             with open(os.path.join(ROOT_DIR, "total.json"), "w") as outfile:
                 json.dump(
                     {
@@ -148,6 +148,7 @@ def main():
                     },
                     outfile,
                     indent=2,
+                    sort_keys=True,
                 )
         current_date += timedelta(days=1)
 
