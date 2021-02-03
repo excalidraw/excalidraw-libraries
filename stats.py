@@ -30,6 +30,7 @@ MAP = {
     "Medias": "g-script-medias",
     "Polygons": "lipis-polygons",
     "RaspberryPI": "revolunet-raspberrypi3",
+    "raspberrypi-raspberrypi-zero": "marcottebear-raspberrypi-zero",
     "Software Architecture": "youritjang-software-architecture",
     "Stars": "lipis-stars",
     "Stick figures": "youritjang-stick-figures",
