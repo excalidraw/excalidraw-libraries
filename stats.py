@@ -22,6 +22,7 @@ MAP = {
     "Data Viz": "dbssticky-data-viz",
     "dbssticky-DataViz": "dbssticky-data-viz",
     "Dropdowns": "h7y-dropdowns",
+    "excalidraw_art-excalidraw_art": "drwnio-drwnio",
     "Forms": "g-script-forms",
     "Gadgets": "morgemoensch-gadgets",
     "Hearts": "dwelle-hearts",
