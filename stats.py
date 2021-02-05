@@ -99,8 +99,6 @@ def main():
         return
 
     today = date.today()
-
-    # Set current date to 2020-12-11 to count all visits from the beginning:
     current_date = date(2020, 12, 11)
     stats = {}
     analytics = initialize_analyticsreporting()
@@ -135,23 +133,22 @@ def main():
                 stats[library]["week"] += total
             if current_date == today:
                 total_downloads_day += total
-        if libraries:
-            with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
-                json.dump(libraries, outfile, indent=2, sort_keys=True)
-        if stats:
-            with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
-                json.dump(stats, outfile, indent=2, sort_keys=True)
-            with open(os.path.join(ROOT_DIR, "total.json"), "w") as outfile:
-                json.dump(
-                    {
-                        "total": total_downloads,
-                        "week": total_downloads_week,
-                        "day": total_downloads_day,
-                    },
-                    outfile,
-                    indent=2,
-                    sort_keys=True,
-                )
+
+        with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
+            json.dump(libraries, outfile, indent=2, sort_keys=True)
+        with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
+            json.dump(stats, outfile, indent=2, sort_keys=True)
+        with open(os.path.join(ROOT_DIR, "total.json"), "w") as outfile:
+            json.dump(
+                {
+                    "total": total_downloads,
+                    "week": total_downloads_week,
+                    "day": total_downloads_day,
+                },
+                outfile,
+                indent=2,
+                sort_keys=True,
+            )
         current_date += timedelta(days=1)
 
 
