@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@excalidraw/prettier-config@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@excalidraw/prettier-config/-/prettier-config-1.0.0.tgz#ce83d83b5172363f863a3771569a7d61f9d797ec"
+  integrity sha512-SCwJua+FDyydPj4MQVhsn7v7Nme2qyAsSbnv83RTbNhWhqQDO+td502zwhDP8KIFc1Qb+PyRM8Bk5P+JEE44/g==
+
 colors@>=0.6.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
