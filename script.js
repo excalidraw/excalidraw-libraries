@@ -82,7 +82,10 @@ fetchJSONFile("libraries.json", (libraries) => {
       inner = inner.replace(/\{updated\}/g, getDate(library.date));
       inner = inner.replace(
         "{addToLib}",
-        `https://excalidraw.com/?addLibrary=${location.href.replace("index.html", "")}${source}`
+        `https://excalidraw.com/?addLibrary=${location.href.replace(
+          "index.html",
+          "",
+        )}${source}`,
       );
       inner = inner.replace(/\{total\}/g, library.downloads.total);
       inner = inner.replace(/\{week\}/g, library.downloads.week);
