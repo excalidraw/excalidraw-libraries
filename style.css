@@ -176,6 +176,12 @@ a:hover {
   display: none;
 }
 
+.sort {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em;

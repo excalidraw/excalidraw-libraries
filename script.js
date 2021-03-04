@@ -33,6 +33,58 @@ const getDate = (date) => {
 
 const DAY = 24 * 60 * 60 * 1000;
 
+const sortBy = {
+  default: {
+    label: "New",
+    func: (a, b) => {
+      const aTime = new Date(a.date);
+      const today = new Date();
+      const diffA = (today.getTime() - aTime.getTime()) / DAY;
+      if (diffA < 14) {
+        return 1;
+      }
+      return a.downloads.week - b.downloads.week;
+    },
+  },
+  downloadsTotal: {
+    label: "Total Downloads",
+    func: (a, b) => {
+      return a.downloads.total - b.downloads.total;
+    },
+  },
+  downloadsWeek: {
+    label: "Downloads This Week",
+    func: (a, b) => {
+      return a.downloads.week - b.downloads.week;
+    },
+  },
+  author: {
+    label: "Author",
+    func: (a, b) => {
+      console.log("author", a.authors);
+      return b.authors[0].name.localeCompare(a.authors[0].name);
+    },
+  },
+  name: {
+    label: "Name",
+    func: (a, b) => {
+      console.log("author", a.name);
+      return b.name.localeCompare(a.name);
+    },
+  },
+};
+
+const populateSorts = () => {
+  const sortDiv = document.getElementById("sort-contents");
+  for ([key, value] of Object.entries(sortBy)) {
+    const link = `${window.location.origin}?sort=${key}`;
+    sortDiv.innerHTML += ` &#183; `;
+    sortDiv.innerHTML += `<a href="${link}">${value.label}</a>`;
+  }
+};
+
+populateSorts();
+
 fetchJSONFile("libraries.json", (libraries) => {
   fetchJSONFile("stats.json", (stats) => {
     const template = document.getElementById("template");
@@ -51,15 +103,10 @@ fetchJSONFile("libraries.json", (libraries) => {
       libraries_.push(library);
     }
 
-    libraries_.sort((a, b) => {
-      const aTime = new Date(a.date);
-      const today = new Date();
-      const diffA = (today.getTime() - aTime.getTime()) / DAY;
-      if (diffA < 14) {
-        return 1;
-      }
-      return a.downloads.week - b.downloads.week;
-    });
+    const urlParams = new URLSearchParams(window.location.search);
+    const sort = urlParams.get("sort");
+    console.log("sort", sort);
+    libraries_.sort(sortBy[sort ?? "default"].func);
 
     console.log(libraries_);
 
