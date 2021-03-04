@@ -35,7 +35,7 @@ const DAY = 24 * 60 * 60 * 1000;
 
 const sortBy = {
   default: {
-    label: "New",
+    label: "Default",
     func: (a, b) => {
       const aTime = new Date(a.date);
       const today = new Date();
@@ -44,6 +44,17 @@ const sortBy = {
         return 1;
       }
       return a.downloads.week - b.downloads.week;
+    },
+  },
+  new: {
+    label: "New",
+    func: (a, b) => {
+      const aTime = new Date(a.date);
+      const bTime = new Date(a.date);
+      const today = new Date();
+      const diffA = today.getTime() - aTime.getTime();
+      const diffB = today.getTime() - bTime.getTime();
+      return diffA - diffB;
     },
   },
   downloadsTotal: {
@@ -76,7 +87,9 @@ const sortBy = {
 
 const populateSorts = () => {
   const sortDiv = document.getElementById("sort-contents");
-  for ([key, value] of Object.entries(sortBy)) {
+  for ([key, value] of Object.entries(sortBy).filter(
+    ([key]) => key !== "default",
+  )) {
     const link = `${window.location.origin}?sort=${key}`;
     sortDiv.innerHTML += ` &#183; `;
     sortDiv.innerHTML += `<a href="${link}">${value.label}</a>`;
