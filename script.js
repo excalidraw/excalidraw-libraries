@@ -50,11 +50,11 @@ const sortBy = {
     label: "New",
     func: (a, b) => {
       const aTime = new Date(a.date);
-      const bTime = new Date(a.date);
+      const bTime = new Date(b.date);
       const today = new Date();
       const diffA = today.getTime() - aTime.getTime();
       const diffB = today.getTime() - bTime.getTime();
-      return diffA - diffB;
+      return diffB - diffA;
     },
   },
   downloadsTotal: {
@@ -72,27 +72,78 @@ const sortBy = {
   author: {
     label: "Author",
     func: (a, b) => {
-      console.log("author", a.authors);
       return b.authors[0].name.localeCompare(a.authors[0].name);
     },
   },
   name: {
     label: "Name",
     func: (a, b) => {
-      console.log("author", a.name);
       return b.name.localeCompare(a.name);
     },
   },
 };
 
+const libraries_ = [];
+
+const populateLibraryList = () => {
+  const template = document.getElementById("template");
+  for (library of libraries_) {
+    const div = document.createElement("div");
+    div.classList.add("library");
+    div.setAttribute("id", library.id);
+    let inner = template.innerHTML;
+    const source = `libraries/${library.source}`;
+    let authorsInnerHTML = "";
+    inner = inner.replace(/\{libraryId\}/g, library.id);
+    inner = inner.replace(/\{name\}/g, library.name);
+    inner = inner.replace(/\{description\}/g, library.description);
+    inner = inner.replace(/\{source\}/g, source);
+    for (author of library.authors) {
+      authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
+    }
+    inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
+    inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
+    inner = inner.replace(/\{updated\}/g, getDate(library.date));
+    inner = inner.replace(
+      "{addToLib}",
+      `https://excalidraw.com/?addLibrary=${location.href.replace(
+        "index.html",
+        "",
+      )}${source}`,
+    );
+    inner = inner.replace(/\{total\}/g, library.downloads.total);
+    inner = inner.replace(/\{week\}/g, library.downloads.week);
+    div.innerHTML = inner;
+    template.after(div);
+  }
+};
+
+const handleSort = (sortType) => {
+  const items = [
+    ...document.getElementById("template").parentNode.children,
+  ].filter((x) => x.id !== "template");
+  items.forEach((x) => x.remove());
+  history.pushState("", "sort", `?sort=${sortType}`);
+  console.log("sortBy", sortBy[sortType ?? "default"]);
+  libraries_.sort(sortBy[sortType ?? "default"].func);
+  populateLibraryList();
+};
+
 const populateSorts = () => {
-  const sortDiv = document.getElementById("sort-contents");
+  const sortTemplate = document.getElementById("sort-template");
   for ([key, value] of Object.entries(sortBy).filter(
     ([key]) => key !== "default",
   )) {
-    const link = `${window.location.origin}?sort=${key}`;
-    sortDiv.innerHTML += ` &#183; `;
-    sortDiv.innerHTML += `<a href="${link}">${value.label}</a>`;
+    const spacer = document.createElement("span");
+    spacer.innerHTML = ` &#183; `;
+    sortTemplate.before(spacer);
+    const el = sortTemplate.cloneNode(true);
+    el.setAttribute("id", "");
+    el.innerText = el.innerText.replace(/\{label\}/g, value.label);
+    el.setAttribute("href", "#");
+    const handler = (sort) => () => handleSort(sort);
+    el.onclick = handler(key);
+    sortTemplate.before(el);
   }
 };
 
@@ -100,9 +151,7 @@ populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
   fetchJSONFile("stats.json", (stats) => {
-    const template = document.getElementById("template");
     const divElements = [];
-    const libraries_ = [];
     for (library of libraries) {
       const replaceText = { "/": "-", ".excalidrawlib": "" };
       const libraryId = library.source
@@ -118,39 +167,7 @@ fetchJSONFile("libraries.json", (libraries) => {
 
     const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
-    console.log("sort", sort);
     libraries_.sort(sortBy[sort ?? "default"].func);
-
-    console.log(libraries_);
-
-    for (library of libraries_) {
-      const div = document.createElement("div");
-      div.classList.add("library");
-      div.setAttribute("id", library.id);
-      let inner = template.innerHTML;
-      const source = `libraries/${library.source}`;
-      let authorsInnerHTML = "";
-      inner = inner.replace(/\{libraryId\}/g, library.id);
-      inner = inner.replace(/\{name\}/g, library.name);
-      inner = inner.replace(/\{description\}/g, library.description);
-      inner = inner.replace(/\{source\}/g, source);
-      for (author of library.authors) {
-        authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
-      }
-      inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
-      inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
-      inner = inner.replace(/\{updated\}/g, getDate(library.date));
-      inner = inner.replace(
-        "{addToLib}",
-        `https://excalidraw.com/?addLibrary=${location.href.replace(
-          "index.html",
-          "",
-        )}${source}`,
-      );
-      inner = inner.replace(/\{total\}/g, library.downloads.total);
-      inner = inner.replace(/\{week\}/g, library.downloads.week);
-      div.innerHTML = inner;
-      template.after(div);
-    }
+    populateLibraryList();
   });
 });
