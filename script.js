@@ -125,7 +125,7 @@ const handleSort = (sortType) => {
   ].filter((x) => x.id !== "template");
   items.forEach((x) => x.remove());
   history.pushState("", "sort", `?sort=${sortType}`);
-  console.log("sortBy", sortBy[sortType ?? "default"]);
+
   libraries_.sort(sortBy[sortType ?? "default"].func);
   populateLibraryList();
   if (currSort) {
