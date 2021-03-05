@@ -84,6 +84,7 @@ const sortBy = {
 };
 
 const libraries_ = [];
+let currSort = null;
 
 const populateLibraryList = () => {
   const template = document.getElementById("template");
@@ -127,6 +128,13 @@ const handleSort = (sortType) => {
   console.log("sortBy", sortBy[sortType ?? "default"]);
   libraries_.sort(sortBy[sortType ?? "default"].func);
   populateLibraryList();
+  if (currSort) {
+    const prev = document.getElementById(currSort);
+    prev.classList.remove("sort-selected");
+  }
+  const curr = document.getElementById(sortType);
+  curr.classList.add("sort-selected");
+  currSort = sortType;
 };
 
 const populateSorts = () => {
@@ -138,7 +146,7 @@ const populateSorts = () => {
     spacer.innerHTML = ` &#183; `;
     sortTemplate.before(spacer);
     const el = sortTemplate.cloneNode(true);
-    el.setAttribute("id", "");
+    el.setAttribute("id", key);
     el.innerText = el.innerText.replace(/\{label\}/g, value.label);
     el.setAttribute("href", "#");
     const handler = (sort) => () => handleSort(sort);
@@ -167,7 +175,6 @@ fetchJSONFile("libraries.json", (libraries) => {
 
     const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
-    libraries_.sort(sortBy[sort ?? "default"].func);
-    populateLibraryList();
+    handleSort(sort ?? "default");
   });
 });

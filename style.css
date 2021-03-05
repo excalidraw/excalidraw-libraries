@@ -190,6 +190,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.sort-selected {
+  color: var(--oc-gray-7);
+  cursor: auto;
+  pointer-events: none;
+}
+
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em;
