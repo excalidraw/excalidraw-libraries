@@ -176,6 +176,26 @@ a:hover {
   display: none;
 }
 
+#sort-template {
+  display: none;
+}
+
+.sort-type {
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.sort-type:hover {
+  color: var(--primary-hover);
+  text-decoration: underline;
+}
+
+.sort-selected {
+  color: var(--oc-gray-7);
+  cursor: auto;
+  pointer-events: none;
+}
+
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em;
