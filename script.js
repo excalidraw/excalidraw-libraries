@@ -105,10 +105,12 @@ const populateLibraryList = () => {
     inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
     inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
     inner = inner.replace(/\{updated\}/g, getDate(library.date));
-    inner = inner.replace(
-      "{addToLib}",
-      `https://excalidraw.com/?addLibrary=${location.origin}/${source}`,
-    );
+
+    const referrer =
+      new URLSearchParams(location.search).get("referrer") ||
+      "https://excalidraw.com";
+    const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
+    inner = inner.replace("{addToLib}", `${referrer}?addLibrary=${libraryUrl}`);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
     inner = inner.replace(/\{week\}/g, library.downloads.week);
     div.innerHTML = inner;
@@ -121,7 +123,9 @@ const handleSort = (sortType) => {
     ...document.getElementById("template").parentNode.children,
   ].filter((x) => x.id !== "template");
   items.forEach((x) => x.remove());
-  history.pushState("", "sort", `?sort=${sortType}`);
+  const searchParams = new URLSearchParams(location.search);
+  searchParams.set("sort", sortType);
+  history.pushState("", "sort", `?` + searchParams.toString());
 
   libraries_.sort(sortBy[sortType ?? "default"].func);
   populateLibraryList();
@@ -130,7 +134,7 @@ const handleSort = (sortType) => {
     prev.classList.remove("sort-selected");
   }
   const curr = document.getElementById(sortType);
-  curr.classList.add("sort-selected");
+  curr?.classList.add("sort-selected");
   currSort = sortType;
 };
 
