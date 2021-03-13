@@ -2,6 +2,25 @@
 
 > Explore [libraries.excalidraw.com](https://libraries.excalidraw.com)
 
+## Create your own library
+
+1. Open [Excalidraw](https://excalidraw.com/) and draw some objects.
+2. Optional: Make sure every object is it's own group (by selecting it
+   and clicking "Group selection" or `Ctrl`+`G`).
+3. Add each object you want in your library like so:
+  - Select the object
+  - Open the library menu (by clicking on the "library" button or
+    typing `9`)
+  - The selected object should appear in a square. Click on it (you
+    will see a `+` sign when hovering over it)
+4. Still in the library menu, click on "Export". You will get a
+   `.excalidrawlib` file with all your added objects in it.
+
+![Gif showing how to add a single objects and export the library](https://user-images.githubusercontent.com/1197663/111036434-69464e80-841f-11eb-8e3d-9a1c7dab5079.gif)
+
+If you want to test your library file, use the "Load" button in the
+library menu to reimport it.
+
 ## Add your own library to the list
 
 1. Fork this repo
