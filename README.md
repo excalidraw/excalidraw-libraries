@@ -16,7 +16,7 @@
 4. Still in the library menu, click on "Export". You will get a
    `.excalidrawlib` file with all your added objects in it.
 
-![Gif showing how to add a single objects and export the library](https://user-images.githubusercontent.com/1197663/111036434-69464e80-841f-11eb-8e3d-9a1c7dab5079.gif)
+![Gif showing how to add a single objects and export the library](public/add_to_library_and_export.gif)
 
 If you want to test your library file, use the "Load" button in the
 library menu to reimport it.
