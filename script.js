@@ -1,9 +1,9 @@
 const fetchJSONFile = (path, callback) => {
-  var httpRequest = new XMLHttpRequest();
+  let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
     if (httpRequest.readyState === 4) {
       if (httpRequest.status === 200) {
-        var data = JSON.parse(httpRequest.responseText);
+        let data = JSON.parse(httpRequest.responseText);
         if (callback) callback(data);
       }
     }
@@ -88,7 +88,7 @@ let currSort = null;
 
 const populateLibraryList = () => {
   const template = document.getElementById("template");
-  for (library of libraries_) {
+  for (let library of libraries_) {
     const div = document.createElement("div");
     div.classList.add("library");
     div.setAttribute("id", library.id);
@@ -99,7 +99,7 @@ const populateLibraryList = () => {
     inner = inner.replace(/\{name\}/g, library.name);
     inner = inner.replace(/\{description\}/g, library.description);
     inner = inner.replace(/\{source\}/g, source);
-    for (author of library.authors) {
+    for (let author of library.authors) {
       authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
     }
     inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
@@ -107,8 +107,8 @@ const populateLibraryList = () => {
     inner = inner.replace(/\{updated\}/g, getDate(library.date));
 
     const referrer =
-      new URLSearchParams(location.search).get("referrer") ||
-      "https://excalidraw.com";
+        new URLSearchParams(location.search).get("referrer") ||
+        "https://excalidraw.com";
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
     inner = inner.replace("{addToLib}", `${referrer}?addLibrary=${libraryUrl}`);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
@@ -125,7 +125,7 @@ const handleSort = (sortType) => {
   items.forEach((x) => x.remove());
   const searchParams = new URLSearchParams(location.search);
   searchParams.set("sort", sortType);
-  history.pushState("", "sort", `?` + searchParams.toString());
+  history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
 
   libraries_.sort(sortBy[sortType ?? "default"].func);
   populateLibraryList();
@@ -141,7 +141,7 @@ const handleSort = (sortType) => {
 const populateSorts = () => {
   const sortTemplate = document.getElementById("sort-template");
   for ([key, value] of Object.entries(sortBy).filter(
-    ([key]) => key !== "default",
+      ([key]) => key !== "default",
   )) {
     const spacer = document.createElement("span");
     spacer.innerHTML = ` &#183; `;
@@ -150,9 +150,22 @@ const populateSorts = () => {
     el.setAttribute("id", key);
     el.innerText = el.innerText.replace(/\{label\}/g, value.label);
     el.setAttribute("href", "#");
-    const handler = (sort) => () => handleSort(sort);
+    const handler = (sort) => () => {
+      history.replaceState(null, null, ' ');
+      handleSort(sort);
+    }
     el.onclick = handler(key);
     sortTemplate.before(el);
+  }
+};
+
+const scrollToAnchor = () => {
+  if (location.hash) {
+    const target = location.hash;
+    const element = document.querySelector(target);
+    if (element) {
+      window.scrollTo(0, element.offsetTop);
+    }
   }
 };
 
@@ -160,12 +173,11 @@ populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
   fetchJSONFile("stats.json", (stats) => {
-    const divElements = [];
-    for (library of libraries) {
+    for (let library of libraries) {
       const replaceText = { "/": "-", ".excalidrawlib": "" };
       const libraryId = library.source
-        .toLowerCase()
-        .replace(/\/|.excalidrawlib/g, (match) => replaceText[match]);
+          .toLowerCase()
+          .replace(/\/|.excalidrawlib/g, (match) => replaceText[match]);
       library["id"] = libraryId;
       library["downloads"] = {
         total: libraryId in stats ? stats[libraryId].total : 0,
@@ -177,5 +189,6 @@ fetchJSONFile("libraries.json", (libraries) => {
     const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
     handleSort(sort ?? "default");
+    scrollToAnchor();
   });
 });
