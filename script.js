@@ -107,8 +107,8 @@ const populateLibraryList = () => {
     inner = inner.replace(/\{updated\}/g, getDate(library.date));
 
     const referrer =
-        new URLSearchParams(location.search).get("referrer") ||
-        "https://excalidraw.com";
+      new URLSearchParams(location.search).get("referrer") ||
+      "https://excalidraw.com";
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
     inner = inner.replace("{addToLib}", `${referrer}?addLibrary=${libraryUrl}`);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
@@ -141,7 +141,7 @@ const handleSort = (sortType) => {
 const populateSorts = () => {
   const sortTemplate = document.getElementById("sort-template");
   for ([key, value] of Object.entries(sortBy).filter(
-      ([key]) => key !== "default",
+    ([key]) => key !== "default",
   )) {
     const spacer = document.createElement("span");
     spacer.innerHTML = ` &#183; `;
@@ -151,9 +151,9 @@ const populateSorts = () => {
     el.innerText = el.innerText.replace(/\{label\}/g, value.label);
     el.setAttribute("href", "#");
     const handler = (sort) => () => {
-      history.replaceState(null, null, ' ');
+      history.replaceState(null, null, " ");
       handleSort(sort);
-    }
+    };
     el.onclick = handler(key);
     sortTemplate.before(el);
   }
@@ -176,8 +176,8 @@ fetchJSONFile("libraries.json", (libraries) => {
     for (let library of libraries) {
       const replaceText = { "/": "-", ".excalidrawlib": "" };
       const libraryId = library.source
-          .toLowerCase()
-          .replace(/\/|.excalidrawlib/g, (match) => replaceText[match]);
+        .toLowerCase()
+        .replace(/\/|.excalidrawlib/g, (match) => replaceText[match]);
       library["id"] = libraryId;
       library["downloads"] = {
         total: libraryId in stats ? stats[libraryId].total : 0,
