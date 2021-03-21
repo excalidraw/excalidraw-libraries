@@ -106,11 +106,12 @@ const populateLibraryList = () => {
     inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
     inner = inner.replace(/\{updated\}/g, getDate(library.date));
 
-    const referrer =
-      new URLSearchParams(location.search).get("referrer") ||
-      "https://excalidraw.com";
+    const searchParams = new URLSearchParams(location.search);
+    const referrer = searchParams.get("referrer") || "https://excalidraw.com";
+    const target = decodeURIComponent(searchParams.get("target") || "_blank");
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
     inner = inner.replace("{addToLib}", `${referrer}?addLibrary=${libraryUrl}`);
+    inner = inner.replace("{target}", target);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
     inner = inner.replace(/\{week\}/g, library.downloads.week);
     div.innerHTML = inner;
