@@ -38,10 +38,12 @@ const sortBy = {
     label: "Default",
     func: (a, b) => {
       const aTime = new Date(a.date);
+      const bTime = new Date(b.date);
       const today = new Date();
       const diffA = (today.getTime() - aTime.getTime()) / DAY;
-      if (diffA < 14) {
-        return 1;
+      const diffB = (today.getTime() - bTime.getTime()) / DAY;
+      if (diffA < 14 || diffB < 14) {
+        return 1000;
       }
       return a.downloads.week - b.downloads.week;
     },
@@ -59,27 +61,19 @@ const sortBy = {
   },
   downloadsTotal: {
     label: "Total Downloads",
-    func: (a, b) => {
-      return a.downloads.total - b.downloads.total;
-    },
+    func: (a, b) => a.downloads.total - b.downloads.total,
   },
   downloadsWeek: {
     label: "Downloads This Week",
-    func: (a, b) => {
-      return a.downloads.week - b.downloads.week;
-    },
+    func: (a, b) => a.downloads.week - b.downloads.week,
   },
   author: {
     label: "Author",
-    func: (a, b) => {
-      return b.authors[0].name.localeCompare(a.authors[0].name);
-    },
+    func: (a, b) => b.authors[0].name.localeCompare(a.authors[0].name),
   },
   name: {
     label: "Name",
-    func: (a, b) => {
-      return b.name.localeCompare(a.name);
-    },
+    func: (a, b) => b.name.localeCompare(a.name),
   },
 };
 
