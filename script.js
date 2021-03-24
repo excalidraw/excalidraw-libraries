@@ -103,8 +103,12 @@ const populateLibraryList = () => {
     const searchParams = new URLSearchParams(location.search);
     const referrer = searchParams.get("referrer") || "https://excalidraw.com";
     const target = decodeURIComponent(searchParams.get("target") || "_blank");
+    const useHash = searchParams.get("useHash");
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
-    inner = inner.replace("{addToLib}", `${referrer}?addLibrary=${libraryUrl}`);
+    inner = inner.replace(
+      "{addToLib}",
+      `${referrer}${useHash ? "#" : "?"}addLibrary=${libraryUrl}`,
+    );
     inner = inner.replace("{target}", target);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
     inner = inner.replace(/\{week\}/g, library.downloads.week);
