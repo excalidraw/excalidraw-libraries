@@ -132,10 +132,13 @@ const populateLibraryList = () => {
     const referrer = searchParams.get("referrer") || "https://excalidraw.com";
     const target = decodeURIComponent(searchParams.get("target") || "_blank");
     const useHash = searchParams.get("useHash");
+    const csrfToken = searchParams.get("token");
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
     inner = inner.replace(
       "{addToLib}",
-      `${referrer}${useHash ? "#" : "?"}addLibrary=${libraryUrl}`,
+      `${referrer}${useHash ? "#" : "?"}addLibrary=${libraryUrl}${
+        csrfToken ? `&token=${csrfToken}` : ""
+      }`,
     );
     inner = inner.replace("{target}", target);
     inner = inner.replace(/\{total\}/g, library.downloads.total);
