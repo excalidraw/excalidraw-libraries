@@ -36,48 +36,76 @@ const DAY = 24 * 60 * 60 * 1000;
 const sortBy = {
   default: {
     label: "Default",
-    func: (a, b) => {
-      const aTime = new Date(a.date);
-      const bTime = new Date(b.date);
-      const today = new Date();
-      const diffA = (today.getTime() - aTime.getTime()) / DAY;
-      const diffB = (today.getTime() - bTime.getTime()) / DAY;
-      if (diffA < 14 || diffB < 14) {
-        return 1000;
-      }
-      return a.downloads.week - b.downloads.week;
+    func: (items) => {
+      const sortedByNewAsc = sortBy.new.func(items);
+
+      const TWO_WEEKS = 12096e5;
+
+      const timeTwoWeeksAgo = new Date(Date.now() - TWO_WEEKS);
+
+      const indexOfItemOlderThan2WeeksAsc =
+        sortedByNewAsc.length -
+        sortedByNewAsc
+          .slice()
+          .reverse()
+          .findIndex((x) => {
+            return new Date(x.date) <= timeTwoWeeksAgo;
+          });
+
+      const topNewItemsAsc = sortedByNewAsc.slice(
+        indexOfItemOlderThan2WeeksAsc,
+      );
+
+      const downloadPerWeekAsc = sortBy.downloadsWeek.func(
+        sortedByNewAsc.slice(0, indexOfItemOlderThan2WeeksAsc),
+      );
+
+      return downloadPerWeekAsc.concat(topNewItemsAsc);
     },
   },
   new: {
     label: "New",
-    func: (a, b) => {
-      const aTime = new Date(a.date);
-      const bTime = new Date(b.date);
-      const today = new Date();
-      const diffA = today.getTime() - aTime.getTime();
-      const diffB = today.getTime() - bTime.getTime();
-      return diffB - diffA;
-    },
+    func: (items) =>
+      items.sort((a, b) => {
+        const aTime = new Date(a.date);
+        const bTime = new Date(b.date);
+        const today = new Date();
+        const diffA = today.getTime() - aTime.getTime();
+        const diffB = today.getTime() - bTime.getTime();
+        return diffB - diffA;
+      }),
   },
   downloadsTotal: {
     label: "Total Downloads",
-    func: (a, b) => a.downloads.total - b.downloads.total,
+    func: (items) =>
+      items.sort((a, b) => {
+        return a.downloads.total - b.downloads.total;
+      }),
   },
   downloadsWeek: {
     label: "Downloads This Week",
-    func: (a, b) => a.downloads.week - b.downloads.week,
+    func: (items) =>
+      items.sort((a, b) => {
+        return a.downloads.week - b.downloads.week;
+      }),
   },
   author: {
     label: "Author",
-    func: (a, b) => b.authors[0].name.localeCompare(a.authors[0].name),
+    func: (items) =>
+      items.sort((a, b) => {
+        return b.authors[0].name.localeCompare(a.authors[0].name);
+      }),
   },
   name: {
     label: "Name",
-    func: (a, b) => b.name.localeCompare(a.name),
+    func: (items) =>
+      items.sort((a, b) => {
+        return b.name.localeCompare(a.name);
+      }),
   },
 };
 
-const libraries_ = [];
+let libraries_ = [];
 let currSort = null;
 
 const populateLibraryList = () => {
@@ -122,7 +150,7 @@ const handleSort = (sortType) => {
   searchParams.set("sort", sortType);
   history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
 
-  libraries_.sort(sortBy[sortType ?? "default"].func);
+  libraries_ = sortBy[sortType ?? "default"].func(libraries_);
   populateLibraryList();
   if (currSort) {
     const prev = document.getElementById(currSort);
