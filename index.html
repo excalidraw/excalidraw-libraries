@@ -103,6 +103,10 @@
             >MIT License</a
           >.
         </p>
+        <div id="sort">
+          <span id="sort-contents">Sort By </span>
+          <span id="sort-template" class="sort-type">{label}</span>
+        </div>
       </header>
       <main>
         <div class="library" id="template">
@@ -118,7 +122,7 @@
             <a
               class="btn primary"
               href="{addToLib}"
-              target="_excalidraw"
+              target="{target}"
               onclick="trackEvent('library', 'import', '{libraryId}')"
               >➡️ Add to Excalidraw</a
             >
