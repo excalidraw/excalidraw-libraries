@@ -351,6 +351,19 @@
     "date": "2021-02-10"
   },
   {
+    "name": "Cloud Design Patterns",
+    "description": "A collection of cloud design patterns components (as defined in https://docs.microsoft.com/en-us/azure/architecture/patterns/). Use to describe cloud applications concepts.",
+    "authors": [
+      {
+        "name": "Michel Caradec",
+        "url": "https://github.com/michelcaradec"
+      }
+    ],
+    "source": "michelcaradec/cloud-design-patterns.excalidrawlib",
+    "preview": "michelcaradec/cloud-design-patterns.png",
+    "date": "2021-05-08"
+  },
+  {
     "name": "AWS Serverless Icons",
     "description": "A collection of icons of AWS serverless services. This collection contains the icons of the following services: Lambda, API Gateway, AppSync, DynamoDB, EventBridge, Cognito, S3, Kinesis, SNS, SQS, SES, CloudFront, CloudWatch, Step Functions and Amplify.",
     "authors": [
@@ -481,7 +494,20 @@
     "date": "2021-05-08"
   },
   {
-    "name": "Front End Tools & Technologies",
+    "name": "Computers",
+    "description": "A few schematic representations of computers",
+    "authors": [
+      {
+        "name": "EI d'AU",
+        "url": "https://github.com/ei-au"
+      }
+    ],
+    "source": "ei-au/computers.excalidrawlib",
+    "preview": "ei-au/computers.png",
+    "date": "2021-05-08"
+  },
+  {
+   "name": "Front End Tools & Technologies",
     "description": "A collection of logos related to front end technologies, tools and sites.",
     "authors": [
       {
@@ -491,6 +517,6 @@
     ],
     "source": "madhusuthanan-b/front-end-tech-and-tools.excalidrawlib",
     "preview": "madhusuthanan-b/preview-front-end-tech-and-tools.PNG",
-    "date": "2021-05-08"
+     "date": "2021-05-08"
   }
 ]
