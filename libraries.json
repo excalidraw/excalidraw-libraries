@@ -351,6 +351,19 @@
     "date": "2021-02-10"
   },
   {
+    "name": "Cloud Design Patterns",
+    "description": "A collection of cloud design patterns components (as defined in https://docs.microsoft.com/en-us/azure/architecture/patterns/). Use to describe cloud applications concepts.",
+    "authors": [
+      {
+        "name": "Michel Caradec",
+        "url": "https://github.com/michelcaradec"
+      }
+    ],
+    "source": "michelcaradec/cloud-design-patterns.excalidrawlib",
+    "preview": "michelcaradec/cloud-design-patterns.png",
+    "date": "2021-05-08"
+  },
+  {
     "name": "AWS Serverless Icons",
     "description": "A collection of icons of AWS serverless services. This collection contains the icons of the following services: Lambda, API Gateway, AppSync, DynamoDB, EventBridge, Cognito, S3, Kinesis, SNS, SQS, SES, CloudFront, CloudWatch, Step Functions and Amplify.",
     "authors": [
@@ -440,5 +453,70 @@
     "source": "robertdean/bad-maps.excalidrawlib",
     "preview": "robertdean/bad-maps.png",
     "date": "2021-05-03"
+  },
+  {
+    "name": "HTML, CSS and JS logos",
+    "description": "A collection of core web development technology logos",
+    "authors": [
+      {
+        "name": "Madhusuthanan-B",
+        "url": "https://github.com/Madhusuthanan-B"
+      }
+    ],
+    "source": "madhusuthanan-b/html-css-js-icons.excalidrawlib",
+    "preview": "madhusuthanan-b/preview-html-css-js-logo.PNG",
+    "date": "2021-05-01"
+  },
+  {
+    "name": "Emojis",
+    "description": "A collection of emojis.",
+    "authors": [
+      {
+        "name": "Anumitha Apollo",
+        "url": "https://anumitha.com"
+      }
+    ],
+    "source": "anumithaapollo12/emojis.excalidrawlib",
+    "preview": "anumithaapollo12/emojis.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Redis Grafana",
+    "description": "A collection of Redis and Grafana related icons: Redis, Redis Enterprise, Grafana, Prometheus, RedisGraph, RedisGears, RedisTimeSeries, etc.",
+    "authors": [
+      {
+        "name": "mikhailredis",
+        "url": "https://github.com/mikhailredis"
+      }
+    ],
+    "source": "mikhailredis/redis-grafana.excalidrawlib",
+    "preview": "mikhailredis/redis-grafana.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "AWS Simple Icons",
+    "description": "A collection of all AWS Simple Icons",
+    "authors": [
+      {
+        "name": "husainkhambaty",
+        "url": "https://github.com/husainkhambaty"
+      }
+    ],
+    "source": "husainkhambaty/aws-simple-icons.excalidrawlib",
+    "preview": "husainkhambaty/aws-simple-icons.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Computers",
+    "description": "A few schematic representations of computers",
+    "authors": [
+      {
+        "name": "EI d'AU",
+        "url": "https://github.com/ei-au"
+      }
+    ],
+    "source": "ei-au/computers.excalidrawlib",
+    "preview": "ei-au/computers.png",
+    "date": "2021-05-08"
   }
 ]
