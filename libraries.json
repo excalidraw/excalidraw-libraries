@@ -351,6 +351,19 @@
     "date": "2021-02-10"
   },
   {
+    "name": "Cloud Design Patterns",
+    "description": "A collection of cloud design patterns components (as defined in https://docs.microsoft.com/en-us/azure/architecture/patterns/). Use to describe cloud applications concepts.",
+    "authors": [
+      {
+        "name": "Michel Caradec",
+        "url": "https://github.com/michelcaradec"
+      }
+    ],
+    "source": "michelcaradec/cloud-design-patterns.excalidrawlib",
+    "preview": "michelcaradec/cloud-design-patterns.png",
+    "date": "2021-05-08"
+  },
+  {
     "name": "AWS Serverless Icons",
     "description": "A collection of icons of AWS serverless services. This collection contains the icons of the following services: Lambda, API Gateway, AppSync, DynamoDB, EventBridge, Cognito, S3, Kinesis, SNS, SQS, SES, CloudFront, CloudWatch, Step Functions and Amplify.",
     "authors": [
@@ -418,5 +431,123 @@
     "source": "farisology/data-science.excalidrawlib",
     "preview": "farisology/data-science.png",
     "date": "2021-04-01"
+  },
+  {
+    "name": "Arduino Boards",
+    "description": "A collection of five Arduino boards: Uno, Uno-clone, Nano, Leonardo, and Mega. The drawings are sized so that when snapped to the grid, lines and arrows will snap to the connections.",
+    "authors": [
+      {
+        "name": "rkjc",
+        "url": "https://github.com/rkjc"
+      }
+    ],
+    "source": "rkjc/arduino-boards.excalidrawlib",
+    "preview": "rkjc/arduino-boards.png",
+    "date": "2021-03-28"
+  },
+  {
+    "name": "Schematic Symbols",
+    "description": "A collection of common electrical schematic wiring diagram symbols. The drawings are sized so that when snapped to the grid, lines and arrows will snap to the connections. (hint: hold shift while rotating)",
+    "authors": [
+      {
+        "name": "rkjc",
+        "url": "https://github.com/rkjc"
+      }
+    ],
+    "source": "rkjc/schematic-symbols.excalidrawlib",
+    "preview": "rkjc/schematic-symbols.png",
+    "date": "2021-04-04"
+  },
+  {
+    "name": "HTML, CSS and JS logos",
+    "description": "A collection of core web development technology logos",
+    "authors": [
+      {
+        "name": "Madhusuthanan-B",
+        "url": "https://github.com/Madhusuthanan-B"
+      }
+    ],
+    "source": "madhusuthanan-b/html-css-js-icons.excalidrawlib",
+    "preview": "madhusuthanan-b/preview-html-css-js-logo.PNG",
+    "date": "2021-05-01"
+  },
+  {
+    "name": "Emojis",
+    "description": "A collection of emojis.",
+    "authors": [
+      {
+        "name": "Anumitha Apollo",
+        "url": "https://anumitha.com"
+      }
+    ],
+    "source": "anumithaapollo12/emojis.excalidrawlib",
+    "preview": "anumithaapollo12/emojis.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Redis Grafana",
+    "description": "A collection of Redis and Grafana related icons: Redis, Redis Enterprise, Grafana, Prometheus, RedisGraph, RedisGears, RedisTimeSeries, etc.",
+    "authors": [
+      {
+        "name": "mikhailredis",
+        "url": "https://github.com/mikhailredis"
+      }
+    ],
+    "source": "mikhailredis/redis-grafana.excalidrawlib",
+    "preview": "mikhailredis/redis-grafana.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "AWS Simple Icons",
+    "description": "A collection of all AWS Simple Icons",
+    "authors": [
+      {
+        "name": "husainkhambaty",
+        "url": "https://github.com/husainkhambaty"
+      }
+    ],
+    "source": "husainkhambaty/aws-simple-icons.excalidrawlib",
+    "preview": "husainkhambaty/aws-simple-icons.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Computers",
+    "description": "A few schematic representations of computers",
+    "authors": [
+      {
+        "name": "EI d'AU",
+        "url": "https://github.com/ei-au"
+      }
+    ],
+    "source": "ei-au/computers.excalidrawlib",
+    "preview": "ei-au/computers.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Front End Tools & Technologies",
+    "description": "A collection of logos related to front end technologies, tools and sites.",
+    "authors": [
+      {
+        "name": "Madhusuthanan-B",
+        "url": "https://github.com/Madhusuthanan-B"
+      }
+    ],
+    "source": "madhusuthanan-b/front-end-tech-and-tools.excalidrawlib",
+    "preview": "madhusuthanan-b/preview-front-end-tech-and-tools.PNG",
+    "date": "2021-05-12"
+  },
+  {
+    "name": "Architecture floor plan symbols",
+    "description": "Some furnitures an others symbols to help in architecture planning",
+    "authors": [
+      {
+        "name": "Arqtangeles",
+        "url": "https://github.com/Arqtangeles"
+      }
+    ],
+    "source": "Arqtangeles/architecture.excalidrawlib",
+    "preview": "Arqtangeles/architecture-floorplan-symbolsV2.png",
+    "date": "2021-05-14"
+
   }
 ]
