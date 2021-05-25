@@ -28,7 +28,7 @@ body {
   background-color: var(--oc-gray-0);
   color: var(--text);
   width: 100%;
-  height: 100%;
+  min-height: 100%;
 }
 main {
   flex-grow: 1;
@@ -38,6 +38,12 @@ header,
 main,
 footer {
   flex-shrink: 0;
+}
+
+.dark-mode {
+  background-color: var(--oc-black);
+  color: var(--oc-white);
+  filter: invert(93%) hue-rotate(180deg);
 }
 
 .content {
@@ -176,24 +182,30 @@ a:hover {
   display: none;
 }
 
-#sort-template {
+#sort-template,
+#theme-template {
   display: none;
 }
 
-.sort-type {
+.option {
   color: var(--primary);
   cursor: pointer;
 }
 
-.sort-type:hover {
+.option:hover {
   color: var(--primary-hover);
   text-decoration: underline;
 }
 
-.sort-selected {
+.option-selected {
   color: var(--oc-gray-7);
   cursor: auto;
   pointer-events: none;
+}
+
+#theme {
+  padding-top: 16px;
+  text-transform: capitalize;
 }
 
 @media only screen and (max-width: 600px) {

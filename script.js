@@ -161,10 +161,10 @@ const handleSort = (sortType) => {
   populateLibraryList();
   if (currSort) {
     const prev = document.getElementById(currSort);
-    prev.classList.remove("sort-selected");
+    prev.classList.remove("option-selected");
   }
   const curr = document.getElementById(sortType);
-  curr?.classList.add("sort-selected");
+  curr?.classList.add("option-selected");
   currSort = sortType;
 };
 
@@ -199,6 +199,47 @@ const scrollToAnchor = () => {
   }
 };
 
+const handleTheme = (theme) => {
+  const searchParams = new URLSearchParams(location.search);
+  searchParams.set("theme", theme);
+  history.pushState("", "theme", `?` + searchParams.toString() + location.hash);
+
+  if (theme === "dark") {
+    document.querySelector("html").classList.add("dark-mode");
+    document.querySelector("body").classList.add("dark-mode");
+  } else if (theme === "light") {
+    document.querySelector("html").classList.remove("dark-mode");
+    document.querySelector("body").classList.remove("dark-mode");
+  }
+
+  const currentTheme = document.getElementById(theme);
+  currentTheme.classList.add("option-selected");
+  document
+    .getElementById(theme === "dark" ? "light" : "dark")
+    .classList.remove("option-selected");
+};
+
+const populateThemes = () => {
+  const themeTemplate = document.getElementById("theme-template");
+
+  ["dark", "light"].forEach((theme) => {
+    const spacer = document.createElement("span");
+    spacer.innerHTML = ` &#183; `;
+    themeTemplate.before(spacer);
+    const el = themeTemplate.cloneNode(true);
+    el.setAttribute("id", theme.toLowerCase());
+    el.innerText = el.innerText.replace(/\{label\}/g, theme);
+    el.setAttribute("href", "#");
+    const handler = (theme) => () => {
+      history.replaceState(null, null, " ");
+      handleTheme(theme);
+    };
+    el.onclick = handler(theme);
+    themeTemplate.before(el);
+  });
+};
+
+populateThemes();
 populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
@@ -218,6 +259,9 @@ fetchJSONFile("libraries.json", (libraries) => {
 
     const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
+    const theme = urlParams.get("theme");
+
+    handleTheme(theme ?? "light");
     handleSort(sort ?? "default");
     scrollToAnchor();
   });
