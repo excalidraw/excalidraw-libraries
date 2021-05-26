@@ -222,3 +222,7 @@ fetchJSONFile("libraries.json", (libraries) => {
     scrollToAnchor();
   });
 });
+
+// update footer with current year
+const footer = document.getElementById("footer");
+footer.innerHTML = footer.innerHTML.replace(/{currentYear}/g, () => new Date().getFullYear());
