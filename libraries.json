@@ -416,6 +416,23 @@
     "date": "2021-03-23"
   },
   {
+    "name": "Data Science logos",
+    "description": "A collection of data science tool icons. Inlcuding: Airflow, Jupyter, Pandas, Numpy, Tensorflow, Scikit-learn, Keras.",
+    "authors": [
+      {
+        "name": "Fares Hasan",
+        "url": "https://github.com/farisology"
+      },
+      {
+        "name": "Sarhan Samat",
+        "url": "https://github.com/SarhanAS"
+      }
+    ],
+    "source": "farisology/data-science.excalidrawlib",
+    "preview": "farisology/data-science.png",
+    "date": "2021-06-05"
+  },
+  {
     "name": "Arduino Boards",
     "description": "A collection of five Arduino boards: Uno, Uno-clone, Nano, Leonardo, and Mega. The drawings are sized so that when snapped to the grid, lines and arrows will snap to the connections.",
     "authors": [
@@ -531,5 +548,18 @@
     "source": "Arqtangeles/architecture.excalidrawlib",
     "preview": "Arqtangeles/architecture-floorplan-symbolsV2.png",
     "date": "2021-05-14"
+  },
+  {
+    "name": "Azure cloud services icons",
+    "description": "Collection of icons from different Azure cloud services.",
+    "authors": [
+      {
+        "name": "Youri Tjang",
+        "url": "https://github.com/youritjang"
+      }
+    ],
+    "source": "youritjang/azure-cloud-services.excalidrawlib",
+    "preview": "youritjang/azure-cloud-services.png",
+    "date": "2021-06-03"
   }
 ]
