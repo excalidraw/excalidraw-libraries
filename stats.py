@@ -93,6 +93,16 @@ def print_library_response(response):
     return counts
 
 
+def get_libraries_from_analytics(analytics, day):
+    print()
+    print(day)
+    print("-" * 40)
+    response = get_library_report(analytics, day)
+    libraries = print_library_response(response)
+    print()
+    return libraries
+
+
 def main():
     if not os.path.exists(KEY_FILE):
         print("Key file not found", KEY_FILE)
@@ -111,15 +121,13 @@ def main():
         # Load data from JSON if it's older than N days
         if current_date < today + timedelta(days=-2):
             libraries_file = os.path.join(STATS_DIR, day + ".json")
-            with open(libraries_file, "r") as day_totals:
-                libraries = json.load(day_totals)
+            try:
+                with open(libraries_file, "r") as day_totals:
+                    libraries = json.load(day_totals)
+            except FileNotFoundError:
+                libraries = get_libraries_from_analytics(analytics, day)
         else:
-            print()
-            print(day)
-            print("-" * 40)
-            response = get_library_report(analytics, day)
-            libraries = print_library_response(response)
-            print()
+            libraries = get_libraries_from_analytics(analytics, day)
 
         for library in libraries:
             total = libraries[library]

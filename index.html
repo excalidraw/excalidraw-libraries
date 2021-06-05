@@ -122,7 +122,7 @@
             <a
               class="btn primary"
               href="{addToLib}"
-              target="_excalidraw"
+              target="{target}"
               onclick="trackEvent('library', 'import', '{libraryId}')"
               >➡️ Add to Excalidraw</a
             >
@@ -136,8 +136,8 @@
         </div>
       </main>
       <footer>
-        <div>
-          © 2021 <a href="https://excalidraw.com">Excalidraw</a> •
+        <div id="footer">
+          © {currentYear} <a href="https://excalidraw.com">Excalidraw</a> •
           <a href="https://github.com/excalidraw/excalidraw-libraries"
             >Source Code</a
           >
