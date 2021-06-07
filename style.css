@@ -41,8 +41,6 @@ footer {
 }
 
 .dark-mode {
-  background-color: var(--oc-black);
-  color: var(--oc-white);
   filter: invert(93%) hue-rotate(180deg);
 }
 

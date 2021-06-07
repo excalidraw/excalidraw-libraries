@@ -206,10 +206,8 @@ const handleTheme = (theme) => {
 
   if (theme === "dark") {
     document.querySelector("html").classList.add("dark-mode");
-    document.querySelector("body").classList.add("dark-mode");
   } else if (theme === "light") {
     document.querySelector("html").classList.remove("dark-mode");
-    document.querySelector("body").classList.remove("dark-mode");
   }
 
   const currentTheme = document.getElementById(theme);
