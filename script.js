@@ -206,15 +206,13 @@ const handleTheme = (theme) => {
 
   if (theme === "dark") {
     document.querySelector("html").classList.add("theme--dark");
+    document.querySelector("#light").classList.remove("is-hidden");
+    document.querySelector("#dark").classList.add("is-hidden");
   } else if (theme === "light") {
+    document.querySelector("#light").classList.add("is-hidden");
+    document.querySelector("#dark").classList.remove("is-hidden");
     document.querySelector("html").classList.remove("theme--dark");
   }
-
-  const currentTheme = document.getElementById(theme);
-  currentTheme.classList.add("option-selected");
-  document
-    .getElementById(theme === "dark" ? "light" : "dark")
-    .classList.remove("option-selected");
 };
 
 // -----------------------------------------------------------------------------

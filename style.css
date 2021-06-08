@@ -3,6 +3,15 @@
   src: url("https://excalidraw.com/FG_Virgil.woff2");
 }
 
+nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  padding: 1em;
+  position: sticky;
+}
+
 :root {
   --text: var(--oc-gray-7);
   --muted: var(--oc-gray-6);
@@ -201,12 +210,26 @@ a:hover {
 }
 
 #theme {
-  padding-top: 16px;
   text-transform: capitalize;
+  display: flex;
+  margin-left: auto;
 }
 
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em;
   }
+}
+
+.icon {
+  display: flex;
+}
+.icon svg {
+  width: 1em;
+  height: 1em;
+  color: var(--text);
+}
+
+.is-hidden {
+  display: none;
 }
