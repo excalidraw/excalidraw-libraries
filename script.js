@@ -217,27 +217,12 @@ const handleTheme = (theme) => {
     .classList.remove("option-selected");
 };
 
-const populateThemes = () => {
-  const themeTemplate = document.getElementById("theme-template");
+// Add listeners to handle theme change
+const themes = document.querySelectorAll("#theme .option");
+themes.forEach((theme) =>
+  theme.addEventListener("click", () => handleTheme(theme.id)),
+);
 
-  ["dark", "light"].forEach((theme) => {
-    const spacer = document.createElement("span");
-    spacer.innerHTML = ` &#183; `;
-    themeTemplate.before(spacer);
-    const el = themeTemplate.cloneNode(true);
-    el.setAttribute("id", theme.toLowerCase());
-    el.innerText = el.innerText.replace(/\{label\}/g, theme);
-    el.setAttribute("href", "#");
-    const handler = (theme) => () => {
-      history.replaceState(null, null, " ");
-      handleTheme(theme);
-    };
-    el.onclick = handler(theme);
-    themeTemplate.before(el);
-  });
-};
-
-populateThemes();
 populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
