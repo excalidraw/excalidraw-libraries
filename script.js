@@ -217,12 +217,19 @@ const handleTheme = (theme) => {
     .classList.remove("option-selected");
 };
 
+// -----------------------------------------------------------------------------
+//                                      init
+// -----------------------------------------------------------------------------
+
 // Add listeners to handle theme change
 const themes = document.querySelectorAll("#theme .option");
 themes.forEach((theme) =>
   theme.addEventListener("click", () => handleTheme(theme.id)),
 );
 
+const urlParams = new URLSearchParams(window.location.search);
+
+handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
@@ -240,11 +247,8 @@ fetchJSONFile("libraries.json", (libraries) => {
       libraries_.push(library);
     }
 
-    const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
-    const theme = urlParams.get("theme");
 
-    handleTheme(theme ?? "light");
     handleSort(sort ?? "default");
     scrollToAnchor();
   });
