@@ -161,10 +161,10 @@ const handleSort = (sortType) => {
   populateLibraryList();
   if (currSort) {
     const prev = document.getElementById(currSort);
-    prev.classList.remove("sort-selected");
+    prev.classList.remove("option-selected");
   }
   const curr = document.getElementById(sortType);
-  curr?.classList.add("sort-selected");
+  curr?.classList.add("option-selected");
   currSort = sortType;
 };
 
@@ -199,6 +199,35 @@ const scrollToAnchor = () => {
   }
 };
 
+const handleTheme = (theme) => {
+  const searchParams = new URLSearchParams(location.search);
+  searchParams.set("theme", theme);
+  history.pushState("", "theme", `?` + searchParams.toString() + location.hash);
+
+  if (theme === "dark") {
+    document.querySelector("html").classList.add("theme--dark");
+    document.querySelector("#light").classList.remove("is-hidden");
+    document.querySelector("#dark").classList.add("is-hidden");
+  } else if (theme === "light") {
+    document.querySelector("#light").classList.add("is-hidden");
+    document.querySelector("#dark").classList.remove("is-hidden");
+    document.querySelector("html").classList.remove("theme--dark");
+  }
+};
+
+// -----------------------------------------------------------------------------
+//                                      init
+// -----------------------------------------------------------------------------
+
+// Add listeners to handle theme change
+const themes = document.querySelectorAll("#theme .option");
+themes.forEach((theme) =>
+  theme.addEventListener("click", () => handleTheme(theme.id)),
+);
+
+const urlParams = new URLSearchParams(window.location.search);
+
+handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
@@ -216,8 +245,8 @@ fetchJSONFile("libraries.json", (libraries) => {
       libraries_.push(library);
     }
 
-    const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
+
     handleSort(sort ?? "default");
     scrollToAnchor();
   });
