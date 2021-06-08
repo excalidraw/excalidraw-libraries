@@ -40,7 +40,7 @@ footer {
   flex-shrink: 0;
 }
 
-.dark-mode {
+.theme--dark {
   filter: invert(93%) hue-rotate(180deg);
 }
 
