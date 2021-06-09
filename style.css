@@ -53,6 +53,11 @@ footer {
   filter: invert(93%) hue-rotate(180deg);
 }
 
+.icon {
+  border: none; 
+  background: none;
+}
+
 .content {
   width: 800px;
   max-width: 100%;
