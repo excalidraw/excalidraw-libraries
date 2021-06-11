@@ -282,7 +282,7 @@ document.documentElement.addEventListener("keypress", (event) => {
     /^[a-z0-9]$/i.test(event.key)
   ) {
     if (searchInput !== document.activeElement) {
-      searchInput.select().focus();
+      searchInput.select();
     }
   }
 });
