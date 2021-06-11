@@ -108,9 +108,25 @@ const sortBy = {
 let libraries_ = [];
 let currSort = null;
 
-const populateLibraryList = () => {
+const searchKeys = ["name", "description"];
+
+const populateLibraryList = (filterQuery = "") => {
+  const items = [
+    ...document.getElementById("template").parentNode.children,
+  ].filter((x) => x.id !== "template");
+  items.forEach((x) => x.remove());
+
+  filterQuery = filterQuery.trim().toLowerCase();
+  let libraries = libraries_;
+  if (filterQuery) {
+    libraries = libraries.filter((library) =>
+      searchKeys.some((key) =>
+        (library[key] || "").toLowerCase().includes(filterQuery),
+      ),
+    );
+  }
   const template = document.getElementById("template");
-  for (let library of libraries_) {
+  for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
     div.setAttribute("id", library.id);
@@ -149,10 +165,6 @@ const populateLibraryList = () => {
 };
 
 const handleSort = (sortType) => {
-  const items = [
-    ...document.getElementById("template").parentNode.children,
-  ].filter((x) => x.id !== "template");
-  items.forEach((x) => x.remove());
   const searchParams = new URLSearchParams(location.search);
   searchParams.set("sort", sortType);
   history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
@@ -226,6 +238,11 @@ themes.forEach((theme) =>
 );
 
 const urlParams = new URLSearchParams(window.location.search);
+
+const searchInput = document.getElementById("search-input");
+searchInput.addEventListener("input", (event) => {
+  populateLibraryList(event.target.value);
+});
 
 handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();
