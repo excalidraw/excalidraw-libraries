@@ -1,3 +1,30 @@
+// copied from excalidraw/excalidraw
+const debounce = (fn, timeout) => {
+  let handle = 0;
+  let lastArgs = null;
+  const ret = (...args) => {
+    lastArgs = args;
+    clearTimeout(handle);
+    handle = window.setTimeout(() => {
+      lastArgs = null;
+      fn(...args);
+    }, timeout);
+  };
+  ret.flush = () => {
+    clearTimeout(handle);
+    if (lastArgs) {
+      const _lastArgs = lastArgs;
+      lastArgs = null;
+      fn(..._lastArgs);
+    }
+  };
+  ret.cancel = () => {
+    lastArgs = null;
+    clearTimeout(handle);
+  };
+  return ret;
+};
+
 const fetchJSONFile = (path, callback) => {
   let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
@@ -240,9 +267,12 @@ themes.forEach((theme) =>
 const urlParams = new URLSearchParams(window.location.search);
 
 const searchInput = document.getElementById("search-input");
-searchInput.addEventListener("input", (event) => {
-  populateLibraryList(event.target.value);
-});
+searchInput.addEventListener(
+  "input",
+  debounce((event) => {
+    populateLibraryList(event.target.value);
+  }, 300),
+);
 
 document.documentElement.addEventListener("keypress", (event) => {
   if (
