@@ -3,6 +3,11 @@
   src: url("https://excalidraw.com/FG_Virgil.woff2");
 }
 
+*:focus {
+  box-shadow: 0 0 0 2px var(--link-hover);
+  outline: none;
+}
+
 nav {
   position: absolute;
   top: 0;
