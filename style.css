@@ -253,3 +253,11 @@ input:focus {
 .is-hidden {
   display: none;
 }
+
+#search-input {
+  padding: 0.7em 1.2em;
+  border-radius: 0.8em;
+  width: 300px;
+  max-width: 90%;
+  border: 1px solid #888;
+}
