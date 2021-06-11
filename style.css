@@ -260,9 +260,9 @@ input:focus {
   align-items: center;
 }
 .search-tip {
-  font-size: .8em;
+  font-size: 0.8em;
   color: var(--muted);
-  margin-top: .625em;
+  margin-top: 0.625em;
 }
 #search-input {
   padding: 0.7em 1.2em;
