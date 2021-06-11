@@ -271,7 +271,7 @@ searchInput.addEventListener(
   "input",
   debounce((event) => {
     populateLibraryList(event.target.value);
-  }, 300),
+  }, 200),
 );
 
 document.documentElement.addEventListener("keypress", (event) => {
