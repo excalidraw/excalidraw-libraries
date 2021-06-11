@@ -244,6 +244,10 @@ searchInput.addEventListener("input", (event) => {
   populateLibraryList(event.target.value);
 });
 
+document.documentElement.addEventListener("keypress", () => {
+  searchInput.focus();
+});
+
 handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();
 
