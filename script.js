@@ -244,8 +244,17 @@ searchInput.addEventListener("input", (event) => {
   populateLibraryList(event.target.value);
 });
 
-document.documentElement.addEventListener("keypress", () => {
-  searchInput.focus();
+document.documentElement.addEventListener("keypress", (event) => {
+  if (
+    !event.altKey &&
+    !event.ctrlKey &&
+    !event.metaKey &&
+    /^[a-z0-9]$/i.test(event.key)
+  ) {
+    if (searchInput !== document.activeElement) {
+      searchInput.select().focus();
+    }
+  }
 });
 
 handleTheme(urlParams.get("theme") ?? "light");
