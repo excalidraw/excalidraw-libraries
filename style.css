@@ -156,6 +156,10 @@ a:hover {
   color: var(--link-hover);
 }
 
+input:focus {
+  outline-offset: 0;
+}
+
 .actions {
   margin-top: 32px;
   display: flex;
