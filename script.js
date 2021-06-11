@@ -1,3 +1,30 @@
+// copied from excalidraw/excalidraw
+const debounce = (fn, timeout) => {
+  let handle = 0;
+  let lastArgs = null;
+  const ret = (...args) => {
+    lastArgs = args;
+    clearTimeout(handle);
+    handle = window.setTimeout(() => {
+      lastArgs = null;
+      fn(...args);
+    }, timeout);
+  };
+  ret.flush = () => {
+    clearTimeout(handle);
+    if (lastArgs) {
+      const _lastArgs = lastArgs;
+      lastArgs = null;
+      fn(..._lastArgs);
+    }
+  };
+  ret.cancel = () => {
+    lastArgs = null;
+    clearTimeout(handle);
+  };
+  return ret;
+};
+
 const fetchJSONFile = (path, callback) => {
   let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
@@ -108,9 +135,25 @@ const sortBy = {
 let libraries_ = [];
 let currSort = null;
 
-const populateLibraryList = () => {
+const searchKeys = ["name", "description"];
+
+const populateLibraryList = (filterQuery = "") => {
+  const items = [
+    ...document.getElementById("template").parentNode.children,
+  ].filter((x) => x.id !== "template");
+  items.forEach((x) => x.remove());
+
+  filterQuery = filterQuery.trim().toLowerCase();
+  let libraries = libraries_;
+  if (filterQuery) {
+    libraries = libraries.filter((library) =>
+      searchKeys.some((key) =>
+        (library[key] || "").toLowerCase().includes(filterQuery),
+      ),
+    );
+  }
   const template = document.getElementById("template");
-  for (let library of libraries_) {
+  for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
     div.setAttribute("id", library.id);
@@ -149,10 +192,6 @@ const populateLibraryList = () => {
 };
 
 const handleSort = (sortType) => {
-  const items = [
-    ...document.getElementById("template").parentNode.children,
-  ].filter((x) => x.id !== "template");
-  items.forEach((x) => x.remove());
   const searchParams = new URLSearchParams(location.search);
   searchParams.set("sort", sortType);
   history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
@@ -226,6 +265,27 @@ themes.forEach((theme) =>
 );
 
 const urlParams = new URLSearchParams(window.location.search);
+
+const searchInput = document.getElementById("search-input");
+searchInput.addEventListener(
+  "input",
+  debounce((event) => {
+    populateLibraryList(event.target.value);
+  }, 200),
+);
+
+document.documentElement.addEventListener("keypress", (event) => {
+  if (
+    !event.altKey &&
+    !event.ctrlKey &&
+    !event.metaKey &&
+    /^[a-z0-9]$/i.test(event.key)
+  ) {
+    if (searchInput !== document.activeElement) {
+      searchInput.select();
+    }
+  }
+});
 
 handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();

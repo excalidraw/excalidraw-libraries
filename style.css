@@ -3,6 +3,11 @@
   src: url("https://excalidraw.com/FG_Virgil.woff2");
 }
 
+*:focus {
+  box-shadow: 0 0 0 2px var(--link-hover);
+  outline: none;
+}
+
 nav {
   position: absolute;
   top: 0;
@@ -39,6 +44,11 @@ body {
   width: 100%;
   min-height: 100%;
 }
+
+body {
+  overflow-y: scroll;
+}
+
 main {
   flex-grow: 1;
 }
@@ -156,6 +166,10 @@ a:hover {
   color: var(--link-hover);
 }
 
+input:focus {
+  outline-offset: 0;
+}
+
 .actions {
   margin-top: 32px;
   display: flex;
@@ -238,4 +252,22 @@ a:hover {
 
 .is-hidden {
   display: none;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.search-tip {
+  font-size: .8em;
+  color: var(--muted);
+  margin-top: .625em;
+}
+#search-input {
+  padding: 0.7em 1.2em;
+  border-radius: 0.8em;
+  width: 300px;
+  max-width: 90%;
+  border: 1px solid var(--oc-gray-5);
 }
