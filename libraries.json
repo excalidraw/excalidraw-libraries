@@ -1,5 +1,18 @@
 [
   {
+    "name": "Snowflake datawarehousing Icons",
+    "description": "Collection of Snowflake datawarehouse icons.",
+    "authors": [
+      {
+        "name": "Thijs de Vries",
+        "url": "https://binx.io/blog/team/thijs-de-vries/"
+      }
+    ],
+    "source": "thijsdev/snowflake.excalidrawlib",
+    "preview": "thijsdev/snowflake.png",
+    "date": "2021-06-10"
+  },
+  {
     "name": "Robots",
     "description": "Collection of robots in different moods.",
     "authors": [
@@ -338,6 +351,19 @@
     "date": "2021-02-02"
   },
   {
+    "name": "Desktop Resolutions",
+    "description": "Blank desktop frames of common resolutions. Use to wireframe desktop apps.",
+    "authors": [
+      {
+        "name": "Shin Kim",
+        "url": "https://twitter.com/_shinkim"
+      }
+    ],
+    "source": "shinkim/desktop-resolutions.excalidrawlib",
+    "preview": "shinkim/desktop-resolutions.png",
+    "date": "2021-06-10"
+  },
+  {
     "name": "Lo-Fi Wireframing Kit",
     "description": "A collection of Lo-Fi wireframing components.",
     "authors": [
@@ -349,6 +375,19 @@
     "source": "spfr/lo-fi-wireframing-kit.excalidrawlib",
     "preview": "spfr/lo-fi-wireframing-kit.png",
     "date": "2021-02-10"
+  },
+  {
+    "name": "Cloud Design Patterns",
+    "description": "A collection of cloud design patterns components (as defined in https://docs.microsoft.com/en-us/azure/architecture/patterns/). Use to describe cloud applications concepts.",
+    "authors": [
+      {
+        "name": "Michel Caradec",
+        "url": "https://github.com/michelcaradec"
+      }
+    ],
+    "source": "michelcaradec/cloud-design-patterns.excalidrawlib",
+    "preview": "michelcaradec/cloud-design-patterns.png",
+    "date": "2021-05-08"
   },
   {
     "name": "AWS Serverless Icons",
@@ -390,6 +429,19 @@
     "date": "2021-03-04"
   },
   {
+    "name": "Business Model Templates",
+    "description": "A collection of templates for canvases that can be used to model various business aspects. The following canvases are in this collection: Business Model Canvas, Value Proposition Canvas.",
+    "authors": [
+      {
+        "name": "Stephan Hellerbrand",
+        "url": "https://www.hellerbit.com"
+      }
+    ],
+    "source": "shellerbrand/canvases.excalidrawlib",
+    "preview": "shellerbrand/canvases.png",
+    "date": "2021-06-05"
+  },
+  {
     "name": "Veeam",
     "description": "A collection of icons used for IT architecture design documents including Veeam backup components.",
     "authors": [
@@ -401,6 +453,23 @@
     "source": "jhoughes/veeam.excalidrawlib",
     "preview": "jhoughes/veeam.png",
     "date": "2021-03-23"
+  },
+  {
+    "name": "Data Science logos",
+    "description": "A collection of data science tool icons. Inlcuding: Airflow, Jupyter, Pandas, Numpy, Tensorflow, Scikit-learn, Keras.",
+    "authors": [
+      {
+        "name": "Fares Hasan",
+        "url": "https://github.com/farisology"
+      },
+      {
+        "name": "Sarhan Samat",
+        "url": "https://github.com/SarhanAS"
+      }
+    ],
+    "source": "farisology/data-science.excalidrawlib",
+    "preview": "farisology/data-science.png",
+    "date": "2021-06-05"
   },
   {
     "name": "Arduino Boards",
@@ -427,5 +496,135 @@
     "source": "rkjc/schematic-symbols.excalidrawlib",
     "preview": "rkjc/schematic-symbols.png",
     "date": "2021-04-04"
+  },
+  {
+    "name": "Cloud",
+    "description": "Collection of symbols related to cloud artefacts (logos of Kubernetes, Gardener, AWS, Azure, GCP and icons for illustrating architectures).",
+    "authors": [
+      {
+        "name": "rfranzke",
+        "url": "https://twitter.com/rafaelfranzke"
+      }
+    ],
+    "source": "cloud/cloud.excalidrawlib",
+    "preview": "cloud/cloud.png",
+    "date": "2021-06-07"
+  },
+  {
+    "name": "HTML, CSS and JS logos",
+    "description": "A collection of core web development technology logos",
+    "authors": [
+      {
+        "name": "Madhusuthanan-B",
+        "url": "https://github.com/Madhusuthanan-B"
+      }
+    ],
+    "source": "madhusuthanan-b/html-css-js-icons.excalidrawlib",
+    "preview": "madhusuthanan-b/preview-html-css-js-logo.PNG",
+    "date": "2021-05-01"
+  },
+  {
+    "name": "Emojis",
+    "description": "A collection of emojis.",
+    "authors": [
+      {
+        "name": "Anumitha Apollo",
+        "url": "https://anumitha.com"
+      }
+    ],
+    "source": "anumithaapollo12/emojis.excalidrawlib",
+    "preview": "anumithaapollo12/emojis.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Redis Grafana",
+    "description": "A collection of Redis and Grafana related icons: Redis, Redis Enterprise, Grafana, Prometheus, RedisGraph, RedisGears, RedisTimeSeries, etc.",
+    "authors": [
+      {
+        "name": "mikhailredis",
+        "url": "https://github.com/mikhailredis"
+      }
+    ],
+    "source": "mikhailredis/redis-grafana.excalidrawlib",
+    "preview": "mikhailredis/redis-grafana.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "AWS Simple Icons",
+    "description": "A collection of all AWS Simple Icons",
+    "authors": [
+      {
+        "name": "husainkhambaty",
+        "url": "https://github.com/husainkhambaty"
+      }
+    ],
+    "source": "husainkhambaty/aws-simple-icons.excalidrawlib",
+    "preview": "husainkhambaty/aws-simple-icons.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Computers",
+    "description": "A few schematic representations of computers",
+    "authors": [
+      {
+        "name": "EI d'AU",
+        "url": "https://github.com/ei-au"
+      }
+    ],
+    "source": "ei-au/computers.excalidrawlib",
+    "preview": "ei-au/computers.png",
+    "date": "2021-05-08"
+  },
+  {
+    "name": "Front End Tools & Technologies",
+    "description": "A collection of logos related to front end technologies, tools and sites.",
+    "authors": [
+      {
+        "name": "Madhusuthanan-B",
+        "url": "https://github.com/Madhusuthanan-B"
+      }
+    ],
+    "source": "madhusuthanan-b/front-end-tech-and-tools.excalidrawlib",
+    "preview": "madhusuthanan-b/preview-front-end-tech-and-tools.PNG",
+    "date": "2021-05-12"
+  },
+  {
+    "name": "Architecture floor plan symbols",
+    "description": "Some furnitures an others symbols to help in architecture planning",
+    "authors": [
+      {
+        "name": "Arqtangeles",
+        "url": "https://github.com/Arqtangeles"
+      }
+    ],
+    "source": "Arqtangeles/architecture.excalidrawlib",
+    "preview": "Arqtangeles/architecture-floorplan-symbolsV2.png",
+    "date": "2021-05-14"
+  },
+  {
+    "name": "Azure cloud services icons",
+    "description": "Collection of icons from different Azure cloud services.",
+    "authors": [
+      {
+        "name": "Youri Tjang",
+        "url": "https://github.com/youritjang"
+      }
+    ],
+    "source": "youritjang/azure-cloud-services.excalidrawlib",
+    "preview": "youritjang/azure-cloud-services.png",
+    "date": "2021-06-03"
+  },
+  {
+    "name": "Customer Journey Map",
+    "description": "For creating your own Customer Journey Map, it has small and big templates.",
+    "authors": [
+      {
+        "name": "Wiktoria Mielcarek / Braweria",
+        "url": "https://github.com/braweria"
+      }
+    ],
+    "source": "braweria/customer-journey-map.excalidrawlib",
+    "preview": "braweria/customer-journey-map.png",
+    "date": "2021-06-10"
   }
 ]
