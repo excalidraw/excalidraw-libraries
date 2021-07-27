@@ -3,6 +3,20 @@
   src: url("https://excalidraw.com/FG_Virgil.woff2");
 }
 
+*:focus {
+  box-shadow: 0 0 0 2px var(--link-hover);
+  outline: none;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  padding: 1em;
+  position: sticky;
+}
+
 :root {
   --text: var(--oc-gray-7);
   --muted: var(--oc-gray-6);
@@ -13,8 +27,9 @@
   --vertical-padding: 32px;
   --horizontal-padding: 16px;
   --border-color: var(--oc-gray-4);
-  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial,
-    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
 }
 
 * {
@@ -27,8 +42,13 @@ body {
   background-color: var(--oc-gray-0);
   color: var(--text);
   width: 100%;
-  height: 100%;
+  min-height: 100%;
 }
+
+body {
+  overflow-y: scroll;
+}
+
 main {
   flex-grow: 1;
 }
@@ -37,6 +57,15 @@ header,
 main,
 footer {
   flex-shrink: 0;
+}
+
+.theme--dark {
+  filter: invert(93%) hue-rotate(180deg);
+}
+
+.icon {
+  border: none;
+  background: none;
 }
 
 .content {
@@ -137,6 +166,10 @@ a:hover {
   color: var(--link-hover);
 }
 
+input:focus {
+  outline-offset: 0;
+}
+
 .actions {
   margin-top: 32px;
   display: flex;
@@ -175,8 +208,66 @@ a:hover {
   display: none;
 }
 
+#sort-template {
+  display: none;
+}
+
+.option {
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.option:hover {
+  color: var(--primary-hover);
+  text-decoration: underline;
+}
+
+.option-selected {
+  color: var(--oc-gray-7);
+  cursor: auto;
+  pointer-events: none;
+}
+
+#theme {
+  text-transform: capitalize;
+  display: flex;
+  margin-left: auto;
+}
+
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em;
   }
+}
+
+.icon {
+  display: flex;
+  user-select: none;
+}
+.icon svg {
+  width: 1em;
+  height: 1em;
+  color: var(--text);
+}
+
+.is-hidden {
+  display: none;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.search-tip {
+  font-size: 0.8em;
+  color: var(--muted);
+  margin-top: 0.625em;
+}
+#search-input {
+  padding: 0.7em 1.2em;
+  border-radius: 0.8em;
+  width: 300px;
+  max-width: 90%;
+  border: 1px solid var(--oc-gray-5);
 }
