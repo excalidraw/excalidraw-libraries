@@ -1,3 +1,30 @@
+// copied from excalidraw/excalidraw
+const debounce = (fn, timeout) => {
+  let handle = 0;
+  let lastArgs = null;
+  const ret = (...args) => {
+    lastArgs = args;
+    clearTimeout(handle);
+    handle = window.setTimeout(() => {
+      lastArgs = null;
+      fn(...args);
+    }, timeout);
+  };
+  ret.flush = () => {
+    clearTimeout(handle);
+    if (lastArgs) {
+      const _lastArgs = lastArgs;
+      lastArgs = null;
+      fn(..._lastArgs);
+    }
+  };
+  ret.cancel = () => {
+    lastArgs = null;
+    clearTimeout(handle);
+  };
+  return ret;
+};
+
 const fetchJSONFile = (path, callback) => {
   let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
@@ -108,9 +135,25 @@ const sortBy = {
 let libraries_ = [];
 let currSort = null;
 
-const populateLibraryList = () => {
+const searchKeys = ["name", "description"];
+
+const populateLibraryList = (filterQuery = "") => {
+  const items = [
+    ...document.getElementById("template").parentNode.children,
+  ].filter((x) => x.id !== "template");
+  items.forEach((x) => x.remove());
+
+  filterQuery = filterQuery.trim().toLowerCase();
+  let libraries = libraries_;
+  if (filterQuery) {
+    libraries = libraries.filter((library) =>
+      searchKeys.some((key) =>
+        (library[key] || "").toLowerCase().includes(filterQuery),
+      ),
+    );
+  }
   const template = document.getElementById("template");
-  for (let library of libraries_) {
+  for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
     div.setAttribute("id", library.id);
@@ -149,10 +192,6 @@ const populateLibraryList = () => {
 };
 
 const handleSort = (sortType) => {
-  const items = [
-    ...document.getElementById("template").parentNode.children,
-  ].filter((x) => x.id !== "template");
-  items.forEach((x) => x.remove());
   const searchParams = new URLSearchParams(location.search);
   searchParams.set("sort", sortType);
   history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
@@ -161,10 +200,10 @@ const handleSort = (sortType) => {
   populateLibraryList();
   if (currSort) {
     const prev = document.getElementById(currSort);
-    prev.classList.remove("sort-selected");
+    prev.classList.remove("option-selected");
   }
   const curr = document.getElementById(sortType);
-  curr?.classList.add("sort-selected");
+  curr?.classList.add("option-selected");
   currSort = sortType;
 };
 
@@ -199,6 +238,56 @@ const scrollToAnchor = () => {
   }
 };
 
+const handleTheme = (theme) => {
+  const searchParams = new URLSearchParams(location.search);
+  searchParams.set("theme", theme);
+  history.pushState("", "theme", `?` + searchParams.toString() + location.hash);
+
+  if (theme === "dark") {
+    document.querySelector("html").classList.add("theme--dark");
+    document.querySelector("#light").classList.remove("is-hidden");
+    document.querySelector("#dark").classList.add("is-hidden");
+  } else if (theme === "light") {
+    document.querySelector("#light").classList.add("is-hidden");
+    document.querySelector("#dark").classList.remove("is-hidden");
+    document.querySelector("html").classList.remove("theme--dark");
+  }
+};
+
+// -----------------------------------------------------------------------------
+//                                      init
+// -----------------------------------------------------------------------------
+
+// Add listeners to handle theme change
+const themes = document.querySelectorAll("#theme .option");
+themes.forEach((theme) =>
+  theme.addEventListener("click", () => handleTheme(theme.id)),
+);
+
+const urlParams = new URLSearchParams(window.location.search);
+
+const searchInput = document.getElementById("search-input");
+searchInput.addEventListener(
+  "input",
+  debounce((event) => {
+    populateLibraryList(event.target.value);
+  }, 200),
+);
+
+document.documentElement.addEventListener("keypress", (event) => {
+  if (
+    !event.altKey &&
+    !event.ctrlKey &&
+    !event.metaKey &&
+    /^[a-z0-9]$/i.test(event.key)
+  ) {
+    if (searchInput !== document.activeElement) {
+      searchInput.select();
+    }
+  }
+});
+
+handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();
 
 fetchJSONFile("libraries.json", (libraries) => {
@@ -216,9 +305,15 @@ fetchJSONFile("libraries.json", (libraries) => {
       libraries_.push(library);
     }
 
-    const urlParams = new URLSearchParams(window.location.search);
     const sort = urlParams.get("sort");
+
     handleSort(sort ?? "default");
     scrollToAnchor();
   });
 });
+
+// update footer with current year
+const footer = document.getElementById("footer");
+footer.innerHTML = footer.innerHTML.replace(/{currentYear}/g, () =>
+  new Date().getFullYear(),
+);
