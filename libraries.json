@@ -551,7 +551,7 @@
   },
   {
     "name": "AWS Simple Icons",
-    "description": "A collection of all AWS Simple Icons",
+    "description": "A collection of AWS Simple Icons with 3 different flavours (Monochrome, Colour and Colour with description): EC2, RDS, S3, SQS and Lambda. More coming soon...",
     "authors": [
       {
         "name": "husainkhambaty",
@@ -602,6 +602,19 @@
     "date": "2021-05-14"
   },
   {
+    "name": "Team Topologies",
+    "description": "Collection of shapes to describe your organization's Team Topology (as defined by https://teamtopologies.com)",
+    "authors": [
+      {
+        "name": "Nikordaris",
+        "url": "https://github.com/nikordaris"
+      }
+    ],
+    "source": "nikordaris/team-topologies.excalidrawlib",
+    "preview": "nikordaris/Team-Topologies.png",
+    "date": "2021-05-24"
+  },
+  {
     "name": "Azure cloud services icons",
     "description": "Collection of icons from different Azure cloud services.",
     "authors": [
@@ -633,7 +646,7 @@
     "authors": [
       {
         "name": "ferminrp",
-        "url": "https://github.com/ferminrp"
+        "url": "https://twitter.com/ferminrp"
       }
     ],
     "source": "ferminrp/post-it.excalidrawlib",
@@ -646,7 +659,7 @@
     "authors": [
       {
         "name": "ferminrp",
-        "url": "https://github.com/ferminrp"
+        "url": "https://twitter.com/ferminrp"
       }
     ],
     "source": "ferminrp/gantt.excalidrawlib",
@@ -716,6 +729,32 @@
     ],
     "source": "danimaniarqsoft/scrum-board.excalidrawlib",
     "preview": "danimaniarqsoft/scrum-board.png",
-    "date": "2021-07-21"
+    "date": "2021-07-30"
+  },
+  {
+    "name": "Common Screen Resolutions",
+    "description": "Frames for screens of various sizes",
+    "authors": [
+      {
+        "name": "dpalay",
+        "url": "https://github.com/dpalay"
+      }
+    ],
+    "source": "dpalay/common-screen-resolutions.excalidrawlib",
+    "preview": "dpalay/common-screen-resolutions.png",
+    "date": "2021-7-01"
+  },
+  {
+    "name": "Awesome Slides",
+    "description": "A growing collection of templates for your next presentation.",
+    "authors": [
+      {
+        "name": "ferminrp",
+        "url": "https://twitter.com/ferminrp"
+      }
+    ],
+    "source": "ferminrp/awesome-slides.excalidrawlib",
+    "preview": "ferminrp/awesome-slides.png",
+    "date": "2021-06-28"
   }
 ]
