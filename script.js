@@ -59,7 +59,14 @@ const getDate = (date) => {
 };
 
 const DAY = 24 * 60 * 60 * 1000;
-
+const sortByDate = (property) => (a, b) => {
+  const aTime = new Date(a[property]);
+  const bTime = new Date(b[property]);
+  const today = new Date();
+  const diffA = today.getTime() - aTime.getTime();
+  const diffB = today.getTime() - bTime.getTime();
+  return diffB - diffA;
+};
 const sortBy = {
   default: {
     label: "Default",
@@ -76,7 +83,7 @@ const sortBy = {
           .slice()
           .reverse()
           .findIndex((x) => {
-            return new Date(x.date) <= timeTwoWeeksAgo;
+            return new Date(x.created) <= timeTwoWeeksAgo;
           });
 
       const topNewItemsAsc = sortedByNewAsc.slice(
@@ -92,15 +99,11 @@ const sortBy = {
   },
   new: {
     label: "New",
-    func: (items) =>
-      items.sort((a, b) => {
-        const aTime = new Date(a.date);
-        const bTime = new Date(b.date);
-        const today = new Date();
-        const diffA = today.getTime() - aTime.getTime();
-        const diffB = today.getTime() - bTime.getTime();
-        return diffB - diffA;
-      }),
+    func: (items) => items.sort(sortByDate("created")),
+  },
+  updates: {
+    label: "Updated",
+    func: (items) => items.sort(sortByDate("updated")),
   },
   downloadsTotal: {
     label: "Total Downloads",
@@ -169,7 +172,12 @@ const populateLibraryList = (filterQuery = "") => {
     }
     inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
     inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
-    inner = inner.replace(/\{updated\}/g, getDate(library.date));
+    inner = inner.replace(/\{created\}/g, getDate(library.created));
+    if (library.created !== library.updated) {
+      inner = inner.replace(/\{updated\}/g, getDate(library.updated));
+    } else {
+      inner = inner.replace('<p class="updated">Updated: {updated}</p>', '');
+    }
 
     const searchParams = new URLSearchParams(location.search);
     const referrer = searchParams.get("referrer") || "https://excalidraw.com";
