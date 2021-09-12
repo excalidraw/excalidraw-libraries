@@ -176,7 +176,7 @@ const populateLibraryList = (filterQuery = "") => {
     if (library.created !== library.updated) {
       inner = inner.replace(/\{updated\}/g, getDate(library.updated));
     } else {
-      inner = inner.replace('<p class="updated">Updated: {updated}</p>', '');
+      inner = inner.replace('<p class="updated">Updated: {updated}</p>', "");
     }
 
     const searchParams = new URLSearchParams(location.search);
