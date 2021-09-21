@@ -129,7 +129,8 @@ footer {
   margin: 8px 0;
 }
 
-.library .updated {
+.library .updated,
+.library .created {
   font-size: 0.7em;
   color: var(--muted);
   margin: 8px 0;
