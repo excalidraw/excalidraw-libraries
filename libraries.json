@@ -886,6 +886,20 @@
     "updated": "2021-09-23"
   },
   {
+    "name": "Yellow box",
+    "description": "Opened yellow box",
+    "authors": [
+      {
+        "name": "Ivan Reznikov",
+        "url": "https://github.com/IvanReznikov"
+      }
+    ],
+    "source": "IvanReznikov/yellow-box.excalidrawlib",
+    "preview": "IvanReznikov/yellow-box.png",
+    "created": "2021-09-24",
+    "updated": "2021-09-24"
+  },
+  {
     "name": "Veeam unofficial",
     "description": "A collection of unofficial icons inspired from the Veeam Visio shapes we all know and like.",
     "authors": [
@@ -897,7 +911,7 @@
     "source": "jdelacruz/veeam_unofficial.excalidrawlib",
     "preview": "jdelacruz/veeam_unofficial.png",
     "created": "2021-09-21",
-    "updated": "2021-09-21"
+    "updated": "2021-09-23"
   },
   {
     "name": "Hashistack unofficial",
@@ -912,5 +926,19 @@
     "preview": "markopolo123/hashistack.png",
     "created": "2021-09-21",
     "updated": "2021-09-21"
+  },
+  {
+    "name": "Hexagonal Architecture",
+    "description": "Useful to diagram and learn more about Hexagonal (aka Ports and Adapters) Architecture by Alistair Cockburn and implementation by Jakub Nabrdalik. More information: https://gist.github.com/corlaez/32707a1c41485d056c00251206435c89",
+    "authors": [
+      {
+        "name": "Armando Cordova Pelaez",
+        "url": "https://github.com/corlaez"
+      }
+    ],
+    "source": "corlaez/hexagonal-architecture.excalidrawlib",
+    "preview": "corlaez/hexagonal-architecture.png",
+    "created": "2021-09-24",
+    "updated": "2021-09-24"
   }
 ]
