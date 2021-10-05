@@ -970,8 +970,22 @@
     "updated": "2021-10-03"
   },
   {
+    "name": "Periodic Table",
+    "description": "A periodic table.",
+    "authors": [
+      {
+        "name": "gabi-as-cosmos",
+        "url": "https://github.com/Gabi-As-Cosmos"
+      }
+    ],
+    "source": "gabi-as-cosmos/periodic-table.excalidrawlib",
+    "preview": "gabi-as-cosmos/periodic-table.png",
+    "created": "2021-10-05",
+    "updated": "2021-10-05"
+  },
+  {
     "name": "System Design",
-    "description": "useful for system design in interviews to building high level system diagrams.",
+    "description": "Useful in interviews to build high level system diagrams.",
     "authors": [
       {
         "name": "Rohan Pithadiya",
@@ -979,7 +993,7 @@
       }
     ],
     "source": "rohanp/system-design.excalidraw",
-    "preview": "rohanp/hsystem-design.png",
+    "preview": "rohanp/system-design.png",
     "created": "2021-10-05",
     "updated": "2021-10-05"
   }
