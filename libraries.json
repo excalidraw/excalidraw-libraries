@@ -915,7 +915,7 @@
   },
   {
     "name": "Dev Ops Icons",
-    "description": "A collection of icons for Dev Ops work, including the hashistack: Nomad, Consul, Vault and Packer; Rundeck, Ansible, Jira, VScode, Elasticsearch, Ubuntu, Teams, Thanos, Traefik, Loki, Kubernetes, Openshift, Docker, Terraform, Slurm, Confluence, Github Actions, OpenFaaS and Gitea",
+    "description": "A collection of icons for Dev Ops work, including the hashistack: Nomad, Consul, Vault and Packer; Rundeck, Ansible, Jira, VScode, Elasticsearch, Ubuntu, Teams, Thanos, Traefik, Loki, Kubernetes, Openshift, Docker, Terraform, Slurm, Confluence, Github Actions, OpenFaaS, Rocky Linux and Gitea",
     "authors": [
       {
         "name": "Mark Sharpley",
@@ -925,7 +925,7 @@
     "source": "markopolo123/dev_ops.excalidrawlib",
     "preview": "markopolo123/dev_ops.png",
     "created": "2021-09-21",
-    "updated": "2021-10-10"
+    "updated": "2021-10-15"
   },
   {
     "name": "Hexagonal Architecture",
@@ -1010,5 +1010,19 @@
     "preview": "swissarmysam/maps.png",
     "created": "2021-10-10",
     "updated": "2021-10-11"
+  },
+  {
+    "name": "Openstack Services",
+    "description": "A collection of icons for Openstack Servies: Cinder, Keystone, Horizon, Kata, Senlin, Rally, Kolla, Neutron, Swift, Ironic, Octavia and Glance",
+    "authors": [
+      {
+        "name": "Mark Sharpley",
+        "url": "https://www.marksharpley.co.uk"
+      }
+    ],
+    "source": "markopolo123/openstack_services.excalidrawlib",
+    "preview": "markopolo123/openstack_services.png",
+    "created": "2021-10-21",
+    "updated": "2021-10-21"
   }
 ]
