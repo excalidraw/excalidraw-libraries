@@ -1,3 +1,30 @@
+// copied from excalidraw/excalidraw
+const debounce = (fn, timeout) => {
+  let handle = 0;
+  let lastArgs = null;
+  const ret = (...args) => {
+    lastArgs = args;
+    clearTimeout(handle);
+    handle = window.setTimeout(() => {
+      lastArgs = null;
+      fn(...args);
+    }, timeout);
+  };
+  ret.flush = () => {
+    clearTimeout(handle);
+    if (lastArgs) {
+      const _lastArgs = lastArgs;
+      lastArgs = null;
+      fn(..._lastArgs);
+    }
+  };
+  ret.cancel = () => {
+    lastArgs = null;
+    clearTimeout(handle);
+  };
+  return ret;
+};
+
 const fetchJSONFile = (path, callback) => {
   let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = () => {
@@ -32,7 +59,14 @@ const getDate = (date) => {
 };
 
 const DAY = 24 * 60 * 60 * 1000;
-
+const sortByDate = (property) => (a, b) => {
+  const aTime = new Date(a[property]);
+  const bTime = new Date(b[property]);
+  const today = new Date();
+  const diffA = today.getTime() - aTime.getTime();
+  const diffB = today.getTime() - bTime.getTime();
+  return diffB - diffA;
+};
 const sortBy = {
   default: {
     label: "Default",
@@ -49,7 +83,7 @@ const sortBy = {
           .slice()
           .reverse()
           .findIndex((x) => {
-            return new Date(x.date) <= timeTwoWeeksAgo;
+            return new Date(x.created) <= timeTwoWeeksAgo;
           });
 
       const topNewItemsAsc = sortedByNewAsc.slice(
@@ -65,15 +99,11 @@ const sortBy = {
   },
   new: {
     label: "New",
-    func: (items) =>
-      items.sort((a, b) => {
-        const aTime = new Date(a.date);
-        const bTime = new Date(b.date);
-        const today = new Date();
-        const diffA = today.getTime() - aTime.getTime();
-        const diffB = today.getTime() - bTime.getTime();
-        return diffB - diffA;
-      }),
+    func: (items) => items.sort(sortByDate("created")),
+  },
+  updates: {
+    label: "Updated",
+    func: (items) => items.sort(sortByDate("updated")),
   },
   downloadsTotal: {
     label: "Total Downloads",
@@ -108,9 +138,25 @@ const sortBy = {
 let libraries_ = [];
 let currSort = null;
 
-const populateLibraryList = () => {
+const searchKeys = ["name", "description"];
+
+const populateLibraryList = (filterQuery = "") => {
+  const items = [
+    ...document.getElementById("template").parentNode.children,
+  ].filter((x) => x.id !== "template");
+  items.forEach((x) => x.remove());
+
+  filterQuery = filterQuery.trim().toLowerCase();
+  let libraries = libraries_;
+  if (filterQuery) {
+    libraries = libraries.filter((library) =>
+      searchKeys.some((key) =>
+        (library[key] || "").toLowerCase().includes(filterQuery),
+      ),
+    );
+  }
   const template = document.getElementById("template");
-  for (let library of libraries_) {
+  for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
     div.setAttribute("id", library.id);
@@ -126,7 +172,12 @@ const populateLibraryList = () => {
     }
     inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
     inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
-    inner = inner.replace(/\{updated\}/g, getDate(library.date));
+    inner = inner.replace(/\{created\}/g, getDate(library.created));
+    if (library.created !== library.updated) {
+      inner = inner.replace(/\{updated\}/g, getDate(library.updated));
+    } else {
+      inner = inner.replace('<p class="updated">Updated: {updated}</p>', "");
+    }
 
     const searchParams = new URLSearchParams(location.search);
     const referrer = searchParams.get("referrer") || "https://excalidraw.com";
@@ -149,10 +200,6 @@ const populateLibraryList = () => {
 };
 
 const handleSort = (sortType) => {
-  const items = [
-    ...document.getElementById("template").parentNode.children,
-  ].filter((x) => x.id !== "template");
-  items.forEach((x) => x.remove());
   const searchParams = new URLSearchParams(location.search);
   searchParams.set("sort", sortType);
   history.pushState("", "sort", `?` + searchParams.toString() + location.hash);
@@ -226,6 +273,27 @@ themes.forEach((theme) =>
 );
 
 const urlParams = new URLSearchParams(window.location.search);
+
+const searchInput = document.getElementById("search-input");
+searchInput.addEventListener(
+  "input",
+  debounce((event) => {
+    populateLibraryList(event.target.value);
+  }, 200),
+);
+
+document.documentElement.addEventListener("keypress", (event) => {
+  if (
+    !event.altKey &&
+    !event.ctrlKey &&
+    !event.metaKey &&
+    /^[a-z0-9]$/i.test(event.key)
+  ) {
+    if (searchInput !== document.activeElement) {
+      searchInput.select();
+    }
+  }
+});
 
 handleTheme(urlParams.get("theme") ?? "light");
 populateSorts();

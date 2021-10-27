@@ -1,5 +1,33 @@
 [
   {
+    "name": "R Icons",
+    "description": "R and RStudio icons.",
+    "authors": [
+      {
+        "name": "Jumping Rivers",
+        "url": "https://www.jumpingrivers.com"
+      }
+    ],
+    "source": "jumpingrivers/r.excalidrawlib",
+    "preview": "jumpingrivers/r.png",
+    "created": "2021-08-22",
+    "updated": "2021-08-22"
+  },
+  {
+    "name": "Snowflake datawarehousing Icons",
+    "description": "Collection of Snowflake datawarehouse icons.",
+    "authors": [
+      {
+        "name": "Thijs de Vries",
+        "url": "https://binx.io/blog/team/thijs-de-vries/"
+      }
+    ],
+    "source": "thijsdev/snowflake.excalidrawlib",
+    "preview": "thijsdev/snowflake.png",
+    "created": "2021-06-10",
+    "updated": "2021-06-10"
+  },
+  {
     "name": "Robots",
     "description": "Collection of robots in different moods.",
     "authors": [
@@ -10,7 +38,8 @@
     ],
     "source": "kaligule/robots.excalidrawlib",
     "preview": "kaligule/robots.png",
-    "date": "2021-03-23"
+    "created": "2021-03-23",
+    "updated": "2021-03-23"
   },
   {
     "name": "Polygons",
@@ -23,7 +52,8 @@
     ],
     "source": "lipis/polygons.excalidrawlib",
     "preview": "lipis/polygons.png",
-    "date": "2020-12-02"
+    "created": "2020-12-02",
+    "updated": "2020-12-02"
   },
   {
     "name": "Stars",
@@ -36,7 +66,8 @@
     ],
     "source": "lipis/stars.excalidrawlib",
     "preview": "lipis/stars.png",
-    "date": "2020-12-02"
+    "created": "2020-12-02",
+    "updated": "2020-12-02"
   },
   {
     "name": "Gadgets",
@@ -49,7 +80,8 @@
     ],
     "source": "morgemoensch/gadgets.excalidrawlib",
     "preview": "morgemoensch/gadgets.png",
-    "date": "2020-12-15"
+    "created": "2020-12-15",
+    "updated": "2020-12-15"
   },
   {
     "name": "Android",
@@ -62,7 +94,8 @@
     ],
     "source": "g-script/android.excalidrawlib",
     "preview": "g-script/android.png",
-    "date": "2020-12-16"
+    "created": "2020-12-16",
+    "updated": "2020-12-16"
   },
   {
     "name": "Charts",
@@ -75,7 +108,8 @@
     ],
     "source": "g-script/charts.excalidrawlib",
     "preview": "g-script/charts.png",
-    "date": "2020-12-17"
+    "created": "2020-12-17",
+    "updated": "2020-12-17"
   },
   {
     "name": "Forms",
@@ -88,7 +122,8 @@
     ],
     "source": "g-script/forms.excalidrawlib",
     "preview": "g-script/forms.png",
-    "date": "2020-12-17"
+    "created": "2020-12-17",
+    "updated": "2020-12-17"
   },
   {
     "name": "Medias",
@@ -101,7 +136,8 @@
     ],
     "source": "g-script/medias.excalidrawlib",
     "preview": "g-script/medias.png",
-    "date": "2020-12-17"
+    "created": "2020-12-17",
+    "updated": "2020-12-17"
   },
   {
     "name": "Raspberry Pi 3",
@@ -114,7 +150,8 @@
     ],
     "source": "revolunet/raspberrypi3.excalidrawlib",
     "preview": "revolunet/raspberrypi3.png",
-    "date": "2020-12-18"
+    "created": "2020-12-18",
+    "updated": "2020-12-18"
   },
   {
     "name": "Stick Figures",
@@ -127,7 +164,8 @@
     ],
     "source": "youritjang/stick-figures.excalidrawlib",
     "preview": "youritjang/stick-figures.png",
-    "date": "2020-12-18"
+    "created": "2020-12-18",
+    "updated": "2020-12-18"
   },
   {
     "name": "Data Viz",
@@ -140,7 +178,8 @@
     ],
     "source": "dbssticky/data-viz.excalidrawlib",
     "preview": "dbssticky/data-viz.png",
-    "date": "2020-12-19"
+    "created": "2020-12-19",
+    "updated": "2020-12-19"
   },
   {
     "name": "Hearts",
@@ -153,7 +192,8 @@
     ],
     "source": "dwelle/hearts.excalidrawlib",
     "preview": "dwelle/hearts.png",
-    "date": "2020-12-22"
+    "created": "2020-12-22",
+    "updated": "2020-12-22"
   },
   {
     "name": "Apple Devices Frames",
@@ -166,7 +206,8 @@
     ],
     "source": "franky47/apple-devices-frames.excalidrawlib",
     "preview": "franky47/apple-devices-frames.png",
-    "date": "2020-12-29"
+    "created": "2020-12-29",
+    "updated": "2020-12-29"
   },
   {
     "name": "Software Architecture",
@@ -179,7 +220,8 @@
     ],
     "source": "youritjang/software-architecture.excalidrawlib",
     "preview": "youritjang/software-architecture.png",
-    "date": "2020-12-30"
+    "created": "2020-12-30",
+    "updated": "2020-12-30"
   },
   {
     "name": "Dropdowns",
@@ -192,7 +234,8 @@
     ],
     "source": "h7y/dropdowns.excalidrawlib",
     "preview": "h7y/dropdowns.png",
-    "date": "2021-01-04"
+    "created": "2021-01-04",
+    "updated": "2021-01-04"
   },
   {
     "name": "Information Architecture",
@@ -205,11 +248,12 @@
     ],
     "source": "inwardmovement/information-architecture.excalidrawlib",
     "preview": "inwardmovement/information-architecture.png",
-    "date": "2021-01-11"
+    "created": "2021-01-11",
+    "updated": "2021-01-11"
   },
   {
     "name": "IT Logos",
-    "description": "Collection of IT logos, including: SoapUI, SmartBear, GitKraken, BonitaSoft, Docker, Twitter, Strava, VueJS, Slack, SalesForce, Angular, React, LinkedIn, GitLab and Kanoma_IT",
+    "description": "Collection of IT logos, including: SoapUI, SmartBear, GitKraken, BonitaSoft, Docker, Twitter, Strava, VueJS, Slack, SalesForce, Angular, React, LinkedIn, GitLab, Tensorflow, Lobe.ai, Kanoma_IT, Flutter, Google Drive and Google Firebase",
     "authors": [
       {
         "name": "Pierre Clainchard",
@@ -218,7 +262,8 @@
     ],
     "source": "pclainchard/it-logos.excalidrawlib",
     "preview": "pclainchard/it-logos.png",
-    "date": "2021-01-12"
+    "created": "2021-01-12",
+    "updated": "2021-01-12"
   },
   {
     "name": "Mobile Kit",
@@ -231,7 +276,8 @@
     ],
     "source": "excacomp/mobile-kit.excalidrawlib",
     "preview": "excacomp/mobile-kit.png",
-    "date": "2021-01-20"
+    "created": "2021-01-20",
+    "updated": "2021-01-20"
   },
   {
     "name": "Web Kit",
@@ -244,7 +290,8 @@
     ],
     "source": "excacomp/web-kit.excalidrawlib",
     "preview": "excacomp/web-kit.png",
-    "date": "2021-01-20"
+    "created": "2021-01-20",
+    "updated": "2021-01-20"
   },
   {
     "name": "Software Logos",
@@ -257,7 +304,8 @@
     ],
     "source": "drwnio/drwnio.excalidrawlib",
     "preview": "drwnio/drwnio.png",
-    "date": "2021-01-25"
+    "created": "2021-01-25",
+    "updated": "2021-01-25"
   },
   {
     "name": "Technology Logos",
@@ -270,7 +318,8 @@
     ],
     "source": "maeddes/technology-logos.excalidrawlib",
     "preview": "maeddes/technology-logos.png",
-    "date": "2021-01-27"
+    "created": "2021-01-27",
+    "updated": "2021-01-27"
   },
   {
     "name": "Storytelling",
@@ -283,7 +332,8 @@
     ],
     "source": "drwnio/storytelling.excalidrawlib",
     "preview": "drwnio/storytelling.png",
-    "date": "2021-01-28"
+    "created": "2021-01-28",
+    "updated": "2021-01-28"
   },
   {
     "name": "Cryptocurrencies",
@@ -296,7 +346,8 @@
     ],
     "source": "newbyca/cryptocurrencies.excalidrawlib",
     "preview": "newbyca/cryptocurrencies.png",
-    "date": "2021-03-25"
+    "created": "2021-03-25",
+    "updated": "2021-03-25"
   },
   {
     "name": "Raspberry Pi Zero",
@@ -309,7 +360,8 @@
     ],
     "source": "marcottebear/raspberrypi-zero.excalidrawlib",
     "preview": "marcottebear/raspberrypi-zero.png",
-    "date": "2021-02-01"
+    "created": "2021-02-01",
+    "updated": "2021-02-01"
   },
   {
     "name": "Presentation Templates",
@@ -322,7 +374,8 @@
     ],
     "source": "shinkim/presentation-templates.excalidrawlib",
     "preview": "shinkim/presentation-templates.png",
-    "date": "2021-02-02"
+    "created": "2021-02-02",
+    "updated": "2021-02-02"
   },
   {
     "name": "Graphs",
@@ -335,7 +388,22 @@
     ],
     "source": "jakubpawlina/graphs.excalidrawlib",
     "preview": "jakubpawlina/graphs.png",
-    "date": "2021-02-02"
+    "created": "2021-02-02",
+    "updated": "2021-02-02"
+  },
+  {
+    "name": "Desktop Resolutions",
+    "description": "Blank desktop frames of common resolutions. Use to wireframe desktop apps.",
+    "authors": [
+      {
+        "name": "Shin Kim",
+        "url": "https://twitter.com/_shinkim"
+      }
+    ],
+    "source": "shinkim/desktop-resolutions.excalidrawlib",
+    "preview": "shinkim/desktop-resolutions.png",
+    "created": "2021-06-10",
+    "updated": "2021-06-10"
   },
   {
     "name": "Lo-Fi Wireframing Kit",
@@ -348,7 +416,8 @@
     ],
     "source": "spfr/lo-fi-wireframing-kit.excalidrawlib",
     "preview": "spfr/lo-fi-wireframing-kit.png",
-    "date": "2021-02-10"
+    "created": "2021-02-10",
+    "updated": "2021-02-10"
   },
   {
     "name": "Cloud Design Patterns",
@@ -361,7 +430,8 @@
     ],
     "source": "michelcaradec/cloud-design-patterns.excalidrawlib",
     "preview": "michelcaradec/cloud-design-patterns.png",
-    "date": "2021-05-08"
+    "created": "2021-05-08",
+    "updated": "2021-05-08"
   },
   {
     "name": "AWS Serverless Icons",
@@ -374,7 +444,8 @@
     ],
     "source": "slobodan/aws-serverless.excalidrawlib",
     "preview": "slobodan/aws-serverless.png",
-    "date": "2021-02-22"
+    "created": "2021-02-22",
+    "updated": "2021-02-22"
   },
   {
     "name": "Wardley Maps Symbols",
@@ -387,7 +458,8 @@
     ],
     "source": "simalexan/wardley-maps-symbols.excalidrawlib",
     "preview": "simalexan/wardley-maps-symbols.png",
-    "date": "2021-03-01"
+    "created": "2021-03-01",
+    "updated": "2021-03-01"
   },
   {
     "name": "Bubbles",
@@ -400,7 +472,8 @@
     ],
     "source": "ocapraro/bubbles.excalidrawlib",
     "preview": "ocapraro/bubbles.png",
-    "date": "2021-03-04"
+    "created": "2021-03-04",
+    "updated": "2021-03-04"
   },
   {
     "name": "Business Model Templates",
@@ -413,7 +486,8 @@
     ],
     "source": "shellerbrand/canvases.excalidrawlib",
     "preview": "shellerbrand/canvases.png",
-    "date": "2021-06-05"
+    "created": "2021-06-05",
+    "updated": "2021-06-05"
   },
   {
     "name": "Veeam",
@@ -426,7 +500,8 @@
     ],
     "source": "jhoughes/veeam.excalidrawlib",
     "preview": "jhoughes/veeam.png",
-    "date": "2021-03-23"
+    "created": "2021-03-23",
+    "updated": "2021-03-23"
   },
   {
     "name": "Data Science logos",
@@ -443,7 +518,8 @@
     ],
     "source": "farisology/data-science.excalidrawlib",
     "preview": "farisology/data-science.png",
-    "date": "2021-06-05"
+    "created": "2021-06-05",
+    "updated": "2021-06-05"
   },
   {
     "name": "Arduino Boards",
@@ -456,7 +532,8 @@
     ],
     "source": "rkjc/arduino-boards.excalidrawlib",
     "preview": "rkjc/arduino-boards.png",
-    "date": "2021-03-28"
+    "created": "2021-03-28",
+    "updated": "2021-03-28"
   },
   {
     "name": "Schematic Symbols",
@@ -469,7 +546,22 @@
     ],
     "source": "rkjc/schematic-symbols.excalidrawlib",
     "preview": "rkjc/schematic-symbols.png",
-    "date": "2021-04-04"
+    "created": "2021-04-04",
+    "updated": "2021-04-04"
+  },
+  {
+    "name": "Cloud",
+    "description": "Collection of symbols related to cloud artefacts (logos of Kubernetes, Gardener, AWS, Azure, GCP and icons for illustrating architectures).",
+    "authors": [
+      {
+        "name": "rfranzke",
+        "url": "https://twitter.com/rafaelfranzke"
+      }
+    ],
+    "source": "cloud/cloud.excalidrawlib",
+    "preview": "cloud/cloud.png",
+    "created": "2021-06-07",
+    "updated": "2021-06-07"
   },
   {
     "name": "HTML, CSS and JS logos",
@@ -482,7 +574,8 @@
     ],
     "source": "madhusuthanan-b/html-css-js-icons.excalidrawlib",
     "preview": "madhusuthanan-b/preview-html-css-js-logo.PNG",
-    "date": "2021-05-01"
+    "created": "2021-05-01",
+    "updated": "2021-05-01"
   },
   {
     "name": "Emojis",
@@ -495,7 +588,8 @@
     ],
     "source": "anumithaapollo12/emojis.excalidrawlib",
     "preview": "anumithaapollo12/emojis.png",
-    "date": "2021-05-08"
+    "created": "2021-05-08",
+    "updated": "2021-05-08"
   },
   {
     "name": "Redis Grafana",
@@ -508,11 +602,12 @@
     ],
     "source": "mikhailredis/redis-grafana.excalidrawlib",
     "preview": "mikhailredis/redis-grafana.png",
-    "date": "2021-05-08"
+    "created": "2021-05-08",
+    "updated": "2021-05-08"
   },
   {
     "name": "AWS Simple Icons",
-    "description": "A collection of all AWS Simple Icons",
+    "description": "A collection of AWS Simple Icons with 3 different flavours (Monochrome, Colour and Colour with description): EC2, RDS, S3, SQS and Lambda. More coming soon...",
     "authors": [
       {
         "name": "husainkhambaty",
@@ -521,7 +616,8 @@
     ],
     "source": "husainkhambaty/aws-simple-icons.excalidrawlib",
     "preview": "husainkhambaty/aws-simple-icons.png",
-    "date": "2021-05-08"
+    "created": "2021-05-08",
+    "updated": "2021-05-08"
   },
   {
     "name": "Computers",
@@ -534,7 +630,8 @@
     ],
     "source": "ei-au/computers.excalidrawlib",
     "preview": "ei-au/computers.png",
-    "date": "2021-05-08"
+    "created": "2021-05-08",
+    "updated": "2021-05-08"
   },
   {
     "name": "Front End Tools & Technologies",
@@ -547,7 +644,8 @@
     ],
     "source": "madhusuthanan-b/front-end-tech-and-tools.excalidrawlib",
     "preview": "madhusuthanan-b/preview-front-end-tech-and-tools.PNG",
-    "date": "2021-05-12"
+    "created": "2021-05-12",
+    "updated": "2021-05-12"
   },
   {
     "name": "Architecture floor plan symbols",
@@ -560,7 +658,22 @@
     ],
     "source": "Arqtangeles/architecture.excalidrawlib",
     "preview": "Arqtangeles/architecture-floorplan-symbolsV2.png",
-    "date": "2021-05-14"
+    "created": "2021-05-14",
+    "updated": "2021-05-14"
+  },
+  {
+    "name": "Team Topologies",
+    "description": "Collection of shapes to describe your organization's Team Topology (as defined by https://teamtopologies.com)",
+    "authors": [
+      {
+        "name": "Nikordaris",
+        "url": "https://github.com/nikordaris"
+      }
+    ],
+    "source": "nikordaris/team-topologies.excalidrawlib",
+    "preview": "nikordaris/Team-Topologies.png",
+    "created": "2021-07-27",
+    "updated": "2021-07-27"
   },
   {
     "name": "Azure cloud services icons",
@@ -573,7 +686,8 @@
     ],
     "source": "youritjang/azure-cloud-services.excalidrawlib",
     "preview": "youritjang/azure-cloud-services.png",
-    "date": "2021-06-03"
+    "created": "2021-06-03",
+    "updated": "2021-06-03"
   },
   {
     "name": "Music Instruments",
@@ -586,6 +700,343 @@
     ],
     "source": "l8y/music-instruments.excalidrawlib",
     "preview": "l8y/music-instruments.png",
-    "date": "2021-10-10"
+    "created": "2021-10-27",
+    "updated": "2021-10-27"
+  },
+  {
+    "name": "Customer Journey Map",
+    "description": "For creating your own Customer Journey Map, it has small and big templates.",
+    "authors": [
+      {
+        "name": "Wiktoria Mielcarek / Braweria",
+        "url": "https://github.com/braweria"
+      }
+    ],
+    "source": "braweria/customer-journey-map.excalidrawlib",
+    "preview": "braweria/customer-journey-map.png",
+    "created": "2021-06-10",
+    "updated": "2021-06-10"
+  },
+  {
+    "name": "Sticky Notes",
+    "description": "Post its in every color for your design thinking sessions.",
+    "authors": [
+      {
+        "name": "ferminrp",
+        "url": "https://github.com/ferminrp"
+      }
+    ],
+    "source": "ferminrp/post-it.excalidrawlib",
+    "preview": "ferminrp/post-it.png",
+    "created": "2021-06-20",
+    "updated": "2021-06-20"
+  },
+  {
+    "name": "Gantt Diagram",
+    "description": "A Gantt diagram template you can use to plan your projects.",
+    "authors": [
+      {
+        "name": "ferminrp",
+        "url": "https://github.com/ferminrp"
+      }
+    ],
+    "source": "ferminrp/gantt.excalidrawlib",
+    "preview": "ferminrp/gantt.png",
+    "created": "2021-06-22",
+    "updated": "2021-06-22"
+  },
+  {
+    "name": "NSX-T VMware",
+    "description": "A collection of icons used for design documents including NSX-T VMware components. RunNSX",
+    "authors": [
+      {
+        "name": "Karel Novak",
+        "url": "https://github.com/novakkkarel"
+      }
+    ],
+    "source": "novakkkarel/nsx-t-vmware.excalidrawlib",
+    "preview": "novakkkarel/nsx-t-vmware.png",
+    "created": "2021-06-21",
+    "updated": "2021-06-21"
+  },
+  {
+    "name": "Basic shapes",
+    "description": "Basic shapes for simple drawings.",
+    "authors": [
+      {
+        "name": "Pablo Gil Fernández",
+        "url": "https://github.com/pgilfernandez"
+      }
+    ],
+    "source": "pgilfernandez/basic-shapes.excalidrawlib",
+    "preview": "pgilfernandez/basic-shapes.png",
+    "created": "2021-06-22",
+    "updated": "2021-06-22"
+  },
+  {
+    "name": "Chess set",
+    "description": "Chess board and pieces",
+    "authors": [
+      {
+        "name": "Pret Bram",
+        "url": "https://www.pretbram.com"
+      }
+    ],
+    "source": "pret/chess-set.excalidrawlib",
+    "preview": "pret/chess-set.png",
+    "created": "2021-06-26",
+    "updated": "2021-06-26"
+  },
+  {
+    "name": "Random figure drawings",
+    "description": "Random figure drawings for logos and much more.",
+    "authors": [
+      {
+        "name": "Vasudevatirupathinaidu",
+        "url": "https://twitter.com/vasudev617"
+      }
+    ],
+    "source": "Vasudevatirupathinaidu/random-figure-drawings.excalidrawlib",
+    "preview": "Vasudevatirupathinaidu/random-figure-drawings.png",
+    "created": "2021-06-25",
+    "updated": "2021-06-25"
+  },
+  {
+    "name": "Scrum board",
+    "description": "Scrum board for agile development",
+    "authors": [
+      {
+        "name": "Daniel Cortés Pichardo",
+        "url": "https://github.com/danimaniarqsoft"
+      }
+    ],
+    "source": "danimaniarqsoft/scrum-board.excalidrawlib",
+    "preview": "danimaniarqsoft/scrum-board.png",
+    "created": "2021-07-30",
+    "updated": "2021-07-30"
+  },
+  {
+    "name": "Common Screen Resolutions",
+    "description": "Frames for screens of various sizes",
+    "authors": [
+      {
+        "name": "dpalay",
+        "url": "https://github.com/dpalay"
+      }
+    ],
+    "source": "dpalay/common-screen-resolutions.excalidrawlib",
+    "preview": "dpalay/common-screen-resolutions.png",
+    "created": "2021-07-28",
+    "updated": "2021-07-28"
+  },
+  {
+    "name": "Awesome Slides",
+    "description": "A growing collection of templates for your next presentation.",
+    "authors": [
+      {
+        "name": "ferminrp",
+        "url": "https://github.com/ferminrp"
+      }
+    ],
+    "source": "ferminrp/awesome-slides.excalidrawlib",
+    "preview": "ferminrp/awesome-slides.png",
+    "created": "2021-07-29",
+    "updated": "2021-07-29"
+  },
+  {
+    "name": "Awesome Icons",
+    "description": "A growing collection of do whatever you want icons.",
+    "authors": [
+      {
+        "name": "ferminrp",
+        "url": "https://github.com/ferminrp"
+      }
+    ],
+    "source": "ferminrp/awesome-icons.excalidrawlib",
+    "preview": "ferminrp/awesome-icons.png",
+    "created": "2021-07-30",
+    "updated": "2021-07-30"
+  },
+  {
+    "name": "Shapes for UML & ER Diagrams",
+    "description": "An opinionated selection of shapes for UML & ER diagrams.",
+    "authors": [
+      {
+        "name": "BjoernKW",
+        "url": "https://github.com/BjoernKW"
+      }
+    ],
+    "source": "BjoernKW/UML-ER-library.excalidrawlib",
+    "preview": "BjoernKW/UML-ER-library.png",
+    "created": "2021-08-12",
+    "updated": "2021-08-12"
+  },
+  {
+    "name": "Decision flow control",
+    "description": "Yes/no condition boxes for diagramming.",
+    "authors": [
+      {
+        "name": "James Wiens",
+        "url": "https://github.com/aretecode"
+      }
+    ],
+    "source": "aretecode/decision-flow-control.excalidrawlib",
+    "preview": "aretecode/decision-flow-control.png",
+    "created": "2021-08-26",
+    "updated": "2021-08-27"
+  },
+  {
+    "name": "System Design Template",
+    "description": "A standard structure and process for efficiently creating system designs with fill-in-the blank components.",
+    "authors": [
+      {
+        "name": "James Wiens",
+        "url": "https://github.com/aretecode"
+      }
+    ],
+    "source": "aretecode/system-design-template.excalidrawlib",
+    "preview": "aretecode/system-design-template.png",
+    "created": "2021-09-23",
+    "updated": "2021-09-23"
+  },
+  {
+    "name": "Yellow box",
+    "description": "Opened yellow box",
+    "authors": [
+      {
+        "name": "Ivan Reznikov",
+        "url": "https://github.com/IvanReznikov"
+      }
+    ],
+    "source": "IvanReznikov/yellow-box.excalidrawlib",
+    "preview": "IvanReznikov/yellow-box.png",
+    "created": "2021-09-24",
+    "updated": "2021-09-24"
+  },
+  {
+    "name": "Veeam unofficial",
+    "description": "A collection of unofficial icons inspired from the Veeam Visio shapes we all know and like.",
+    "authors": [
+      {
+        "name": "Jorge de la Cruz",
+        "url": "https://www.jorgedelacruz.uk"
+      }
+    ],
+    "source": "jdelacruz/veeam_unofficial.excalidrawlib",
+    "preview": "jdelacruz/veeam_unofficial.png",
+    "created": "2021-09-21",
+    "updated": "2021-09-23"
+  },
+  {
+    "name": "Dev Ops Icons",
+    "description": "A collection of icons for Dev Ops work, including the hashistack: Nomad, Consul, Vault and Packer; Rundeck, Ansible, Jira, VScode, Elasticsearch, Ubuntu, Teams, Thanos, Traefik, Loki, Kubernetes, Openshift, Docker, Terraform, Slurm, Confluence, Github Actions, OpenFaaS and Gitea",
+    "authors": [
+      {
+        "name": "Mark Sharpley",
+        "url": "https://www.marksharpley.co.uk"
+      }
+    ],
+    "source": "markopolo123/dev_ops.excalidrawlib",
+    "preview": "markopolo123/dev_ops.png",
+    "created": "2021-09-21",
+    "updated": "2021-10-10"
+  },
+  {
+    "name": "Hexagonal Architecture",
+    "description": "Useful to diagram and learn more about Hexagonal (aka Ports and Adapters) Architecture by Alistair Cockburn and implementation by Jakub Nabrdalik. More information: https://gist.github.com/corlaez/32707a1c41485d056c00251206435c89",
+    "authors": [
+      {
+        "name": "Armando Cordova Pelaez",
+        "url": "https://github.com/corlaez"
+      }
+    ],
+    "source": "corlaez/hexagonal-architecture.excalidrawlib",
+    "preview": "corlaez/hexagonal-architecture.png",
+    "created": "2021-09-24",
+    "updated": "2021-09-24"
+  },
+  {
+    "name": "Arduino Micro",
+    "description": "Arduino Micro board",
+    "authors": [
+      {
+        "name": "Jason Coelho",
+        "url": "https://www.jasoncoelho.com/"
+      }
+    ],
+    "source": "jasoncoelho/arduino-micro.excalidrawlib",
+    "preview": "jasoncoelho/arduino-micro.png",
+    "created": "2021-09-30",
+    "updated": "2021-09-30"
+  },
+  {
+    "name": "Logic Gates",
+    "description": "A collection of basic logic gates that are sized such that the input and output lines snap to grid.",
+    "authors": [
+      {
+        "name": "Bhargav Modak",
+        "url": "https://github.com/TheBrahmnicBoy"
+      }
+    ],
+    "source": "thebrahmnicboy/Logic-Gates.excalidrawlib",
+    "preview": "thebrahmnicboy/Logic-Gates.png",
+    "created": "2021-10-03",
+    "updated": "2021-10-03"
+  },
+  {
+    "name": "Periodic Table",
+    "description": "A periodic table.",
+    "authors": [
+      {
+        "name": "gabi-as-cosmos",
+        "url": "https://github.com/Gabi-As-Cosmos"
+      }
+    ],
+    "source": "gabi-as-cosmos/periodic-table.excalidrawlib",
+    "preview": "gabi-as-cosmos/periodic-table.png",
+    "created": "2021-10-05",
+    "updated": "2021-10-05"
+  },
+  {
+    "name": "System Design Components",
+    "description": "Components useful in interviews and elsewhere to build high-level system diagrams.",
+    "authors": [
+      {
+        "name": "Rohan Pithadiya",
+        "url": "https://github.com/Rohanpithadiya"
+      }
+    ],
+    "source": "rohanp/system-design.excalidrawlib",
+    "preview": "rohanp/system-design.png",
+    "created": "2021-10-05",
+    "updated": "2021-10-05"
+  },
+  {
+    "name": "Maps",
+    "description": "Basic map components in style of Google Maps. One with location pins and set of location pins included.",
+    "authors": [
+      {
+        "name": "swissarmysam",
+        "url": "https://rampling.dev"
+      }
+    ],
+    "source": "swissarmysam/maps.excalidrawlib",
+    "preview": "swissarmysam/maps.png",
+    "created": "2021-10-10",
+    "updated": "2021-10-11"
+  },
+  {
+    "name": "Some more logos",
+    "description": "Android, Windows, Linux, Kong and Let's Encrypt logos",
+    "authors": [
+      {
+        "name": "esteevens",
+        "url": "https://github.com/esteevens"
+      }
+    ],
+    "source": "esteevens/logos.excalidrawlib",
+    "preview": "esteevens/logos.png",
+    "created": "2021-10-27",
+    "updated": "2021-10-27"
   }
 ]
