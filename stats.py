@@ -117,10 +117,11 @@ def main():
     total_downloads_week = 0
 
     while current_date <= today:
+        month = current_date.strftime("%Y-%m")
         day = current_date.strftime("%Y-%m-%d")
         # Load data from JSON if it's older than N days
         if current_date < today + timedelta(days=-2):
-            libraries_file = os.path.join(STATS_DIR, day + ".json")
+            libraries_file = os.path.join(STATS_DIR, month, day + ".json")
             try:
                 with open(libraries_file, "r") as day_totals:
                     libraries = json.load(day_totals)
@@ -142,7 +143,7 @@ def main():
             if current_date == today:
                 total_downloads_day += total
 
-        with open(os.path.join(STATS_DIR, day + ".json"), "w") as outfile:
+        with open(os.path.join(STATS_DIR, month, day + ".json"), "w") as outfile:
             json.dump(libraries, outfile, indent=2, sort_keys=True)
         with open(os.path.join(ROOT_DIR, "stats.json"), "w") as outfile:
             json.dump(stats, outfile, indent=2, sort_keys=True)
