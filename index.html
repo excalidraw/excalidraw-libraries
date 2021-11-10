@@ -77,6 +77,11 @@
         });
       };
     </script>
+
+    <!-- simplelightbox -->
+    <link rel="stylesheet" href="./assets/js/vendor/simple-lightbox.min.css">
+    <!--/ simplelightbox -->
+
   </head>
 
   <body>
@@ -151,7 +156,9 @@
       </header>
       <main>
         <div class="library" id="template">
-          <img src="{preview}" alt="{name}" />
+          <a href="{preview}" class="simplelightbox">
+            <img src="{preview}" alt="{name}" title="{name}" />
+          </a>
           <h2>{name} <a aria-label="Anchor" href="#{libraryId}">#</a></h2>
           <p class="authors">{authors}</p>
           <p class="downloads">
@@ -162,6 +169,7 @@
             <p class="updated">Updated: {updated}</p>
           </div>
           <p>{description}</p>
+          <p  class="simplelightbox-tip"><small>(Click on the image to enlarge)</small></p>
           <div class="actions">
             <a
               class="btn primary"
@@ -190,5 +198,18 @@
     </div>
     <script type="text/javascript" src="libraries.json"></script>
     <script src="script.js"></script>
+
+      <!-- simplelightbox -->
+      <script src="./assets/js/vendor/simple-lightbox.min.js"></script>
+      <script>
+        window.addEventListener("load", ()=>{
+          new SimpleLightbox('a.simplelightbox', {
+            nav: false,
+            showCounter: false
+          });
+        });
+      </script>
+      <!--/ simplelightbox -->
+    
   </body>
 </html>

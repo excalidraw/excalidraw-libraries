@@ -101,10 +101,22 @@ footer {
   border-bottom: 1px solid var(--border-color);
 }
 
+.library a.simplelightbox {
+  float: right;
+  position: relative;
+  z-index: 1001;
+  box-shadow: none;
+}
+
+.simplelightbox-tip {
+  margin-top: -10px;
+  opacity: 0.75;
+}
+
 .library img {
   float: right;
   max-height: 96px;
-  max-width: 50%;
+  /* max-width: 50%; */
   margin-left: 8px;
   padding: 4px;
   border: 1px solid var(--border-color);
