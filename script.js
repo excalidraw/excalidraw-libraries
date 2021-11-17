@@ -195,6 +195,7 @@ const populateLibraryList = (filterQuery = "") => {
     inner = inner.replace(/\{total\}/g, library.downloads.total);
     inner = inner.replace(/\{week\}/g, library.downloads.week);
     div.innerHTML = inner;
+    div.setAttribute("data-version", library.version || "1");
     template.after(div);
   }
 };
@@ -325,3 +326,24 @@ const footer = document.getElementById("footer");
 footer.innerHTML = footer.innerHTML.replace(/{currentYear}/g, () =>
   new Date().getFullYear(),
 );
+
+document.addEventListener("click", (event) => {
+  if (event.target.closest(".install-library")) {
+    const libraryItemNode = event.target.closest(".library");
+    const libraryVersion = parseInt(
+      libraryItemNode.getAttribute("data-version") || "1",
+    );
+
+    const referrer = urlParams.get("referrer");
+    const referrerVersion = parseInt(urlParams.get("version") || "1");
+
+    if (referrer && referrerVersion < libraryVersion) {
+      let message =
+        "It seems the Excalidraw editor's version is older than the library version. Installing this library may not work correctly.";
+      if (referrer.includes("excalidraw.com")) {
+        message += `\n\nTo ensure you are on the latest version, hard-reload the excalidraw.com tab (Mac: Cmd-Shift-R, Window: Ctrl-F5). If that doesn't work, ensure you only have a single excalidraw.com tab open.`;
+      }
+      window.alert(message);
+    }
+  }
+});
