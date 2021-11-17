@@ -22,10 +22,11 @@ If you want to test your library file, use the "Load" button in the library menu
 
 ## Guidelines
 
--  All library items should be generic and reusable.
+- All library items should be reusable and not just limited to your personal use case.
 - Don't republish (copy/paste) items from other libraries without making any significant changes.
 - Each item should stand on its own and add value.
 Eg Adding single square or a squiggly line doesn't meet standard.
+- Don't publish items which are easy to create directly. For example, a single arrow or a square.
 
 Check out our existing [libraries](https://libraries.excalidraw.com/?theme=light&sort=default) to get started.
 
