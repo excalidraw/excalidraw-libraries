@@ -17,6 +17,7 @@
 5. Hit the publish button (in blue), and fill out the details.
 
 ![Gif showing how to add a single object and export the library](public/submit-lib-for-review.gif)
+
 If you want to test your library file, use the "Load" button in the library menu to reimport it.
 
 ## Guidelines
