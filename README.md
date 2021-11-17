@@ -12,23 +12,21 @@
 - Open the library menu (by clicking on the "library" button or typing `9`)
 - The selected object should appear in a square. Click on it (you will see a `+` sign when hovering over it)
 
-4. Still in the library menu, click on "Export". You will get a `.excalidrawlib` file with all your added objects in it.
+4. Still in the library menu, select the libraries you want to publish (hover over a library item and you should see a checkbox, clicking on which will select the library item).
 
-![Gif showing how to add a single object and export the library](public/add_to_library_and_export.gif)
+5. Hit the publish button (in blue), and fill out the details.
+
+![Gif showing how to add a single object and export the library](public/submit-lib-for-review.gif)
 
 If you want to test your library file, use the "Load" button in the library menu to reimport it.
 
-## Add your own library to the list
+## Guidelines
 
-1. Fork this repo
-2. Create a directory with your `name` in the [`libraries`](libraries) (use `kebab-case` for all files and directories)
-   1. Upload your `.excalidrawlib` files
-   2. Upload the screenshot of the preview (as landscape PNG with max width 800px)
-3. Edit the [`libraries.json`](libraries.json) and add your entry to the end
-4. Create a Pull Request to this repo
+- All library items should be reusable and not just limited to your personal use case.
+- Don't republish (copy/paste) items from other libraries without making any significant changes.
+- In general, each item should be usable and stand on its own.
+- Don't publish items which are easy to create directly. For example, a single arrow or a square.
 
-Once reviewed and approved your library will appear on the [website](https://libraries.excalidraw.com), but keep in mind your libraries have to be for wide usage and not specific to your needs.
+Check out our existing [libraries](https://libraries.excalidraw.com/?theme=light&sort=default) to get started.
 
-### Notes
 
-By uploading libraries to our repo, you are automatically complying with our [MIT License](LICENSE), which in short means anyone can use them without restrictions.
