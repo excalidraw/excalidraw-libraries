@@ -28,5 +28,3 @@ If you want to test your library file, use the "Load" button in the library menu
 - Don't publish items which are easy to create directly. For example, a single arrow or a square.
 
 Check out our existing [libraries](https://libraries.excalidraw.com/?theme=light&sort=default) to get started.
-
-
