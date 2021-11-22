@@ -1059,12 +1059,63 @@
     "authors": [
       {
         "name": "Aleksandr Hovhannisyan",
+        "github": "https://github.com/AleksandrHovhannisyan",
+        "twitter": "https://twitter.com/hovhaDovah",
         "url": "https://github.com/AleksandrHovhannisyan"
       }
     ],
-    "source": "aleksandr-hovhannisyan/clocks.excalidraw",
+    "source": "aleksandr-hovhannisyan/clocks.excalidrawlib",
     "preview": "aleksandr-hovhannisyan/clocks.png",
-    "created": "2021-11-13",
-    "updated": "2021-11-13"
+    "created": "2021-11-22",
+    "updated": "2021-11-22",
+    "version": 2
+  },
+  {
+    "name": "Database",
+    "description": "A collection of icons and graphics for drawing database infrastructures in the cloud and on-premises. Initially created for Oracle databases to draw Lab environments, DB Security and Backup & Recovery use cases.",
+    "authors": [
+      {
+        "name": "Stefan Oehrli",
+        "url": "https://github.com/oehrlis"
+      }
+    ],
+    "source": "oehrlis/db-eng.excalidrawlib",
+    "preview": "oehrlis/db-eng.png",
+    "created": "2021-11-16",
+    "updated": "2021-11-16"
+  },
+  {
+    "name": "Baby Characters",
+    "description": "Drawings of famous baby characters.\nThe drawings were based on Pinterest and howtodrawforkids.com images.",
+    "authors": [
+      {
+        "name": "Ana",
+        "github": "https://github.com/claracavalcante",
+        "twitter": "https://twitter.com/anacavalc2",
+        "url": "https://github.com/claracavalcante"
+      }
+    ],
+    "source": "claracavalcante/baby-characters.excalidrawlib",
+    "preview": "claracavalcante/baby-characters.png",
+    "created": "2021-11-22",
+    "updated": "2021-11-22",
+    "version": 2
+  },
+  {
+    "name": "Some common cloud apps",
+    "description": "Library of common web applications. Mailchimp, GoDaddy, Zapier, Monday.com, Facebook, Instagram, TikTok, Stripe, NetSuite, WooCommerce, WordPress, ActiveCampaign, Office 365, Canva, Hootsuite",
+    "authors": [
+      {
+        "name": "Shane Williams",
+        "github": "https://github.com/KingHavok",
+        "twitter": "",
+        "url": "https://github.com/KingHavok"
+      }
+    ],
+    "source": "kinghavok/some-common-cloud-apps.excalidrawlib",
+    "preview": "kinghavok/some-common-cloud-apps.png",
+    "created": "2021-11-21",
+    "updated": "2021-11-21",
+    "version": 2
   }
 ]
