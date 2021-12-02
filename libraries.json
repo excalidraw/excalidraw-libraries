@@ -1134,5 +1134,22 @@
     "created": "2021-11-21",
     "updated": "2021-11-21",
     "version": 2
+  },
+  {
+    "name": "event storming semantics",
+    "description": "Domain Events - orange\n\nCommands - light blue\n\nAggregates - yellow\n\nIssues - red or purple\n\nUser Roles / Personas - yellow with stick figure\n\nViews - green\n\nBounded contexts - solid line, names on pink notes\n\nSubdomains - dashed lines",
+    "authors": [
+      {
+        "name": "Pablo Verduzco",
+        "github": "https://github.com/pabloverduzco",
+        "twitter": "",
+        "url": "https://www.pabloverduzco.dev/"
+      }
+    ],
+    "source": "pabloverduzco/event-storming-semantics.excalidrawlib",
+    "preview": "pabloverduzco/event-storming-semantics.jpg",
+    "created": "2021-12-02",
+    "updated": "2021-12-02",
+    "version": 2
   }
 ]
