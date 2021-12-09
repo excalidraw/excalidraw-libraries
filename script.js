@@ -135,6 +135,25 @@ const sortBy = {
   },
 };
 
+// -----------------------------------------------------------------------------
+const APP_NAMES = {
+  "Excalidraw+": "https://app.excalidraw.com",
+  Excalidraw: "https://excalidraw.com",
+  Excalideck: "https://excalideck.com",
+};
+
+let appName = "";
+
+const getAppName = (referrer) => {
+  return (appName =
+    appName ||
+    Object.entries(APP_NAMES).find(([appName, domain]) => {
+      return referrer.includes(domain);
+    })?.[0] ||
+    "Excalidraw");
+};
+// -----------------------------------------------------------------------------
+
 let libraries_ = [];
 let currSort = null;
 
@@ -181,6 +200,9 @@ const populateLibraryList = (filterQuery = "") => {
 
     const searchParams = new URLSearchParams(location.search);
     const referrer = searchParams.get("referrer") || "https://excalidraw.com";
+
+    inner = inner.replace(/\{appName\}/g, getAppName(referrer));
+
     const target = decodeURIComponent(searchParams.get("target") || "_blank");
     const useHash = searchParams.get("useHash");
     const csrfToken = searchParams.get("token");
