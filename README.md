@@ -29,3 +29,5 @@ If you want to test your library file, use the "Load" button in the library menu
 - Don't republish (copy/paste) items from other libraries without making any significant changes.
 
 Check out our existing [libraries](https://libraries.excalidraw.com/?theme=light&sort=default) to get started.
+
+Once the library is submitted for review, changes may be requested if the guidelines above are not followed or the quality doesn't meet the standards of the published libraries.
