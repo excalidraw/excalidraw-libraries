@@ -24,7 +24,7 @@ If you want to test your library file, use the "Load" button in the library menu
 
 - All library items should be reusable and not just limited to your personal use case.
 - In general, each item should be usable and stand on its own.
-- A library should be composed of at least several items (3 or more), and the items should be related to a single topic.
+- A library should be composed of at least several items (3 or more), and the items should be related to a single category.
 - Don't publish items which are easy to create directly. For example, a single arrow or a square.
 - Don't republish (copy/paste) items from other libraries without making any significant changes.
 
