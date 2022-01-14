@@ -243,13 +243,16 @@
     "authors": [
       {
         "name": "inwardmovement",
+        "github": "https://github.com/inwardmovement",
+        "twitter": "",
         "url": "https://inwardmovement.github.io"
       }
     ],
     "source": "inwardmovement/information-architecture.excalidrawlib",
-    "preview": "inwardmovement/information-architecture.png",
+    "preview": "inwardmovement/information-architecture.jpg",
     "created": "2021-01-11",
-    "updated": "2021-01-11"
+    "updated": "2022-01-10",
+    "version": 2
   },
   {
     "name": "IT Logos",
@@ -1137,7 +1140,7 @@
   },
   {
     "name": "AWS Architecture Icons",
-    "description": "A collection of AWS Icons : EC2,ELB,Lambda....Currently in development",
+    "description": "A collection of AWS Icons",
     "authors": [
       {
         "name": "Narhari Motivaras",
@@ -1148,8 +1151,181 @@
     ],
     "source": "narhari-motivaras/aws-architecture-icons.excalidrawlib",
     "preview": "narhari-motivaras/aws-architecture-icons.jpg",
-    "created": "2021-11-28",
-    "updated": "2021-11-28",
+    "created": "2022-01-14",
+    "updated": "2022-01-14",
+    "version": 2
+  },
+  {
+    "name": "Network topology icons",
+    "description": "Several of the most common network topology icons.",
+    "authors": [
+      {
+        "name": "dwelle",
+        "github": "https://github.com/dwelle",
+        "twitter": "https://twitter.com/dluzar",
+        "url": "https://twitter.com/dluzar"
+      }
+    ],
+    "source": "dwelle/network-topology-icons.excalidrawlib",
+    "preview": "dwelle/network-topology-icons.jpg",
+    "created": "2021-12-02",
+    "updated": "2021-12-02",
+    "version": 2
+  },
+  {
+    "name": "Medicine",
+    "description": "Stencils that I used to visually represent objects when studying medicine",
+    "authors": [
+      {
+        "name": "Ernest Noah",
+        "github": "https://github.com/Sudotachy",
+        "twitter": "",
+        "url": "https://github.com/Sudotachy"
+      }
+    ],
+    "source": "sudotachy/medicine.excalidrawlib",
+    "preview": "sudotachy/medicine.jpg",
+    "created": "2022-01-14",
+    "updated": "2022-01-14",
+    "version": 2
+  },
+  {
+    "name": "3D Shapes",
+    "description": "A couple of 3D shapes",
+    "authors": [
+      {
+        "name": "Andre Costa",
+        "github": "https://github.com/andreandreandradecosta",
+        "twitter": "",
+        "url": "https://github.com/andreandreandradecosta"
+      }
+    ],
+    "source": "andreandreandradecosta/3d-shapes.excalidrawlib",
+    "preview": "andreandreandradecosta/3d-shapes.jpg",
+    "created": "2022-01-14",
+    "updated": "2022-01-14",
+    "version": 2
+  },
+  {
+    "name": "Mathematical Symbols",
+    "description": "Commonly-used symbols in mathematics. Symbols are designed to look good next to text in the Virgil (hand-writing) font.",
+    "authors": [
+      {
+        "name": "J-J",
+        "github": "https://github.com/@jjadup",
+        "twitter": "",
+        "url": "https://github.com/@jjadup"
+      }
+    ],
+    "source": "jjadup/mathematical-symbols.excalidrawlib",
+    "preview": "jjadup/mathematical-symbols.jpg",
+    "created": "2022-01-14",
+    "updated": "2022-01-14",
+    "version": 2
+  },
+  {
+    "name": "Digital Signal Processing",
+    "description": "A set of operation blocks for digital signal processing",
+    "authors": [
+      {
+        "name": "Robin Müller",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "robin-muller/digital-signal-processing.excalidrawlib",
+    "preview": "robin-muller/digital-signal-processing.jpg",
+    "created": "2022-01-10",
+    "updated": "2022-01-10"
+  },
+  {
+    "name": "Math Teacher Library",
+    "description": "This library has been designed to include some of the common day-to-day diagrams that a math teacher would find helpful when using the Excalidraw site. Currently the diagram include the following items (not in order) that teachers from a variety of grade levels would find useful:\n\n1) Basic Venn Diagram\n2) Blank Graph Paper Coordinate Grid\n3) Dotted Coordinate Grid With Axes Labeled\n4) Coordinate Grid With Axes Labeled\n5) Number Line with Labels\n6) Blank Number Line\n7) Sphere Diagram\n8) Sphere Diagram Colored\n9) Rectangular Prism Cube\n10) Rectangular Prism Cuboid\n11) Parallel Lines and Transversal With Symbol\n12) Parallel Lines and Transversal Without Symbol",
+    "authors": [
+      {
+        "name": "Yatrik Patel",
+        "github": "https://github.com/https://github.com/ytrkptl",
+        "twitter": "https://twitter.com/ytrkptl",
+        "url": "https://www.yatrik.dev/"
+      }
+    ],
+    "source": "https-github-com-ytrkptl/math-teacher-library.excalidrawlib",
+    "preview": "https-github-com-ytrkptl/math-teacher-library.jpg",
+    "created": "2022-01-10",
+    "updated": "2022-01-10"
+  },
+  {
+    "name": "Icons",
+    "description": "an icon library",
+    "authors": [
+      {
+        "name": "xxxDeveloper",
+        "github": "https://github.com/xxxDeveloper",
+        "twitter": "",
+        "url": "https://github.com/xxxDeveloper"
+      }
+    ],
+    "source": "xxxdeveloper/icons.excalidrawlib",
+    "preview": "xxxdeveloper/icons.jpg",
+    "created": "2022-01-08",
+    "updated": "2022-01-08",
+    "version": 2
+  },
+  {
+    "name": "GCP Icons",
+    "description": "Google Cloud Platform product icons.",
+    "authors": [
+      {
+        "name": "Clément Bosc",
+        "github": "https://github.com/clementbosc",
+        "twitter": "https://twitter.com/clementbosc_",
+        "url": "https://github.com/clementbosc"
+      }
+    ],
+    "source": "clementbosc/gcp-icons.excalidrawlib",
+    "preview": "clementbosc/gcp-icons.jpg",
+    "created": "2022-01-12",
+    "updated": "2022-01-13",
+    "version": 2
+  },
+  {
+    "name": "System Icons",
+    "description": "Some system icons",
+    "authors": [
+      {
+        "name": "xxxDeveloper",
+        "github": "https://github.com/xxxDeveloper",
+        "twitter": "",
+        "url": "https://github.com/xxxDeveloper"
+      }
+    ],
+    "source": "xxxdeveloper/system-icons.excalidrawlib",
+    "preview": "xxxdeveloper/system-icons.jpg",
+    "created": "2022-01-14",
+    "updated": "2022-01-14"
+  },
+  {
+    "name": "Red Hat",
+    "description": "Red Hat product icons",
+    "authors": [
+      {
+        "name": "Adel Zaalouk",
+        "github": "https://github.com/zanetworker",
+        "twitter": "https://twitter.com/zanetworker",
+        "url": "https://adelzaalouk.me/"
+      },
+      {
+        "name": "David Luzar",
+        "github": "https://github.com/dwelle",
+        "twitter": "https://twitter.com/dluzar",
+        "url": "https://twitter.com/dluzar"
+      }
+    ],
+    "source": "zanetworker/red-hat.excalidrawlib",
+    "preview": "zanetworker/red-hat.jpg",
+    "created": "2022-01-14",
+    "updated": "2022-01-14",
     "version": 2
   }
 ]
