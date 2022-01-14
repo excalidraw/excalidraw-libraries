@@ -14,6 +14,7 @@
     "format": "yarn format:prettier && yarn format:python",
     "format:prettier": "prettier . --write",
     "format:python": "black .",
-    "postinstall": "pip install --upgrade google-api-python-client oauth2client black"
+    "postinstall": "pip install --upgrade google-api-python-client oauth2client black",
+    "validate:libraries": "node ./scripts/validate-libraries.js"
   }
 }
