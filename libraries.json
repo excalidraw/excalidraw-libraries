@@ -1232,7 +1232,7 @@
   },
   {
     "name": "Network topology icons",
-    "description": "Several of the most common network topology icons.",
+    "description": "Several of the most common network topology icons. Router, VPN, Firewall, Server, Switch, Hub, Client, Computer.",
     "authors": [
       {
         "name": "dwelle",
@@ -1244,7 +1244,7 @@
     "source": "dwelle/network-topology-icons.excalidrawlib",
     "preview": "dwelle/network-topology-icons.jpg",
     "created": "2021-12-02",
-    "updated": "2021-12-02",
+    "updated": "2022-01-19",
     "version": 2
   },
   {
@@ -1472,6 +1472,23 @@
     "preview": "eho9734/2022-gantt.jpg",
     "created": "2022-01-20",
     "updated": "2022-01-20",
+    "version": 2
+  },
+  {
+    "name": "Network elements",
+    "description": "Several common network element icons.",
+    "authors": [
+      {
+        "name": "samu_x86",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "samu_x86/network-elements.excalidrawlib",
+    "preview": "samu_x86/network-elements.jpg",
+    "created": "2022-01-19",
+    "updated": "2022-01-19",
     "version": 2
   }
 ]
