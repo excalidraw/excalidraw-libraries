@@ -1490,5 +1490,22 @@
     "created": "2022-01-19",
     "updated": "2022-01-19",
     "version": 2
+  },
+  {
+    "name": "Message Queue components",
+    "description": "Components for Message Queue diagrams (such as for IBM MQ)",
+    "authors": [
+      {
+        "name": "Andrew Ruan",
+        "github": "https://github.com/coexist",
+        "twitter": "",
+        "url": "https://github.com/coexist"
+      }
+    ],
+    "source": "coexist/mq.excalidrawlib",
+    "preview": "coexist/mq.jpg",
+    "created": "2022-01-20",
+    "updated": "2022-01-20",
+    "version": 2
   }
 ]
