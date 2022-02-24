@@ -1575,5 +1575,22 @@
     "created": "2022-02-20",
     "updated": "2022-02-20",
     "version": 2
+  },
+  {
+    "name": "Algorithms and Data Structures (including Trees !)",
+    "description": "A drawing library for all things related to Algorithms and Data Structures (including Trees).\nIt includes drawing useful for : \n- Arrays (numbered and not numbered, length 10 or 20)\n- Datasets & Hashing table ( numbered, size 5)\n- Datatables (vertical, size 5)\n- Linked lists (vertical size 10 and horizontal size 5)\n- Binary trees (height 1, 2, 3 and 4)\n- Heap trees (idem)\n- AVL (Adelson-Velsky Landis) trees (idem)\n- Red-black trees (idem + single black NIL, double black NIL, right and left rotation arrows, black filter and red filter)\n- Splay trees\n- Matrices (numbered, 3x3, 4x4, 5x5, 10x10)\n\nAll numbered structures start by 0 ;) ",
+    "authors": [
+      {
+        "name": "Lucas Roland",
+        "github": "https://github.com/intradeus",
+        "twitter": "",
+        "url": "https://github.com/intradeus"
+      }
+    ],
+    "source": "intradeus/algorithms-and-data-structures-including-trees.excalidrawlib",
+    "preview": "intradeus/algorithms-and-data-structures-including-trees.jpg",
+    "created": "2022-02-24",
+    "updated": "2022-02-24",
+    "version": 2
   }
 ]
