@@ -1626,5 +1626,22 @@
     "created": "2022-02-27",
     "updated": "2022-02-27",
     "version": 2
+  },
+  {
+    "name": "Algorithms and Data Structures (Arrays, Matrices, Trees ...)",
+    "description": "A drawing library for all things related to Algorithms and Data Structures (including Trees).\nIt includes drawing useful for :\n- Arrays (numbered and not numbered, length 10 or 20)\n- Datasets & Hashing table ( numbered, size 5)\n- Datatables (vertical, size 5)\n- Linked lists (vertical and horizontal, size 5)\n- Trees (height 1, 2, 3 and 4) (Binary : Heap, Red-black, AVL, Splay)\n- Red-black tree items ( single black NIL, double black NIL, right and left rotation arrows, black filter and red filter)\n- Matrices (numbered, 3x3, 4x4, 5x5, 10x10)\n\nAll numbered structures start by 0 ;)",
+    "authors": [
+      {
+        "name": "intradeus",
+        "github": "https://github.com/intradeus",
+        "twitter": "",
+        "url": "https://github.com/intradeus"
+      }
+    ],
+    "source": "intradeus/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
+    "preview": "intradeus/algorithms-and-data-structures-arrays-matrices-trees.jpg",
+    "created": "2022-02-28",
+    "updated": "2022-02-28",
+    "version": 2
   }
 ]
