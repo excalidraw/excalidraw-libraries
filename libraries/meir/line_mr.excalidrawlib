@@ -1,0 +1,100 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "id": "VAoXhGgtgcrqCWmhxHK87",
+      "status": "published",
+      "elements": [
+        {
+          "id": "xfIp4xBu_rQPR56x25t1B",
+          "type": "arrow",
+          "x": -319.5000000000001,
+          "y": -185.2435897435899,
+          "width": 0,
+          "height": 94.00000000000011,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#94d2bd",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "SC4RxeVXppAfYOT0_uMHr"
+          ],
+          "strokeSharpness": "sharp",
+          "seed": 2010233936,
+          "version": 132,
+          "versionNonce": 1399259216,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1646622492836,
+          "link": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              94.00000000000011
+            ]
+          ],
+          "lastCommittedPoint": [
+            0,
+            71.00000000000009
+          ],
+          "startBinding": {
+            "elementId": "atvGq2mGiOP0Z5Pu2lHRh",
+            "focus": -0.05952380952381,
+            "gap": 1
+          },
+          "endBinding": {
+            "elementId": "QiPb7aMV28Nd9y4vXa2hF",
+            "focus": -0.53125,
+            "gap": 3.743589743589723
+          },
+          "startArrowhead": null,
+          "endArrowhead": "triangle"
+        },
+        {
+          "id": "atvGq2mGiOP0Z5Pu2lHRh",
+          "type": "ellipse",
+          "x": -327.9761904761906,
+          "y": -202.4047619047621,
+          "width": 16.000000000000057,
+          "height": 17,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#94d2bd",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "SC4RxeVXppAfYOT0_uMHr"
+          ],
+          "strokeSharpness": "sharp",
+          "seed": 958993488,
+          "version": 126,
+          "versionNonce": 985918640,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "xfIp4xBu_rQPR56x25t1B",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1646622492836,
+          "link": null
+        }
+      ],
+      "created": 1646622502876,
+      "name": "arrow"
+    }
+  ]
+}
