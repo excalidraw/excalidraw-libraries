@@ -159,6 +159,41 @@ let currSort = null;
 
 const searchKeys = ["name", "description"];
 
+let IMG_INTERSECTION_OBSERVER = null;
+
+const initImageLazyLoading = () => {
+  if (IMG_INTERSECTION_OBSERVER) {
+    IMG_INTERSECTION_OBSERVER.disconnect();
+  }
+  const lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+  
+  if ("IntersectionObserver" in window) {
+    const lazyImageObserver = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            let lazyImage = entry.target;
+            lazyImage.src = lazyImage.dataset.src;
+            lazyImage.classList.remove("lazy");
+            lazyImageObserver.unobserve(lazyImage);
+          }
+        });
+      },
+      {
+        rootMargin: "0px 0px 500px 0px",
+      },
+    );
+    IMG_INTERSECTION_OBSERVER = lazyImageObserver;
+    lazyImages.forEach(function (lazyImage) {
+      lazyImageObserver.observe(lazyImage);
+    });
+  } else {
+    lazyImages.forEach(function (lazyImage) {
+      lazyImage.src = lazyImage.dataset.src;
+    });
+  }
+};
+
 const populateLibraryList = (filterQuery = "") => {
   const items = [
     ...document.getElementById("template").parentNode.children,
@@ -220,6 +255,7 @@ const populateLibraryList = (filterQuery = "") => {
     div.setAttribute("data-version", library.version || "1");
     template.after(div);
   }
+  initImageLazyLoading();
 };
 
 const handleSort = (sortType) => {
