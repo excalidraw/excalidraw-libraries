@@ -166,7 +166,7 @@ const initImageLazyLoading = () => {
     IMG_INTERSECTION_OBSERVER.disconnect();
   }
   const lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
-  
+
   if ("IntersectionObserver" in window) {
     const lazyImageObserver = new IntersectionObserver(
       function (entries) {
