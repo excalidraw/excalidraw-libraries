@@ -1,5 +1,3 @@
-const _ = require("lodash");
-
 const libraries = require("../libraries.json");
 
 const red = (str) => (process.env.CI ? `\x1b[31m${str}\x1b[0m` : str);
@@ -29,12 +27,13 @@ const assertExistingIds = () => {
 };
 
 const assertUniqueIds = () => {
-  const groups = _.groupBy(libraries, "id");
+  const ids = new Set();
   const duplicateIds = [];
-  for (const [id, libs] of Object.entries(groups)) {
-    if (libs.length > 1) {
-      duplicateIds.push(id);
+  for (const lib of libraries) {
+    if (ids.has(lib.id)) {
+      duplicateIds.push(lib.id);
     }
+    ids.add(lib.id);
   }
   if (duplicateIds.length) {
     throw new Error(red(`Found duplicate ids: "${duplicateIds.join(`", "`)}"`));
