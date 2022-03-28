@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@excalidraw/prettier-config": "1.0.2",
+    "http-server": "^14.1.0",
     "node-static": "0.7.11",
     "prettier": "2.5.1"
   },
@@ -8,6 +9,7 @@
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
     "start": "node index.js",
+    "dev": "http-server .",
     "build": "yarn build:key && yarn build:stats && yarn format",
     "build:stats": "python3 stats.py",
     "build:key": "python3 key.py",

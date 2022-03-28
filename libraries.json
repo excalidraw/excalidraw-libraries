@@ -1338,7 +1338,7 @@
     "authors": [
       {
         "name": "Yatrik Patel",
-        "github": "https://github.com/https://github.com/ytrkptl",
+        "github": "https://github.com/ytrkptl",
         "twitter": "https://twitter.com/ytrkptl",
         "url": "https://www.yatrik.dev/"
       }
@@ -1521,8 +1521,280 @@
     ],
     "source": "risjain/electrical-engineering.excalidrawlib",
     "preview": "risjain/electrical-engineering.jpg",
-    "created": "2022-01-26",
-    "updated": "2022-01-26",
+    "created": "2022-03-28",
+    "updated": "2022-03-28",
+    "version": 2
+  },
+  {
+    "name": "Retail peripherals",
+    "description": "A collection of retail point of sale peripherals.",
+    "authors": [
+      {
+        "name": "esteevens",
+        "github": "https://github.com/esteevens",
+        "twitter": "https://twitter.com/@esteevens",
+        "url": "https://github.com/esteevens"
+      }
+    ],
+    "source": "esteevens/retail-peripherals.excalidrawlib",
+    "preview": "esteevens/retail-peripherals.jpg",
+    "created": "2022-01-28",
+    "updated": "2022-01-28",
+    "version": 2
+  },
+  {
+    "name": "Fibre Network",
+    "description": "Useful Fibre Network Assets",
+    "authors": [
+      {
+        "name": "FibreNinja",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "fibreninja/fibre-network.excalidrawlib",
+    "preview": "fibreninja/fibre-network.jpg",
+    "created": "2022-02-03",
+    "updated": "2022-02-03",
+    "version": 2
+  },
+  {
+    "name": "Biology",
+    "description": "A library of biology diagrams",
+    "authors": [
+      {
+        "name": "Sanketh",
+        "github": "",
+        "twitter": "https://twitter.com/@sharathsanketh",
+        "url": "https://www.linkedin.com/in/sankethsharath/"
+      }
+    ],
+    "source": "sharathsanketh/biology.excalidrawlib",
+    "preview": "sharathsanketh/biology.jpg",
+    "created": "2022-02-27",
+    "updated": "2022-02-27",
+    "version": 2
+  },
+  {
+    "name": "Valentine's Day",
+    "description": "Valentine's Day focused library full of hearts, love, and bears.",
+    "authors": [
+      {
+        "name": "Excalidraw Team",
+        "github": "https://github.com/excalidraw",
+        "twitter": "https://twitter.com/excalidraw",
+        "url": "https://github.com/excalidraw"
+      }
+    ],
+    "source": "excalidraw/valentine-s-day.excalidrawlib",
+    "preview": "excalidraw/valentine-s-day.jpg",
+    "created": "2022-02-14",
+    "updated": "2022-02-14",
+    "version": 2
+  },
+  {
+    "name": "Computer parts",
+    "description": "Computer hardware and peripherals",
+    "authors": [
+      {
+        "name": "Bruno Rocha",
+        "github": "https://github.com/rochacbruno",
+        "twitter": "https://twitter.com/rochacbruno",
+        "url": "http://beacons.ai/rochacbruno"
+      }
+    ],
+    "source": "rochacbruno/computer-parts.excalidrawlib",
+    "preview": "rochacbruno/computer-parts.jpg",
+    "created": "2022-02-20",
+    "updated": "2022-02-20",
+    "version": 2
+  },
+  {
+    "name": "secure_shell",
+    "description": "file transfers",
+    "authors": [
+      {
+        "name": "Kishore",
+        "github": "https://github.com/kvchitrapu",
+        "twitter": "",
+        "url": "https://github.com/kvchitrapu"
+      }
+    ],
+    "source": "kvchitrapu/secure_shell.excalidrawlib",
+    "preview": "kvchitrapu/secure_shell.jpg",
+    "created": "2022-02-21",
+    "updated": "2022-02-21",
+    "version": 2
+  },
+  {
+    "name": "Data sources",
+    "description": "Data sources, protocols, apis, and sinks - USB, email, FTP, kafka, GraphQL, databases, RESTful interfaces",
+    "authors": [
+      {
+        "name": "Kishore",
+        "github": "https://github.com/kvchitrapu",
+        "twitter": "",
+        "url": "https://github.com/kvchitrapu"
+      }
+    ],
+    "source": "kvchitrapu/data-sources.excalidrawlib",
+    "preview": "kvchitrapu/data-sources.jpg",
+    "created": "2022-02-27",
+    "updated": "2022-02-27",
+    "version": 2
+  },
+  {
+    "name": "Algorithms and Data Structures (Arrays, Matrices, Trees ...)",
+    "description": "A drawing library for all things related to Algorithms and Data Structures (including Trees).\nIt includes drawing useful for :\n- Arrays (numbered and not numbered, length 10 or 20)\n- Datasets & Hashing table ( numbered, size 5)\n- Datatables (vertical, size 5)\n- Linked lists (vertical and horizontal, size 5)\n- Trees (height 1, 2, 3 and 4) (Binary : Heap, Red-black, AVL, Splay)\n- Red-black tree items ( single black NIL, double black NIL, right and left rotation arrows, black filter and red filter)\n- Matrices (numbered, 3x3, 4x4, 5x5, 10x10)\n\nAll numbered structures start by 0 ;)",
+    "authors": [
+      {
+        "name": "intradeus",
+        "github": "https://github.com/intradeus",
+        "twitter": "",
+        "url": "https://github.com/intradeus"
+      }
+    ],
+    "source": "intradeus/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
+    "preview": "intradeus/algorithms-and-data-structures-arrays-matrices-trees.jpg",
+    "created": "2022-02-28",
+    "updated": "2022-02-28",
+    "version": 2
+  },
+  {
+    "name": "Barotrauma",
+    "description": "Interior items for the barotrauma game https://barotraumagame.com/",
+    "authors": [
+      {
+        "name": "Daniel Perez Alvarez",
+        "github": "https://github.com/danielpza",
+        "twitter": "",
+        "url": "https://github.com/danielpza"
+      }
+    ],
+    "source": "danielpza/barotrauma.excalidrawlib",
+    "preview": "danielpza/barotrauma.jpg",
+    "created": "2022-03-26",
+    "updated": "2022-03-26",
+    "version": 2
+  },
+  {
+    "name": "DS visualizations",
+    "description": "Here is my visualizations for DS concepts. I heard that DSists \nalso enjoy obsidian and excalidraw. So.. Take it c:",
+    "authors": [
+      {
+        "name": "Andrew Epif",
+        "github": "https://github.com/Sly-Dog",
+        "twitter": "",
+        "url": "https://andrew-the-dsist.tilda.ws/"
+      }
+    ],
+    "source": "https-github-com-sly-dog/ds-visualizations.excalidrawlib",
+    "preview": "https-github-com-sly-dog/ds-visualizations.jpg",
+    "created": "2022-03-26",
+    "updated": "2022-03-26",
+    "version": 2
+  },
+  {
+    "name": "Racks and Servers / Components",
+    "description": "Quick diagrams for datacenter layout and server / component documentation",
+    "authors": [
+      {
+        "name": "Jorge Godoy",
+        "github": "https://github.com/jgodoy",
+        "twitter": "",
+        "url": "https://github.com/jgodoy"
+      }
+    ],
+    "source": "jgodoy/racks-and-servers-components.excalidrawlib",
+    "preview": "jgodoy/racks-and-servers-components.jpg",
+    "created": "2022-03-26",
+    "updated": "2022-03-26",
+    "version": 2
+  },
+  {
+    "name": "Office Items",
+    "description": "A collection of everyday office items.",
+    "authors": [
+      {
+        "name": "Robin Müller",
+        "github": "https://github.com/m47812",
+        "twitter": "",
+        "url": "https://github.com/m47812"
+      }
+    ],
+    "source": "m47812/office-items.excalidrawlib",
+    "preview": "m47812/office-items.jpg",
+    "created": "2022-03-26",
+    "updated": "2022-03-26",
+    "version": 2
+  },
+  {
+    "name": "Boardgame",
+    "description": "Dice and other objects to help in boardgames",
+    "authors": [
+      {
+        "name": "pocomane",
+        "github": "https://github.com/pocomane",
+        "twitter": "",
+        "url": "https://github.com/pocomane"
+      }
+    ],
+    "source": "pocomane/boardgame.excalidrawlib",
+    "preview": "pocomane/boardgame.jpg",
+    "created": "2022-03-26",
+    "updated": "2022-03-26",
+    "version": 2
+  },
+  {
+    "name": "Circuit Components",
+    "description": "A collection of circuit components for easy circuit diagramming.",
+    "authors": [
+      {
+        "name": "Marc Powell",
+        "github": "https://github.com/mppowell",
+        "twitter": "https://twitter.com/@VirtuallyMarc",
+        "url": "http://www.marcppowell.com"
+      }
+    ],
+    "source": "mppowell/circuit-components.excalidrawlib",
+    "preview": "mppowell/circuit-components.jpg",
+    "created": "2022-03-22",
+    "updated": "2022-03-22",
+    "version": 2
+  },
+  {
+    "name": "HTML input elements",
+    "description": "Basic HTML input elements for app wireframes. Elements include types: button, number, date, checkbox :checked :indeterminate :not checked, toggle switch, radio, select and an actionbutton with a plus",
+    "authors": [
+      {
+        "name": "marwinburesch",
+        "github": "https://github.com/marwinburesch",
+        "twitter": "https://twitter.com/marwinburesch",
+        "url": "https://github.com/marwinburesch"
+      }
+    ],
+    "source": "marwinburesch/html-input-elements.excalidrawlib",
+    "preview": "marwinburesch/html-input-elements.jpg",
+    "created": "2022-03-22",
+    "updated": "2022-03-22",
+    "version": 2
+  },
+  {
+    "name": "bpmn",
+    "description": "icon of bpmn diagram",
+    "authors": [
+      {
+        "name": "Aoustin Frederic",
+        "github": "https://github.com/fraoustin",
+        "twitter": "",
+        "url": "https://github.com/fraoustin/excalidraw-bpmn"
+      }
+    ],
+    "source": "fraoustin/bpmn.excalidrawlib",
+    "preview": "fraoustin/bpmn.jpg",
+    "created": "2022-03-25",
+    "updated": "2022-03-25",
     "version": 2
   }
 ]
