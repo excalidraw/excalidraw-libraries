@@ -731,14 +731,22 @@
     "authors": [
       {
         "name": "Youri Tjang",
+        "github": "https://github.com/YouriTjang",
+        "twitter": "https://twitter.com/YouriTjang",
         "url": "https://github.com/youritjang"
+      },
+      {
+        "name": "bothzoli",
+        "github": "https://github.com/bothzoli",
+        "twitter": "https://twitter.com/bothzoli",
+        "url": "https://github.com/bothzoli"
       }
     ],
     "source": "youritjang/azure-cloud-services.excalidrawlib",
-    "preview": "youritjang/azure-cloud-services.png",
+    "preview": "youritjang/azure-cloud-services.jpg",
     "created": "2021-06-03",
-    "updated": "2021-06-03",
-    "version": 1
+    "updated": "2022-03-30",
+    "version": 2
   },
   {
     "name": "Music Instruments",
@@ -1795,23 +1803,6 @@
     "preview": "fraoustin/bpmn.jpg",
     "created": "2022-03-25",
     "updated": "2022-03-25",
-    "version": 2
-  },
-  {
-    "name": "Azure Icons (@Youri Tjang's library extended)",
-    "description": "A collection of Azure icons, based on and extending the icons from \"Azure cloud services icons\" by @YouriTjang.",
-    "authors": [
-      {
-        "name": "bothzoli",
-        "github": "https://github.com/bothzoli",
-        "twitter": "https://twitter.com/bothzoli",
-        "url": "https://github.com/bothzoli"
-      }
-    ],
-    "source": "bothzoli/azure-icons-youri-tjang-s-library-extended.excalidrawlib",
-    "preview": "bothzoli/azure-icons-youri-tjang-s-library-extended.jpg",
-    "created": "2022-03-28",
-    "updated": "2022-03-28",
     "version": 2
   }
 ]
