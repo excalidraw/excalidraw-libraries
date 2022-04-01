@@ -22,11 +22,13 @@ If you want to test your library file, use the "Load" button in the library menu
 
 ## Guidelines
 
-- All library items should be reusable and not just limited to your personal use case.
-- In general, each item should be usable and stand on its own.
-- A library should be composed of at least several items (3 or more), and the items should be related to a single category.
-- Don't publish items which are easy to create directly. For example, a single arrow or a square.
-- Don't republish (copy/paste) items from other libraries without making any significant changes.
+1. Don't submit a library that's only for your personal use case, and will not be useful to others.
+2. Don't submit items which are easy to create directly. For example, a single arrow or a square.
+3. Don't republish (copy/paste) items from other libraries without making any significant changes.
+4. We only accept libraries in English. This includes any texts/labels, and library description and titles. (In the future, we may accept other languages.)
+5. In general, each item should be usable and stand on its own. (In the future we'll support filtering and installing items individually.)
+6. In general, a library should be composed of at least 3 items, and the items should be related to each other (be in a single category).
+7. If a library item consists of multiple elements, you should group them together so that the item acts as a single unit when inserting on canvas. Exception being templates or if you really think it works better if ungrouped.
 
 Check out our existing [libraries](https://libraries.excalidraw.com/?theme=light&sort=default) to get started.
 
