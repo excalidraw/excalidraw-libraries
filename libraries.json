@@ -1957,5 +1957,22 @@
     "created": "2022-04-12",
     "updated": "2022-04-12",
     "version": 2
+  },
+  {
+    "name": "Make your calendar",
+    "description": "There is a template for every month. For making clender of an year all you have to do is:\r\n\r\nfor each month in the year:\r\n    copy the template month\r\n    ungroup\r\n    rename the month header\r\n    delete extra days\r\n    regroup\r\n\r\nI added a sample 2022 calender. It took 4:44 secs to make that with template months",
+    "authors": [
+      {
+        "name": "Surya Teja Venteddu",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "surya-teja-venteddu/make-your-calendar.excalidrawlib",
+    "preview": "surya-teja-venteddu/make-your-calendar.jpg",
+    "created": "2022-04-20",
+    "updated": "2022-04-20",
+    "version": 2
   }
 ]
