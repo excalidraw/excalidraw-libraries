@@ -1014,8 +1014,8 @@
     ],
     "source": "markopolo123/dev_ops.excalidrawlib",
     "preview": "markopolo123/dev_ops.png",
-    "created": "2021-09-21",
-    "updated": "2021-10-10",
+    "created": "2022-04-21",
+    "updated": "2022-04-21",
     "version": 1
   },
   {
@@ -1959,8 +1959,25 @@
     "version": 2
   },
   {
+    "name": "Google Icons",
+    "description": "Icons for all Google Cloud Platform and Google Workspace products. The icons were extracted from Google Architecture Drawing Tool (https://googlecloudcheatsheet.withgoogle.com/architecture), enlarged and outlined - making them readable from the library view. All unique icons found were included in this library. The library was ordered alphabetically.",
+    "authors": [
+      {
+        "name": "Marcus Guidoti",
+        "github": "https://github.com/mguidoti",
+        "twitter": "",
+        "url": "https://github.com/mguidoti"
+      }
+    ],
+    "source": "mguidoti/google-icons.excalidrawlib",
+    "preview": "mguidoti/google-icons.jpg",
+    "created": "2022-04-28",
+    "updated": "2022-04-28",
+    "version": 2
+  },
+  {
     "name": "Original Google Architecture Icons",
-    "description": "Original Architecture icons for all Google Cloud Platform and Google Workspace products from [Google Architecture Drawing Tool](https://googlecloudcheatsheet.withgoogle.com/architecture) (which is powered by Excalidraw). All unique icons found were included in this library. The library was ordered alphabetically. This library was the base-library used for #426 and #427 libraries.",
+    "description": "Original Architecture icons for all Google Cloud Platform and Google Workspace products from Google Architecture Drawing Tool (https://googlecloudcheatsheet.withgoogle.com/architecture). All unique icons found were included in this library. The library was ordered alphabetically.",
     "authors": [
       {
         "name": "Marcus Guidoti",
@@ -1971,8 +1988,59 @@
     ],
     "source": "mguidoti/original-google-architecture-icons.excalidrawlib",
     "preview": "mguidoti/original-google-architecture-icons.jpg",
-    "created": "2022-04-18",
-    "updated": "2022-04-18",
+    "created": "2022-04-28",
+    "updated": "2022-04-28",
+    "version": 2
+  },
+  {
+    "name": "Network locations",
+    "description": "Locations for network macro designs. This library allows for representing main corporate offices / headquarters, offices, cities, houses and datacenters.",
+    "authors": [
+      {
+        "name": "Jorge Godoy",
+        "github": "https://github.com/jgodoy",
+        "twitter": "",
+        "url": "https://github.com/jgodoy"
+      }
+    ],
+    "source": "jgodoy/network-locations.excalidrawlib",
+    "preview": "jgodoy/network-locations.jpg",
+    "created": "2022-04-21",
+    "updated": "2022-04-21",
+    "version": 2
+  },
+  {
+    "name": "Make your calendar",
+    "description": "There is a template for every month. For making clender of an year all you have to do, for each month in the year: 1) copy the template month 2) ungroup 3) rename the month header 4) delete extra days 5) regroup. A sample 2022 calendar included.",
+    "authors": [
+      {
+        "name": "Surya Teja Venteddu",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "surya-teja-venteddu/make-your-calendar.excalidrawlib",
+    "preview": "surya-teja-venteddu/make-your-calendar.jpg",
+    "created": "2022-04-20",
+    "updated": "2022-04-20",
+    "version": 2
+  },
+  {
+    "name": "Internet Service providers",
+    "description": "Logos of internet service providers",
+    "authors": [
+      {
+        "name": "tcukdias",
+        "github": "https://github.com/tuckdiaz",
+        "twitter": "",
+        "url": "https://GitHub.com/tuckdiaz"
+      }
+    ],
+    "source": "tuckdiaz/internet-service-providers.excalidrawlib",
+    "preview": "tuckdiaz/internet-service-providers.jpg",
+    "created": "2022-04-21",
+    "updated": "2022-04-21",
     "version": 2
   }
 ]
