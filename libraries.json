@@ -2042,5 +2042,22 @@
     "created": "2022-04-21",
     "updated": "2022-04-21",
     "version": 2
+  },
+  {
+    "name": "Application Networking",
+    "description": "This library includes various logos to help with cloud native specific app network architectures. Includes: Istio Service Mesh, Envoy Proxy, Gloo Edge Application Gateway, Certificate Manager.",
+    "authors": [
+      {
+        "name": "Kasun Talwatta",
+        "github": "https://github.com/pseudonator",
+        "twitter": "https://twitter.com/nixgadgets",
+        "url": "https://github.com/pseudonator"
+      }
+    ],
+    "source": "pseudonator/application-networking.excalidrawlib",
+    "preview": "pseudonator/application-networking.jpg",
+    "created": "2022-04-21",
+    "updated": "2022-04-21",
+    "version": 2
   }
 ]
