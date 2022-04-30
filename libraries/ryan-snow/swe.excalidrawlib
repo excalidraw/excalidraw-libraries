@@ -1,0 +1,49 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "text",
+          "version": 482,
+          "versionNonce": 1472900133,
+          "isDeleted": false,
+          "id": "QuGnJexrwBQUc9dL3pfJw",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 405.1627502441406,
+          "y": 197.90399169921875,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 609,
+          "height": 480,
+          "seed": 1512705285,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "boundElements": [],
+          "updated": 1651351983629,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 3,
+          "text": "class ChatterboxForm {\n  // constructor\n  constructor() {\n    this.state= {entry: ''}\n  }\n  \n  // controller function\n  handleSubmit() {\n    post(this.state.entry)\n  }\n\n  render() {\n    return (\n      <form onSubmit={this.handlesubmit.bind(this)}>\n        <input value={this.state.entry}/>\n        <button>POST</button>\n      </form>\n    )\n  }\n}",
+          "baseline": 475,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "class ChatterboxForm {\n  // constructor\n  constructor() {\n    this.state= {entry: ''}\n  }\n  \n  // controller function\n  handleSubmit() {\n    post(this.state.entry)\n  }\n\n  render() {\n    return (\n      <form onSubmit={this.handlesubmit.bind(this)}>\n        <input value={this.state.entry}/>\n        <button>POST</button>\n      </form>\n    )\n  }\n}"
+        }
+      ],
+      "id": "H5YCvkP5ruF2L4E07Zd2t",
+      "created": 1651352041773,
+      "name": "React"
+    }
+  ]
+}
