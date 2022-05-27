@@ -2096,7 +2096,7 @@
   },
   {
     "name": "AWS Architecture Icons",
-    "description": "This library is a collection of the most popular AWS Architecture Icons to help you build diagrams using Excalidraw.\r\nStorage services and databases: S3, EBS, EFS, RDS, Aurora, DynamoDB.\r\n\r\nCompute: EC2, Lambda, Fargate.\r\nAnalytics: Kinesis, Glue Crawler, Glue DataCatalog, Athena.\r\nApplication integration: SNS, SQS, AppSync, Step Functions, EventBridge, API Gateway.\r\nDeveloper tools: CodeCommit, CodeBuilt, CodeDeploy.\r\nManagement: CloudWatch, CloudFormation, Systems Manager.\r\nNetworking: VPC, Private subnet, Public subnet, VPN gateway, Peering connection, NAT gateway, Internet gateway, NACL, Transit gateway, CloudFront, ELB.\r\nOther: Cognito, SES, Amplify.",
+    "description": "This library is a collection of the most popular AWS Architecture Icons to help you build diagrams using Excalidraw. \r\n\r\nStorage services and databases: S3, EBS, EFS, RDS, Aurora, DynamoDB.\r\nCompute: EC2, Lambda, Fargate.\r\nAnalytics: Kinesis, Glue Crawler, Glue DataCatalog, Athena.\r\nApplication integration: SNS, SQS, AppSync, Step Functions, EventBridge, API Gateway.\r\nDeveloper tools: CodeCommit, CodeBuilt, CodeDeploy.\r\nManagement: CloudWatch, CloudFormation, Systems Manager.\r\nNetworking: VPN gateway, Peering connection, NAT gateway, Internet gateway, NACL, Transit gateway, CloudFront, ELB.\r\nOther: Cognito, SES, Amplify.",
     "authors": [
       {
         "name": "Anna Pastushko",
@@ -2108,7 +2108,7 @@
     "source": "anna-pastushko/aws-architecture-icons.excalidrawlib",
     "preview": "anna-pastushko/aws-architecture-icons.jpg",
     "created": "2022-05-26",
-    "updated": "2022-05-26",
+    "updated": "2022-05-27",
     "version": 2
   },
   {
