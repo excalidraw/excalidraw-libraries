@@ -33,3 +33,5 @@ jobs:
             git commit -am "Auto commit: New data"
             git push
           fi
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
