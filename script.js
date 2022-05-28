@@ -225,7 +225,10 @@ const populateLibraryList = (filterQuery = "") => {
       authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
     }
     inner = inner.replace(/\{authors\}/g, authorsInnerHTML);
-    inner = inner.replace(/\{preview\}/g, `libraries/${library.preview}`);
+    inner = inner.replace(
+      /\{preview\}/g,
+      `libraries/${library.preview}?v=${library.updated || 0}`,
+    );
     inner = inner.replace(/\{created\}/g, getDate(library.created));
     if (library.created !== library.updated) {
       inner = inner.replace(/\{updated\}/g, getDate(library.updated));
