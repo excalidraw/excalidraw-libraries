@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.EXCALIBOT_PAT_WORKFLOWS }}
       - name: Set up Python 3
         uses: actions/setup-python@v2
         with:
