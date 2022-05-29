@@ -210,6 +210,12 @@ const populateLibraryList = (filterQuery = "") => {
     );
   }
   const template = document.getElementById("template");
+  const searchParams = new URLSearchParams(location.search);
+  const referrer = searchParams.get("referrer") || "https://excalidraw.com";
+  const appName = getAppName(referrer);
+  const target = decodeURIComponent(searchParams.get("target") || "_blank");
+  const useHash = searchParams.get("useHash");
+  const csrfToken = searchParams.get("token");
   for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
@@ -235,15 +241,7 @@ const populateLibraryList = (filterQuery = "") => {
     } else {
       inner = inner.replace('<p class="updated">Updated: {updated}</p>', "");
     }
-
-    const searchParams = new URLSearchParams(location.search);
-    const referrer = searchParams.get("referrer") || "https://excalidraw.com";
-
-    inner = inner.replace(/\{appName\}/g, getAppName(referrer));
-
-    const target = decodeURIComponent(searchParams.get("target") || "_blank");
-    const useHash = searchParams.get("useHash");
-    const csrfToken = searchParams.get("token");
+    inner = inner.replace(/\{appName\}/g, appName);
     const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
     inner = inner.replace(
       "{addToLib}",
