@@ -2231,5 +2231,22 @@
     "created": "2022-08-11",
     "updated": "2022-08-11",
     "version": 2
+  },
+  {
+    "name": "AWS Architecture Icons",
+    "description": "This library is a collection of the most popular AWS Architecture Icons to help you build diagrams using Excalidraw. Storage services and databases: S3, EBS, EFS, RDS, Aurora, DynamoDB. Compute: EC2, Lambda, Fargate. Analytics: Kinesis, Glue Crawler, Glue DataCatalog, Athena. Application integration: SNS, SQS, AppSync, Step Functions, EventBridge, API Gateway. Developer tools: CodeCommit, CodeBuilt, CodeDeploy. Management: CloudWatch, CloudFormation, Systems Manager. Networking: VPN gateway, Peering connection, NAT gateway, Internet gateway, NACL, Transit gateway, CloudFront, ELB. Other: Cognito, SES, Amplify, AWS Account, AWS Region, IAM, Chatbot, Sagemaker Train, Sagemaker Model, Sagemaker Canvas, Sagemaker Notebook, Amazon Elastic Inference, Sagemaker Ground Truth, Sagemaker, Kinesis Data Firehose, Kinesis Video Streams, Kinesis Data Streams, Kinesis Data Analytics, QuickSight, EMR, Data Pipeline, Redshift, Lake Formation, Glue.",
+    "authors": [
+      {
+        "name": "Anna Pastushko",
+        "github": "https://github.com/ChildishGirl",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/annpastushko/"
+      }
+    ],
+    "source": "childishgirl/aws-architecture-icons.excalidrawlib",
+    "preview": "childishgirl/aws-architecture-icons.jpg",
+    "created": "2022-08-26",
+    "updated": "2022-08-26",
+    "version": 2
   }
 ]
