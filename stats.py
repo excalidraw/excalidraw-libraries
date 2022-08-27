@@ -37,6 +37,7 @@ MAP = {
     "Stick figures": "youritjang-stick-figures",
     "Stick Figures": "youritjang-stick-figures",
     "Technology Logos": "drwnio-drwnio",
+    "anna-pastushko-aws-architecture-icons": "childishgirl-aws-architecture-icons"
 }
 
 
