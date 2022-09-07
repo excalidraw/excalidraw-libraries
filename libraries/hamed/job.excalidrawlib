@@ -1,0 +1,49 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "btGtKeCkFbZnhLcVKNF8j",
+          "type": "text",
+          "x": 698.5463920174674,
+          "y": 7575.11223420938,
+          "width": 1085,
+          "height": 252,
+          "angle": 0,
+          "strokeColor": "#c92a2a",
+          "backgroundColor": "transparent",
+          "fillStyle": "cross-hatch",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 2,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 1101853589,
+          "version": 37,
+          "versionNonce": 997757461,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1662552254215,
+          "link": null,
+          "locked": false,
+          "text": "Downcasting is assigning parent class reference object to the sub class which is not allowed in Java. \nHowever, if you do downcasting, there will be runtime exception java.lang.ClassCastException.\nDowncasting is legal in some scenarios where the actual object referred by the parent class is of sub class.\nE.g.\nSuperClass superClass1 = new SuperClass();\nSuperClass superClass2 = new SubClass();\n\n//Valid down casting\nSubClass subClass1 = (SubClass)superClass2;\nsubClass1.method();",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "baseline": 244,
+          "containerId": null,
+          "originalText": "Downcasting is assigning parent class reference object to the sub class which is not allowed in Java. \nHowever, if you do downcasting, there will be runtime exception java.lang.ClassCastException.\nDowncasting is legal in some scenarios where the actual object referred by the parent class is of sub class.\nE.g.\nSuperClass superClass1 = new SuperClass();\nSuperClass superClass2 = new SubClass();\n\n//Valid down casting\nSubClass subClass1 = (SubClass)superClass2;\nsubClass1.method();"
+        }
+      ],
+      "id": "w_vXnbPkeUFCBzYYaypVE",
+      "created": 1662552272883,
+      "name": "Downcasting Java"
+    }
+  ]
+}
