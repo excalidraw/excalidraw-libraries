@@ -179,7 +179,18 @@
     "preview": "youritjang/stick-figures.jpg",
     "created": "2020-12-18",
     "updated": "2022-08-07",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Stick man",
+      "Moustache man",
+      "Girl",
+      "Guy",
+      "Grandma",
+      "Child",
+      "Shrug",
+      "Happy",
+      "Sad"
+    ]
   },
   {
     "name": "Data Viz",
@@ -271,7 +282,26 @@
     "preview": "inwardmovement/information-architecture.jpg",
     "created": "2021-01-11",
     "updated": "2022-01-10",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "page",
+      "file",
+      "flow reference",
+      "page stack",
+      "file stack",
+      "cluster",
+      "decision point",
+      "conditional branch",
+      "conditonal selector",
+      "concurrent set",
+      "continuation x",
+      "continuation y",
+      "area",
+      "iterative area",
+      "conditional area",
+      "flow area x",
+      "flow area y"
+    ]
   },
   {
     "name": "IT Logos",
@@ -748,7 +778,28 @@
     "preview": "youritjang/azure-cloud-services.jpg",
     "created": "2021-06-03",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Key Vault",
+      "Application Insights",
+      "Azure DevOps",
+      "Network Interface",
+      "Public IP Address",
+      "Disk",
+      "Azure logo",
+      "Subscription",
+      "Resource Group",
+      "Blob Storage",
+      "Network Security Group",
+      "Virtual Network",
+      "Active Directory",
+      "PS Runbook",
+      "App Service",
+      "Service Bus Namespace",
+      "Virtual Machine",
+      "SQL Database",
+      "Data Lake"
+    ]
   },
   {
     "name": "Music Instruments",
@@ -1138,7 +1189,17 @@
     "preview": "esteevens/logos.png",
     "created": "2021-10-27",
     "updated": "2021-11-23",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Android",
+      "Windows",
+      "Linux",
+      "Kong",
+      "Let's Encrypt",
+      "Keycloak",
+      "Azure",
+      "Salesforce"
+    ]
   },
   {
     "name": "Clocks",
@@ -1155,7 +1216,12 @@
     "preview": "aleksandr-hovhannisyan/clocks.png",
     "created": "2021-11-22",
     "updated": "2021-11-22",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Wall clock",
+      "Wristwatch",
+      "Alarm clock"
+    ]
   },
   {
     "name": "Database",
@@ -1187,7 +1253,12 @@
     "preview": "niknm/systemdesignicons.png",
     "created": "2021-11-23",
     "updated": "2021-11-23",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "MapReduce",
+      "ServiceCluster",
+      "cacheLayer"
+    ]
   },
   {
     "name": "Baby Characters",
@@ -1204,11 +1275,17 @@
     "preview": "claracavalcante/baby-characters.png",
     "created": "2021-11-22",
     "updated": "2021-11-22",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Baby Yoda - No Colors",
+      "Baby Yoda - With Color",
+      "Baby Groot - No Colors",
+      "Baby Groot - With Color"
+    ]
   },
   {
     "name": "Some common cloud apps",
-    "description": "Library of common web applications. Mailchimp, GoDaddy, Zapier, Monday.com, Facebook, Instagram, TikTok, Stripe, NetSuite, WooCommerce, WordPress, ActiveCampaign, Office 365, Canva, Hootsuite",
+    "description": "Library of common web applications.",
     "authors": [
       {
         "name": "Shane Williams",
@@ -1221,7 +1298,24 @@
     "preview": "kinghavok/some-common-cloud-apps.png",
     "created": "2021-11-21",
     "updated": "2021-11-21",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "MailChimp",
+      "GoDaddy",
+      "Zapier",
+      "Monday.com",
+      "Facebook",
+      "Instagram",
+      "TikTok",
+      "Stripe",
+      "NetSuite",
+      "WooCommerce",
+      "WordPress",
+      "ActiveCampaign",
+      "Office 365",
+      "Canva",
+      "Hootsuite"
+    ]
   },
   {
     "name": "AWS Architecture Icons",
@@ -1238,11 +1332,17 @@
     "preview": "narhari-motivaras/aws-architecture-icons.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Lambda",
+      "ELB",
+      "EC2",
+      "Lambda"
+    ]
   },
   {
     "name": "Network topology icons",
-    "description": "Several of the most common network topology icons. Router, VPN, Firewall, Server, Switch, Hub, Client, Computer.",
+    "description": "Several of the most common network topology icons.",
     "authors": [
       {
         "name": "dwelle",
@@ -1255,7 +1355,19 @@
     "preview": "dwelle/network-topology-icons.jpg",
     "created": "2021-12-02",
     "updated": "2022-01-19",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Computer w/ keyboard (3D)",
+      "Computer w/ keyboard and mouse (3D)",
+      "Computer (3D)",
+      "VPN",
+      "Firewall",
+      "Server",
+      "Switch",
+      "Hub",
+      "Router",
+      "Client"
+    ]
   },
   {
     "name": "Systems Design Components",
@@ -1272,7 +1384,15 @@
     "preview": "arach/systems-design-components.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Cloud Infra Starter Kit",
+      "Cloud",
+      "Stream",
+      "Servers",
+      "DB",
+      "db"
+    ]
   },
   {
     "name": "Medicine",
@@ -1289,7 +1409,13 @@
     "preview": "sudotachy/medicine.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Lung",
+      "Brain",
+      "Heart",
+      "Atom"
+    ]
   },
   {
     "name": "3D Shapes",
@@ -1306,7 +1432,11 @@
     "preview": "andreandreandradecosta/3d-shapes.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "cylinder",
+      "cube"
+    ]
   },
   {
     "name": "Mathematical Symbols",
@@ -1323,7 +1453,24 @@
     "preview": "jjadup/mathematical-symbols.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Complex numbers",
+      "Infinity",
+      "Implication",
+      "Approaches",
+      "Universal quantification",
+      "Existential quantification",
+      "Element",
+      "Natural numbers",
+      "Integers",
+      "Real numbers",
+      "Greater than or equal to",
+      "Less than or equal to",
+      "Partial derivaive",
+      "Integral",
+      "Summation"
+    ]
   },
   {
     "name": "Digital Signal Processing",
@@ -1340,11 +1487,21 @@
     "preview": "robin-muller/digital-signal-processing.jpg",
     "created": "2022-01-10",
     "updated": "2022-01-10",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Divide",
+      "Gain",
+      "Storage",
+      "Shift-Left",
+      "Shift-Right",
+      "Subtract",
+      "Multiply",
+      "Add"
+    ]
   },
   {
     "name": "Math Teacher Library",
-    "description": "This library has been designed to include some of the common day-to-day diagrams that a math teacher would find helpful when using the Excalidraw site. Currently the diagram include the following items (not in order) that teachers from a variety of grade levels would find useful:\n\n1) Basic Venn Diagram\n2) Blank Graph Paper Coordinate Grid\n3) Dotted Coordinate Grid With Axes Labeled\n4) Coordinate Grid With Axes Labeled\n5) Number Line with Labels\n6) Blank Number Line\n7) Sphere Diagram\n8) Sphere Diagram Colored\n9) Rectangular Prism Cube\n10) Rectangular Prism Cuboid\n11) Parallel Lines and Transversal With Symbol\n12) Parallel Lines and Transversal Without Symbol",
+    "description": "This library has been designed to include some of the common day-to-day diagrams that a math teacher would find helpful when using the Excalidraw site.",
     "authors": [
       {
         "name": "Yatrik Patel",
@@ -1357,7 +1514,21 @@
     "preview": "https-github-com-ytrkptl/math-teacher-library.jpg",
     "created": "2022-01-10",
     "updated": "2022-01-10",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Dotted Coordinate Grid With Axes Labeled",
+      "Basic Venn Diagram",
+      "Coordinate Grid With Axes Labeled",
+      "Number Line with Labels",
+      "Blank Number Line",
+      "Sphere Diagram Colored",
+      "Sphere Diagram",
+      "Rectangular Prism Cube",
+      "Rectangular Prism Cuboid",
+      "Parallel Lines and Transversal With Symbol",
+      "Parallel Lines and Transversal Without Symbol",
+      "Blank Graph Paper Coordinate Grid"
+    ]
   },
   {
     "name": "Icons",
@@ -1374,7 +1545,74 @@
     "preview": "xxxdeveloper/icons.jpg",
     "created": "2022-01-08",
     "updated": "2022-01-08",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "paper",
+      "documents",
+      "message",
+      "shredder",
+      "clipboard",
+      "notes",
+      "table",
+      "attachment",
+      "more",
+      "cloud",
+      "delete",
+      "zip",
+      "movie",
+      "password",
+      "search",
+      "code",
+      "share",
+      "upload",
+      "download",
+      "exe",
+      "apk",
+      "dmg",
+      "psd",
+      "sketch",
+      "ai",
+      "mp3",
+      "otf",
+      "mov",
+      "iso",
+      "flv",
+      "wav",
+      "avi",
+      "sql",
+      "xls",
+      "doc",
+      "pdf",
+      "ppt",
+      "gif",
+      "jpg",
+      "png",
+      "rust",
+      "java",
+      "webpack",
+      "php",
+      "c#",
+      "c++",
+      "c",
+      "python",
+      "go",
+      "esbuild",
+      "jest",
+      "nuxt",
+      "swift",
+      "dart",
+      "flutter",
+      "shell",
+      "vite",
+      "rollup",
+      "node",
+      "typescript",
+      "react",
+      "vue",
+      "js",
+      "css",
+      "html"
+    ]
   },
   {
     "name": "GCP Icons",
@@ -1391,7 +1629,8 @@
     "preview": "clementbosc/gcp-icons.jpg",
     "created": "2022-01-12",
     "updated": "2022-01-16",
-    "version": 2
+    "version": 2,
+    "itemNames": []
   },
   {
     "name": "System Icons",
@@ -1408,7 +1647,33 @@
     "preview": "xxxdeveloper/system-icons.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "document",
+      "zip",
+      "atlas",
+      "filter",
+      "set up",
+      "magic wand",
+      "collection",
+      "warn",
+      "application",
+      "lightning",
+      "file",
+      "regulator",
+      "relationship",
+      "star",
+      "bar graph",
+      "clean up",
+      "3d",
+      "tree",
+      "notice",
+      "book",
+      "paper plane",
+      "picture",
+      "standardization",
+      "line-graph"
+    ]
   },
   {
     "name": "Red Hat",
@@ -1431,7 +1696,12 @@
     "preview": "zanetworker/red-hat.jpg",
     "created": "2022-01-14",
     "updated": "2022-01-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Red Hat logo",
+      "Red Hat OpenShift",
+      "Red Hat Ansible"
+    ]
   },
   {
     "name": "IT Logos",
@@ -1448,7 +1718,16 @@
     "preview": "selanas/it-logos.jpg",
     "created": "2022-01-16",
     "updated": "2022-01-16",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "MySQL",
+      "PHP",
+      "Jenkins",
+      "Tomcat",
+      "Bower",
+      "npm",
+      "Red Hat"
+    ]
   },
   {
     "name": "Wireframing placeholders",
@@ -1465,7 +1744,19 @@
     "preview": "xxxdeveloper/wireframing-placeholders.jpg",
     "created": "2022-01-18",
     "updated": "2022-01-18",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Blue Widget",
+      "Red Widget",
+      " Yellow Widget",
+      "Green Widget",
+      "Overall structure diagram",
+      "Blue Widget (light)",
+      "Red Widget (light)",
+      "Overall structure diagram (light)",
+      " Yellow Widget (light)",
+      "Green Widget (light)"
+    ]
   },
   {
     "name": "2022 - GANTT",
@@ -1482,7 +1773,10 @@
     "preview": "eho9734/2022-gantt.jpg",
     "created": "2022-01-20",
     "updated": "2022-01-20",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Excali-GANTT"
+    ]
   },
   {
     "name": "Network elements",
@@ -1499,7 +1793,14 @@
     "preview": "samu_x86/network-elements.jpg",
     "created": "2022-01-19",
     "updated": "2022-01-19",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Switch",
+      "Edge",
+      "Load Balancer",
+      "Firewall",
+      "Router"
+    ]
   },
   {
     "name": "Message Queue components",
@@ -1516,7 +1817,15 @@
     "preview": "coexist/mq.jpg",
     "created": "2022-01-20",
     "updated": "2022-01-20",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Message",
+      "Channel",
+      "Topic",
+      "Subscriber",
+      "Queue",
+      "Queue Manager"
+    ]
   },
   {
     "name": "Electrical Engineering",
@@ -1533,7 +1842,24 @@
     "preview": "risjain/electrical-engineering.jpg",
     "created": "2022-03-28",
     "updated": "2022-03-28",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "PV panel",
+      "Transformer One-line",
+      "DQ0 to ABC Conversion",
+      "ABC to DQ0 Conversion",
+      "Transformer with Core",
+      "Bus Bar",
+      "Inductor",
+      "Circuit Breaker",
+      "Potential Transformer",
+      "Current Transformer",
+      "Resistor",
+      "Ground",
+      "AC Source",
+      "Capacitor Bank",
+      "Relay"
+    ]
   },
   {
     "name": "Retail peripherals",
@@ -1550,7 +1876,12 @@
     "preview": "esteevens/retail-peripherals.jpg",
     "created": "2022-01-28",
     "updated": "2022-01-28",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Payment terminal",
+      "Barcode scanner",
+      "Receipt printer"
+    ]
   },
   {
     "name": "Fibre Network",
@@ -1567,7 +1898,12 @@
     "preview": "fibreninja/fibre-network.jpg",
     "created": "2022-02-03",
     "updated": "2022-02-03",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "C6",
+      "B6",
+      "FIST"
+    ]
   },
   {
     "name": "Biology",
@@ -1584,7 +1920,13 @@
     "preview": "sharathsanketh/biology.jpg",
     "created": "2022-02-27",
     "updated": "2022-02-27",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Virus",
+      "Bacteria",
+      "Brain",
+      "Cell"
+    ]
   },
   {
     "name": "Valentine's Day",
@@ -1601,7 +1943,16 @@
     "preview": "excalidraw/valentine-s-day.jpg",
     "created": "2022-02-14",
     "updated": "2022-02-14",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Hearts",
+      "Heart",
+      "Rose",
+      "Heart box (container)",
+      "Heart Bear",
+      "Valentine's Day Card",
+      "Valentine's Day Hearts"
+    ]
   },
   {
     "name": "Computer parts",
@@ -1618,7 +1969,17 @@
     "preview": "rochacbruno/computer-parts.jpg",
     "created": "2022-02-20",
     "updated": "2022-02-20",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "mouse",
+      "hard disk",
+      "chip",
+      "cpu",
+      "headphones",
+      "keyboard",
+      "display",
+      "ram"
+    ]
   },
   {
     "name": "secure_shell",
@@ -1635,7 +1996,12 @@
     "preview": "kvchitrapu/secure_shell.jpg",
     "created": "2022-02-21",
     "updated": "2022-02-21",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "ssh",
+      "sftp",
+      "scp"
+    ]
   },
   {
     "name": "Data sources",
@@ -1652,11 +2018,19 @@
     "preview": "kvchitrapu/data-sources.jpg",
     "created": "2022-02-27",
     "updated": "2022-02-27",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "GraphQL",
+      "Kafka",
+      "Data sources",
+      "USB",
+      "Email",
+      "FTP"
+    ]
   },
   {
     "name": "Algorithms and Data Structures (Arrays, Matrices, Trees ...)",
-    "description": "A drawing library for all things related to Algorithms and Data Structures (including Trees).\nIt includes drawing useful for :\n- Arrays (numbered and not numbered, length 10 or 20)\n- Datasets & Hashing table ( numbered, size 5)\n- Datatables (vertical, size 5)\n- Linked lists (vertical and horizontal, size 5)\n- Trees (height 1, 2, 3 and 4) (Binary : Heap, Red-black, AVL, Splay)\n- Red-black tree items ( single black NIL, double black NIL, right and left rotation arrows, black filter and red filter)\n- Matrices (numbered, 3x3, 4x4, 5x5, 10x10)\n\nAll numbered structures start by 0 ;)",
+    "description": "A drawing library for all things related to Algorithms and Data Structures (including Trees).",
     "authors": [
       {
         "name": "intradeus",
@@ -1669,7 +2043,31 @@
     "preview": "intradeus/algorithms-and-data-structures-arrays-matrices-trees.jpg",
     "created": "2022-02-28",
     "updated": "2022-02-28",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Array - 10",
+      "Array numbered - 10",
+      "Array - 20",
+      "Array numbered - 20",
+      "Dataset/Hashing table - 5",
+      "Linked List vertical -  5",
+      "Datatable - 5",
+      "Linked List horizontal - 5",
+      "Left rotation",
+      "Right rotation",
+      " NIL - Single black",
+      "NIL - Double black",
+      "Red node filter",
+      "Black node filter",
+      "Tree - 4",
+      "Tree - 3",
+      "Tree - 2",
+      "Tree - 1",
+      "Matrix - 10x10",
+      "Matrix - 5x5",
+      "Matrix - 4x4",
+      "Matrix - 3x3"
+    ]
   },
   {
     "name": "Barotrauma",
@@ -1686,7 +2084,36 @@
     "preview": "danielpza/barotrauma.jpg",
     "created": "2022-03-26",
     "updated": "2022-03-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Periscope",
+      "ruler",
+      "Oxygen Tank Shelf",
+      "Diving Suit Locker",
+      "Fabricator",
+      "Deconstructor",
+      "Hatch",
+      "Hatch with ladder",
+      "Navigation Terminal",
+      "Railgun Loader",
+      "Coilgun Loader",
+      "Coilgun Ammo",
+      "Junction Box",
+      "Super Capacitor",
+      "Pump",
+      "Door",
+      "Railgun Ammo Shelf",
+      "Vent",
+      "Status Monitor",
+      "Cabinet",
+      "Large Cabinet",
+      "Button",
+      "Railgun Shell Rack",
+      "Depth Charge",
+      "Weapon Lock",
+      "Supply",
+      "Light"
+    ]
   },
   {
     "name": "DS visualizations",
@@ -1703,7 +2130,11 @@
     "preview": "https-github-com-sly-dog/ds-visualizations.jpg",
     "created": "2022-03-26",
     "updated": "2022-03-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Bias & Variance",
+      "standard deflection"
+    ]
   },
   {
     "name": "Racks and Servers / Components",
@@ -1720,7 +2151,14 @@
     "preview": "jgodoy/racks-and-servers-components.jpg",
     "created": "2022-03-26",
     "updated": "2022-03-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "8U Rack",
+      "16U Rack",
+      "4U Server",
+      "2U Server / Component",
+      "1U Server / Component"
+    ]
   },
   {
     "name": "Office Items",
@@ -1737,7 +2175,26 @@
     "preview": "m47812/office-items.jpg",
     "created": "2022-03-26",
     "updated": "2022-03-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Parcel",
+      "Mail",
+      "Letter",
+      "Colour Pen",
+      "Pencil",
+      "Screen",
+      "Microphone",
+      "Headphone + Mic",
+      "Headphone",
+      "USB-Stick",
+      "CD",
+      "Stamp",
+      "Folder",
+      "Paper Clip",
+      "Eraser",
+      "Disc",
+      "Folder"
+    ]
   },
   {
     "name": "Boardgame",
@@ -1754,7 +2211,19 @@
     "preview": "pocomane/boardgame.jpg",
     "created": "2022-03-26",
     "updated": "2022-03-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Meeple",
+      "Dice result 1",
+      "Dice result 2",
+      "Dice result 3",
+      "Dice result 4",
+      "Dice result 5",
+      "Dice result 6",
+      "Resource cube",
+      "Resource cylinder",
+      "Resource disc"
+    ]
   },
   {
     "name": "Circuit Components",
@@ -1771,7 +2240,33 @@
     "preview": "mppowell/circuit-components.jpg",
     "created": "2022-03-22",
     "updated": "2022-03-22",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Capacitor Polarized 2",
+      "PMOS",
+      "NMOS",
+      "Capacitor Polarized",
+      "Generic Passive",
+      "Potentiometer 2",
+      "SPDT Switch",
+      "Ground 2",
+      "Battery",
+      "Vdd",
+      "Ground",
+      "AC Voltage",
+      "Generic Source",
+      "Switch",
+      "Resistor",
+      "Potentiometer",
+      "LED",
+      "Diode",
+      "Inductor",
+      "Generic Amp",
+      "Op Amp",
+      "Capacitor",
+      "Current Source",
+      "DC Voltage"
+    ]
   },
   {
     "name": "HTML input elements",
@@ -1788,7 +2283,17 @@
     "preview": "marwinburesch/html-input-elements.jpg",
     "created": "2022-03-22",
     "updated": "2022-03-22",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "button",
+      "number",
+      "date",
+      "chekbox",
+      "toggle",
+      "switch",
+      "select",
+      "action button"
+    ]
   },
   {
     "name": "bpmn",
@@ -1805,7 +2310,43 @@
     "preview": "fraoustin/bpmn.jpg",
     "created": "2022-03-25",
     "updated": "2022-03-25",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "task",
+      "line",
+      "arrow 1",
+      "arrow 2",
+      "start event",
+      "end event",
+      "terminate end event",
+      "intermediate throw event",
+      "message start event",
+      "message intermediate catch event",
+      "message intermediate throw event",
+      "message end event",
+      "timer start event",
+      "timer intermediate catch event",
+      "conditional start event",
+      "conditional intermediate catch event",
+      "signal start event",
+      "signal intermediate catch event",
+      "signal intermediate throw event",
+      "signal end event",
+      "link intermediate catch event",
+      "link intermediate throw event",
+      "escalation intermediate throw event",
+      "escalation end event",
+      "compensation intermediate throw event",
+      "compensation end event",
+      "error end event",
+      "parallel gateway",
+      "exclusive gateway",
+      "inclusive gateway",
+      "complex gateway",
+      "event based gateway",
+      "data object reference",
+      "data store reference"
+    ]
   },
   {
     "name": "Azure Network",
@@ -1822,7 +2363,38 @@
     "preview": "7demonsrising/azure-network.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Virtual Gateways",
+      "Local Gateways",
+      "Connections",
+      "Firewalls",
+      "Firewall Policies",
+      "Firewall Manager",
+      "IP Groups",
+      "NAT Gateways",
+      "App Gateways",
+      "Traffic Manager Profiles",
+      "DNS ZOnes",
+      "Bastions",
+      "Virtual WANS",
+      "Private Link",
+      "Web Application Firewall WAF",
+      "Private DNS",
+      "Service Plane Endpoint",
+      "DDos Protection Plans",
+      "App Security Groups",
+      "Route Tables",
+      "Public IP Prefixes",
+      "Public IP Addresses",
+      "Network Interfaces",
+      "Network Security Groups",
+      "Network Watcher",
+      "Front Door",
+      "Load Balancers",
+      "Azure Synapse Analytics",
+      "Virtual Network"
+    ]
   },
   {
     "name": "Azure Containers",
@@ -1839,7 +2411,15 @@
     "preview": "7demonsrising/azure-containers.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Container Registires",
+      "Batch Accounts",
+      "Service Fabric Clusters",
+      "App Services",
+      "Container Instances",
+      "Kubernetes Services"
+    ]
   },
   {
     "name": "Azure Storage",
@@ -1856,7 +2436,22 @@
     "preview": "7demonsrising/azure-storage.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Storage Explorer",
+      "HPC Caches",
+      "Data Share Invitations",
+      "Data Shares",
+      "Azure NetApp Files",
+      "Azure Data Box",
+      "Azure Data Box Gateway",
+      "Azure Stack Edge",
+      "StorSimple Data Managers",
+      "Data Lake Gen1",
+      "StorSimple Device Managers",
+      "Recovery Services Vault",
+      "Storage Accounts"
+    ]
   },
   {
     "name": "Azure Compute",
@@ -1873,7 +2468,26 @@
     "preview": "7demonsrising/azure-compute.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Container Apps",
+      "Workspaces",
+      "Maintenance Config",
+      "App Groups",
+      "Spring Cloud",
+      "Host Groups",
+      "Hosts",
+      "Proximity Groups",
+      "Availability Sets",
+      "Kubernetes Services",
+      "Service Fabric",
+      "Batch Accounts",
+      "Container Instances",
+      "App Services",
+      "Function App",
+      "Virtual Machine Scale Sets",
+      "Virtual Machines"
+    ]
   },
   {
     "name": "Azure General",
@@ -1890,7 +2504,28 @@
     "preview": "7demonsrising/azure-general.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Azure",
+      "Preview Features",
+      "Resource Explorer ",
+      "Reservations",
+      "Free Services",
+      "Share Dashboards",
+      "Quickstart",
+      "What's New",
+      "Tags",
+      "Templates",
+      "Service Health",
+      "Help and Support",
+      "Marketplace",
+      "Cost",
+      "Resource Group",
+      "Subscriptions",
+      "Management Groups",
+      "Recent",
+      "All Resources"
+    ]
   },
   {
     "name": "Dart and Flutter icons",
@@ -1907,7 +2542,11 @@
     "preview": "david-prta/dart-and-flutter-icons.jpg",
     "created": "2022-03-30",
     "updated": "2022-03-30",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Dart",
+      "Flutter"
+    ]
   },
   {
     "name": "Deep learning",
@@ -1924,7 +2563,21 @@
     "preview": "yuelfei/deep-learning.jpg",
     "created": "2022-04-08",
     "updated": "2022-04-08",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "GNN",
+      "CNN",
+      "RNN",
+      "MLP",
+      "LSTM",
+      "M-attention",
+      "Attention",
+      "Encoder-Decoder",
+      "Attention-QKV",
+      "QKV",
+      "Transformer",
+      "Mask"
+    ]
   },
   {
     "name": "Despair",
@@ -1941,7 +2594,19 @@
     "preview": "dwelle/despair.jpg",
     "created": "2022-04-11",
     "updated": "2022-04-11",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Poof",
+      "Knee hug",
+      "Isaac",
+      "Kneeling",
+      "Sobbing",
+      "Sobbing eyes",
+      "Sobbing eyes alt",
+      "Sobbing bloodshot eyes",
+      "Nuclear explosion",
+      "Nuclear explosion alt"
+    ]
   },
   {
     "name": "Coordinates",
@@ -1958,7 +2623,13 @@
     "preview": "tvoozmagnificent/coordinates.jpg",
     "created": "2022-04-12",
     "updated": "2022-04-12",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Forst Quadrant",
+      "Polar",
+      "Axis",
+      "Four Quadrants"
+    ]
   },
   {
     "name": "Google Icons",
@@ -1975,7 +2646,148 @@
     "preview": "mguidoti/google-icons.jpg",
     "created": "2022-04-28",
     "updated": "2022-04-28",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Access Context Manager",
+      "Access Transparency",
+      "Anthos",
+      "Anthos Service mesh",
+      "Anthos Service Mesh II",
+      "API Analytics",
+      "API Gateway",
+      "API Monetization",
+      "Apigee API Management",
+      "Apigee Sense",
+      "App Engine",
+      "Apps Script",
+      "AppSheet",
+      "Artifact Registry",
+      "Assured Workloads",
+      "AutoML",
+      "Bare Metal Solution",
+      "BeyondCorp Enterprise",
+      "Bigquery",
+      "Billing",
+      "Binary Authorization",
+      "Calendar API",
+      "Carrier Peering",
+      "Certificate Authority Service",
+      "Classroom API",
+      "Cloud APIs",
+      "Cloud Armor",
+      "Cloud Asset Inventory",
+      "Cloud Audit Logs",
+      "Cloud Bigtable",
+      "Cloud Build",
+      "Cloud CDN",
+      "Cloud Code",
+      "Composer",
+      "Cloud Data Fusion",
+      "Cloud Data Loss Prevention",
+      "Cloud Data Transfer",
+      "Cloud Debugger",
+      "Cloud Deploy",
+      "Cloud DNS",
+      "Cloud Domains",
+      "Cloud Endpoints",
+      "Cloud Filestore",
+      "Cloud Firestore",
+      "Cloud Function",
+      "Cloud Healthcare API",
+      "Cloud IAM",
+      "Cloud Identity Aware Proxy",
+      "Cloud IDS",
+      "Cloud IoT Core",
+      "Cloud KMS",
+      "Cloud Load Balancing",
+      "Cloud Logging",
+      "Cloud Memorystore",
+      "Cloud Monitoring",
+      "Cloud NAT",
+      "Cloud Profiler",
+      "Cloud Router",
+      "Cloud Run",
+      "Cloud Run for Anthos",
+      "Cloud Scheduler",
+      "Cloud SDK",
+      "Cloud Shell",
+      "Cloud Spanner",
+      "Cloud SQL",
+      "Cloud Storage",
+      "Cloud Storage for Firebase",
+      "Cloud Tasks",
+      "Cloud TPU",
+      "Cloud Trace",
+      "Cloud Translation",
+      "Cloud Vision",
+      "Cloud VPN",
+      "Compute Engine",
+      "Console",
+      "Contact Center API",
+      "Container Analysis",
+      "Container Registry",
+      "Data Catalog",
+      "Data Studio",
+      "Database Migration Service",
+      "Dataflow",
+      "Dataplex",
+      "Dataprep",
+      "Dataproc",
+      "Datastream",
+      "Dedicated Interconnect",
+      "Deployment Manager",
+      "Dialogflow",
+      "Docs API",
+      "Document AI",
+      "Drive API",
+      "Error Reporting",
+      "Event Threat Detection",
+      "Eventarc",
+      "Firebase",
+      "GKE",
+      "Gmail API",
+      "Google Chats API",
+      "Google Cloud Game Servers",
+      "Healthcare Natural Language AI",
+      "Identity Platform",
+      "Local SSD",
+      "Managed Service for Microsoft",
+      "Maps SDK",
+      "Marketplace",
+      "Migrate for Compute Engine",
+      "Network Connectivity Center",
+      "Network Intelligence Center",
+      "Network Service Tiers",
+      "Operations Suite",
+      "Packet Mirroring",
+      "Partner Interconnect",
+      "People API",
+      "Persistent Disk",
+      "Private Service Connect",
+      "Pub Sub",
+      "reCAPTCHA Enterprise",
+      "Recommendations AI",
+      "Risk Manager",
+      "Secret Manager",
+      "Security Key Enforcement",
+      "Service Directory",
+      "Sheets API",
+      "Shielded VMs",
+      "Slides API",
+      "Speech to Text",
+      "Text to Speech",
+      "Traffic Director",
+      "Transfer Appliance",
+      "Vault API",
+      "Vertex AI",
+      "Video Intelligence API",
+      "Virtual Private Cloud",
+      "Vision Product Search",
+      "VM Manager",
+      "VMware Engine",
+      "Web Security Scanner",
+      "Workflows"
+    ]
   },
   {
     "name": "Original Google Architecture Icons",
@@ -1992,7 +2804,148 @@
     "preview": "mguidoti/original-google-architecture-icons.jpg",
     "created": "2022-04-28",
     "updated": "2022-04-28",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Access Context Manager",
+      "Access Transparency",
+      "Anthos",
+      "Anthos Service Mesh",
+      "Anthos Service Mesh II",
+      "API Analytics",
+      "API Gateway",
+      "API Monetization",
+      "Apigee API Management",
+      "Apigee Sense",
+      "App Engine",
+      "Apps Script",
+      "AppSheet",
+      "Artifact Registry",
+      "Assured Workloads",
+      "AutoML",
+      "Bare Metal Solution",
+      "BeyondCorp Enterprise",
+      "BigQuery",
+      "Billing",
+      "Binary Authorization",
+      "Calendar API",
+      "Carrier Peering",
+      "Certificate Authority Service",
+      "Classroom API",
+      "Cloud APIs",
+      "Cloud Armor",
+      "Cloud Asset Inventory",
+      "Cloud Audit Logs",
+      "Cloud Bigtable",
+      "Cloud Build",
+      "Cloud CDN",
+      "Cloud Code",
+      "Cloud Composer",
+      "Cloud Data Fusion",
+      "Cloud Data Loss Prevention",
+      "Cloud Data Transfer",
+      "Cloud Debugger",
+      "Cloud Deploy",
+      "Cloud DNS",
+      "Cloud Domains",
+      "Cloud Endpoints",
+      "Cloud Filestore",
+      "Cloud Firestore",
+      "Cloud Functions",
+      "Cloud Healthcare API",
+      "Cloud IAM",
+      "Cloud Identity Aware Proxy",
+      "Cloud IDS",
+      "Cloud IoT Core",
+      "Cloud KMS",
+      "Cloud Load Balancing",
+      "Cloud Logging",
+      "Cloud Memorystore",
+      "Cloud Monitoring",
+      "Cloud NAT",
+      "Cloud Profiler",
+      "Cloud Router",
+      "Cloud Run",
+      "Cloud Run for Anthos",
+      "Cloud Scheduler",
+      "Cloud SDK",
+      "Cloud Shell",
+      "Cloud Spanner",
+      "Cloud SQL",
+      "Cloud Storage",
+      "Cloud Storage for Firebase",
+      "Cloud Tasks",
+      "Cloud TPU",
+      "Cloud Trace",
+      "Cloud Translation",
+      "Cloud Vision",
+      "Cloud VPN",
+      "Compute Engine",
+      "Cloud Console",
+      "Contact Center AI",
+      "Container Analysis",
+      "Container Registry",
+      "Data Catalog",
+      "Data Studio",
+      "Database Migration Service",
+      "Dataflow",
+      "Dataplex",
+      "Dataprep",
+      "Dataproc",
+      "Datastream",
+      "Dedicated Interconnect",
+      "Cloud Deployment Manager",
+      "Dialogflow",
+      "Docs API",
+      "Document AI",
+      "Drive API",
+      "Error Reporting",
+      "Event Threat Detection",
+      "Eventarc",
+      "Firebase",
+      "GKE",
+      "Gmail API",
+      "Google Chats API",
+      "Google Cloud Game Servers",
+      "Healthcare Natural Language AI",
+      "Identity Platform",
+      "Local SSD",
+      "Managed Service for Microsoft",
+      "Maps SDK",
+      "Marketplace",
+      "Migrate for Compute Engine",
+      "Network Connectivity Center",
+      "Network Intelligence Center",
+      "Network Service Tiers",
+      "Operations suite",
+      "Packet Mirroring",
+      "Partner Interconnect",
+      "People API",
+      "Persistent Disk",
+      "Private Service Connect",
+      "Pub Sub",
+      "reCAPTCHA Enterprise",
+      "Recommendations AI",
+      "Risk Manager",
+      "Secret Manager",
+      "Security Key Enforcement",
+      "Service Directory",
+      "Sheets API",
+      "Shielded VMs",
+      "Slides API",
+      "Speech To Text",
+      "Text To Speech",
+      "Traffic Director",
+      "Transfer Appliance",
+      "Vault API",
+      "Vertex AI",
+      "Video Intelligence API",
+      "Virtual Private Cloud",
+      "Vision Product Search",
+      "VM Manager",
+      "VMware Engine",
+      "Web Security Scanner",
+      "Workflows"
+    ]
   },
   {
     "name": "Network locations",
@@ -2009,7 +2962,14 @@
     "preview": "jgodoy/network-locations.jpg",
     "created": "2022-04-21",
     "updated": "2022-04-21",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Corporate Office / Headquarterts",
+      "Office",
+      "City",
+      "House",
+      "Datacenter"
+    ]
   },
   {
     "name": "Make your calendar",
@@ -2026,7 +2986,17 @@
     "preview": "surya-teja-venteddu/make-your-calendar.jpg",
     "created": "2022-04-20",
     "updated": "2022-04-20",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "example calender 2022",
+      "Sample of month starting with saturday",
+      "Sample of month starting with friday",
+      "Sample of month starting with thursday",
+      "Sample of month starting with wednesday",
+      "Sample of month starting with Tuesday",
+      "Sample of month starting with Monday",
+      "Sample of month starting with Sunday"
+    ]
   },
   {
     "name": "Internet Service providers",
@@ -2043,7 +3013,16 @@
     "preview": "tuckdiaz/internet-service-providers.jpg",
     "created": "2022-04-21",
     "updated": "2022-04-21",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "BT",
+      "Airtel",
+      "Singtel",
+      "Verizon",
+      "At&t",
+      "T-Mobile ",
+      "TataCommunications"
+    ]
   },
   {
     "name": "Banners",
@@ -2060,7 +3039,16 @@
     "preview": "sketchingdev/banners.jpg",
     "created": "2022-04-29",
     "updated": "2022-04-29",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Messy Banner",
+      "Large Bookmark",
+      "Right Side Banner",
+      "Arrow Banner",
+      "Double Banner",
+      "Stylised Banner",
+      "Classic Banner"
+    ]
   },
   {
     "name": "C4 Architecture",
@@ -2077,7 +3065,19 @@
     "preview": "dmitry-burnyshev/c4-architecture.jpg",
     "created": "2022-05-24",
     "updated": "2022-05-24",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "C4 elements",
+      "Person",
+      "Web App",
+      "Mobile App",
+      "Component",
+      "System",
+      "Existing System",
+      "Database",
+      "Group",
+      "Relation"
+    ]
   },
   {
     "name": "IT Tools Logos",
@@ -2094,11 +3094,18 @@
     "preview": "mguidoti/it-tools-logos.jpg",
     "created": "2022-05-19",
     "updated": "2022-05-19",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Steampipe",
+      "Obsidian",
+      "Terragrunt",
+      "Great Expectations",
+      "Atlantis"
+    ]
   },
   {
     "name": "Architecture diagram components",
-    "description": "Collection of common components for architecture diagrams.\r\n\r\nIncluded: VPC, Private subnet, Public subnet, User, Users, Device, Server, Email, Slack, Docker, GitHub.",
+    "description": "Collection of common components for architecture diagrams.",
     "authors": [
       {
         "name": "Anna Pastushko",
@@ -2111,7 +3118,20 @@
     "preview": "anna-pastushko/architecture-diagram-components.jpg",
     "created": "2022-05-26",
     "updated": "2022-05-27",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Slack",
+      "Docker",
+      "GitHub",
+      "VPC",
+      "Private subnet",
+      "Public subnet",
+      "User",
+      "Users",
+      "Device",
+      "Server",
+      "Email"
+    ]
   },
   {
     "name": "Comms Platform Icons",
@@ -2128,7 +3148,15 @@
     "preview": "adamkdean/comms-platform-icons.jpg",
     "created": "2022-05-29",
     "updated": "2022-05-29",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Email",
+      "Email (box)",
+      "Slack (box)",
+      "Discord (box)",
+      "Slack",
+      "Discord"
+    ]
   },
   {
     "name": "PRINTERS",
@@ -2145,7 +3173,12 @@
     "preview": "krustvalentin/printers.jpg",
     "created": "2022-06-13",
     "updated": "2022-06-13",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "BIG Printer",
+      "SMOL Printer",
+      "HP"
+    ]
   },
   {
     "name": "Microsoft Apps",
@@ -2162,7 +3195,17 @@
     "preview": "zesty-lemur/microsoft-apps.jpg",
     "created": "2022-07-26",
     "updated": "2022-07-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Dataverse",
+      "VS Code",
+      "SharePoint",
+      "Power BI",
+      "Outlook",
+      "Power Automate",
+      "Power Apps",
+      "Virtual Agents"
+    ]
   },
   {
     "name": "micro",
@@ -2179,7 +3222,10 @@
     "preview": "amelia/micro.jpg",
     "created": "2022-07-27",
     "updated": "2022-07-27",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "microcontroller"
+    ]
   },
   {
     "name": "Playing cards",
@@ -2196,7 +3242,14 @@
     "preview": "schiriki123/playing-cards.jpg",
     "created": "2022-08-06",
     "updated": "2022-08-06",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "Ace of spades",
+      "Four of a kind",
+      "Ace of diamonds",
+      "Ace of clubs",
+      "Ace of hearts"
+    ]
   },
   {
     "name": "some-handdrawn-signs",
@@ -2213,11 +3266,15 @@
     "preview": "kwirke/some-handdrawn-signs.jpg",
     "created": "2022-08-11",
     "updated": "2022-08-11",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "cross",
+      "check"
+    ]
   },
   {
     "name": "AWS Architecture Icons",
-    "description": "This library is a collection of the most popular AWS Architecture Icons to help you build diagrams using Excalidraw. Storage services and databases: S3, EBS, EFS, RDS, Aurora, DynamoDB. Compute: EC2, Lambda, Fargate. Analytics: Kinesis, Glue Crawler, Glue DataCatalog, Athena. Application integration: SNS, SQS, AppSync, Step Functions, EventBridge, API Gateway. Developer tools: CodeCommit, CodeBuilt, CodeDeploy. Management: CloudWatch, CloudFormation, Systems Manager. Networking: VPN gateway, Peering connection, NAT gateway, Internet gateway, NACL, Transit gateway, CloudFront, ELB. Other: Cognito, SES, Amplify, AWS Account, AWS Region, IAM, Chatbot, Sagemaker Train, Sagemaker Model, Sagemaker Canvas, Sagemaker Notebook, Amazon Elastic Inference, Sagemaker Ground Truth, Sagemaker, Kinesis Data Firehose, Kinesis Video Streams, Kinesis Data Streams, Kinesis Data Analytics, QuickSight, EMR, Data Pipeline, Redshift, Lake Formation, Glue.",
+    "description": "This library is a collection of the most popular AWS Architecture Icons to help you build diagrams using Excalidraw. Storage services and databases, Analytics, Application integration, Developer tools, Management, Networking, and other icons.",
     "authors": [
       {
         "name": "Anna Pastushko",
@@ -2230,6 +3287,66 @@
     "preview": "childishgirl/aws-architecture-icons.jpg",
     "created": "2022-08-26",
     "updated": "2022-08-26",
-    "version": 2
+    "version": 2,
+    "itemNames": [
+      "AWS Account",
+      "AWS Region",
+      "IAM",
+      "Chatbot",
+      "Sagemaker Train",
+      "Sagemaker Model",
+      "Sagemaker Canvas",
+      "Sagemaker Notebook",
+      "Amazon Elastic Inference",
+      "Sagemaker Ground Truth",
+      "Sagemaker",
+      "Kinesis Data Firehose",
+      "Kinesis Video Streams",
+      "Kinesis Data Streams",
+      "Kinesis Data Analytics",
+      "QuickSight",
+      "EMR",
+      "Data Pipeline",
+      "Redshift",
+      "Lake Formation",
+      "Glue",
+      "Lambda",
+      "EC2 instance",
+      "Fargate",
+      "Step Functions",
+      "S3 Bucket",
+      "EBS",
+      "EFS",
+      "SNS",
+      "SQS",
+      "SES",
+      "Glue Crawler",
+      "Glue DataCatalog",
+      "DynamoDB",
+      "RDS",
+      "Aurora",
+      "Kinesis",
+      "Athena",
+      "CodeCommit",
+      "CodeBuild",
+      "CodeDeploy",
+      "CloudFormation",
+      "CloudWatch",
+      "EventBridge",
+      "Cognito",
+      "AppSync",
+      "API Gateway",
+      "Systems Manager",
+      "Single Sign-On",
+      "Amplify",
+      "CloudFront",
+      "Transit Gateway",
+      "ELB",
+      "VPN gateway",
+      "Peering connection",
+      "NAT gateway",
+      "Internet gateway",
+      "NACL"
+    ]
   }
 ]

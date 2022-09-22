@@ -17,4 +17,6 @@ for (const lib of librariesList) {
   assertNonEmpty(lib, "created");
   assertNonEmpty(lib, "updated");
   assertNonEmpty(lib, "authors");
+  // TODO re-enable once we add missing item names for old libs
+  // assertNonEmpty(lib, "itemNames");
 }

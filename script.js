@@ -157,7 +157,7 @@ const getAppName = (referrer) => {
 let libraries_ = [];
 let currSort = null;
 
-const searchKeys = ["name", "description"];
+const searchKeys = ["name", "description", "itemNames"];
 
 let IMG_INTERSECTION_OBSERVER = null;
 
@@ -201,12 +201,19 @@ const populateLibraryList = (filterQuery = "") => {
   items.forEach((x) => x.remove());
 
   filterQuery = filterQuery.trim().toLowerCase();
+  const hasMatch = (haystackStr) =>
+    haystackStr.toLowerCase().includes(filterQuery);
   let libraries = libraries_;
   if (filterQuery) {
     libraries = libraries.filter((library) =>
-      searchKeys.some((key) =>
-        (library[key] || "").toLowerCase().includes(filterQuery),
-      ),
+      searchKeys.some((key) => {
+        const haystack = library[key] || "";
+        if (Array.isArray(haystack)) {
+          return haystack.some((x) => hasMatch(x));
+        } else {
+          return hasMatch(haystack);
+        }
+      }),
     );
   }
   const template = document.getElementById("template");
@@ -225,7 +232,23 @@ const populateLibraryList = (filterQuery = "") => {
     let authorsInnerHTML = "";
     inner = inner.replace(/\{libraryId\}/g, library.id);
     inner = inner.replace(/\{name\}/g, library.name);
-    inner = inner.replace(/\{description\}/g, library.description);
+
+    const truncate = (str) => {
+      if (str.length > 300) {
+        str = str.slice(0, 300);
+        return str.split(", ").slice(0, -1).join(", ") + "...";
+      }
+      return str;
+    };
+
+    let description = library.description || "";
+    if (library.itemNames) {
+      description += `<br/><br/><b>Items: </b> <span className="itemNames">${truncate(
+        library.itemNames.join(", "),
+      )}</span>`;
+    }
+    inner = inner.replace(/\{description\}/g, description);
+
     inner = inner.replace(/\{source\}/g, source);
     for (let author of library.authors) {
       authorsInnerHTML += `<a href="${author.url}" target="_blank">@${author.name}</a> `;
