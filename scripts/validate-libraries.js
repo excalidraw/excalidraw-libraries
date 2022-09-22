@@ -17,4 +17,5 @@ for (const lib of librariesList) {
   assertNonEmpty(lib, "created");
   assertNonEmpty(lib, "updated");
   assertNonEmpty(lib, "authors");
+  assertNonEmpty(lib, "itemNames");
 }
