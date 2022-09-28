@@ -3422,5 +3422,32 @@
       "Data storage",
       "External Entity"
     ]
+    }, {
+    "name": "Organization Chart",
+    "description": "Org chart template",
+    "authors": [
+      {
+        "name": "Jorge Godoy",
+        "github": "https://github.com/jgodoy",
+        "twitter": "",
+        "url": "https://github.com/jgodoy"
+      }
+    ],
+    "source": "jgodoy/organization-chart.excalidrawlib",
+    "preview": "jgodoy/organization-chart.jpg",
+    "created": "2022-10-02",
+    "updated": "2022-10-02",
+    "version": 2,
+    "itemNames": [
+      "Position",
+      "Team White",
+      "Team HIghlight",
+      "Team Highlight Border",
+      "Team White Border",
+      "Area Person Highlight",
+      "Area Person White",
+      "Manager Role",
+      "Executive Role"
+    ]
   }
 ]
