@@ -3013,5 +3013,40 @@
       "Internet gateway",
       "NACL"
     ]
+  },
+  {
+    "name": "UML Library: Activity Diagram",
+    "description": "An excalidraw for any person interested in creating Activity Diagram in accordance with rules of Unified Modelling Language (UML).\r\nDisclaimer: This is the set of most-frequently used elements (in my opinion). ",
+    "authors": [
+      {
+        "name": "Krzysztof Koper",
+        "github": "papaCrispy",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/krzysztofkoper/"
+      }
+    ],
+    "source": "https-github-com-papacrispy/uml-library-activity-diagram.excalidrawlib",
+    "preview": "https-github-com-papacrispy/uml-library-activity-diagram.jpg",
+    "created": "2022-10-02",
+    "updated": "2022-10-02",
+    "version": 2,
+    "itemNames": [
+      "Initial State",
+      "Final State",
+      "Terminate",
+      "Action Box",
+      "Item Box",
+      "Decision Box_1",
+      "Decision Box_2",
+      "Fork/ Join Node",
+      "Expansion Region Entry/Exit Point",
+      "Expansion Description_Iterative",
+      "Expansion Description_Parallel",
+      "Expansion Description_Stream",
+      "Expansion Region",
+      "Region",
+      "Comment Box",
+      "Swimlane"
+    ]
   }
 ]
