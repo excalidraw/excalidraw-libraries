@@ -3400,7 +3400,8 @@
     "created": "2022-10-02",
     "updated": "2022-10-02",
     "version": 2
-  }, {
+  },
+  {
     "name": "Data Flow",
     "description": "For Data Flow diagrams",
     "authors": [
@@ -3422,7 +3423,8 @@
       "Data storage",
       "External Entity"
     ]
-    }, {
+  },
+  {
     "name": "Organization Chart",
     "description": "Org chart template",
     "authors": [
@@ -3536,6 +3538,28 @@
       "Disabled text field with placeholder",
       "Text field with text",
       "Text field with placeholder"
+    ]
+  },
+  {
+    "name": "Webpage frames",
+    "description": "These components can be used while creating design for web pages to explain the concepts like\r\nclient side rendering, server side rendering , static site generators etc.\r\n\r\nThere are three version or states of webpages:\r\n\r\nLoading - When Pages are being fetched.\r\nViewable - When HTML is loaded (painted) but JS in not executed yet.\r\nInteractive - When HTML and JS are loaded and page is fully interactive.",
+    "authors": [
+      {
+        "name": "dhaval_godwani",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dhaval_godwani/webpage-frames.excalidrawlib",
+    "preview": "dhaval_godwani/webpage-frames.jpg",
+    "created": "2022-10-02",
+    "updated": "2022-10-02",
+    "version": 2,
+    "itemNames": [
+      "loading webpage",
+      "viewable webpage",
+      "interactive webpage"
     ]
   }
 ]
