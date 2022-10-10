@@ -3413,5 +3413,22 @@
     "created": "2022-10-03",
     "updated": "2022-10-03",
     "version": 2
+  },
+  {
+    "name": "rds with ebs",
+    "description": "This was the result of explaining AWS RDS resiliency. Orange is the primary database with a representation of ebs. The red EBS is a snapshot. And the green RDS db is a standby",
+    "authors": [
+      {
+        "name": "Bill ",
+        "github": "https://github.com/winslowb",
+        "twitter": "",
+        "url": "https://github.com/winslowb"
+      }
+    ],
+    "source": "winslowb/rds-with-ebs.excalidrawlib",
+    "preview": "winslowb/rds-with-ebs.jpg",
+    "created": "2022-09-01",
+    "updated": "2022-09-01",
+    "version": 2
   }
 ]
