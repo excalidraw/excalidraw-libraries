@@ -3413,5 +3413,22 @@
     "created": "2022-10-03",
     "updated": "2022-10-03",
     "version": 2
+  },
+  {
+    "name": "C4 model",
+    "description": "The C4 model was created as a way to help software development teams describe and communicate software architecture, both during up-front design sessions and when retrospectively documenting an existing codebase. It's a way to create maps of your code, at various levels of detail, in the same way you would use something like Google Maps to zoom in and out of an area you are interested in.",
+    "authors": [
+      {
+        "name": "saertna",
+        "github": "https://github.com/saertna",
+        "twitter": "",
+        "url": "https://github.com/saertna"
+      }
+    ],
+    "source": "saertna/c4-model.excalidrawlib",
+    "preview": "saertna/c4-model.jpg",
+    "created": "2022-09-19",
+    "updated": "2022-09-19",
+    "version": 2
   }
 ]
