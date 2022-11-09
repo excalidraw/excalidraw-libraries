@@ -1,0 +1,49 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw-a96jtp20j-excalidraw.vercel.app",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "text",
+          "version": 574,
+          "versionNonce": 1097351321,
+          "isDeleted": false,
+          "id": "2a20af8aebbef9da4d41cf452a43ef0c",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1586.4270833333344,
+          "y": 3619.263020833333,
+          "strokeColor": "#000000",
+          "backgroundColor": "#868e96",
+          "width": 790,
+          "height": 54,
+          "seed": 2076419542,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "boundElements": [],
+          "updated": 1667954608717,
+          "fontSize": 36,
+          "fontFamily": 2,
+          "text": "$$\\nabla \\times E=-\\frac{\\partial \\mathbf{B}}{\\partial t} \\Rightarrow E_{y, 1}=E_{y, 2} \\quad E_{x, 1}=E_{x, 2}$$",
+          "baseline": 38,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "$$\\nabla \\times E=-\\frac{\\partial \\mathbf{B}}{\\partial t} \\Rightarrow E_{y, 1}=E_{y, 2} \\quad E_{x, 1}=E_{x, 2}$$",
+          "subtype": "math",
+          "useTex": true
+        }
+      ],
+      "id": "sZ5gHh4m0l58CeGz8ieis",
+      "created": 1667954614766,
+      "name": "Latex"
+    }
+  ]
+}
