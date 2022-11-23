@@ -1,0 +1,164 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.saminthedark.fr",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "ClN4vYwJTKA6-5h-BUg6c",
+          "type": "rectangle",
+          "x": 749,
+          "y": 206,
+          "width": 489,
+          "height": 303,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 1214556243,
+          "version": 77,
+          "versionNonce": 533002013,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "5EkBG43YVLdL7qRoMSdmr",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1669208700049,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "LMHaTYAqp9WldK-Y8cax7",
+          "type": "rectangle",
+          "x": 1002,
+          "y": 646,
+          "width": 489,
+          "height": 303,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 931571059,
+          "version": 181,
+          "versionNonce": 632425341,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "5EkBG43YVLdL7qRoMSdmr",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1669208700049,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "WDMmiO6NSv0IFh5n3-Qrb",
+          "type": "text",
+          "x": 958,
+          "y": 273,
+          "width": 66,
+          "height": 52,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 2118811901,
+          "version": 9,
+          "versionNonce": 1313315453,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1669208639065,
+          "link": null,
+          "locked": false,
+          "text": "coucou\n",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "baseline": 44,
+          "containerId": null,
+          "originalText": "coucou\n"
+        },
+        {
+          "id": "5EkBG43YVLdL7qRoMSdmr",
+          "type": "arrow",
+          "x": 802,
+          "y": 509,
+          "width": 195,
+          "height": 304,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "round",
+          "seed": 1217448851,
+          "version": 544,
+          "versionNonce": 1668534781,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1669208731353,
+          "link": "",
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              80.5,
+              273.5
+            ],
+            [
+              195,
+              304
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": {
+            "elementId": "ClN4vYwJTKA6-5h-BUg6c",
+            "focus": 0.8166669828562034,
+            "gap": 1
+          },
+          "endBinding": {
+            "elementId": "LMHaTYAqp9WldK-Y8cax7",
+            "focus": -0.37834623447830995,
+            "gap": 5
+          },
+          "startArrowhead": null,
+          "endArrowhead": "arrow"
+        }
+      ],
+      "id": "1klgWsVr-hOUzsdvc8x-Q",
+      "created": 1669208778407,
+      "name": "test"
+    }
+  ]
+}
