@@ -3987,6 +3987,50 @@
     "created": "2022-11-07",
     "updated": "2022-11-07",
     "version": 2,
-    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
+    "itemNames": [
+      "gopher front",
+      "gopher up",
+      "gopher right",
+      "gopher angle",
+      "gopher left",
+      "gopher down"
+    ]
+  },
+  {
+    "name": "Data Platform",
+    "description": "Components of a data platform.",
+    "authors": [
+      {
+        "name": "Chu Quang Bach",
+        "github": "https://github.com/chuqbach",
+        "twitter": "https://twitter.com/chuquangbach",
+        "url": "https://github.com/chuqbach"
+      }
+    ],
+    "source": "chuqbach/data-platform.excalidrawlib",
+    "preview": "chuqbach/data-platform.jpg",
+    "created": "2022-11-28",
+    "updated": "2022-11-28",
+    "version": 2,
+    "itemNames": [
+      "scala",
+      "gitlab",
+      "docker",
+      "schema registry",
+      "oracle database",
+      "power bi",
+      "superset",
+      "airflow",
+      "airbyte",
+      "dbt",
+      "impala",
+      "delta lake",
+      "spark",
+      "databricks",
+      "hive",
+      "hadoop",
+      "minio",
+      "kafka"
+    ]
   }
 ]
