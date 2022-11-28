@@ -3987,6 +3987,47 @@
     "created": "2022-11-07",
     "updated": "2022-11-07",
     "version": 2,
-    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
+    "itemNames": [
+      "gopher front",
+      "gopher up",
+      "gopher right",
+      "gopher angle",
+      "gopher left",
+      "gopher down"
+    ]
+  },
+  {
+    "name": "Indicium Stack",
+    "description": "Stack of technologies used by IndicumTech in the day-to-day business",
+    "authors": [
+      {
+        "name": "Guilheme Zanotelli dos Santos",
+        "github": "https://github.com/guizsantos",
+        "twitter": "",
+        "url": "https://indicium.tech/"
+      }
+    ],
+    "source": "guizsantos/indicium-stack.excalidrawlib",
+    "preview": "guizsantos/indicium-stack.jpg",
+    "created": "2022-11-28",
+    "updated": "2022-11-28",
+    "version": 2,
+    "itemNames": [
+      "python-logo",
+      "json-file",
+      "docker-logo",
+      "terraform-logo",
+      "indicium",
+      "site-frontend",
+      "kubernetes-logo",
+      "vpn-connect",
+      "user-pc",
+      "vpn-entry",
+      "embulk-logo",
+      "dbt-logo",
+      "postgres-logo",
+      "airflow-logo",
+      "yaml-file"
+    ]
   }
 ]
