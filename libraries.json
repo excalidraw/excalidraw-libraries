@@ -3987,6 +3987,51 @@
     "created": "2022-11-07",
     "updated": "2022-11-07",
     "version": 2,
-    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
+    "itemNames": [
+      "gopher front",
+      "gopher up",
+      "gopher right",
+      "gopher angle",
+      "gopher left",
+      "gopher down"
+    ]
+  },
+  {
+    "name": "Hagens Structural Enginneering Library",
+    "description": "Some typical elements that are often used for structural engineering sketches ",
+    "authors": [
+      {
+        "name": "Hagen ",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "hagen/hagens-structural-enginneering-library.excalidrawlib",
+    "preview": "hagen/hagens-structural-enginneering-library.jpg",
+    "created": "2022-12-01",
+    "updated": "2022-12-01",
+    "version": 2,
+    "itemNames": [
+      "constant load",
+      "inclined load 1",
+      "inclined load 2",
+      "trapez load 1",
+      "trapez load 2",
+      "pipe section",
+      "I section",
+      "L section",
+      "u section",
+      "clamped BC",
+      "sliding hinged BC",
+      "fixed hinged BC",
+      "damper ",
+      "rotational spring",
+      "longitudinal spring",
+      "link ",
+      "soil ",
+      "big greek letters",
+      "small greek letters"
+    ]
   }
 ]
