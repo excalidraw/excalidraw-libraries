@@ -3987,6 +3987,39 @@
     "created": "2022-11-07",
     "updated": "2022-11-07",
     "version": 2,
-    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
+    "itemNames": [
+      "gopher front",
+      "gopher up",
+      "gopher right",
+      "gopher angle",
+      "gopher left",
+      "gopher down"
+    ]
+  },
+  {
+    "name": "Event Storming RU",
+    "description": "Элементы для применения практики Event Storming",
+    "authors": [
+      {
+        "name": "Adv",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "adv/event-storming-ru.excalidrawlib",
+    "preview": "adv/event-storming-ru.jpg",
+    "created": "2022-12-02",
+    "updated": "2022-12-02",
+    "version": 2,
+    "itemNames": [
+      "question",
+      "infrastructure",
+      "database",
+      "externalsystem",
+      "command",
+      "agregat",
+      "event"
+    ]
   }
 ]
