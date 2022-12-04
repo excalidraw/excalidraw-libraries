@@ -3869,6 +3869,44 @@
     ]
   },
   {
+    "name": "Microsoft Azure cloud icons",
+    "description": "Microsoft unofficial Azure icon line drawings",
+    "authors": [
+      {
+        "name": "Suresh Sethuramaswamy",
+        "github": "rockssk",
+        "twitter": "rocksskNYC",
+        "url": "https://www.linkedin.com/in/sureshsethu/"
+      }
+    ],
+    "source": "rockssk/microsoft-azure-cloud-icons.excalidrawlib",
+    "preview": "rockssk/microsoft-azure-cloud-icons.jpg",
+    "created": "2022-11-25",
+    "updated": "2022-11-25",
+    "version": 2,
+    "itemNames": [
+      "Azure Event Hubs",
+      "Azure Database for MariaDB",
+      "Azure Database for Postgres",
+      "Azure Data Explorer",
+      "Azure Data Factory",
+      "Azure Cosmos DB",
+      "Azure Cache for Redis",
+      "Azure Database for MySQL",
+      "Azure SQL Database",
+      "Azure SQLMI",
+      "Cost Management and billig",
+      "Azure Policy",
+      "Cognitive Services",
+      "SQL Server on Azure VM",
+      "Analysis Services",
+      "Power BI",
+      "Azure Databricks",
+      "Azure Machine Learning",
+      "Azure Synapse Analytics"
+    ]
+  },
+  {
     "name": "science chemistry gcse",
     "description": "gcse chem topic1\r\n",
     "authors": [
@@ -3904,8 +3942,8 @@
     ],
     "source": "pixelass/body-builder-kit-1.excalidrawlib",
     "preview": "pixelass/body-builder-kit-1.jpg",
-    "created": "2022-10-31",
-    "updated": "2022-10-31",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
     "version": 2,
     "itemNames": [
       "Example 1",
@@ -3924,5 +3962,65 @@
       "Top 2",
       "Top 3"
     ]
+  },
+  {
+    "name": "Music notation",
+    "description": "Symbols for writing music in the staff and for writing rhythms. \r\nCan be used for self-study or as a teaching aid for explaining and set up drills and exercises.",
+    "authors": [
+      {
+        "name": "Andresiooo",
+        "github": "https://github.com/Ad115",
+        "twitter": "https://twitter.com/@Andresio115",
+        "url": "https://github.com/Ad115"
+      }
+    ],
+    "source": "ad115/music-notation.excalidrawlib",
+    "preview": "ad115/music-notation.jpg",
+    "created": "2022-11-25",
+    "updated": "2022-11-25",
+    "version": 2,
+    "itemNames": [
+      "Rhythm staff",
+      "Sharp sign",
+      "Flat sign",
+      "End sign",
+      "Repeat sign",
+      "Rhythm end",
+      "Rhythm repeat",
+      "Rhythm measure bar",
+      "Bass clef",
+      "Treble clef",
+      "Whole rest",
+      "Half rest",
+      "Quarter rest",
+      "Eighth rest",
+      "Sixteenth rest",
+      "Joined sixteenths",
+      "Sixteenth",
+      "Joined eights",
+      "Eight note",
+      "Quarter note",
+      "Half note",
+      "Whole note",
+      "Staff"
+    ]
+  },
+  {
+    "name": "Golang gophers",
+    "description": "Golang gophers we all love to spice up your drawings.",
+    "authors": [
+      {
+        "name": "Gregory Vincic",
+        "github": "https://github.com/gregoryv",
+        "twitter": "https://twitter.com/gveet",
+        "url": "https://github.com/gregoryv"
+      }
+    ],
+    "source": "gregory/golang-gophers.excalidrawlib",
+    "preview": "gregory/golang-gophers.jpg",
+    "created": "2022-11-07",
+    "updated": "2022-11-07",
+    "version": 2,
+    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
   }
 ]
