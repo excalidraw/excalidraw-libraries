@@ -3987,6 +3987,39 @@
     "created": "2022-11-07",
     "updated": "2022-11-07",
     "version": 2,
-    "itemNames": ["gopher front", "gopher up", "gopher right", "gopher angle", "gopher left", "gopher down"]
+    "itemNames": [
+      "gopher front",
+      "gopher up",
+      "gopher right",
+      "gopher angle",
+      "gopher left",
+      "gopher down"
+    ]
+  },
+  {
+    "name": "logic gates",
+    "description": "some of the most used logic gates",
+    "authors": [
+      {
+        "name": "aaron diel",
+        "github": "https://github.com/aarondiel",
+        "twitter": "",
+        "url": "https://aarondiel.com"
+      }
+    ],
+    "source": "aarondiel/logic-gates.excalidrawlib",
+    "preview": "aarondiel/logic-gates.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "nand",
+      "and",
+      "nor",
+      "or",
+      "nxor",
+      "xor",
+      "not"
+    ]
   }
 ]
