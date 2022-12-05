@@ -3930,6 +3930,40 @@
     ]
   },
   {
+    "name": "Body Builder Kit 1",
+    "description": "Various elements to build bodies with unique characteristics. Includes several variations and styles.\r\n\r\nPick elements and choose a color. Includes example compositions. Works great with \"Head Builder Kit 1\"",
+    "authors": [
+      {
+        "name": "Gregor Adams",
+        "github": "https://github.com/pixelass",
+        "twitter": "",
+        "url": "https://pixelass.com"
+      }
+    ],
+    "source": "pixelass/body-builder-kit-1.excalidrawlib",
+    "preview": "pixelass/body-builder-kit-1.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "Example 1",
+      "Example 2",
+      "Example 3",
+      "Example 4",
+      "Contour Female 1",
+      "Body Female 1",
+      "Body Male 1",
+      "Contour Male 1",
+      "Pants 1",
+      "Pants 2",
+      "Pants 3",
+      "Pants 4",
+      "Top 1",
+      "Top 2",
+      "Top 3"
+    ]
+  },
+  {
     "name": "Music notation",
     "description": "Symbols for writing music in the staff and for writing rhythms. \r\nCan be used for self-study or as a teaching aid for explaining and set up drills and exercises.",
     "authors": [
@@ -4020,6 +4054,34 @@
       "nxor",
       "xor",
       "not"
+    ]
+  },
+  {
+    "name": "Tools",
+    "description": "A collection of common tools",
+    "authors": [
+      {
+        "name": "Gregor Adams",
+        "github": "https://github.com/pixelass",
+        "twitter": "",
+        "url": "http://pixelass.com"
+      }
+    ],
+    "source": "pixelass/tools.excalidrawlib",
+    "preview": "pixelass/tools.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "Screws",
+      "Nails",
+      "Screw",
+      "Nail",
+      "Screwdriver",
+      "Hammer",
+      "Drill",
+      "Saw",
+      "Folding rule"
     ]
   }
 ]
