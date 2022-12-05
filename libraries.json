@@ -4031,6 +4031,32 @@
     ]
   },
   {
+    "name": "logic gates",
+    "description": "some of the most used logic gates",
+    "authors": [
+      {
+        "name": "aaron diel",
+        "github": "https://github.com/aarondiel",
+        "twitter": "",
+        "url": "https://aarondiel.com"
+      }
+    ],
+    "source": "aarondiel/logic-gates.excalidrawlib",
+    "preview": "aarondiel/logic-gates.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "nand",
+      "and",
+      "nor",
+      "or",
+      "nxor",
+      "xor",
+      "not"
+    ]
+  },
+  {
     "name": "Tools",
     "description": "A collection of common tools",
     "authors": [
