@@ -4083,5 +4083,31 @@
       "Saw",
       "Folding rule"
     ]
+  },
+  {
+    "name": "Event Storming",
+    "description": "Includes the common components for an event storming session. \r\n\r\nThe colors are slightly modified to be color-blind friendly",
+    "authors": [
+      {
+        "name": "FIDIL",
+        "github": "https://github.com/tylerkron",
+        "twitter": "https://twitter.com/https://twitter.com/fidildev",
+        "url": "https://fidil.dev/"
+      }
+    ],
+    "source": "tylerkron/event-storming.excalidrawlib",
+    "preview": "tylerkron/event-storming.jpg",
+    "created": "2022-12-06",
+    "updated": "2022-12-06",
+    "version": 2,
+    "itemNames": [
+      "Aggregate",
+      "External System",
+      "Business Process",
+      "Read Model",
+      "Actor",
+      "Command",
+      "Domain Event"
+    ]
   }
 ]
