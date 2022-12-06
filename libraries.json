@@ -4083,5 +4083,34 @@
       "Saw",
       "Folding rule"
     ]
+  },
+  {
+    "name": "Event Storming Palette",
+    "description": "Event Storming Palette",
+    "authors": [
+      {
+        "name": "@aleixmorgadas",
+        "github": "https://github.com/aleixmorgadas",
+        "twitter": "https://twitter.com/aleixmorgadas",
+        "url": "https://github.com/aleixmorgadas"
+      }
+    ],
+    "source": "aleixmorgadas/event-storming-palette.excalidrawlib",
+    "preview": "aleixmorgadas/event-storming-palette.jpg",
+    "created": "2022-12-06",
+    "updated": "2022-12-06",
+    "version": 2,
+    "itemNames": [
+      "User",
+      "Opportunity",
+      "Risk/Unknown",
+      "Note",
+      "System",
+      "Event",
+      "Data",
+      "Policy",
+      "Command",
+      "View/Query"
+    ]
   }
 ]
