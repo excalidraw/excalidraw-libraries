@@ -4083,5 +4083,45 @@
       "Saw",
       "Folding rule"
     ]
+  },
+  {
+    "name": "quantum logic gates",
+    "description": "a collection of quantum logic gates for making circuits",
+    "authors": [
+      {
+        "name": "Gal Winer",
+        "github": "https://github.com/galClassiq",
+        "twitter": "https://twitter.com/galwiner",
+        "url": "https://github.com/galClassiq"
+      }
+    ],
+    "source": "galclassiq/quantum-logic-gates.excalidrawlib",
+    "preview": "galclassiq/quantum-logic-gates.jpg",
+    "created": "2022-12-07",
+    "updated": "2022-12-07",
+    "version": 2,
+    "itemNames": [
+      "Fredkin Gate",
+      "sqrt(swap)",
+      "cz",
+      "ch",
+      "swap1",
+      "cnot1",
+      "measure",
+      "ccx",
+      "swap2",
+      "cu",
+      "cy",
+      "cx",
+      "hadamard",
+      "arb_rotation",
+      "not",
+      "pauli-z",
+      "pauli-y",
+      "pauli-x",
+      "idenitity",
+      "phase",
+      "pi8"
+    ]
   }
 ]
