@@ -3930,6 +3930,101 @@
     ]
   },
   {
+    "name": "Enterprise Integration Patterns",
+    "description": "Mostly complete representation of the icons from the excellent Enterprise Integration Patterns book by Gregor Hohpe and Bobby Woolf",
+    "authors": [
+      {
+        "name": "Stuart Campbell",
+        "github": "https://github.com/stuc2010",
+        "twitter": "",
+        "url": "https://figtechnology.solutions"
+      }
+    ],
+    "source": "stuc2010/enterprise-integration-patterns.excalidrawlib",
+    "preview": "stuc2010/enterprise-integration-patterns.jpg",
+    "created": "2022-12-07",
+    "updated": "2022-12-07",
+    "version": 2,
+    "itemNames": [
+      "Dead letter channel",
+      "Channel adapter L",
+      "Channel adapter R",
+      "Message filter",
+      "Test data generator",
+      "Test data verifier",
+      "Channel purger",
+      "Message dispatcher",
+      "Content filter",
+      "Unwrapper",
+      "Smart proxy",
+      "Wire tap",
+      "Wrapper",
+      "Process manager",
+      "Re-sequencer",
+      "Enricher",
+      "Dynamic rule base",
+      "Splitter",
+      "Aggregator",
+      "Detour",
+      "Router",
+      "Bridge",
+      "Recipient list",
+      "Selective consumer",
+      "Messaging component",
+      "Translator",
+      "Messaging gateway",
+      "Event driven consumer",
+      "Message bus",
+      "Message store",
+      "Application",
+      "Sender",
+      "Receiver",
+      "Polling consumer",
+      "Channel",
+      "Reply channel",
+      "Message type 1",
+      "Message type 2",
+      "Message type 3",
+      "Event message",
+      "Command message",
+      "Document message"
+    ]
+  },
+  {
+    "name": "Body Builder Kit 1",
+    "description": "Various elements to build bodies with unique characteristics. Includes several variations and styles.\r\n\r\nPick elements and choose a color. Includes example compositions. Works great with \"Head Builder Kit 1\"",
+    "authors": [
+      {
+        "name": "Gregor Adams",
+        "github": "https://github.com/pixelass",
+        "twitter": "",
+        "url": "https://pixelass.com"
+      }
+    ],
+    "source": "pixelass/body-builder-kit-1.excalidrawlib",
+    "preview": "pixelass/body-builder-kit-1.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "Example 1",
+      "Example 2",
+      "Example 3",
+      "Example 4",
+      "Contour Female 1",
+      "Body Female 1",
+      "Body Male 1",
+      "Contour Male 1",
+      "Pants 1",
+      "Pants 2",
+      "Pants 3",
+      "Pants 4",
+      "Top 1",
+      "Top 2",
+      "Top 3"
+    ]
+  },
+  {
     "name": "Music notation",
     "description": "Symbols for writing music in the staff and for writing rhythms. \r\nCan be used for self-study or as a teaching aid for explaining and set up drills and exercises.",
     "authors": [
@@ -4009,8 +4104,8 @@
     ],
     "source": "chuqbach/data-platform.excalidrawlib",
     "preview": "chuqbach/data-platform.jpg",
-    "created": "2022-11-28",
-    "updated": "2022-11-28",
+    "created": "2022-12-09",
+    "updated": "2022-12-09",
     "version": 2,
     "itemNames": [
       "scala",
@@ -4031,6 +4126,168 @@
       "hadoop",
       "minio",
       "kafka"
+    ]
+  },
+  {
+    "name": "logic gates",
+    "description": "some of the most used logic gates",
+    "authors": [
+      {
+        "name": "aaron diel",
+        "github": "https://github.com/aarondiel",
+        "twitter": "",
+        "url": "https://aarondiel.com"
+      }
+    ],
+    "source": "aarondiel/logic-gates.excalidrawlib",
+    "preview": "aarondiel/logic-gates.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "nand",
+      "and",
+      "nor",
+      "or",
+      "nxor",
+      "xor",
+      "not"
+    ]
+  },
+  {
+    "name": "Tools",
+    "description": "A collection of common tools",
+    "authors": [
+      {
+        "name": "Gregor Adams",
+        "github": "https://github.com/pixelass",
+        "twitter": "",
+        "url": "http://pixelass.com"
+      }
+    ],
+    "source": "pixelass/tools.excalidrawlib",
+    "preview": "pixelass/tools.jpg",
+    "created": "2022-12-04",
+    "updated": "2022-12-04",
+    "version": 2,
+    "itemNames": [
+      "Screws",
+      "Nails",
+      "Screw",
+      "Nail",
+      "Screwdriver",
+      "Hammer",
+      "Drill",
+      "Saw",
+      "Folding rule"
+    ]
+  },
+  {
+    "name": "Artem's icons",
+    "description": "Icons for concept boards",
+    "authors": [
+      {
+        "name": "Artem Anufrij",
+        "github": "https://github.com/artemanufrij",
+        "twitter": "",
+        "url": "https://social.anufrij.de/@artem"
+      }
+    ],
+    "source": "artem-anufrij-live-de/artem-s-icons.excalidrawlib",
+    "preview": "artem-anufrij-live-de/artem-s-icons.jpg",
+    "created": "2022-12-07",
+    "updated": "2022-12-07",
+    "version": 2,
+    "itemNames": [
+      "organisation",
+      "process",
+      "notebook",
+      "laptop",
+      "smartphone",
+      "icon",
+      "cancel",
+      "accept",
+      "server",
+      "warning",
+      "information",
+      "toggle on",
+      "toggle off",
+      "finish",
+      "next step",
+      "start step",
+      "arrow",
+      "files",
+      "folder",
+      "important",
+      "target",
+      "question"
+    ]
+  },
+  {
+    "name": "Event Storming",
+    "description": "Includes the common components for an event storming session. \r\n\r\nThe colors are slightly modified to be color-blind friendly",
+    "authors": [
+      {
+        "name": "FIDIL",
+        "github": "https://github.com/tylerkron",
+        "twitter": "https://twitter.com/https://twitter.com/fidildev",
+        "url": "https://fidil.dev/"
+      }
+    ],
+    "source": "tylerkron/event-storming.excalidrawlib",
+    "preview": "tylerkron/event-storming.jpg",
+    "created": "2022-12-06",
+    "updated": "2022-12-06",
+    "version": 2,
+    "itemNames": [
+      "Aggregate",
+      "External System",
+      "Business Process",
+      "Read Model",
+      "Actor",
+      "Command",
+      "Domain Event"
+    ]
+  },
+  {
+    "name": "Universal UI kit",
+    "description": "Universal UI, UX kit for app or web",
+    "authors": [
+      {
+        "name": "Manuel Ernesto Garcia",
+        "github": "https://github.com/manuelernestog",
+        "twitter": "https://twitter.com/manuelernestog",
+        "url": "https://manuelernestog.github.io/"
+      }
+    ],
+    "source": "manuelernestog/universal-ui-kit.excalidrawlib",
+    "preview": "manuelernestog/universal-ui-kit.jpg",
+    "created": "2022-12-08",
+    "updated": "2022-12-08",
+    "version": 2,
+    "itemNames": [
+      "Tooltip",
+      "Circle Progress Bar",
+      "User Icon",
+      "Toggle Unchecked",
+      "Pie chart",
+      "Line chart",
+      "Bar Chart",
+      "Calendar",
+      "Search Input",
+      "Slider",
+      "Alert",
+      "Horizontal Scroll ",
+      "Vertical Scroll ",
+      "Linear Progress Bar",
+      "Toggle Checked",
+      "Number Input",
+      "Date Input",
+      "Select",
+      "Checkbox Checked",
+      "Checkbox Unchecked",
+      "Button Group",
+      "Button"
     ]
   }
 ]
