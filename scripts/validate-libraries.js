@@ -8,6 +8,22 @@ const assertNonEmpty = (lib, field) => {
   }
 };
 
+const assertUniqueIds = () => {
+  const ids = new Set();
+  const duplicateIds = [];
+  for (const lib of librariesList) {
+    if (ids.has(lib.id)) {
+      duplicateIds.push(lib.id);
+    }
+    ids.add(lib.id);
+  }
+  if (duplicateIds.length) {
+    throw new Error(red(`Found duplicate ids: "${duplicateIds.join(`", "`)}"`));
+  }
+};
+
+// -----------------------------------------------------------------------------
+
 for (const lib of librariesList) {
   assertNonEmpty(lib, "name");
   assertNonEmpty(lib, "description");
@@ -20,3 +36,5 @@ for (const lib of librariesList) {
   // TODO re-enable once we add missing item names for old libs
   // assertNonEmpty(lib, "itemNames");
 }
+
+assertUniqueIds();
