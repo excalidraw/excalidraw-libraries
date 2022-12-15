@@ -4199,26 +4199,6 @@
     "created": "2022-12-15",
     "updated": "2022-12-15",
     "version": 2,
-    "itemNames": [
-      "rolebinding",
-      "user",
-      "serviceaccount",
-      "volume",
-      "pv",
-      "pvc",
-      "namespace",
-      "job",
-      "cronjob",
-      "crd",
-      "clusterrolebinding",
-      "secret",
-      "service",
-      "ingress",
-      "hpa",
-      "configmap",
-      "deployment",
-      "replicaset",
-      "pod"
-    ]
+    "itemNames": ["rolebinding", "user", "serviceaccount", "volume", "pv", "pvc", "namespace", "job", "cronjob", "crd", "clusterrolebinding", "secret", "service", "ingress", "hpa", "configmap", "deployment", "replicaset", "pod"]
   }
 ]
