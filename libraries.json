@@ -4182,5 +4182,43 @@
     "version": 2,
     "itemNames": ["Red_Player1", "Blue_Player1", "Disc", "Field"],
     "id": "3Z83CfR5wYA"
+  },
+  {
+    "name": "Kubernetes Icons Set",
+    "description": "These icons are a way to standardize Kubernetes architecture diagrams for presentation. Having uniform architecture diagrams improve understandibility.",
+    "authors": [
+      {
+        "name": "Lowess",
+        "github": "https://github.com/Lowess",
+        "twitter": "https://twitter.com/DambrineF",
+        "url": "https://floriandambrine.com/"
+      }
+    ],
+    "source": "lowess/kubernetes-icons-set.excalidrawlib",
+    "preview": "lowess/kubernetes-icons-set.jpg",
+    "created": "2022-12-15",
+    "updated": "2022-12-15",
+    "version": 2,
+    "itemNames": [
+      "rolebinding",
+      "user",
+      "serviceaccount",
+      "volume",
+      "pv",
+      "pvc",
+      "namespace",
+      "job",
+      "cronjob",
+      "crd",
+      "clusterrolebinding",
+      "secret",
+      "service",
+      "ingress",
+      "hpa",
+      "configmap",
+      "deployment",
+      "replicaset",
+      "pod"
+    ]
   }
 ]
