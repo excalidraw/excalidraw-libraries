@@ -12,6 +12,9 @@ const assertUniqueIds = () => {
   const ids = new Set();
   const duplicateIds = [];
   for (const lib of librariesList) {
+    if (!lib.id) {
+      continue;
+    }
     if (ids.has(lib.id)) {
       duplicateIds.push(lib.id);
     }
