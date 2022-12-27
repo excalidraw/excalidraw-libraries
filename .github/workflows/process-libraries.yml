@@ -3,7 +3,7 @@ name: Process libraries.json
 on: pull_request
 
 jobs:
-  build:
+  item_names:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
