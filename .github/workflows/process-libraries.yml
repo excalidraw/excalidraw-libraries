@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.EXCALIBOT_PAT_WORKFLOWS }}
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.event.pull_request.head.ref }}
       - name: regenrate-item-names
         run: node scripts/gen-item-names.mjs
       - name: Commit changes
@@ -20,5 +20,5 @@ jobs:
             git config --global user.email 'bot@excalidraw.com'
             git add .
             git commit -am "regenerate itemNames"
-            git push ${{ github.head_ref }}
+            git push
           fi
