@@ -1,0 +1,25 @@
+name: Process libraries.json
+
+on: pull_request
+
+jobs:
+  item_names:
+    if: github.repository == 'excalidraw/excalidraw-libraries'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.EXCALIBOT_PAT_WORKFLOWS }}
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: regenrate-item-names
+        run: node scripts/gen-item-names.mjs
+      - name: Commit changes
+        run: |
+          FILE_CHANGED=$(git diff libraries.json)
+          if [ ! -z "${FILE_CHANGED}" ]; then
+            git config --global user.name 'Excalidraw Bot'
+            git config --global user.email 'bot@excalidraw.com'
+            git add .
+            git commit -am "regenerate itemNames"
+            git push
+          fi
