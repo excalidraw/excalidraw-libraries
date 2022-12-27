@@ -4,6 +4,7 @@ on: pull_request
 
 jobs:
   item_names:
+    if: github.repository == 'excalidraw/excalidraw-libraries'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
