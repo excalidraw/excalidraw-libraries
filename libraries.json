@@ -3424,7 +3424,7 @@
     "source": "childishgirl/aws-architecture-icons.excalidrawlib",
     "preview": "childishgirl/aws-architecture-icons.jpg",
     "created": "2022-08-26",
-    "updated": "2022-08-26",
+    "updated": "2022-12-27",
     "version": 2,
     "itemNames": [
       "Global Accelerator",
@@ -4951,6 +4951,37 @@
       "deployment",
       "replicaset",
       "pod"
+    ]
+  },
+  {
+    "name": "Wardley Mapping Canvas",
+    "description": "The Wardley Mapping Canvas helps newcomers with their first mapping experiences by offering a structure that makes mapping a step-by-step process.\r\nThe Wardley Mapping Canvas is licensed Creative Commons BY-SA 4.0 International (CC BY-SA 4.0) and incorporates concepts provided courtesy of Simon Wardley under the same license.\r\n\r\n",
+    "authors": [
+      {
+        "name": "Mayank Gupta",
+        "github": "https://github.com/mayankguptadotcom",
+        "twitter": "https://twitter.com/mayank",
+        "url": "https://mayankgupta.com"
+      }
+    ],
+    "source": "mayankguptadotcom/wardley-mapping-canvas.excalidrawlib",
+    "preview": "mayankguptadotcom/wardley-mapping-canvas.jpg",
+    "created": "2022-12-27",
+    "updated": "2022-12-27",
+    "version": 2,
+    "itemNames": [
+      "Activity",
+      "Scope Block",
+      "Purpose Block",
+      "Users Block",
+      "User Needs Block",
+      "Map Block",
+      "Value Chain Block",
+      "Value Chain Map Only",
+      "Map",
+      "User Need",
+      "User",
+      "Wardley Mapping Canvas"
     ]
   }
 ]
