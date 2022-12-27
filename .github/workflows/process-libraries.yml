@@ -9,6 +9,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.EXCALIBOT_PAT_WORKFLOWS }}
+          ref: ${{ github.head_ref }}
       - name: regenrate-item-names
         run: node scripts/gen-item-names.mjs
       - name: Commit changes
