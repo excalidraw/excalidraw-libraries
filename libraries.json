@@ -4983,5 +4983,29 @@
       "User",
       "Wardley Mapping Canvas"
     ]
+  },
+  {
+    "name": "UPN Notation",
+    "description": "Small library for making UPN diagrams. \r\n\r\nContains 2 types of process cards:\r\n- one empty card (blanks for action/who is responsible/what system is used)\r\n- one empty card with corner (for use in B+W to note that there is a sub proc or for use with colored corner element) \r\n- paperclip text element (a target for a resource link like checklists or other documentation)\r\n- colored corner (another target when you want your diagram to have some color)\r\n\r\nExample:\r\nYou use obsidian and the excalidraw plugin to make your drawing/diagrams. You can link to other process diagrams and resources by adding links to the elements.",
+    "authors": [
+      {
+        "name": "mjhika",
+        "github": "https://github.com/mjhika",
+        "twitter": "",
+        "url": "https://github.com/mjhika"
+      }
+    ],
+    "source": "mjhika/upn-notation.excalidrawlib",
+    "preview": "mjhika/upn-notation.jpg",
+    "created": "2023-01-05",
+    "updated": "2023-01-05",
+    "version": 2,
+    "itemNames": [
+      "linked resource",
+      "colored corner",
+      "terminal point",
+      "process card with sub proc or empty proc for color",
+      "process card"
+    ]
   }
 ]
