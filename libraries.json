@@ -4983,5 +4983,31 @@
       "User",
       "Wardley Mapping Canvas"
     ]
+  },
+  {
+    "name": "Stick people",
+    "description": "Simple Stick people. You can change postures by deep-select  and changing the arms (elbows/hands) and by moving slightly the eyes and mouth",
+    "authors": [
+      {
+        "name": "David Hurt",
+        "github": "https://github.com/dhtoran",
+        "twitter": "https://twitter.com/OpenAI-Assistant",
+        "url": "https://www.linkedin.com/in/davidhurtadotoran/"
+      }
+    ],
+    "source": "dhtoran/stick-people.excalidrawlib",
+    "preview": "dhtoran/stick-people.jpg",
+    "created": "2023-01-05",
+    "updated": "2023-01-05",
+    "version": 2,
+    "itemNames": [
+      "Stick man standard looking left",
+      "Stick man talking",
+      "Stick woman standard",
+      "Stick woman thinking",
+      "Stick man thinking",
+      "Stick man standard",
+      "Stick man with a hat "
+    ]
   }
 ]
