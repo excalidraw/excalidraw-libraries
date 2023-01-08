@@ -5009,5 +5009,31 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Universal European Calendar",
+    "description": "Modified \"Make your calendar\" library by @Surya Teja Venteddu but adjusted for european use. \r\nThe week starts with Monday. The library constists of 7 templates for months starting with 7 days of the month.",
+    "authors": [
+      {
+        "name": "Lexa",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "lexa/universal-european-calendar.excalidrawlib",
+    "preview": "lexa/universal-european-calendar.jpg",
+    "created": "2023-01-08",
+    "updated": "2023-01-08",
+    "version": 2,
+    "itemNames": [
+      "Monday Month",
+      "Tuesday Month",
+      "Ewdnesday Month",
+      "Thursday Month",
+      "Friday Month",
+      "Saturday Month",
+      "Sunday Month"
+    ]
   }
 ]
