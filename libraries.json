@@ -5009,5 +5009,35 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Types and Values in JavaScript",
+    "description": "Types and values from Dan Abramov's \"Just JavaScript\" course.",
+    "authors": [
+      {
+        "name": "molibden",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "molibden/types-and-values-in-javascript.excalidrawlib",
+    "preview": "molibden/types-and-values-in-javascript.jpg",
+    "created": "2023-01-08",
+    "updated": "2023-01-08",
+    "version": 2,
+    "itemNames": [
+      "Number",
+      "Variable",
+      "Null",
+      "Object",
+      "Function",
+      "Undefined",
+      "Booleans",
+      "True",
+      "False",
+      "Symbol",
+      "String"
+    ]
   }
 ]
