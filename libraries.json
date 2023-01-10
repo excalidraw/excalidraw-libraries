@@ -5009,5 +5009,26 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "CI/CD",
+    "description": "Basic CI/CD pipeline structures. This library contains branched pipelines & trunk/release-based pipelines.",
+    "authors": [
+      {
+        "name": "Rahul Soni",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "rahul-soni/ci-cd.excalidrawlib",
+    "preview": "rahul-soni/ci-cd.jpg",
+    "created": "2023-01-10",
+    "updated": "2023-01-10",
+    "version": 2,
+    "itemNames": [
+      "Branch Pipeline",
+      "Trunk-based pipeline"
+    ]
   }
 ]
