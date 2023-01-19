@@ -5009,5 +5009,25 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Comandos Git Merge entre ramas locales a ramas remotas",
+    "description": "Se entrega receta para poder traer los cambios desde rama local de un colaborador del equipo, desde su rama local, con los cambios realizados, sin afectar tú código, resolviendo los conflictos del código que tú tienes, para poder unificar antes de subir a rama Develop.",
+    "authors": [
+      {
+        "name": "Nino",
+        "github": "https://github.com/ericadl",
+        "twitter": "",
+        "url": "https://github.com/ericadl"
+      }
+    ],
+    "source": "ericadl/comandos-git-merge-entre-ramas-locales-a-ramas-remotas.excalidrawlib",
+    "preview": "ericadl/comandos-git-merge-entre-ramas-locales-a-ramas-remotas.jpg",
+    "created": "2023-01-17",
+    "updated": "2023-01-17",
+    "version": 2,
+    "itemNames": [
+      "Comandos git traer cambios con merge rama colaborativa"
+    ]
   }
 ]
