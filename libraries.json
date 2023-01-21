@@ -5009,5 +5009,30 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Hex Tiles",
+    "description": "Few hex tiles for TTRPG",
+    "authors": [
+      {
+        "name": "Lekkis da Caverna",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "lekkis-da-caverna/hex-tiles.excalidrawlib",
+    "preview": "lekkis-da-caverna/hex-tiles.jpg",
+    "created": "2023-01-21",
+    "updated": "2023-01-21",
+    "version": 2,
+    "itemNames": [
+      "hex_water",
+      "hex_forest",
+      "hex_plains",
+      "hex_mountains",
+      "hex_swamp",
+      "hex_hills"
+    ]
   }
 ]
