@@ -5009,5 +5009,31 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Grafoo",
+    "description": "Graffoo, a Graphical Framework for OWL Ontologies, is an open source tool that can be used to present the classes, properties and restrictions within OWL ontologies, or sub-sections of them, as clear and easy-to-understand diagrams.\r\nThe original Grafoo has been developed by Silvio Peroni (University of Bologna).",
+    "authors": [
+      {
+        "name": "Andrea Poltronieri",
+        "github": "https://github.com/andreamust",
+        "twitter": "https://twitter.com/andpoltronieri",
+        "url": "https://andreapoltronieri.org"
+      }
+    ],
+    "source": "andreamust/grafoo.excalidrawlib",
+    "preview": "andreamust/grafoo.jpg",
+    "created": "2023-01-25",
+    "updated": "2023-01-25",
+    "version": 2,
+    "itemNames": [
+      "Prefixes box",
+      "Data property",
+      "Object property",
+      "Instance",
+      "Class restriction",
+      "Class",
+      "Datatype"
+    ]
   }
 ]
