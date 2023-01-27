@@ -5009,5 +5009,33 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Kubernetes control plane icons set",
+    "description": "These icons are a basic elements of kubernetes control plane. Could be used as an addition to @Lowess Kubernetes icons set",
+    "authors": [
+      {
+        "name": "@avlllo",
+        "github": "https://github.com/@avlllo",
+        "twitter": "https://twitter.com/@avlllo",
+        "url": "https://github.com/@avlllo"
+      }
+    ],
+    "source": "avlllo/kubernetes-control-plane-icons-set.excalidrawlib",
+    "preview": "avlllo/kubernetes-control-plane-icons-set.jpg",
+    "created": "2023-01-27",
+    "updated": "2023-01-27",
+    "version": 2,
+    "itemNames": [
+      "etcd",
+      "kube-proxy",
+      "node",
+      "kubelet",
+      "cloud-control-manager",
+      "control-manager",
+      "kube-api",
+      "kube-scheduler",
+      "master"
+    ]
   }
 ]
