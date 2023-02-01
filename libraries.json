@@ -5009,5 +5009,28 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Logic Gates",
+    "description": "Logic gates used in my CS 462 machine learning class",
+    "authors": [
+      {
+        "name": "Plat",
+        "github": "https://github.com/PlatFormPlayZ",
+        "twitter": "",
+        "url": "https://github.com/PlatFormPlayZ"
+      }
+    ],
+    "source": "platformplayz/logic-gates.excalidrawlib",
+    "preview": "platformplayz/logic-gates.jpg",
+    "created": "2023-01-30",
+    "updated": "2023-01-30",
+    "version": 2,
+    "itemNames": [
+      "XOR Gate",
+      "OR Gate",
+      "AND Gate",
+      "NOT Gate"
+    ]
   }
 ]
