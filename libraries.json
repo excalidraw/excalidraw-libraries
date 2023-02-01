@@ -5009,5 +5009,25 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Text Wrap",
+    "description": "A text block that with wrap text when you resize. This is just box with a transparent \"stroke\" bound to external text. This allows you to change the text stroke color and still have a transparent box. ",
+    "authors": [
+      {
+        "name": "mattaustin",
+        "github": "https://github.com/matt-",
+        "twitter": "https://twitter.com/mattaustin",
+        "url": "http://m-austin.com"
+      }
+    ],
+    "source": "matt/text-wrap.excalidrawlib",
+    "preview": "matt/text-wrap.jpg",
+    "created": "2023-02-01",
+    "updated": "2023-02-01",
+    "version": 2,
+    "itemNames": [
+      "text-wrap"
+    ]
   }
 ]

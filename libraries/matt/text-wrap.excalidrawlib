@@ -1,0 +1,81 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "u5SbWihv_s21LI5e3dv4s",
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 970,
+          "versionNonce": 203029933,
+          "isDeleted": false,
+          "id": "xLzHvOOiJbaYoPJKTf_MY",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 456.30078125,
+          "y": 249.5859375,
+          "strokeColor": "transparent",
+          "backgroundColor": "transparent",
+          "width": 271,
+          "height": 167,
+          "seed": 986406733,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "fpO8T2wttAETBGLVeayBL"
+            }
+          ],
+          "updated": 1675209215608,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 584,
+          "versionNonce": 2084562349,
+          "isDeleted": false,
+          "id": "fpO8T2wttAETBGLVeayBL",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 461.30078125,
+          "y": 254.5859375,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 92,
+          "height": 25,
+          "seed": 960843555,
+          "groupIds": [],
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1675209212693,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 1,
+          "text": "    Text",
+          "baseline": 18,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": "xLzHvOOiJbaYoPJKTf_MY",
+          "originalText": "    Text"
+        }
+      ],
+      "created": 1675209223660,
+      "error": "Required",
+      "name": "text-wrap"
+    }
+  ]
+}
