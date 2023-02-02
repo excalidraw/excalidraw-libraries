@@ -5009,5 +5009,31 @@
       "Stick man standard",
       "Stick man with a hat "
     ]
+  },
+  {
+    "name": "Simple Sticky Notes",
+    "description": "Simplistic sticky notes based on Rectangles and inner texts. The benefit is that the text is not secondary layer, so the Rectangle scales by the text",
+    "authors": [
+      {
+        "name": "kleinpetr",
+        "github": "https://github.com/kleinpetr",
+        "twitter": "https://twitter.com/kleinpetr",
+        "url": "https://github.com/kleinpetr"
+      }
+    ],
+    "source": "kleinpetr/simple-sticky-notes.excalidrawlib",
+    "preview": "kleinpetr/simple-sticky-notes.jpg",
+    "created": "2023-02-02",
+    "updated": "2023-02-02",
+    "version": 2,
+    "itemNames": [
+      "sticky-green",
+      "sticky-blue",
+      "sticky-purple",
+      "sticky-grey",
+      "sticky-red",
+      "sticky-orange",
+      "sticky-yellow"
+    ]
   }
 ]
