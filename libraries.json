@@ -5058,5 +5058,41 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Google Workspace Icons",
+    "description": "Icons for Google Workspace Products and APIs",
+    "authors": [
+      {
+        "name": "Eloi Barti",
+        "github": "https://github.com/ebarti",
+        "twitter": "",
+        "url": "https://eloibarti.com/"
+      }
+    ],
+    "source": "ebarti/google-workspace-icons.excalidrawlib",
+    "preview": "ebarti/google-workspace-icons.jpg",
+    "created": "2023-02-08",
+    "updated": "2023-02-08",
+    "version": 2,
+    "itemNames": [
+      "Vault API",
+      "Task API",
+      "Slides API",
+      "Sheets API",
+      "People API",
+      "Marketplace",
+      "Add-ons",
+      "Chat  API",
+      "Gmail  API",
+      "Email Markup",
+      "Docs API",
+      "Apps Script",
+      "Cloud Search",
+      "AMP for Email",
+      "Drive API",
+      "Drive Activity API",
+      "Admin SDK"
+    ]
   }
 ]
