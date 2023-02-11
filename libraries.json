@@ -5058,5 +5058,25 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Event Storming",
+    "description": "Simple elements to get started quickly with event storming. Excalidraw is perfect for this!!",
+    "authors": [
+      {
+        "name": "Stormin'",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "stormin/event-storming.excalidrawlib",
+    "preview": "stormin/event-storming.jpg",
+    "created": "2023-02-11",
+    "updated": "2023-02-11",
+    "version": 2,
+    "itemNames": [
+      "Event Storming (alternative)"
+    ]
   }
 ]
