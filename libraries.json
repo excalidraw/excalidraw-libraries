@@ -5058,5 +5058,28 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "currencies",
+    "description": "Currency Library",
+    "authors": [
+      {
+        "name": "Moe Jangda",
+        "github": "https://github.com/mistermoe",
+        "twitter": "https://twitter.com/moegrammer",
+        "url": "https://github.com/mistermoe"
+      }
+    ],
+    "source": "mistermoe/currencies.excalidrawlib",
+    "preview": "mistermoe/currencies.jpg",
+    "created": "2023-02-14",
+    "updated": "2023-02-14",
+    "version": 2,
+    "itemNames": [
+      "ghc",
+      "usdc",
+      "mxn",
+      "usd"
+    ]
   }
 ]
