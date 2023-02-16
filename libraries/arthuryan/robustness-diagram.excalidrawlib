@@ -1,0 +1,316 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "ellipse",
+          "version": 638,
+          "versionNonce": 1374809416,
+          "isDeleted": false,
+          "id": "EZfehDbtmrFys3ypfOePC",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1215.552734375,
+          "y": 369.126953125,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 73.94140624999999,
+          "height": 70.92187499999999,
+          "seed": 1110447176,
+          "groupIds": [
+            "3cC4XoukRQJIvYYXQNzdS"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": null,
+          "updated": 1676511314620,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "U0WLhYqGglwaNBcdxBnXs",
+          "type": "line",
+          "x": 1245.4140625,
+          "y": 369.17578125,
+          "width": 12.41796875,
+          "height": 8.0546875,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "3cC4XoukRQJIvYYXQNzdS"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 2013257032,
+          "version": 237,
+          "versionNonce": 1885629240,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1676511314620,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              12.41796875,
+              -8.0546875
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        },
+        {
+          "id": "OXxRDetjXUKKBfbUepRxm",
+          "type": "line",
+          "x": 1245.12109375,
+          "y": 370.6640625,
+          "width": 12.6328125,
+          "height": 7.10546875,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "3cC4XoukRQJIvYYXQNzdS"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1361781576,
+          "version": 89,
+          "versionNonce": 114623560,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1676511314620,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              12.6328125,
+              7.10546875
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        }
+      ],
+      "id": "ik4GHMgU5NJecb811DQAX",
+      "created": 1676511317248,
+      "name": "控制逻辑"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "ellipse",
+          "version": 411,
+          "versionNonce": 944516936,
+          "isDeleted": false,
+          "id": "Daa_NoSs40hxtbD1PLBlA",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1109.171875,
+          "y": 382.4140625,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 73.87109374999997,
+          "height": 67.6640625,
+          "seed": 1349982008,
+          "groupIds": [
+            "uKBlyBjKx0XY2Blr446Vn"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": null,
+          "updated": 1676511213353,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "rectangle",
+          "version": 701,
+          "versionNonce": 1699170616,
+          "isDeleted": false,
+          "id": "BkbkRU3FCSeB-UdGDZjTd",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1110.70703125,
+          "y": 451.109375,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 70.88281249999997,
+          "height": 2.976562500000005,
+          "seed": 1627353144,
+          "groupIds": [
+            "uKBlyBjKx0XY2Blr446Vn"
+          ],
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": null,
+          "updated": 1676511213353,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "RSwujmjGqSRqw3z69rQKU",
+      "created": 1676511222485,
+      "name": "实体数据"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "Y9bpUXEq5W576Y0jaPigJ",
+          "type": "ellipse",
+          "x": 924.515625,
+          "y": 280.078125,
+          "width": 73.87109374999997,
+          "height": 67.6640625,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "K_Ob2hDucrxyWe1yT3nLR"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 842012488,
+          "version": 237,
+          "versionNonce": 120141384,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1676511043351,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "1G1OUWJGu0gcU44F4bCje",
+          "type": "rectangle",
+          "x": 913.81640625,
+          "y": 276.90625,
+          "width": 2.7265625,
+          "height": 73.3984375,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "K_Ob2hDucrxyWe1yT3nLR"
+          ],
+          "roundness": {
+            "type": 3
+          },
+          "seed": 523515960,
+          "version": 181,
+          "versionNonce": 1138897464,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1676511043351,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "74pNg1NTIr0j6OBObeus8",
+          "type": "line",
+          "x": 916.68359375,
+          "y": 312.83203125,
+          "width": 7.375,
+          "height": 0.34375,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "K_Ob2hDucrxyWe1yT3nLR"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1429980744,
+          "version": 323,
+          "versionNonce": 138095944,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1676511043351,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              7.375,
+              0.34375
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        }
+      ],
+      "id": "YhQ9PfydSQxrZD0_xcks6",
+      "created": 1676511057700,
+      "name": "交互边界"
+    }
+  ]
+}

@@ -5058,5 +5058,27 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Robustness Diagram",
+    "description": "绘制鲁棒图的图元",
+    "authors": [
+      {
+        "name": "ArthurYan",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "arthuryan/robustness-diagram.excalidrawlib",
+    "preview": "arthuryan/robustness-diagram.jpg",
+    "created": "2023-02-16",
+    "updated": "2023-02-16",
+    "version": 2,
+    "itemNames": [
+      "控制逻辑",
+      "实体数据",
+      "交互边界"
+    ]
   }
 ]
