@@ -5058,5 +5058,39 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Football Basics",
+    "description": "American Football playbook basic shapes",
+    "authors": [
+      {
+        "name": "lstarkiller",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "lstarkiller/football-basics.excalidrawlib",
+    "preview": "lstarkiller/football-basics.jpg",
+    "created": "2023-02-17",
+    "updated": "2023-02-17",
+    "version": 2,
+    "itemNames": [
+      "Zone Defense",
+      "Block",
+      "Fly",
+      "Post|Corner Left",
+      "Post|Corner Right",
+      "Dig|Out Left",
+      "Dig|Out Right",
+      "Curl|Comeback Left",
+      "Curl|Comeback Right",
+      "Slant Left",
+      "Slant Right",
+      "Flat Left",
+      "Flat Right",
+      "X",
+      "O"
+    ]
   }
 ]
