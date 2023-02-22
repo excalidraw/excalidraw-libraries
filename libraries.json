@@ -5058,5 +5058,32 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "brackets",
+    "description": "parentheses, brackets",
+    "authors": [
+      {
+        "name": "Pouya Barrach-Yousefi",
+        "github": "https://github.com/pyousefi",
+        "twitter": "https://twitter.com/pouya-data",
+        "url": "https://www.linkedin.com/in/pouya-data/"
+      }
+    ],
+    "source": "pyousefi/brackets.excalidrawlib",
+    "preview": "pyousefi/brackets.jpg",
+    "created": "2023-02-22",
+    "updated": "2023-02-22",
+    "version": 2,
+    "itemNames": [
+      "right parenthesis",
+      "left parenthesis",
+      "right square bracket",
+      "left square bracket",
+      "upward curly bracket",
+      "downward curly bracket",
+      "left curly bracket",
+      "right curly bracket"
+    ]
   }
 ]
