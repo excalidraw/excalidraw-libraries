@@ -5058,5 +5058,45 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "C4 model architecture design",
+    "description": "C4 model components, to simp0lify the design of software architectures. Inspired by https://c4model.com/\r\nand trying to replicate the same graphical properties of the original C4 model, for open use.\r\n\r\nThis library also contains some useful examples inspired by the C4 model guide.",
+    "authors": [
+      {
+        "name": "Matteo Bunino",
+        "github": "https://github.com/matbun",
+        "twitter": "",
+        "url": "https://matbun.github.io/"
+      }
+    ],
+    "source": "matbun/c4-model-architecture-design.excalidrawlib",
+    "preview": "matbun/c4-model-architecture-design.jpg",
+    "created": "2023-02-23",
+    "updated": "2023-02-23",
+    "version": 2,
+    "itemNames": [
+      "Component diagram example",
+      "Container diagram example",
+      "System context example",
+      "Component diagram name",
+      "Container diagram name",
+      "System context name",
+      "Container box name",
+      "Software system box name",
+      "Web application example",
+      "Mobile application example",
+      "Box",
+      "Relation (2 nodes, horizontal)",
+      "Simple relation",
+      "Angle relation",
+      "Relation (2 nodes, vertical)",
+      "User",
+      "Container",
+      "System",
+      "Existing system",
+      "DB",
+      "Component"
+    ]
   }
 ]
