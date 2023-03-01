@@ -5058,5 +5058,46 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Digital Design / Gate Symbols",
+    "description": "The library contains basic logic gate symbols and \r\n\r\n\r\nsimple digital design building blocks like clock synchronizers.",
+    "authors": [
+      {
+        "name": "Achilleas Bakirtzis",
+        "github": "https://github.com/AchBakirtzis",
+        "twitter": "",
+        "url": "https://github.com/AchBakirtzis"
+      }
+    ],
+    "source": "achbakirtzis/digital-design-gate-symbols.excalidrawlib",
+    "preview": "achbakirtzis/digital-design-gate-symbols.jpg",
+    "created": "2023-03-01",
+    "updated": "2023-03-01",
+    "version": 2,
+    "itemNames": [
+      "Falling Edge Detector",
+      "Rising Edge Detector",
+      "Synchronizer",
+      "Reset Synchronizer",
+      "D posedge FlipFlop",
+      "D negedge FlipFlop",
+      "XNOR",
+      "XOR",
+      "NOR",
+      "NAND",
+      "OR",
+      "AND",
+      "Buffer",
+      "MUX 4:1",
+      "MUX 3:1",
+      "DeMUX 1:4",
+      "DeMUIX 1:3",
+      "DeMUX 1:2",
+      "Scan MUX",
+      "input port",
+      "output port",
+      "Empty Block"
+    ]
   }
 ]
