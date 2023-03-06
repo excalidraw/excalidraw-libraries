@@ -1,0 +1,337 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "2O-kMg26uUBI3LNxDuEPm",
+          "type": "line",
+          "x": 1500,
+          "y": 570,
+          "width": 20,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": null,
+          "seed": 999269656,
+          "version": 23,
+          "versionNonce": 147872536,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1678087970280,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              10,
+              -10
+            ],
+            [
+              20,
+              0
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lastCommittedPoint": [
+            0,
+            0
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        }
+      ],
+      "id": "jhmE7wmRSPeCvYhjathJ4",
+      "created": 1678087973456,
+      "name": "流程交汇"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "ellipse",
+          "version": 287,
+          "versionNonce": 339538200,
+          "isDeleted": false,
+          "id": "fQ7C87u7uAjGNDjzP5G6Z",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1820,
+          "y": 620,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fff",
+          "width": 20.000000000000004,
+          "height": 19.999999999999922,
+          "seed": 560175128,
+          "groupIds": [
+            "H2h5oPmUmweY_hkPqy2sv"
+          ],
+          "roundness": null,
+          "boundElements": null,
+          "updated": 1678087934270,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "line",
+          "version": 332,
+          "versionNonce": 253250664,
+          "isDeleted": false,
+          "id": "811nufLJiLzevpMm0M4Gv",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1823.1227685478093,
+          "y": 622.8100825721759,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fff",
+          "width": 13.612856811022327,
+          "height": 14.539646263715333,
+          "seed": 1246991720,
+          "groupIds": [
+            "H2h5oPmUmweY_hkPqy2sv"
+          ],
+          "roundness": null,
+          "boundElements": null,
+          "updated": 1678087934270,
+          "link": null,
+          "locked": false,
+          "startBinding": null,
+          "endBinding": null,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              13.612856811022327,
+              14.539646263715333
+            ]
+          ]
+        },
+        {
+          "type": "line",
+          "version": 283,
+          "versionNonce": 1185877528,
+          "isDeleted": false,
+          "id": "OmjlC1eKK2nFZS5LRFfcR",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1837.0787597046651,
+          "y": 622.9968029070961,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fff",
+          "width": 14.117934771181163,
+          "height": 14.082059275120958,
+          "seed": 1718146328,
+          "groupIds": [
+            "H2h5oPmUmweY_hkPqy2sv"
+          ],
+          "roundness": null,
+          "boundElements": null,
+          "updated": 1678087934270,
+          "link": null,
+          "locked": false,
+          "startBinding": null,
+          "endBinding": null,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -14.117934771181163,
+              14.082059275120958
+            ]
+          ]
+        }
+      ],
+      "id": "BW54iiLnz5EbdmgfhFzYO",
+      "created": 1678087937714,
+      "name": "流程结束"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 396,
+          "versionNonce": 443629928,
+          "isDeleted": false,
+          "id": "G3xiZ9yvOe8jzwu5BrGMR",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1580,
+          "y": 600,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fff",
+          "width": 180.00000000000003,
+          "height": 40,
+          "seed": 1362713704,
+          "groupIds": [],
+          "roundness": {
+            "type": 1
+          },
+          "boundElements": [],
+          "updated": 1678087899386,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "BfnHLYe7mdn0qXX79Zyrb",
+      "created": 1678087902179,
+      "name": "流程步骤"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "Wa44r5YmQtASCkNfnY3C7",
+          "type": "ellipse",
+          "x": 1540,
+          "y": -20,
+          "width": 40,
+          "height": 40,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "black",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 496063768,
+          "version": 80,
+          "versionNonce": 1205855848,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1678087589835,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "lJlNhPr4mgNLopddgvMmY",
+      "created": 1678087595776,
+      "name": "流程开始"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "bzYBDZseAH29CrEMKZhKz",
+          "type": "line",
+          "x": 1460,
+          "y": 460,
+          "width": 200.00000000000003,
+          "height": 40,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": null,
+          "seed": 1469010968,
+          "version": 117,
+          "versionNonce": 1632652056,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1678087205637,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              33.333333333333336,
+              -20
+            ],
+            [
+              166.66666666666666,
+              -20
+            ],
+            [
+              200.00000000000003,
+              0
+            ],
+            [
+              166.66666666666666,
+              20
+            ],
+            [
+              33.333333333333336,
+              20
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lastCommittedPoint": [
+            0,
+            0
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        }
+      ],
+      "id": "F5O-v6fjKA9HVV8YrnFms",
+      "created": 1678087217419,
+      "name": "流程判断"
+    }
+  ]
+}
