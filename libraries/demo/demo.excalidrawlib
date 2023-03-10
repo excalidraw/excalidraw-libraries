@@ -1,0 +1,82 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:3001",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "lRjYAGSumw6t1hrNIby8d",
+          "type": "rectangle",
+          "x": 360,
+          "y": -22140,
+          "width": 600,
+          "height": 100,
+          "angle": 0,
+          "strokeColor": "#d9480f",
+          "backgroundColor": "#ced4da",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": {
+            "type": 3
+          },
+          "seed": 1282752593,
+          "version": 35,
+          "versionNonce": 1098385279,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "4TGgdFkyMEqpzT51Ldspj"
+            }
+          ],
+          "updated": 1678428081083,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "4TGgdFkyMEqpzT51Ldspj",
+          "type": "text",
+          "x": 624.84375,
+          "y": -22102,
+          "width": 70.3125,
+          "height": 24,
+          "angle": 0,
+          "strokeColor": "#d9480f",
+          "backgroundColor": "#ced4da",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "roundness": null,
+          "seed": 1449221649,
+          "version": 7,
+          "versionNonce": 554083295,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1678428084297,
+          "link": null,
+          "locked": false,
+          "text": "Demo 1",
+          "fontSize": 20,
+          "fontFamily": 3,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "lRjYAGSumw6t1hrNIby8d",
+          "originalText": "Demo 1"
+        }
+      ],
+      "id": "PK7UgzqORyl8nkF3oBowc",
+      "created": 1678428140812,
+      "error": "Required",
+      "name": "demo"
+    }
+  ]
+}

@@ -5058,5 +5058,25 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "demo",
+    "description": "demo",
+    "authors": [
+      {
+        "name": "demo",
+        "github": "https://github.com/demo",
+        "twitter": "https://twitter.com/demo",
+        "url": "http://www.demo.com"
+      }
+    ],
+    "source": "demo/demo.excalidrawlib",
+    "preview": "demo/demo.jpg",
+    "created": "2023-03-10",
+    "updated": "2023-03-10",
+    "version": 2,
+    "itemNames": [
+      "demo"
+    ]
   }
 ]
