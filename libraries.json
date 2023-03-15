@@ -5058,5 +5058,33 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "AWS Microservices Library",
+    "description": "Key components used for microservices arch",
+    "authors": [
+      {
+        "name": "Sundar",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sundar/aws-microservices-library.excalidrawlib",
+    "preview": "sundar/aws-microservices-library.jpg",
+    "created": "2023-03-15",
+    "updated": "2023-03-15",
+    "version": 2,
+    "itemNames": [
+      "Lambda",
+      "EC2 instance",
+      "S3 Bucket",
+      "SQS",
+      "DynamoDB",
+      "Aurora",
+      "API Gateway",
+      "Single Sign-On",
+      "ELB"
+    ]
   }
 ]
