@@ -5090,5 +5090,29 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "platanus-diagrams",
+    "description": "basic components to make architecture diagrams",
+    "authors": [
+      {
+        "name": "platanus",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "platanus/platanus-diagrams.excalidrawlib",
+    "preview": "platanus/platanus-diagrams.jpg",
+    "created": "2023-02-24",
+    "updated": "2023-02-24",
+    "version": 2,
+    "itemNames": [
+      "package",
+      "api-client",
+      "api-provider",
+      "component",
+      "router"
+    ]
   }
 ]
