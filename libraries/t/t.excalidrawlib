@@ -1,0 +1,160 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 218,
+          "versionNonce": 244004675,
+          "isDeleted": false,
+          "id": "XHqrFvGqnQUnus_IR-bLv",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 791.9940023265405,
+          "y": 217.6879537809322,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 125.60748291015624,
+          "height": 124.10153198242185,
+          "seed": 1193488798,
+          "groupIds": [],
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [
+            {
+              "id": "Ik9ap_DSzfgtZVJkk7z-Q",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1679356769595,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "arrow",
+          "version": 361,
+          "versionNonce": 1899425421,
+          "isDeleted": false,
+          "id": "Ik9ap_DSzfgtZVJkk7z-Q",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 770.6198566051917,
+          "y": 285.08463507413,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 207.4052645157028,
+          "height": 2.3813318865367137,
+          "seed": 2030166641,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1679356777650,
+          "link": null,
+          "locked": false,
+          "startBinding": {
+            "elementId": "XHqrFvGqnQUnus_IR-bLv",
+            "focus": -0.10056111349292493,
+            "gap": 21.374145721348782
+          },
+          "endBinding": {
+            "elementId": "CzrBr5bNRdQL7d1p0j1p7",
+            "focus": 0.007096357173637784,
+            "gap": 10.860302935813479
+          },
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": "arrow",
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -207.4052645157028,
+              -2.3813318865367137
+            ]
+          ]
+        },
+        {
+          "type": "diamond",
+          "version": 141,
+          "versionNonce": 496608163,
+          "isDeleted": false,
+          "id": "-gTCTPxSZYYfeCaU9T2y_",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 799.824132185299,
+          "y": 224.44365211497623,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 115.15006708937528,
+          "height": 110.2356625133491,
+          "seed": 477451405,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1679356769588,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "ellipse",
+          "version": 83,
+          "versionNonce": 1694892013,
+          "isDeleted": false,
+          "id": "CzrBr5bNRdQL7d1p0j1p7",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 438.41719535442576,
+          "y": 224.5465448137277,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 113.9474110466347,
+          "height": 113.9474110466347,
+          "seed": 697495149,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [
+            {
+              "id": "Ik9ap_DSzfgtZVJkk7z-Q",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1679356772722,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "id": "VZzFN4axN7Bm78c-ugztE",
+      "created": 1679429935994,
+      "name": "t"
+    }
+  ]
+}
