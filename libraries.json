@@ -5090,5 +5090,44 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Popular Technologies",
+    "description": "Popular technologies used in software development",
+    "authors": [
+      {
+        "name": "Jean Castro",
+        "github": "https://github.com/jeanvcastro",
+        "twitter": "",
+        "url": "https://github.com/jeanvcastro"
+      }
+    ],
+    "source": "jeanvcastro/popular-technologies.excalidrawlib",
+    "preview": "jeanvcastro/popular-technologies.jpg",
+    "created": "2023-03-10",
+    "updated": "2023-03-10",
+    "version": 2,
+    "itemNames": [
+      "vercel",
+      "aws",
+      "docker",
+      "linux",
+      "github",
+      "redis",
+      "mysql",
+      "prisma",
+      "stitches",
+      "nextjs",
+      "react",
+      "git",
+      "typescript",
+      "nodejs",
+      "vscode",
+      "google",
+      "notion",
+      "discord",
+      "spotvirtual",
+      "figma"
+    ]
   }
 ]
