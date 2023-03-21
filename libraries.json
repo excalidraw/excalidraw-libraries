@@ -323,19 +323,51 @@
   },
   {
     "name": "IT Logos",
-    "description": "Collection of IT logos, including: SoapUI, SmartBear, GitKraken, BonitaSoft, Docker, Twitter, Strava, VueJS, Slack, SalesForce, Angular, React, LinkedIn, GitLab, Tensorflow, Lobe.ai, Kanoma_IT, Flutter, Google Drive and Google Firebase",
+    "description": "A collection of IT logos, including languages, frameworks and tools for building applications. This library includes : Angular, Argo CD, BonitaSoft, Docker, Excalidraw, Firebase, Flux CD, GitLab, Kafka, Kanoma, Kubernetes, LinkedIn, Lobe.ai, Micronaut, Next JS, Nx , Python, React, Slack, SmartBear, SoapUi, Strava, Svelte, TensorFlow, Twitter, VSCode, Vue",
     "authors": [
       {
         "name": "Pierre Clainchard",
+        "github": "https://github.com/pclainchard",
+        "twitter": "https://twitter.com/clainchoupi",
         "url": "https://github.com/pclainchard"
       }
     ],
     "source": "pclainchard/it-logos.excalidrawlib",
-    "preview": "pclainchard/it-logos.png",
+    "preview": "pclainchard/it-logos.jpg",
     "created": "2021-01-12",
-    "updated": "2021-01-12",
-    "version": 1,
-    "id": "9WHt2cojRbW"
+    "updated": "2023-03-21",
+    "version": 2,
+    "id": "9WHt2cojRbW",
+    "itemNames": [
+      "Micronaut",
+      "SmartBear",
+      "SoapUI",
+      "Bonitasoft",
+      "TensorFlow",
+      "Python",
+      "Kafka",
+      "VSCode",
+      "GitLab",
+      "Excalidraw",
+      "FireBase",
+      "Flux CD",
+      "Argo CD",
+      "Kubernetes",
+      "Nx",
+      "Docker",
+      "Lobe AI",
+      "Slack",
+      "Strava",
+      "LinkedIn",
+      "Twitter",
+      "Kanoma",
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte",
+      "Next",
+      "Vercel"
+    ]
   },
   {
     "name": "Mobile Kit",
