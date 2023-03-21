@@ -5090,5 +5090,37 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Quantum Computing",
+    "description": "A collection of often useful shapes for quantum circuit diagrams",
+    "authors": [
+      {
+        "name": "1ethanhansen",
+        "github": "https://github.com/1ethanhansen",
+        "twitter": "",
+        "url": "https://gitlab.com/1ethanhansen"
+      }
+    ],
+    "source": "1ethanhansen/quantum-computing.excalidrawlib",
+    "preview": "1ethanhansen/quantum-computing.jpg",
+    "created": "2023-03-07",
+    "updated": "2023-03-07",
+    "version": 2,
+    "itemNames": [
+      "2_qubit_gate",
+      "RZ_gate",
+      "control_indicator",
+      "swap_gate",
+      "RY_gate",
+      "RX_gate",
+      "measurement",
+      "Z_gate",
+      "Y_gate",
+      "X_gate",
+      "Hadamard_gate",
+      "CNOT_gate",
+      "quantum_wires"
+    ]
   }
 ]
