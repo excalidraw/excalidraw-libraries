@@ -5090,5 +5090,29 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "simple process",
+    "description": "简单的流程图",
+    "authors": [
+      {
+        "name": "sunchuquin",
+        "github": "https://github.com/sunchuquin",
+        "twitter": "",
+        "url": "https://sunck.notion.site/"
+      }
+    ],
+    "source": "sunchuquin/simple-process.excalidrawlib",
+    "preview": "sunchuquin/simple-process.jpg",
+    "created": "2023-03-06",
+    "updated": "2023-03-06",
+    "version": 2,
+    "itemNames": [
+      "流程交汇",
+      "流程结束",
+      "流程步骤",
+      "流程开始",
+      "流程判断"
+    ]
   }
 ]
