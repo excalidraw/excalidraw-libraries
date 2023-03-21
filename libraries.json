@@ -5090,5 +5090,30 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Timing diagram",
+    "description": "Materials needed for simple timing diagram drawing",
+    "authors": [
+      {
+        "name": "FrancisZmr",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "franciszmr/timing-diagram.excalidrawlib",
+    "preview": "franciszmr/timing-diagram.jpg",
+    "created": "2023-03-09",
+    "updated": "2023-03-09",
+    "version": 2,
+    "itemNames": [
+      "Action1Lines",
+      "UserLines",
+      "Action2Lines",
+      "Action",
+      "Users",
+      " entireDiagram"
+    ]
   }
 ]
