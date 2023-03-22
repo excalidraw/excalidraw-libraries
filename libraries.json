@@ -5090,5 +5090,29 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Event storming",
+    "description": "Kit permettant de faire de l'event storming en ligne",
+    "authors": [
+      {
+        "name": "Carlos l'amigos",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "carlos-l-amigos/event-storming.excalidrawlib",
+    "preview": "carlos-l-amigos/event-storming.jpg",
+    "created": "2023-03-22",
+    "updated": "2023-03-22",
+    "version": 2,
+    "itemNames": [
+      "Commande",
+      "Acteur",
+      "Traitement",
+      "Données",
+      "Evènement"
+    ]
   }
 ]
