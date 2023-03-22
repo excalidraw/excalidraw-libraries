@@ -5090,5 +5090,33 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Azure icons V2",
+    "description": "Azure icons for Architecturing \r\nneeded a proper azure backup icon",
+    "authors": [
+      {
+        "name": "BCSC",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "bcsc/azure-icons-v2.excalidrawlib",
+    "preview": "bcsc/azure-icons-v2.jpg",
+    "created": "2023-03-22",
+    "updated": "2023-03-22",
+    "version": 2,
+    "itemNames": [
+      "Subscription",
+      "Resource Group",
+      "Resource Layer",
+      "Resource",
+      "Azure",
+      "Management Group",
+      "Azure Advisor",
+      "Azure Blob Storage",
+      "Azure Backup"
+    ]
   }
 ]
