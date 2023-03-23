@@ -5090,5 +5090,33 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Network Security Devices",
+    "description": "Collection of firewalls and vm firewalls for OEMs like Palo Alto, Fortinet",
+    "authors": [
+      {
+        "name": "Krishna Mohan Gupta",
+        "github": "https://github.com/krishnamohangpta",
+        "twitter": "",
+        "url": "https://github.com/krishnamohangpta"
+      }
+    ],
+    "source": "krishnamohangpta/network-security-devices.excalidrawlib",
+    "preview": "krishnamohangpta/network-security-devices.jpg",
+    "created": "2023-03-23",
+    "updated": "2023-03-23",
+    "version": 2,
+    "itemNames": [
+      "fortinet",
+      "PA firewall vm",
+      "PA FW vm",
+      "pa fw - palo alto",
+      "pa vms",
+      "palo alto new",
+      "fortinet fw vm ",
+      "fortinet fw vms",
+      "palo alto fw"
+    ]
   }
 ]
