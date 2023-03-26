@@ -5090,5 +5090,26 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "Brackets",
+    "description": "Two simple brackets, one skinny and one fatter.",
+    "authors": [
+      {
+        "name": "cms",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "cms/brackets.excalidrawlib",
+    "preview": "cms/brackets.jpg",
+    "created": "2023-03-26",
+    "updated": "2023-03-26",
+    "version": 2,
+    "itemNames": [
+      "SkinnyBracket",
+      "FatBracket"
+    ]
   }
 ]
