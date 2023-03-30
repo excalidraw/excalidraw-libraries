@@ -5090,5 +5090,29 @@
       "Cloud 3",
       "Cloud 4"
     ]
+  },
+  {
+    "name": "ELK Stack",
+    "description": "The icons to handle ELK technologies.",
+    "authors": [
+      {
+        "name": "Alexander Tsukanov",
+        "github": "https://github.com/alexandertsukanov",
+        "twitter": "",
+        "url": "https://github.com/alexandertsukanov"
+      }
+    ],
+    "source": "alexandertsukanov/elk-stack.excalidrawlib",
+    "preview": "alexandertsukanov/elk-stack.jpg",
+    "created": "2023-03-30",
+    "updated": "2023-03-30",
+    "version": 2,
+    "itemNames": [
+      "elastic-general",
+      "kibana",
+      "beats",
+      "elasticsearch",
+      "logstash"
+    ]
   }
 ]
