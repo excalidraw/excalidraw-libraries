@@ -5114,5 +5114,31 @@
       "elasticsearch",
       "logstash"
     ]
+  },
+  {
+    "name": "Network devices",
+    "description": "Some devices that can be found in a basic computer network. ",
+    "authors": [
+      {
+        "name": "AQ",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aq/network-devices.excalidrawlib",
+    "preview": "aq/network-devices.jpg",
+    "created": "2023-04-02",
+    "updated": "2023-04-02",
+    "version": 2,
+    "itemNames": [
+      "printer",
+      "switch",
+      "internet cloud",
+      "router",
+      "modem",
+      "laptop",
+      "server"
+    ]
   }
 ]
