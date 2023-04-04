@@ -5114,5 +5114,25 @@
       "elasticsearch",
       "logstash"
     ]
+  },
+  {
+    "name": "clickhouse",
+    "description": "clickhouse数据库",
+    "authors": [
+      {
+        "name": "zhanyr",
+        "github": "https://github.com/zhanyirong",
+        "twitter": "",
+        "url": "https://github.com/zhanyirong"
+      }
+    ],
+    "source": "zhanyirong/clickhouse.excalidrawlib",
+    "preview": "zhanyirong/clickhouse.jpg",
+    "created": "2023-04-04",
+    "updated": "2023-04-04",
+    "version": 2,
+    "itemNames": [
+      "clickhouse"
+    ]
   }
 ]
