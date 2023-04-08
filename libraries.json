@@ -5298,5 +5298,32 @@
       "graph 18",
       "graph 6"
     ]
+  },
+  {
+    "name": "Data processing",
+    "description": "Items to visualize steps during data processing.",
+    "authors": [
+      {
+        "name": "Erlina",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "erlina/data-processing.excalidrawlib",
+    "preview": "erlina/data-processing.jpg",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
+    "version": 2,
+    "itemNames": [
+      "Data collection",
+      "Data cleansing/transformation",
+      "Data storage",
+      "Data analysis",
+      "Data reconciliation",
+      "Data reconciliation 2",
+      "Data visualization",
+      "Data visualization 2"
+    ]
   }
 ]
