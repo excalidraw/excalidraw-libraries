@@ -323,19 +323,51 @@
   },
   {
     "name": "IT Logos",
-    "description": "Collection of IT logos, including: SoapUI, SmartBear, GitKraken, BonitaSoft, Docker, Twitter, Strava, VueJS, Slack, SalesForce, Angular, React, LinkedIn, GitLab, Tensorflow, Lobe.ai, Kanoma_IT, Flutter, Google Drive and Google Firebase",
+    "description": "A collection of IT logos, including languages, frameworks and tools for building applications. This library includes : Angular, Argo CD, BonitaSoft, Docker, Excalidraw, Firebase, Flux CD, GitLab, Kafka, Kanoma, Kubernetes, LinkedIn, Lobe.ai, Micronaut, Next JS, Nx , Python, React, Slack, SmartBear, SoapUi, Strava, Svelte, TensorFlow, Twitter, VSCode, Vue",
     "authors": [
       {
         "name": "Pierre Clainchard",
+        "github": "https://github.com/pclainchard",
+        "twitter": "https://twitter.com/clainchoupi",
         "url": "https://github.com/pclainchard"
       }
     ],
     "source": "pclainchard/it-logos.excalidrawlib",
-    "preview": "pclainchard/it-logos.png",
+    "preview": "pclainchard/it-logos.jpg",
     "created": "2021-01-12",
-    "updated": "2021-01-12",
-    "version": 1,
-    "id": "9WHt2cojRbW"
+    "updated": "2023-03-21",
+    "version": 2,
+    "id": "9WHt2cojRbW",
+    "itemNames": [
+      "Micronaut",
+      "SmartBear",
+      "SoapUI",
+      "Bonitasoft",
+      "TensorFlow",
+      "Python",
+      "Kafka",
+      "VSCode",
+      "GitLab",
+      "Excalidraw",
+      "FireBase",
+      "Flux CD",
+      "Argo CD",
+      "Kubernetes",
+      "Nx",
+      "Docker",
+      "Lobe AI",
+      "Slack",
+      "Strava",
+      "LinkedIn",
+      "Twitter",
+      "Kanoma",
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte",
+      "Next",
+      "Vercel"
+    ]
   },
   {
     "name": "Mobile Kit",
@@ -5011,6 +5043,32 @@
     ]
   },
   {
+    "name": "Simple Sticky Notes",
+    "description": "Simplistic sticky notes based on Rectangles and inner texts. The benefit is that the text is not secondary layer, so the Rectangle scales by the text",
+    "authors": [
+      {
+        "name": "kleinpetr",
+        "github": "https://github.com/kleinpetr",
+        "twitter": "https://twitter.com/kleinpetr",
+        "url": "https://github.com/kleinpetr"
+      }
+    ],
+    "source": "kleinpetr/simple-sticky-notes.excalidrawlib",
+    "preview": "kleinpetr/simple-sticky-notes.jpg",
+    "created": "2023-02-02",
+    "updated": "2023-02-02",
+    "version": 2,
+    "itemNames": [
+      "sticky-green",
+      "sticky-blue",
+      "sticky-purple",
+      "sticky-grey",
+      "sticky-red",
+      "sticky-orange",
+      "sticky-yellow"
+    ]
+  },
+  {
     "name": "Types and Values in JavaScript",
     "description": "Types and values from Dan Abramov's \"Just JavaScript\" course.",
     "authors": [
@@ -5023,8 +5081,8 @@
     ],
     "source": "molibden/types-and-values-in-javascript.excalidrawlib",
     "preview": "molibden/types-and-values-in-javascript.jpg",
-    "created": "2023-01-08",
-    "updated": "2023-01-08",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
     "version": 2,
     "itemNames": [
       "Number",
@@ -5038,6 +5096,264 @@
       "False",
       "Symbol",
       "String"
+    ]
+  },
+  {
+    "name": "Clouds",
+    "description": "Cloud icons for topic holders in mind maps",
+    "authors": [
+      {
+        "name": "Dimitrios Fkliaras",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dimitrios-fkliaras/clouds.excalidrawlib",
+    "preview": "dimitrios-fkliaras/clouds.jpg",
+    "created": "2023-02-03",
+    "updated": "2023-02-03",
+    "version": 2,
+    "itemNames": [
+      "Cloud 1",
+      "Cloud 2",
+      "Cloud 3",
+      "Cloud 4"
+    ]
+  },
+  {
+    "name": "ELK Stack",
+    "description": "The icons to handle ELK technologies.",
+    "authors": [
+      {
+        "name": "Alexander Tsukanov",
+        "github": "https://github.com/alexandertsukanov",
+        "twitter": "",
+        "url": "https://github.com/alexandertsukanov"
+      }
+    ],
+    "source": "alexandertsukanov/elk-stack.excalidrawlib",
+    "preview": "alexandertsukanov/elk-stack.jpg",
+    "created": "2023-03-30",
+    "updated": "2023-03-30",
+    "version": 2,
+    "itemNames": [
+      "elastic-general",
+      "kibana",
+      "beats",
+      "elasticsearch",
+      "logstash"
+    ]
+  },
+  {
+    "name": "VMware Architecture Design",
+    "description": "Create awesome VMware architecture",
+    "authors": [
+      {
+        "name": "odraghi",
+        "github": "https://github.com/odraghi",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "odraghi/vmware-architecture-design.excalidrawlib",
+    "preview": "odraghi/vmware-architecture-design.jpg",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
+    "version": 2,
+    "itemNames": [
+      "Carbon Black",
+      "NAT Rules",
+      "NSX Edge node",
+      "Cloud Network",
+      "Router",
+      "NSX Tier SR",
+      "NSX Tier DR",
+      "Desktop",
+      "Shield",
+      "Key",
+      "Lock",
+      "DNS",
+      "VPN",
+      "Load Balancer",
+      "Storage 0%",
+      "Storage 33%",
+      "Storage 67%",
+      "Storage 100%",
+      "Database",
+      "Datacenter",
+      "Building",
+      "Cluster",
+      "Host",
+      "Rack of servers",
+      "Baremetal",
+      "Cloud",
+      "Tag",
+      "Namespace",
+      "vApp",
+      "Firewall",
+      "Object Storage",
+      "Docker",
+      "Kubernetes",
+      "Tanzu",
+      "Carbon Black",
+      "vRA Aria automation",
+      "vRO Orchetrator",
+      "Network Insight",
+      "Log Insight",
+      "NSX-ALB Service Engine",
+      "NSX-ALB Controller",
+      "NSX Manager",
+      "vcenter",
+      "Cloud Director",
+      "ESXi",
+      "Trunk",
+      "vApp with 2 VMs",
+      "NSX Edge"
+    ]
+  },
+  {
+    "name": "Kubernetes icons",
+    "description": "The full set of Kubernetes architecture icons, as published by @kubernauts on twitter on xmas eve 2019 and widely used since.",
+    "authors": [
+      {
+        "name": "Nikola Markovic",
+        "github": "https://github.com/boemska-nik",
+        "twitter": "https://twitter.com/boomskats",
+        "url": "https://github.com/boemska-nik"
+      }
+    ],
+    "source": "boemska-nik/kubernetes-icons.excalidrawlib",
+    "preview": "boemska-nik/kubernetes-icons.jpg",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
+    "version": 2,
+    "itemNames": [
+      "ns",
+      "ns-text",
+      "pod",
+      "pod-text",
+      "rs",
+      "rs-text",
+      "deploy",
+      "deploy-text",
+      "ds",
+      "ds-text",
+      "sts",
+      "sts-text",
+      "cron",
+      "cron-text",
+      "cronjob",
+      "cronjob-text",
+      "ing",
+      "ing-text",
+      "svc",
+      "svc-text",
+      "ep",
+      "ep-text",
+      "cm",
+      "cm-text",
+      "secret",
+      "secret-text",
+      "pv",
+      "pv-text",
+      "pvc",
+      "pvc-text",
+      "sc",
+      "sc-text",
+      "quota",
+      "quota-text",
+      "limits",
+      "limits-text",
+      "hpa",
+      "hpa-text",
+      "netpol",
+      "netpol-text",
+      "crd",
+      "crd-text",
+      "psp",
+      "psp-text",
+      "pdb",
+      "pdb-text",
+      "sa",
+      "sa-text",
+      "user",
+      "user-text",
+      "group",
+      "group-text",
+      "role",
+      "role-text",
+      "c.role",
+      "c.role-text",
+      "crb",
+      "crb-text",
+      "rb",
+      "rb-text",
+      "kubernetes",
+      "vol-text",
+      "kubelet-text",
+      "api-text",
+      "c-m-text",
+      "sched-text",
+      "k-proxy-text",
+      "c-cm-text",
+      "master",
+      "master-text",
+      "node",
+      "node-text",
+      "etcd",
+      "etcd-text"
+    ]
+  },
+  {
+    "name": "3d coordinate systems + graphs",
+    "description": "Simple templates for coordinate systems to use in math class without having to redraw them every time.",
+    "authors": [
+      {
+        "name": "Rick",
+        "github": "https://github.com/AimPizza",
+        "twitter": "https://twitter.com/YungAimPizza",
+        "url": "https://github.com/AimPizza"
+      }
+    ],
+    "source": "aimpizza/3d-coordinate-systems-graphs.excalidrawlib",
+    "preview": "aimpizza/3d-coordinate-systems-graphs.jpg",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
+    "version": 2,
+    "itemNames": [
+      "coordinates to 5",
+      "coordinates to 8",
+      "graph 12",
+      "graph 18",
+      "graph 6"
+    ]
+  },
+  {
+    "name": "Data processing",
+    "description": "Items to visualize steps during data processing.",
+    "authors": [
+      {
+        "name": "Erlina",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "erlina/data-processing.excalidrawlib",
+    "preview": "erlina/data-processing.jpg",
+    "created": "2023-04-08",
+    "updated": "2023-04-08",
+    "version": 2,
+    "itemNames": [
+      "Data collection",
+      "Data cleansing/transformation",
+      "Data storage",
+      "Data analysis",
+      "Data reconciliation",
+      "Data reconciliation 2",
+      "Data visualization",
+      "Data visualization 2"
     ]
   }
 ]
