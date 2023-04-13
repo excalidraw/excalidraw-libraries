@@ -5355,5 +5355,40 @@
       "Data visualization",
       "Data visualization 2"
     ]
+  },
+  {
+    "name": "System Arch Design",
+    "description": "System Design Architecture",
+    "authors": [
+      {
+        "name": "Swapnil",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "swapnil/system-arch-design.excalidrawlib",
+    "preview": "swapnil/system-arch-design.jpg",
+    "created": "2023-04-13",
+    "updated": "2023-04-13",
+    "version": 2,
+    "itemNames": [
+      "Cache",
+      "MQ",
+      "Text Box",
+      "API",
+      "SQL DB",
+      "Mobile",
+      "Load Balancer",
+      "Archieve",
+      "Analytics",
+      "Notification",
+      "Content Storage",
+      "CDN",
+      "Database",
+      "Service",
+      "Web",
+      "Users"
+    ]
   }
 ]
