@@ -5388,8 +5388,50 @@
     ]
   },
   {
+    "name": "AWS Serverless Icons v2",
+    "description": "A new library with icons for AWS serverless services. This version has a new design and more services. The first version is now part of the AWS Architecture Icons set (https://libraries.excalidraw.com/#childishgirl-aws-architecture-icons), and it's very popular with the AWS community (downloaded more than 50k times). ",
+    "authors": [
+      {
+        "name": "slobodan",
+        "github": "https://github.com/stojanovic",
+        "twitter": "https://twitter.com/slobodan_",
+        "url": "https://slobodan.me"
+      }
+    ],
+    "source": "stojanovic/aws-serverless-icons-v2.excalidrawlib",
+    "preview": "stojanovic/aws-serverless-icons-v2.jpg",
+    "created": "2023-04-20",
+    "updated": "2023-04-20",
+    "version": 2,
+      "itemNames": [
+      "Lambda",
+      "AppSync",
+      "APIGateway",
+      "DynamoDB",
+      "Aurora",
+      "EventBridge",
+      "SQS",
+      "SNS",
+      "S3",
+      "CloudFront",
+      "SES",
+      "CloudWatch",
+      "StepFunctions",
+      "Amplify",
+      "Cognito",
+      "Kinesis",
+      "EFS",
+      "WAF",
+      "VTL-resolver",
+      "JavaScript-resolver"
+    ]
+  },
+  {
     "name": "Montessori Basic Grammar Symbols",
     "description": "For use in teaching parts of speech using the Montessori basic grammar symbols. Sized for use with XL-sized text.\r\n\r\n*Note: For visibility in dark mode, the symbol for nouns is not filled black. If you aren't using dark mode, you can change the background color to black (#000000).",
+    "created": "2023-04-20",
+    "updated": "2023-04-20",
+    "version": 2,
     "authors": [
       {
         "name": "Alluvion",
@@ -5400,9 +5442,6 @@
     ],
     "source": "alluvion/montessori-basic-grammar-symbols.excalidrawlib",
     "preview": "alluvion/montessori-basic-grammar-symbols.jpg",
-    "created": "2023-04-20",
-    "updated": "2023-04-20",
-    "version": 2,
     "itemNames": [
       "Pronoun",
       "Noun",
@@ -5414,6 +5453,46 @@
       "Conjunction",
       "Interjection",
       "All Symbols"
+    ]
+  },
+  {
+    "name": "TTRPG Clocks",
+    "description": "Clocks for Tabletop Roleplaying games.",
+    "authors": [
+      {
+        "name": "Nemeki",
+        "github": "https://github.com/Nemeki",
+        "twitter": "",
+        "url": "https://github.com/Nemeki"
+      }
+    ],
+    "source": "nemeki/ttrpg-clocks.excalidrawlib",
+    "preview": "nemeki/ttrpg-clocks.jpg",
+    "created": "2023-04-20",
+    "updated": "2023-04-20",
+    "version": 2,
+    "itemNames": [
+      "8-section clock full",
+      "8-section clock 7/8",
+      "8-section clock 6/8",
+      "8-section clock 5/8",
+      "8-section clock half",
+      "8-section clock 3/8",
+      "8-section clock 2/8",
+      "8-section clock 1/8",
+      "8-section clock empty",
+      "6-section clock full",
+      "6-section clock 5/6",
+      "6-section clock 4/6",
+      "6-section clock half",
+      "6-section clock 2/6",
+      "6-section clock 1/6",
+      "6-section clock empty",
+      "4-section clock full",
+      "4-section clock 3/4",
+      "4-section clock half",
+      "4-section clock 1/4",
+      "4-section clock empty"
     ]
   }
 ]
