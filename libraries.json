@@ -5386,5 +5386,44 @@
       "Ideation",
       "Conversation"
     ]
+  },
+  {
+    "name": "AWS Serverless Icons v2",
+    "description": "A new library with icons for AWS serverless services. This version has a new design and more services. The first version is now part of the AWS Architecture Icons set (https://libraries.excalidraw.com/#childishgirl-aws-architecture-icons), and it's very popular with the AWS community (downloaded more than 50k times). ",
+    "authors": [
+      {
+        "name": "slobodan",
+        "github": "https://github.com/stojanovic",
+        "twitter": "https://twitter.com/slobodan_",
+        "url": "https://slobodan.me"
+      }
+    ],
+    "source": "stojanovic/aws-serverless-icons-v2.excalidrawlib",
+    "preview": "stojanovic/aws-serverless-icons-v2.jpg",
+    "created": "2023-04-20",
+    "updated": "2023-04-20",
+    "version": 2,
+    "itemNames": [
+      "Lambda",
+      "AppSync",
+      "APIGateway",
+      "DynamoDB",
+      "Aurora",
+      "EventBridge",
+      "SQS",
+      "SNS",
+      "S3",
+      "CloudFront",
+      "SES",
+      "CloudWatch",
+      "StepFunctions",
+      "Amplify",
+      "Cognito",
+      "Kinesis",
+      "EFS",
+      "WAF",
+      "VTL-resolver",
+      "JavaScript-resolver"
+    ]
   }
 ]
