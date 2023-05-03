@@ -5649,5 +5649,29 @@
       "Football",
       "Whistle"
     ]
+  },
+  {
+    "name": "Ways of working",
+    "description": "These shows diagrams about ways of working for a development team",
+    "authors": [
+      {
+        "name": "Paul Dariye",
+        "github": "https://github.com/dariye",
+        "twitter": "https://twitter.com/pauldariye",
+        "url": "https://dariye.com"
+      }
+    ],
+    "source": "dariye/ways-of-working.excalidrawlib",
+    "preview": "dariye/ways-of-working.jpg",
+    "created": "2023-05-03",
+    "updated": "2023-05-03",
+    "version": 2,
+    "itemNames": [
+      "Planning improvements",
+      "Typical development week",
+      "Linear issue lifecycle",
+      "Linear cycle work distribution",
+      "A linear cycles flavour of kanban"
+    ]
   }
 ]
