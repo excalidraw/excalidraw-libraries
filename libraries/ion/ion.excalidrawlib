@@ -1,0 +1,114 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 293,
+          "versionNonce": 1081609716,
+          "isDeleted": false,
+          "id": "Wt6QfmqIJm79OFJx90bwM",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 687.7819873365384,
+          "y": 353.6923012164154,
+          "strokeColor": "#000000",
+          "backgroundColor": "#ced4da",
+          "width": 39.39955608911738,
+          "height": 13.31857546642027,
+          "seed": 1654053542,
+          "groupIds": [
+            "ZwAg5ludD3_TkOSztgoHt"
+          ],
+          "roundness": {
+            "type": 1
+          },
+          "boundElements": [],
+          "updated": 1664201968503,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "ellipse",
+          "version": 232,
+          "versionNonce": 760150860,
+          "isDeleted": false,
+          "id": "s5THXzL-kzrPqrXd7GY-1",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 685.0050220047929,
+          "y": 351.7102329057205,
+          "strokeColor": "#000000",
+          "backgroundColor": "white",
+          "width": 17.28271208781007,
+          "height": 17.28271208781007,
+          "seed": 1523976890,
+          "groupIds": [
+            "ZwAg5ludD3_TkOSztgoHt"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1664201968503,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 231,
+          "versionNonce": 1336553332,
+          "isDeleted": false,
+          "id": "2bcgOi6MMVJ1bYIupFe5D",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 706.0989812822701,
+          "y": 355.4626327570456,
+          "strokeColor": "#000000",
+          "backgroundColor": "#ced4da",
+          "width": 15.155764196997819,
+          "height": 9.77791238515988,
+          "seed": 441792890,
+          "groupIds": [
+            "ZwAg5ludD3_TkOSztgoHt"
+          ],
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1664201968503,
+          "link": null,
+          "locked": false,
+          "fontSize": 7.822329908127899,
+          "fontFamily": 1,
+          "text": "OFF",
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "OFF",
+          "lineHeight": 1.2500000000000007,
+          "baseline": 6.777912385159874
+        }
+      ],
+      "id": "7tabK7k55ocZXJq0qqMso",
+      "created": 1664201970120,
+      "name": "Rounded toggle with text (OFF)"
+    }
+  ]
+}
