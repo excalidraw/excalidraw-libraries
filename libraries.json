@@ -5649,5 +5649,26 @@
       "Football",
       "Whistle"
     ]
+  },
+  {
+    "name": "Lib test",
+    "description": "A simple test of library",
+    "authors": [
+      {
+        "name": "johndoe",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "johndoe/lib-test.excalidrawlib",
+    "preview": "johndoe/lib-test.jpg",
+    "created": "2023-05-03",
+    "updated": "2023-05-03",
+    "version": 2,
+    "itemNames": [
+      "Element 1",
+      "Element 1"
+    ]
   }
 ]
