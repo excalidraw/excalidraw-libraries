@@ -5649,5 +5649,25 @@
       "Football",
       "Whistle"
     ]
+  },
+  {
+    "name": "Cornell Notes",
+    "description": "Note-taking system developed by Cornell Professor Walter Pauk to give college students a better way to organize, condense, and absorb knowledge.\r\nIt's proven to be an incredibly effective learning tool.",
+    "authors": [
+      {
+        "name": "bortotti",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "bortotti/cornell-notes.excalidrawlib",
+    "preview": "bortotti/cornell-notes.jpg",
+    "created": "2023-05-12",
+    "updated": "2023-05-12",
+    "version": 2,
+    "itemNames": [
+      "Cornell Notes"
+    ]
   }
 ]
