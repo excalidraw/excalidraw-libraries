@@ -5649,5 +5649,25 @@
       "Football",
       "Whistle"
     ]
+  },
+  {
+    "name": "Nix Logos",
+    "description": "A small collection of logos for all things surrounding Nix and NixOS.",
+    "authors": [
+      {
+        "name": "Jonas",
+        "github": "https://github.com/joWeiss",
+        "twitter": "",
+        "url": "https://github.com/joWeiss"
+      }
+    ],
+    "source": "joweiss/nix-logos.excalidrawlib",
+    "preview": "joweiss/nix-logos.jpg",
+    "created": "2023-05-11",
+    "updated": "2023-05-11",
+    "version": 2,
+    "itemNames": [
+      "Nix Logo"
+    ]
   }
 ]
