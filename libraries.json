@@ -5705,5 +5705,37 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "BD  E/R model",
+    "description": "Símbolos del modelo Entidad-Relación para bases de datos",
+    "authors": [
+      {
+        "name": "PraenaDP",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "praenadp/bd-e-r-model.excalidrawlib",
+    "preview": "praenadp/bd-e-r-model.jpg",
+    "created": "2023-05-19",
+    "updated": "2023-05-19",
+    "version": 2,
+    "itemNames": [
+      "Model E/R E-T",
+      "Model E/R E-P",
+      "Model E/R I-T",
+      "Model E/R I-P",
+      "Model E/R Mod",
+      "Model E/R Card",
+      "Model E/R RDebil",
+      "Model E/R Rel",
+      "Model E/R ED",
+      "Model E/R EF",
+      "Model E/R AM",
+      "Model E/R AO",
+      "Model E/R PK"
+    ]
   }
 ]
