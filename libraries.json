@@ -5705,5 +5705,36 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "event-storming",
+    "description": "EventStorming stickies",
+    "authors": [
+      {
+        "name": "Dejan Siedle",
+        "github": "https://github.com/dejan-siedle",
+        "twitter": "",
+        "url": "https://github.com/dejan-siedle"
+      }
+    ],
+    "source": "dejan-siedle/event-storming.excalidrawlib",
+    "preview": "dejan-siedle/event-storming.jpg",
+    "created": "2023-06-01",
+    "updated": "2023-06-01",
+    "version": 2,
+    "itemNames": [
+      "Command",
+      "Event",
+      "Policy",
+      "AggregateEntity",
+      "UserRole",
+      "ViewQuery",
+      "Process",
+      "ContextExternalSystem",
+      "Opportunity",
+      "LiftExplore",
+      "RightExplore",
+      "Problem"
+    ]
   }
 ]
