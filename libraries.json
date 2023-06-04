@@ -5705,5 +5705,30 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "class diagram",
+    "description": "This library have basic class diagram easy to create",
+    "authors": [
+      {
+        "name": "Pankaj Jangid",
+        "github": "https://github.com/pkjvit",
+        "twitter": "",
+        "url": "https://pkjvit.github.io/me"
+      }
+    ],
+    "source": "pkjvit/class-diagram.excalidrawlib",
+    "preview": "pkjvit/class-diagram.jpg",
+    "created": "2023-05-22",
+    "updated": "2023-05-22",
+    "version": 2,
+    "itemNames": [
+      "enumuration class diagram",
+      "abstract class diagram",
+      "interface class diagram",
+      "annotation class diagram",
+      "tutorial class diagram",
+      "class class diagram"
+    ]
   }
 ]
