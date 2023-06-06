@@ -5705,5 +5705,31 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "CNN Utilities",
+    "description": "Some Utilities that I created to help in making CNN based Sketches.\r\nI will add more items later. ",
+    "authors": [
+      {
+        "name": "aka-vm",
+        "github": "https://github.com/aka-vm",
+        "twitter": "https://twitter.com/aka_vm",
+        "url": "https://github.com/aka-vm"
+      }
+    ],
+    "source": "aka-vm/cnn-utilities.excalidrawlib",
+    "preview": "aka-vm/cnn-utilities.jpg",
+    "created": "2023-06-06",
+    "updated": "2023-06-06",
+    "version": 2,
+    "itemNames": [
+      "CNN and Pooling",
+      "rgb feature-map",
+      "8*8*3 CNN feature-map",
+      "3*3*1 filter ",
+      "3*3 Matrix",
+      "Tensor",
+      "8x8 Matrix"
+    ]
   }
 ]
