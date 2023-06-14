@@ -5705,5 +5705,32 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Ascent Wireframing",
+    "description": "Ascent Platform wireframing library.",
+    "authors": [
+      {
+        "name": "Rachel",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "rachel/ascent-wireframing.excalidrawlib",
+    "preview": "rachel/ascent-wireframing.jpg",
+    "created": "2023-06-14",
+    "updated": "2023-06-14",
+    "version": 2,
+    "itemNames": [
+      "Disabled checkbox",
+      "Selected disabled checkbox",
+      "Selected checkbox ",
+      "Checkbox",
+      "Selected disabled radio button",
+      "Disabled radio button",
+      "Selected radio button ",
+      "Radio button"
+    ]
   }
 ]
