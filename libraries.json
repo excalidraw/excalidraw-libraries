@@ -5705,5 +5705,36 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "MDL 2.0",
+    "description": "This was based on https://mdlmodel.com/#components",
+    "authors": [
+      {
+        "name": "lupi",
+        "github": "https://github.com/lupionpe",
+        "twitter": "",
+        "url": "https://github.com/lupionpe"
+      }
+    ],
+    "source": "lupionpe/mdl-2-0.excalidrawlib",
+    "preview": "lupionpe/mdl-2-0.jpg",
+    "created": "2023-07-05",
+    "updated": "2023-07-05",
+    "version": 2,
+    "itemNames": [
+      "Composition",
+      "VIRTUAL LINK",
+      "Specialization",
+      "ALWAYS LINK",
+      "LINK",
+      "BOUNDARY",
+      "BLACK-BOX",
+      "PART",
+      "FRONT-END",
+      "BACK-END",
+      "DATA",
+      "USER"
+    ]
   }
 ]
