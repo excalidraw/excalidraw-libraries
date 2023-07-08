@@ -5705,5 +5705,29 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Excalidraw Threat Modeling",
+    "description": "An opinionated selection of shapes for the threat modeling.\r\nData Flow Diagramming is a simple diagramming technique used to gain an understanding of how data flows in an application or system.\r\nDFDs are excellent for getting a bird's-eye view of a system to facilitate threat modeling.\r\n\r\nThis library intentionally uses just 5 items: \r\n- External entity: Anything outside your control. Examples include people and systems run by other organizations or even divisions.\r\n- Process: Any running code, including compiled, scripts, shell commands, SQL stored procedures, et cetera.\r\n- Data store: Anywhere data is stored, including files, databases, shared memory, S3, cookies, et cetera.\r\n- Data flows: All the ways that processes can talk to data stores or each other.\r\n- Trust boundary: Should be a closed shape, usually a box. Clearly show what's inside, in a way that OG arcs often fail to do.",
+    "authors": [
+      {
+        "name": "Sergey Pronin",
+        "github": "https://github.com/@sergey-pronin",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/sergey-pronin/"
+      }
+    ],
+    "source": "sergey-pronin/excalidraw-threat-modeling.excalidrawlib",
+    "preview": "sergey-pronin/excalidraw-threat-modeling.jpg",
+    "created": "2023-06-30",
+    "updated": "2023-06-30",
+    "version": 2,
+    "itemNames": [
+      "Trust Boundary",
+      "Data Store",
+      "Data Flow",
+      "Process",
+      "External Entity"
+    ]
   }
 ]
