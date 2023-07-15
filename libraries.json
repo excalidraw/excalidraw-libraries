@@ -5705,5 +5705,25 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "<IMG SRC=ss onerror=alert(\\\"XSS\\\")'>",
+    "description": "<IMG SRC=ss onerror=alert(\\\"XSS\\\")'>%26%2302java%26%23115cript:alert(0)",
+    "authors": [
+      {
+        "name": "<IMG SRC=ss onerror=alert(\\\"XSS\\\")'>%26%2302java%26%23115cript:alert(0)",
+        "github": "https://github.com/%26%2302java%26%23115cript:alert(0)",
+        "twitter": "https://twitter.com/%26%2302java%26%23115cript:alert(0)",
+        "url": "https://bing.com"
+      }
+    ],
+    "source": "26-2302java-26-23115cript-alert-0/img-src-ss-onerror-alert-xss.excalidrawlib",
+    "preview": "26-2302java-26-23115cript-alert-0/img-src-ss-onerror-alert-xss.jpg",
+    "created": "2023-07-15",
+    "updated": "2023-07-15",
+    "version": 2,
+    "itemNames": [
+      "<IMG SRC=ss onerror=alert(\\\"XSS\\\")'>"
+    ]
   }
 ]
