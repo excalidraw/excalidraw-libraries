@@ -5705,5 +5705,43 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Desotech Kubernetes",
+    "description": "Bunch of kubernetes objects",
+    "authors": [
+      {
+        "name": "Pascal Carone",
+        "github": "https://github.com/pcarone",
+        "twitter": "",
+        "url": "https://github.com/pcarone"
+      }
+    ],
+    "source": "pcarone/desotech-kubernetes.excalidrawlib",
+    "preview": "pcarone/desotech-kubernetes.jpg",
+    "created": "2023-07-17",
+    "updated": "2023-07-17",
+    "version": 2,
+    "itemNames": [
+      "Netwkor Policy",
+      "NodePort",
+      "Pod with Port",
+      "ClusterIP",
+      "DaemonSet",
+      "Namespace",
+      "ReplicaSet",
+      "Deployment",
+      "Control Plane",
+      "Worker",
+      "Registry",
+      "Image",
+      "Ephermeral Container",
+      "Container",
+      "Pod small",
+      "Custer + Nodes",
+      "Cluster",
+      "Pod medium",
+      "Pod big"
+    ]
   }
 ]
