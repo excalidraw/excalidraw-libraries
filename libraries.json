@@ -5705,5 +5705,28 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Robustness Diagrams",
+    "description": "Symbols used in robustness diagrams",
+    "authors": [
+      {
+        "name": "Saklain",
+        "github": "https://github.com/saklainio",
+        "twitter": "",
+        "url": "https://github.com/saklainio"
+      }
+    ],
+    "source": "saklainio/robustness-diagrams.excalidrawlib",
+    "preview": "saklainio/robustness-diagrams.jpg",
+    "created": "2023-06-01",
+    "updated": "2023-06-01",
+    "version": 2,
+    "itemNames": [
+      "Boundary",
+      "State",
+      "Process",
+      "Actor"
+    ]
   }
 ]
