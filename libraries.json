@@ -5705,5 +5705,30 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Timing Diagram",
+    "description": "To draw timing diagrams",
+    "authors": [
+      {
+        "name": "Kadian",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "kadian/timing-diagram.excalidrawlib",
+    "preview": "kadian/timing-diagram.jpg",
+    "created": "2023-07-28",
+    "updated": "2023-07-28",
+    "version": 2,
+    "itemNames": [
+      "Marker",
+      "Differential",
+      "Fall Edge",
+      "Rise Edge",
+      "Cross",
+      "Time"
+    ]
   }
 ]
