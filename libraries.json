@@ -5705,5 +5705,33 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "IEC electrical symbols",
+    "description": "Simple IEC electrical symbols.",
+    "authors": [
+      {
+        "name": "AntoKeinanen",
+        "github": "https://github.com/AntoKeinanen",
+        "twitter": "",
+        "url": "https://github.com/AntoKeinanen"
+      }
+    ],
+    "source": "antokeinanen/iec-electrical-symbols.excalidrawlib",
+    "preview": "antokeinanen/iec-electrical-symbols.jpg",
+    "created": "2023-07-03",
+    "updated": "2023-07-03",
+    "version": 2,
+    "itemNames": [
+      "lamp",
+      "ground",
+      "battery",
+      "ammeter",
+      "voltmeter",
+      "ohmeter",
+      "resistor",
+      "voltage-controlled resistor ",
+      "switch"
+    ]
   }
 ]
