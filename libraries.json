@@ -5705,5 +5705,32 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Unity",
+    "description": "Things you might use to tease out your script logic",
+    "authors": [
+      {
+        "name": "Crashes",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "crashes/unity.excalidrawlib",
+    "preview": "crashes/unity.jpg",
+    "created": "2023-08-01",
+    "updated": "2023-08-01",
+    "version": 2,
+    "itemNames": [
+      "I-BUS",
+      "BaseSystem",
+      "BUSlink",
+      "UIClass",
+      "Exit",
+      "Database*4",
+      "Database*2",
+      "Database"
+    ]
   }
 ]
