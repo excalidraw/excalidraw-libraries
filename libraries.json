@@ -5705,5 +5705,33 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "vishal_sys_dez",
+    "description": "vishal system design blocks",
+    "authors": [
+      {
+        "name": "vishal.sanfran",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "vishal-sanfran/vishal_sys_dez.excalidrawlib",
+    "preview": "vishal-sanfran/vishal_sys_dez.jpg",
+    "created": "2023-08-07",
+    "updated": "2023-08-07",
+    "version": 2,
+    "itemNames": [
+      "cache",
+      "db",
+      "psp",
+      "webskt",
+      "notify",
+      "queue",
+      "api",
+      "lb",
+      "client"
+    ]
   }
 ]
