@@ -5705,5 +5705,45 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Software others missed",
+    "description": "Bun, turso, libsql, deno, vagrant, nixos, wasi, zig, htmx, ocaml, nim",
+    "authors": [
+      {
+        "name": "phanirithvij",
+        "github": "https://github.com/phanirithvij",
+        "twitter": "",
+        "url": "https://github.com/phanirithvij"
+      }
+    ],
+    "source": "phanirithvij/software-others-missed.excalidrawlib",
+    "preview": "phanirithvij/software-others-missed.jpg",
+    "created": "2023-08-14",
+    "updated": "2023-08-14",
+    "version": 2,
+    "itemNames": [
+      "zig",
+      "nim",
+      "ocaml",
+      "htmx",
+      "bun-dark",
+      "wasi",
+      "wasm",
+      "nixos-white-border",
+      "nixos-noborder",
+      "nixos-blackborder",
+      "git-bug",
+      "hashicorp-vagrant",
+      "hashicorp-serf-light",
+      "hashicorp-serf-dark",
+      "deno",
+      "bun",
+      "turso-libsql-dark-light",
+      "turso-dark",
+      "libsql-dark",
+      "libsql-light",
+      "turso"
+    ]
   }
 ]
