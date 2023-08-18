@@ -5705,5 +5705,34 @@
       "Microsoft Azure",
       "Microsoft"
     ]
+  },
+  {
+    "name": "Discrete Math elements for set theory and Logic",
+    "description": "A set of elements used in set theories and logic math",
+    "authors": [
+      {
+        "name": "aedion",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aedion/discrete-math-elements-for-set-theory-and-logic.excalidrawlib",
+    "preview": "aedion/discrete-math-elements-for-set-theory-and-logic.jpg",
+    "created": "2023-08-18",
+    "updated": "2023-08-18",
+    "version": 2,
+    "itemNames": [
+      "Null set",
+      "NOT",
+      "OR",
+      "AND",
+      "does not belong to",
+      "is not a subset of",
+      "belongs to",
+      "is a subset of",
+      "intersect",
+      "union"
+    ]
   }
 ]
