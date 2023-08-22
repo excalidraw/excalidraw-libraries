@@ -5727,5 +5727,34 @@
       "Custom Arrow Example",
       "Custom Arrow"
     ]
+  },
+  {
+    "name": "Boolean logic builder",
+    "description": "Boolean logic builder component",
+    "authors": [
+      {
+        "name": "nicoprocessor",
+        "github": "https://github.com/@nicoprocessor",
+        "twitter": "https://twitter.com/@nicola_onofri",
+        "url": "https://github.com/@nicoprocessor"
+      }
+    ],
+    "source": "nicoprocessor/boolean-logic-builder.excalidrawlib",
+    "preview": "nicoprocessor/boolean-logic-builder.jpg",
+    "created": "2023-08-22",
+    "updated": "2023-08-22",
+    "version": 2,
+    "itemNames": [
+      "Multiselect",
+      "Empty checkbox",
+      "Checked checkbox",
+      "Add button",
+      "Delete button",
+      "Select",
+      "Toggle OR",
+      "Toggle AND",
+      "Checked NOT",
+      "Empty NOT"
+    ]
   }
 ]
