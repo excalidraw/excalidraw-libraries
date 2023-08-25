@@ -5727,5 +5727,27 @@
       "Custom Arrow Example",
       "Custom Arrow"
     ]
+  },
+  {
+    "name": "Distributed database module",
+    "description": "分布式数据库组件，包括计算节点、存储节点、元数据集群",
+    "authors": [
+      {
+        "name": "ashanzhu",
+        "github": "https://github.com/ashanzhu",
+        "twitter": "",
+        "url": "https://github.com/ashanzhu"
+      }
+    ],
+    "source": "ashanzhu/distributed-database-module.excalidrawlib",
+    "preview": "ashanzhu/distributed-database-module.jpg",
+    "created": "2023-08-25",
+    "updated": "2023-08-25",
+    "version": 2,
+    "itemNames": [
+      "database meta cluster",
+      "database storage node",
+      "database compute node"
+    ]
   }
 ]
