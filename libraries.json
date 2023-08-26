@@ -5727,5 +5727,31 @@
       "Custom Arrow Example",
       "Custom Arrow"
     ]
+  },
+  {
+    "name": "DomainStoryTelling",
+    "description": "https://domainstorytelling.org/quick-start-guide",
+    "authors": [
+      {
+        "name": "aocgame",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aocgame/domainstorytelling.excalidrawlib",
+    "preview": "aocgame/domainstorytelling.jpg",
+    "created": "2023-08-26",
+    "updated": "2023-08-26",
+    "version": 2,
+    "itemNames": [
+      "information",
+      "phone",
+      "documents",
+      "mail",
+      "group",
+      "person",
+      "system"
+    ]
   }
 ]
