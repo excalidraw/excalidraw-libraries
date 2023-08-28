@@ -5727,5 +5727,36 @@
       "Custom Arrow Example",
       "Custom Arrow"
     ]
+  },
+  {
+    "name": "Paper Sizes",
+    "description": "Common paper sizes and screen ratios.\r\n\r\nOnly items in a series are to scale (ISO A, American paper, Screen Ratio) relative to each other, not Excalidraw units. Grow or shrink by holding shift to fit your content inside these boxes.",
+    "authors": [
+      {
+        "name": "Lin Lune",
+        "github": "",
+        "twitter": "https://twitter.com/https://twitter.com/lin_lune",
+        "url": "https://linlunewriting.wordpress.com/"
+      }
+    ],
+    "source": "https-twitter-com-lin_lune/paper-sizes.excalidrawlib",
+    "preview": "https-twitter-com-lin_lune/paper-sizes.jpg",
+    "created": "2023-08-28",
+    "updated": "2023-08-28",
+    "version": 2,
+    "itemNames": [
+      "letter",
+      "legal",
+      "tabloid",
+      "A8",
+      "A7",
+      "A6",
+      "A5",
+      "A4",
+      "A3",
+      "A2",
+      "16:10",
+      "16:9"
+    ]
   }
 ]
