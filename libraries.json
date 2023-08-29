@@ -5850,13 +5850,13 @@
   },
   {
     "name": "Basic system design",
-    "description": "helpful for interviews",
+    "description": "System design templates",
     "authors": [
       {
-        "name": "pratheeshpm",        
-        "github": "",
+        "name": "pratheeshpm",
+        "github": "https://github.com/pissaypratheesh",
         "twitter": "",
-        "url": ""
+        "url": "https://github.com/pissaypratheesh"
       }
     ],
     "source": "pratheeshpm/basic-system-design.excalidrawlib",
@@ -5865,6 +5865,9 @@
     "updated": "2023-08-29",
     "version": 2,
     "itemNames": [
+      "MediaService",
+      "NotificationService",
+      "APIGateway",
       "Analytics",
       "Database",
       "SearchService",
