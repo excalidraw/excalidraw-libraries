@@ -5801,8 +5801,8 @@
     ]
   },
   {
-    "name": "An adjustable arrow shape that can be modified in a number of ways to suit different use cases.",
-    "description": "This is an adjustable arrow that can be used to speed up certain graphic representations. Both the arrowhead and body shaft can be modified by double clicking on the shape.",
+    "name": "Thicc arrow",
+    "description": "Arrow shape that can be modified in a number of ways to suit different use cases. This is an adjustable arrow that can be used to speed up certain graphic representations. Both the arrowhead and body shaft can be modified by double clicking on the shape.",
     "authors": [
       {
         "name": "Monty",
@@ -5846,6 +5846,29 @@
       "group",
       "person",
       "system"
+    ]
+  },
+  {
+    "name": "Basic system design",
+    "description": "helpful for interviews",
+    "authors": [
+      {
+        "name": "pratheeshpm",        
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "pratheeshpm/basic-system-design.excalidrawlib",
+    "preview": "pratheeshpm/basic-system-design.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Analytics",
+      "Database",
+      "SearchService",
+      "LBWithDbNRepicas"
     ]
   }
 ]
