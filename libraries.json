@@ -5944,5 +5944,28 @@
       "SearchService",
       "LBWithDbNRepicas"
     ]
+  },
+  {
+    "name": "FAIR web icons",
+    "description": "Icons and software logos for everything related to the semantic web and the FAIR principles",
+    "authors": [
+      {
+        "name": "MSloep",
+        "github": "https://github.com/matthijssloep",
+        "twitter": "",
+        "url": "https://github.com/matthijssloep"
+      }
+    ],
+    "source": "matthijssloep/fair-web-icons.excalidrawlib",
+    "preview": "matthijssloep/fair-web-icons.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Accessible",
+      "Reusable",
+      "Interoperable",
+      "Findable"
+    ]
   }
 ]
