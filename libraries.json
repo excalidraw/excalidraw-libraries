@@ -6061,5 +6061,29 @@
       "Interoperable",
       "Findable"
     ]
+  },
+  {
+    "name": "ML Training ",
+    "description": "Components of a ML training task",
+    "authors": [
+      {
+        "name": "subramen",
+        "github": "https://github.com/subramen",
+        "twitter": "",
+        "url": "https://github.com/subramen"
+      }
+    ],
+    "source": "subramen/ml-training.excalidrawlib",
+    "preview": "subramen/ml-training.jpg",
+    "created": "2023-08-30",
+    "updated": "2023-08-30",
+    "version": 2,
+    "itemNames": [
+      "optimizer state",
+      "neural network",
+      "gradients",
+      "activations",
+      "input data"
+    ]
   }
 ]
