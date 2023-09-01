@@ -6061,5 +6061,38 @@
       "Interoperable",
       "Findable"
     ]
+  },
+  {
+    "name": "Data Visualization ",
+    "description": "An aid for Dashboard design ",
+    "authors": [
+      {
+        "name": "Phil Cheeseman ",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "phil-cheeseman/data-visualization.excalidrawlib",
+    "preview": "phil-cheeseman/data-visualization.jpg",
+    "created": "2023-09-01",
+    "updated": "2023-09-01",
+    "version": 2,
+    "itemNames": [
+      "BAN with Spark",
+      "BAN plain",
+      "BAN conditonal",
+      "Stack Horizontal",
+      "Stack Vertical",
+      "Line Chart",
+      "Lines and Bar",
+      "Scatter",
+      "Pie Chart",
+      "Butterfly",
+      "Top x Horizontal",
+      "Horizontal with Target",
+      "Close Bar",
+      "Spaced Bar"
+    ]
   }
 ]
