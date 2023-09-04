@@ -5707,8 +5707,267 @@
     ]
   },
   {
-    "name": "An adjustable arrow shape that can be modified in a number of ways to suit different use cases.",
-    "description": "This is an adjustable arrow that can be used to speed up certain graphic representations. Both the arrowhead and body shaft can be modified by double clicking on the shape.",
+    "name": "ecommerce mobile ui",
+    "description": "Webkul creates with love for the community, enabling quick wireframe creation for upcoming mobile e-commerce projects.\r\nWireframes - Homepage, Product Page, Category Page, Cart Page, Checkout Page, Components - product view, list view, tab bar, buttons, textfield, textarea, dropdown etc, Icons - cart, search folder, wishlist, compare, home, category, user, folder, file, back, delete, share,  etc.",
+    "authors": [
+      {
+        "name": "Webkul Software",
+        "github": "https://github.com/webkul",
+        "twitter": "https://twitter.com/webkul",
+        "url": "https://webkul.com/"
+      }
+    ],
+    "source": "webkul/ecommerce-mobile-ui.excalidrawlib",
+    "preview": "webkul/ecommerce-mobile-ui.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "category page",
+      "checkout page",
+      "cart page",
+      "product page",
+      "homepage",
+      "product image",
+      "gallery-6",
+      "gallery-4",
+      "gallery-3-a",
+      "gallery-3-b",
+      "banner",
+      "carousel banner",
+      "section title",
+      "category carousel",
+      "product carousel",
+      "product-view-1",
+      "product-view-2",
+      "product-view-3",
+      "product-view-list",
+      "coupon",
+      "increment-decrement",
+      "icon-button-ghost",
+      "icon-button",
+      "button",
+      "link-button",
+      "button-ghost",
+      "tabs",
+      "textarea",
+      "textfield",
+      "dropdown",
+      "navigation bar",
+      "search",
+      "tab bar",
+      "tab bar item",
+      "chips",
+      "toggle-off",
+      "toggle-on",
+      "checkbox-off",
+      "checkbox-on",
+      "radiobutton-off",
+      "radiobutton-on",
+      "toggle-off",
+      "toggle-on",
+      "checkbox-off",
+      "checkbox-on",
+      "radiobutton-off",
+      "radiobutton-on",
+      "icon/category",
+      "icon/home",
+      "icon/hamburger",
+      "icon/cart",
+      "icon/wishlist",
+      "icon/close",
+      "icon/back",
+      "icon/notification",
+      "icon/delete",
+      "icon/tag",
+      "icon/file",
+      "icon/contact",
+      "icon/setting",
+      "icon/folder",
+      "icon/message",
+      "icon/user",
+      "icon/business",
+      "icon/more",
+      "icon/female",
+      "icon/male",
+      "icon/product",
+      "icon/image",
+      "icon/mic",
+      "icon/search",
+      "icon/filter",
+      "icon/share",
+      "icon/compare",
+      "icon/star"
+    ]
+  },
+  {
+    "name": "Astronomical Symbols",
+    "description": "A library of astronomical symbols for the sun, the moon, the earth, planets and the zodiac signs.",
+    "authors": [
+      {
+        "name": "Damitr",
+        "github": "https://github.com/Damitr",
+        "twitter": "",
+        "url": "https://github.com/Damitr"
+      }
+    ],
+    "source": "damitr/astronomical-symbols.excalidrawlib",
+    "preview": "damitr/astronomical-symbols.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Pisces",
+      "Sun",
+      "Venus",
+      "Sagittarius",
+      "Virgo",
+      "Gemini",
+      "Capricorn",
+      "Scorpio",
+      "Leo",
+      "Taurus",
+      "Aquarius",
+      "Libra",
+      "Cancer",
+      "Aries",
+      "Right Moon",
+      "Left Moon",
+      "Earth",
+      "New Moon",
+      "Full Moon",
+      "Pluto",
+      "Neptune",
+      "Uranus",
+      "Saturn",
+      "Jupiter",
+      "Mars",
+      "Earth",
+      "Mercury"
+    ]
+  },
+  {
+    "name": "Elixir",
+    "description": "Some logos from the elixir/erlang family",
+    "authors": [
+      {
+        "name": "r4z4",
+        "github": "https://github.com/r4z4",
+        "twitter": "",
+        "url": "https://github.com/r4z4"
+      }
+    ],
+    "source": "r4z4/elixir.excalidrawlib",
+    "preview": "r4z4/elixir.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Elixir",
+      "Phoenix",
+      "Concuerror",
+      "Beam",
+      "Ecto",
+      "Nix"
+    ]
+  },
+  {
+    "name": "Fortinet",
+    "description": "Unofficial Fortinet icons",
+    "authors": [
+      {
+        "name": "Justin Powell",
+        "github": "https://github.com/powelljustin",
+        "twitter": "",
+        "url": "https://technotes23.substack.com"
+      }
+    ],
+    "source": "powelljustin/fortinet.excalidrawlib",
+    "preview": "powelljustin/fortinet.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "FortiAnalyzer",
+      "FortiManager",
+      "FortiSwitch",
+      "Fortinet Logo",
+      "FortiProxy",
+      "FortiAP",
+      "FortiExtender",
+      "FortiGate"
+    ]
+  },
+  {
+    "name": "IT icons",
+    "description": "The shown icons are dedicated to the design of IT system architecture. The collection allows you to present the scheme of complex concepts in an easy and clear way.",
+    "authors": [
+      {
+        "name": "Mateusz Baran",
+        "github": "https://github.com/mateuszbaransanok",
+        "twitter": "",
+        "url": "https://github.com/mateuszbaransanok"
+      }
+    ],
+    "source": "mateuszbaransanok/it-icons.excalidrawlib",
+    "preview": "mateuszbaransanok/it-icons.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Document",
+      "Image",
+      "Folder",
+      "Email",
+      "Sound",
+      "Video",
+      "Microphone",
+      "Camera",
+      "Speaker",
+      "Model",
+      "Network",
+      "Internet",
+      "User",
+      "Home",
+      "Pie chart",
+      "Bar chart",
+      "Firewall",
+      "Cloud",
+      "Database",
+      "Drive",
+      "Server",
+      "Host",
+      "Device",
+      "Printer",
+      "Settings",
+      "Key",
+      "Yes",
+      "No",
+      "Event",
+      "Message",
+      "Timer",
+      "Conditional",
+      "Link",
+      "Signal",
+      "Error",
+      "Escalation",
+      "Compensation",
+      "Cancel",
+      "Multiple",
+      "Multiple Parallel",
+      "Gateway",
+      "Exclusive Gateway",
+      "Inclusive Gateway",
+      "Parallel Gateway",
+      "Comment",
+      "Block",
+      "Lifeline",
+      "Pool"
+    ]
+  },
+  {
+    "name": "Thicc arrow",
+    "description": "Arrow shape that can be modified in a number of ways to suit different use cases. This is an adjustable arrow that can be used to speed up certain graphic representations. Both the arrowhead and body shaft can be modified by double clicking on the shape.",
     "authors": [
       {
         "name": "Monty",
@@ -5741,8 +6000,8 @@
     ],
     "source": "gabrielamacakova/presentation-bundle.excalidrawlib",
     "preview": "gabrielamacakova/presentation-bundle.jpg",
-    "created": "2023-08-25",
-    "updated": "2023-08-25",
+    "created": "2023-09-04",
+    "updated": "2023-09-04",
     "version": 2,
     "itemNames": [
       "Simplicity (slides)",
@@ -5765,6 +6024,102 @@
       "3:2",
       "4:3",
       "16:9"
+    ]
+  },
+  {
+    "name": "DomainStoryTelling",
+    "description": "https://domainstorytelling.org/quick-start-guide",
+    "authors": [
+      {
+        "name": "aocgame",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aocgame/domainstorytelling.excalidrawlib",
+    "preview": "aocgame/domainstorytelling.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "information",
+      "phone",
+      "documents",
+      "mail",
+      "group",
+      "person",
+      "system"
+    ]
+  },
+  {
+    "name": "Basic system design",
+    "description": "System design templates",
+    "authors": [
+      {
+        "name": "pratheeshpm",
+        "github": "https://github.com/pissaypratheesh",
+        "twitter": "",
+        "url": "https://github.com/pissaypratheesh"
+      }
+    ],
+    "source": "pratheeshpm/basic-system-design.excalidrawlib",
+    "preview": "pratheeshpm/basic-system-design.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "MediaService",
+      "NotificationService",
+      "APIGateway",
+      "Analytics",
+      "Database",
+      "SearchService",
+      "LBWithDbNRepicas"
+    ]
+  },
+  {
+    "name": "FAIR web icons",
+    "description": "Icons and software logos for everything related to the semantic web and the FAIR principles",
+    "authors": [
+      {
+        "name": "MSloep",
+        "github": "https://github.com/matthijssloep",
+        "twitter": "",
+        "url": "https://github.com/matthijssloep"
+      }
+    ],
+    "source": "matthijssloep/fair-web-icons.excalidrawlib",
+    "preview": "matthijssloep/fair-web-icons.jpg",
+    "created": "2023-08-29",
+    "updated": "2023-08-29",
+    "version": 2,
+    "itemNames": [
+      "Accessible",
+      "Reusable",
+      "Interoperable",
+      "Findable"
+    ]
+  },
+  {
+    "name": "Bullet Journal Trackers",
+    "description": "Trackers for your habit or your mood",
+    "authors": [
+      {
+        "name": "BooknerdOnMars",
+        "github": "https://github.com/booknerdonmars",
+        "twitter": "",
+        "url": "https://github.com/booknerdonmars"
+      }
+    ],
+    "source": "booknerdonmars/bullet-journal-trackers.excalidrawlib",
+    "preview": "booknerdonmars/bullet-journal-trackers.jpg",
+    "created": "2023-08-31",
+    "updated": "2023-08-31",
+    "version": 2,
+    "itemNames": [
+      "Year In Pixels (Mood Tracker)",
+      "Habit Tracker"
     ]
   }
 ]
