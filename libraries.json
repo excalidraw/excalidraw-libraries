@@ -6121,5 +6121,53 @@
       "Year In Pixels (Mood Tracker)",
       "Habit Tracker"
     ]
+  },
+  {
+    "name": "AWS",
+    "description": "aws",
+    "authors": [
+      {
+        "name": "rafi",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "rafi/aws.excalidrawlib",
+    "preview": "rafi/aws.jpg",
+    "created": "2023-09-05",
+    "updated": "2023-09-05",
+    "version": 2,
+    "itemNames": [
+      "API Gateway",
+      "SES",
+      "EC2",
+      "Lambda",
+      "ECS",
+      "Fargate",
+      "Aurora",
+      "DynamoDB",
+      "System Manager",
+      "CloudFormation",
+      "Organizations",
+      "VPC",
+      "Internet gateway",
+      "NAT gateway",
+      "Cognito",
+      "KMS",
+      "S3 Bucket",
+      "AWS account",
+      "Region",
+      "Slack",
+      "VPC",
+      "Private subnet",
+      "Lambda",
+      "Fargate",
+      "SQS",
+      "SES",
+      "Aurora",
+      "Cognito",
+      "API Gateway"
+    ]
   }
 ]
