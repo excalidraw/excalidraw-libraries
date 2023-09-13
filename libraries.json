@@ -6136,5 +6136,25 @@
       "Year In Pixels (Mood Tracker)",
       "Habit Tracker"
     ]
+  },
+  {
+    "name": "Apache",
+    "description": "workflow automation and scheduling that can be used to author and manage data pipelines - http://airflow.apache.org/",
+    "authors": [
+      {
+        "name": "Databius",
+        "github": "https://github.com/Databius",
+        "twitter": "",
+        "url": "https://github.com/Databius"
+      }
+    ],
+    "source": "databius/apache.excalidrawlib",
+    "preview": "databius/apache.jpg",
+    "created": "2023-09-13",
+    "updated": "2023-09-13",
+    "version": 2,
+    "itemNames": [
+      "Apache Airflow"
+    ]
   }
 ]
