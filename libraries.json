@@ -6136,5 +6136,34 @@
       "Year In Pixels (Mood Tracker)",
       "Habit Tracker"
     ]
+  },
+  {
+    "name": "Linux设备驱动",
+    "description": "字符设备驱动相关草图",
+    "authors": [
+      {
+        "name": "代战胜",
+        "github": "https://github.com/www.github.com/daizhansheng/",
+        "twitter": "",
+        "url": "https://github.com/www.github.com/daizhansheng/"
+      }
+    ],
+    "source": "www-github-com-daizhansheng/linux.excalidrawlib",
+    "preview": "www-github-com-daizhansheng/linux.jpg",
+    "created": "2023-09-20",
+    "updated": "2023-09-20",
+    "version": 2,
+    "itemNames": [
+      "10.按键抖动",
+      "9.中断子系统内部框图",
+      "8.中断执行流程",
+      "7.LED硬件连接图",
+      "6.gpio子系统",
+      "5.设备树",
+      "4.错误码判断",
+      "3.调用流程",
+      "2.数据传输",
+      "1.字符设备驱动"
+    ]
   }
 ]
