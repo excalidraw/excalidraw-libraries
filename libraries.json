@@ -6136,5 +6136,33 @@
       "Year In Pixels (Mood Tracker)",
       "Habit Tracker"
     ]
+  },
+  {
+    "name": "MDL 2.0 Software Architecture Notation",
+    "description": "O MDL (Minimalist Development Language Specification) possui mais de 10 anos de existência e desde sua concepção teve pouquissimas evoluções. Alinhado às necessidades da ArcH, que aplica com muita frequência o MDL em seu dia a dia, e após avaliar as considerações de diversos alunos e clientes, criamos a versão 2.0 do MDL.\r\n\r\nThe CDM (Minimalist Development Language Specification) has been in existence for over 10 years and has had very few developments since its conception. Aligned with the needs of ArcH, which very frequently applies the CDM in its daily life, and after evaluating the considerations of several students and clients, we created version 2.0 of the CDM.",
+    "authors": [
+      {
+        "name": "Lucas Mateus",
+        "github": "https://github.com/lucasmjust",
+        "twitter": "",
+        "url": "https://github.com/lucasmjust"
+      }
+    ],
+    "source": "lucasmjust/mdl-2-0-software-architecture-notation.excalidrawlib",
+    "preview": "lucasmjust/mdl-2-0-software-architecture-notation.jpg",
+    "created": "2023-09-21",
+    "updated": "2023-09-21",
+    "version": 2,
+    "itemNames": [
+      "Sumário-summary",
+      "User/Actor",
+      "Data",
+      "Back-end",
+      "Front-end",
+      "Part",
+      "Black-box",
+      "Boundary",
+      "Link"
+    ]
   }
 ]
