@@ -271,4 +271,5 @@ input:focus {
   width: 300px;
   max-width: 90%;
   border: 1px solid var(--oc-gray-5);
+  line-height: normal;
 }
