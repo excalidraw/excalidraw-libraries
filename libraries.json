@@ -6136,5 +6136,33 @@
       "Year In Pixels (Mood Tracker)",
       "Habit Tracker"
     ]
+  },
+  {
+    "name": "Entity-Relationship Diagrams",
+    "description": "Build Entity-Relationship Diagrams Easier.",
+    "authors": [
+      {
+        "name": "dchampen",
+        "github": "https://github.com/macrophage001",
+        "twitter": "https://twitter.com/macrophage001",
+        "url": "https://github.com/Macrophage001"
+      }
+    ],
+    "source": "macrophage001/entity-relationship-diagrams.excalidrawlib",
+    "preview": "macrophage001/entity-relationship-diagrams.jpg",
+    "created": "2023-10-12",
+    "updated": "2023-10-12",
+    "version": 2,
+    "itemNames": [
+      "Database Scheme Example",
+      "Database Table Template",
+      "Table",
+      "Zero or One",
+      "One and only One",
+      "One",
+      "Zero or Many",
+      "One or Many",
+      "Many"
+    ]
   }
 ]
