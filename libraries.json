@@ -6167,5 +6167,33 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Machine Learning Algorithms",
+    "description": "Different Machine Learning Algorithms, to get the overview of algorithm in an easy way and to integrate them while writing their notes and study material.",
+    "authors": [
+      {
+        "name": "Mihir Pesswani",
+        "github": "https://github.com/codemike513",
+        "twitter": "https://twitter.com/memernhihu",
+        "url": "https://mihir-pesswani.vercel.app/"
+      }
+    ],
+    "source": "codemike513/machine-learning-algorithms.excalidrawlib",
+    "preview": "codemike513/machine-learning-algorithms.jpg",
+    "created": "2023-10-22",
+    "updated": "2023-10-22",
+    "version": 2,
+    "itemNames": [
+      "Random Forest",
+      "Decision Tree",
+      "Principal Component Analysis",
+      "K-Means Clustering",
+      "K-Nearest Neighbors",
+      "Support Vector Machine",
+      "Naive Bayes",
+      "Logistic Regression",
+      "Linear Regression"
+    ]
   }
 ]
