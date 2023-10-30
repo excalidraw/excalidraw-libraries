@@ -6167,5 +6167,25 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "excalidraw-explore",
+    "description": "expolor the ablity of excalidraw",
+    "authors": [
+      {
+        "name": "Addy",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "addy/excalidraw-explore.excalidrawlib",
+    "preview": "addy/excalidraw-explore.jpg",
+    "created": "2023-10-30",
+    "updated": "2023-10-30",
+    "version": 2,
+    "itemNames": [
+      "draw-item-test"
+    ]
   }
 ]
