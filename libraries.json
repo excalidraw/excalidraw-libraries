@@ -6167,5 +6167,41 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "System Design by GregTx",
+    "description": "This library is helpful during system design interviews.",
+    "authors": [
+      {
+        "name": "GregTx",
+        "github": "https://github.com/gadavis2",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/gregtx/"
+      }
+    ],
+    "source": "gadavis2/system-design-by-gregtx.excalidrawlib",
+    "preview": "gadavis2/system-design-by-gregtx.jpg",
+    "created": "2023-10-31",
+    "updated": "2023-10-31",
+    "version": 2,
+    "itemNames": [
+      "Data Structure or Table",
+      "Single Server",
+      "Multi-Instance Server",
+      "Data Store",
+      "Relational DB",
+      "Object Storage",
+      "Graph DB",
+      "Cache",
+      "Auth & IAM",
+      "DNS",
+      "Load Balancer",
+      "Message Queue",
+      "Pipeline or Event Bus",
+      "CDN",
+      "Archive",
+      "Mobile Device",
+      "Web Application Front-End"
+    ]
   }
 ]
