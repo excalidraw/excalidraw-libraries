@@ -6180,5 +6180,40 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "EDGY Shapes",
+    "description": "Library of shapes to be used with the EDGY language for Enterprise Design. EDGY is open source and developed by the Intersection Group.  ",
+    "authors": [
+      {
+        "name": "Kevin Brennan",
+        "github": "https://github.com/kevinjbrennan",
+        "twitter": "https://twitter.com/bakevin",
+        "url": "https://github.com/kevinjbrennan"
+      }
+    ],
+    "source": "kevinjbrennan/edgy-shapes.excalidrawlib",
+    "preview": "kevinjbrennan/edgy-shapes.jpg",
+    "created": "2023-11-08",
+    "updated": "2023-11-08",
+    "version": 2,
+    "itemNames": [
+      "Person",
+      "Outcome",
+      "Object",
+      "Activity",
+      "Purpose",
+      "Content",
+      "Story",
+      "Capability",
+      "Asset",
+      "Process",
+      "Task",
+      "Channel",
+      "Journey",
+      "Organization",
+      "Brand",
+      "Product"
+    ]
   }
 ]
