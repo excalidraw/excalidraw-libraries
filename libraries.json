@@ -6180,5 +6180,34 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Big Picture Event Storming",
+    "description": "A collection of shapes to facilitate a Big Picture Event Storming workshop.",
+    "authors": [
+      {
+        "name": "Juan Sanchez",
+        "github": "https://github.com/JSanchezIO",
+        "twitter": "",
+        "url": "https://github.com/JSanchezIO"
+      }
+    ],
+    "source": "jsanchezio/big-picture-event-storming.excalidrawlib",
+    "preview": "jsanchezio/big-picture-event-storming.jpg",
+    "created": "2023-11-09",
+    "updated": "2023-11-09",
+    "version": 2,
+    "itemNames": [
+      "Example - Event Storming",
+      "Go Back",
+      "Agenda",
+      "Legend",
+      "Definition",
+      "Solution",
+      "Hotspot",
+      "External System",
+      "Domain Event",
+      "Actor"
+    ]
   }
 ]
