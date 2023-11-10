@@ -6180,5 +6180,32 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "durdenscave",
+    "description": "UML",
+    "authors": [
+      {
+        "name": "Amar",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "amar/durdenscave.excalidrawlib",
+    "preview": "amar/durdenscave.jpg",
+    "created": "2023-11-10",
+    "updated": "2023-11-10",
+    "version": 2,
+    "itemNames": [
+      "queue",
+      "scaleoutservice",
+      "comment",
+      "queue",
+      "json",
+      "database",
+      "pubsub",
+      "clustered database"
+    ]
   }
 ]
