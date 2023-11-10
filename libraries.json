@@ -6180,5 +6180,29 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Braces",
+    "description": "Different styles of braces for grouping and labeling multiple items.",
+    "authors": [
+      {
+        "name": "Christian Schwarz",
+        "github": "https://github.com/cmrschwarz",
+        "twitter": "",
+        "url": "https://github.com/cmrschwarz"
+      }
+    ],
+    "source": "cmrschwarz/braces.excalidrawlib",
+    "preview": "cmrschwarz/braces.jpg",
+    "created": "2023-11-10",
+    "updated": "2023-11-10",
+    "version": 2,
+    "itemNames": [
+      "Brace",
+      "Bracket",
+      "Parenthesis",
+      "Chevron",
+      "Pointy Bracket"
+    ]
   }
 ]
