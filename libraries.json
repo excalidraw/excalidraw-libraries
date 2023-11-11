@@ -6180,5 +6180,40 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Authentication",
+    "description": "A set of Logo to illustrate Authentication",
+    "authors": [
+      {
+        "name": "PurpleBabar",
+        "github": "https://github.com/PurpleBabar",
+        "twitter": "",
+        "url": "https://github.com/PurpleBabar"
+      }
+    ],
+    "source": "purplebabar/authentication.excalidrawlib",
+    "preview": "purplebabar/authentication.jpg",
+    "created": "2023-10-21",
+    "updated": "2023-10-21",
+    "version": 2,
+    "itemNames": [
+      "Zitadel",
+      "Authentik",
+      "Gluu",
+      "Oauth",
+      "Oauth2",
+      "SSO",
+      "Authelia",
+      "Ory",
+      "SAML",
+      "OpenID",
+      "WSO2",
+      "Okta",
+      "Auth0",
+      "Active Directory",
+      "LDAP",
+      "Keycloak"
+    ]
   }
 ]
