@@ -6180,5 +6180,33 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Sample components in system design",
+    "description": "system design components",
+    "authors": [
+      {
+        "name": "Sai Patanjali",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sai-patanjali/sample-components-in-system-design.excalidrawlib",
+    "preview": "sai-patanjali/sample-components-in-system-design.jpg",
+    "created": "2023-10-31",
+    "updated": "2023-10-31",
+    "version": 2,
+    "itemNames": [
+      "pipeline",
+      "feed",
+      "reco",
+      "session",
+      "media",
+      "profile",
+      "notification",
+      "messaging",
+      "API gateway"
+    ]
   }
 ]
