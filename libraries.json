@@ -6180,5 +6180,25 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "number tag-color",
+    "description": "The number color tag is a labeling system that uses numbers to represent colors. It can help people understand and identify different colors more intuitively. With the number color tag, people can easily classify and compare colors, thus better understanding and applying them.",
+    "authors": [
+      {
+        "name": "DBE",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dbe/number-tag-color.excalidrawlib",
+    "preview": "dbe/number-tag-color.jpg",
+    "created": "2023-11-13",
+    "updated": "2023-11-13",
+    "version": 2,
+    "itemNames": [
+      "tag"
+    ]
   }
 ]
