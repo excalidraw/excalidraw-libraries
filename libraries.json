@@ -6180,5 +6180,27 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "System Design Interview",
+    "description": "Some basic concepts to be used in a system design interview",
+    "authors": [
+      {
+        "name": "Joao Thiago Silva",
+        "github": "https://github.com/joaothiagosilva",
+        "twitter": "",
+        "url": "https://github.com/joaothiagosilva"
+      }
+    ],
+    "source": "joaothiagosilva/system-design-interview.excalidrawlib",
+    "preview": "joaothiagosilva/system-design-interview.jpg",
+    "created": "2023-11-21",
+    "updated": "2023-11-21",
+    "version": 2,
+    "itemNames": [
+      "Consistent Hashing",
+      "Client DNS CDN LB",
+      "DB replication"
+    ]
   }
 ]
