@@ -6180,5 +6180,37 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Database Server",
+    "description": "This library offers a comprehensive collection of graphics tailored for illustrating database infrastructures, both in cloud environments and on-premises setups. Originally designed with a focus on Oracle database servers, it is an ideal tool for visualizing lab environments, database security frameworks, and backup & recovery scenarios. Its versatility makes it suitable for a wide range of applications, from educational purposes to professional infrastructure planning.",
+    "authors": [
+      {
+        "name": "Stefan Oehrli",
+        "github": "https://github.com/oehrlis",
+        "twitter": "https://twitter.com/@stefanoehrli",
+        "url": "https://github.com/oehrlis"
+      }
+    ],
+    "source": "oehrlis/database-server.excalidrawlib",
+    "preview": "oehrlis/database-server.jpg",
+    "created": "2023-11-22",
+    "updated": "2023-11-22",
+    "version": 2,
+    "itemNames": [
+      "Server Blade",
+      "Server",
+      "Windows Workstation",
+      "Repository Database",
+      "Application Server",
+      "Database Server",
+      "Bastion Host",
+      "Active Directory Server",
+      "Directory Server",
+      "Database Firewall",
+      "Audit Vault Server",
+      "Key Vault Server",
+      "Data Safe"
+    ]
   }
 ]
