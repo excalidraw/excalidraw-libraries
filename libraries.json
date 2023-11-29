@@ -6180,5 +6180,34 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "JIRA priority icons",
+    "description": "New priority icons used in JIRA since the 2021 update\r\n\r\nAll icons are sized to 1 grid cell, so they work well with snapping and match small size text\r\nNon-square icons come with an invisible square to make them snap and align properly",
+    "authors": [
+      {
+        "name": "Mart Jõgi",
+        "github": "https://github.com/mart3323",
+        "twitter": "",
+        "url": "https://github.com/mart3323"
+      }
+    ],
+    "source": "mart3323/jira-priority-icons.excalidrawlib",
+    "preview": "mart3323/jira-priority-icons.jpg",
+    "created": "2023-11-29",
+    "updated": "2023-11-29",
+    "version": 2,
+    "itemNames": [
+      "Trivial priority",
+      "Minor priority",
+      "Lowest priority",
+      "Low priority",
+      "Medium priority",
+      "High priority",
+      "Highest priority",
+      "Major priority",
+      "Critical priority",
+      "Blocker priority"
+    ]
   }
 ]
