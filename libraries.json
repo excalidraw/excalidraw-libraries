@@ -6180,5 +6180,26 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "quadratic formula",
+    "description": "Basic graphs of quadratic formula",
+    "authors": [
+      {
+        "name": "Szymon Wilczek",
+        "github": "https://github.com/szymonwilczek",
+        "twitter": "",
+        "url": "http://szymon-wilczek.pl"
+      }
+    ],
+    "source": "szymonwilczek/quadratic-formula.excalidrawlib",
+    "preview": "szymonwilczek/quadratic-formula.jpg",
+    "created": "2023-11-30",
+    "updated": "2023-11-30",
+    "version": 2,
+    "itemNames": [
+      "a<0",
+      "a>0"
+    ]
   }
 ]
