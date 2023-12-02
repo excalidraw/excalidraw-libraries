@@ -6180,5 +6180,28 @@
       "Operate",
       "Optimize"
     ]
+  },
+  {
+    "name": "Linked List Demo Images",
+    "description": "This library had two main images. One for a Node and one for a LinkedList Object with a head and tail pointer. Each object has an arrow that can be dragged to any other icons yellow 'Location in memory' box where it should stick and track. This way you can demonstrate the concept of pointers pointing to an objects location in memory rather than keeping them in an organized line. Additionally you can use this to ideate through LinkedList problems that use a single next reference. Hope this helps!",
+    "authors": [
+      {
+        "name": "Donald Twiford",
+        "github": "https://github.com/KrankyKnight",
+        "twitter": "",
+        "url": "https://github.com/KrankyKnight"
+      }
+    ],
+    "source": "krankyknight/linked-list-demo-images.excalidrawlib",
+    "preview": "krankyknight/linked-list-demo-images.jpg",
+    "created": "2023-12-02",
+    "updated": "2023-12-02",
+    "version": 2,
+    "itemNames": [
+      "Node-Purple",
+      "Node-Green",
+      "Node-Orange",
+      "LL-Head-And-Tail"
+    ]
   }
 ]
