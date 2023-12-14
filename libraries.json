@@ -6226,5 +6226,34 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Azure Security",
+    "description": "A few services focused on security features in the azure cloud",
+    "authors": [
+      {
+        "name": "HammerPool",
+        "github": "https://github.com/HammerArce",
+        "twitter": "",
+        "url": "https://github.com/HammerArce"
+      }
+    ],
+    "source": "hammerarce/azure-security.excalidrawlib",
+    "preview": "hammerarce/azure-security.jpg",
+    "created": "2023-12-14",
+    "updated": "2023-12-14",
+    "version": 2,
+    "itemNames": [
+      "Azure Security Center",
+      "Azure Keys",
+      "Azure Key vaults",
+      "Azure Extended Security Updates",
+      "Azure Detonation",
+      "Azure Conditional Access",
+      "Azure Active directory",
+      "Azure Sentinel",
+      "Azure Defender",
+      "Azure Application Security groups"
+    ]
   }
 ]
