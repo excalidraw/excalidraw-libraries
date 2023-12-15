@@ -6226,5 +6226,32 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Basic System Design Shapes",
+    "description": "Basic System Design Shapes",
+    "authors": [
+      {
+        "name": "APS",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aps/basic-system-design-shapes.excalidrawlib",
+    "preview": "aps/basic-system-design-shapes.jpg",
+    "created": "2023-12-15",
+    "updated": "2023-12-15",
+    "version": 2,
+    "itemNames": [
+      "Cahce",
+      "Load Balancer",
+      "DB Replica",
+      "Message Queue",
+      "State",
+      "Multiple Worker",
+      "Multiple Instance",
+      "Data base"
+    ]
   }
 ]
