@@ -6226,5 +6226,44 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Digital Electronics VLSI",
+    "description": "basic gates, nmos/pmos device diagram, other digital electronics blocks",
+    "authors": [
+      {
+        "name": "Priyanshu",
+        "github": "https://github.com/Priyanshu-1012",
+        "twitter": "",
+        "url": "https://github.com/Priyanshu-1012"
+      }
+    ],
+    "source": "priyanshu-1012/digital-electronics-vlsi.excalidrawlib",
+    "preview": "priyanshu-1012/digital-electronics-vlsi.jpg",
+    "created": "2023-12-18",
+    "updated": "2023-12-18",
+    "version": 2,
+    "itemNames": [
+      "pmos_dev",
+      "nmos_dev",
+      "clk_graph",
+      "1quadaxis",
+      "nmos",
+      "pmos",
+      "clk",
+      "curve",
+      "cap",
+      "res",
+      "nand",
+      "and",
+      "jkff",
+      "dff",
+      "srff",
+      "xnor",
+      "xor",
+      "nor",
+      "triangle",
+      "inv"
+    ]
   }
 ]
