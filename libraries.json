@@ -6226,5 +6226,35 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Rust Basics",
+    "description": "Resources for the Rust programming language by the RustLang in Spanish Community",
+    "authors": [
+      {
+        "name": "RustLangES",
+        "github": "https://github.com/RustLangES",
+        "twitter": "https://twitter.com/sergioribera_rs",
+        "url": "https://rustlanges.github.io"
+      }
+    ],
+    "source": "rustlanges/rust-basics.excalidrawlib",
+    "preview": "rustlanges/rust-basics.jpg",
+    "created": "2024-01-02",
+    "updated": "2024-01-02",
+    "version": 2,
+    "itemNames": [
+      "rust-analyzer-rfc1.1_dark",
+      "rust-analyzer-rfc1.1_light",
+      "rust-analyzer-rfc1_dark",
+      "rust-analyzer-rfc1_light",
+      "rust-analyzer_dark",
+      "rust-analyzer_light",
+      "cargo_dark",
+      "cargo_light",
+      "ferris_dark",
+      "ferris_light",
+      "rust"
+    ]
   }
 ]
