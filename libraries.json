@@ -6226,5 +6226,33 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Data Flow Diagram Basics",
+    "description": "For Making complete data flow diagrams.  This library includes common symbols and notations for data flow diagrams created by Yourdon & Coad,  Yourdon & DeMarco, and Gane & Sarson.\r\n\r\nMain symbols and their other common names:\r\n\r\n1. Process: Function, Transformation, etc\r\n2. Data Store: File, Database, Warehouse, etc\r\n3. External Entity: Terminator, Outside system, etc",
+    "authors": [
+      {
+        "name": "predatorx7",
+        "github": "https://github.com/predatorx7",
+        "twitter": "https://twitter.com/_predatorx7",
+        "url": "https://mushaheed.me"
+      }
+    ],
+    "source": "predatorx7/data-flow-diagram-basics.excalidrawlib",
+    "preview": "predatorx7/data-flow-diagram-basics.jpg",
+    "created": "2024-01-02",
+    "updated": "2024-01-02",
+    "version": 2,
+    "itemNames": [
+      "Data Store",
+      "User",
+      "External Entity",
+      "Process",
+      "Data Store",
+      "Entity",
+      "Interface",
+      "Process with Location",
+      "Process"
+    ]
   }
 ]
