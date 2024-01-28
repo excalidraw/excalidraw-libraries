@@ -6226,5 +6226,29 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "PCLibraray",
+    "description": "Common used componenet",
+    "authors": [
+      {
+        "name": "PC",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "pc/pclibraray.excalidrawlib",
+    "preview": "pc/pclibraray.jpg",
+    "created": "2024-01-28",
+    "updated": "2024-01-28",
+    "version": 2,
+    "itemNames": [
+      "cassandra",
+      "Kafka",
+      "server cluster",
+      "Redis",
+      "DB"
+    ]
   }
 ]
