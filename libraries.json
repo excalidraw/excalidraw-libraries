@@ -6226,5 +6226,28 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "EUTxO",
+    "description": "A collection of transactions and outputs to design applications  using the Extended Unspent Transaction Output (UTxO) ledger model as it is used by Cardano and other blockchains.",
+    "authors": [
+      {
+        "name": "Sebastian Nagel",
+        "github": "https://github.com/ch1bo",
+        "twitter": "https://twitter.com/ch1bo_",
+        "url": "https://ncoding.at"
+      }
+    ],
+    "source": "ch1bo/eutxo.excalidrawlib",
+    "preview": "ch1bo/eutxo.jpg",
+    "created": "2024-02-22",
+    "updated": "2024-02-22",
+    "version": 2,
+    "itemNames": [
+      "Simple transaction",
+      "Script transaction",
+      "Script output",
+      "Simple output"
+    ]
   }
 ]
