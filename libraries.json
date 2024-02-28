@@ -6226,5 +6226,29 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "User Story Mapping",
+    "description": "Story mapping is an effective inception tool to create a product backlog in a visually structured way. \r\n\r\nIt helps in building a shared understanding, identify gaps in the backlog, see interdependencies, and perform better relative sizing. \r\n\r\nFurther, it can also help in slicing and release planning activities.",
+    "authors": [
+      {
+        "name": "metafeather",
+        "github": "https://github.com/metafeather",
+        "twitter": "https://twitter.com/metafeather",
+        "url": "https://metafeather.net"
+      }
+    ],
+    "source": "metafeather/user-story-mapping.excalidrawlib",
+    "preview": "metafeather/user-story-mapping.jpg",
+    "created": "2024-02-28",
+    "updated": "2024-02-28",
+    "version": 2,
+    "itemNames": [
+      "Cheatsheet Link",
+      "Activity or Goal",
+      "Narrative flow step",
+      "User task",
+      "Release slice"
+    ]
   }
 ]
