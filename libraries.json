@@ -6226,5 +6226,33 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "IBIS-Map",
+    "description": "An IBIS MAP to layout argument map .  explanations: https://www.youtube.com/watch?v=q1r-_Df-Q34",
+    "authors": [
+      {
+        "name": "Luc TAESCH",
+        "github": "https://github.com/luc.taesch@gmail.com",
+        "twitter": "https://twitter.com/@luctaesch",
+        "url": "https://www.taesch.com"
+      }
+    ],
+    "source": "luc-taesch-gmail-com/ibis-map.excalidrawlib",
+    "preview": "luc-taesch-gmail-com/ibis-map.jpg",
+    "created": "2024-03-03",
+    "updated": "2024-03-03",
+    "version": 2,
+    "itemNames": [
+      "Inference",
+      "Position",
+      "Decision",
+      "Decision Frame",
+      "link",
+      "Evidence",
+      "Objecting Argument",
+      "Supporting Argument",
+      "question"
+    ]
   }
 ]
