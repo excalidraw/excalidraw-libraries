@@ -6226,5 +6226,25 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Electronics",
+    "description": "The start of an extended electronic component library",
+    "authors": [
+      {
+        "name": "seigel",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "seigel/electronics.excalidrawlib",
+    "preview": "seigel/electronics.jpg",
+    "created": "2024-03-05",
+    "updated": "2024-03-05",
+    "version": 2,
+    "itemNames": [
+      "npn BJT"
+    ]
   }
 ]
