@@ -194,6 +194,19 @@ const initImageLazyLoading = () => {
   }
 };
 
+const escapeHTMLAttribute = (str) => {
+  const map = {
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+  };
+
+  if (typeof str !== "string") return "";
+
+  return str.replace(/[&<>"]/g, (char) => map[char]);
+};
+
 const populateLibraryList = (filterQuery = "") => {
   const items = [
     ...document.getElementById("template").parentNode.children,
@@ -218,11 +231,15 @@ const populateLibraryList = (filterQuery = "") => {
   }
   const template = document.getElementById("template");
   const searchParams = new URLSearchParams(location.search);
-  const referrer = searchParams.get("referrer") || "https://excalidraw.com";
+  const referrer = escapeHTMLAttribute(
+    searchParams.get("referrer") || "https://excalidraw.com",
+  );
   const appName = getAppName(referrer);
-  const target = decodeURIComponent(searchParams.get("target") || "_blank");
+  const target = decodeURIComponent(
+    escapeHTMLAttribute(searchParams.get("target")) || "_blank",
+  );
   const useHash = searchParams.get("useHash");
-  const csrfToken = searchParams.get("token");
+  const csrfToken = escapeHTMLAttribute(searchParams.get("token"));
   for (let library of libraries) {
     const div = document.createElement("div");
     div.classList.add("library");
@@ -265,7 +282,9 @@ const populateLibraryList = (filterQuery = "") => {
       inner = inner.replace('<p class="updated">Updated: {updated}</p>', "");
     }
     inner = inner.replace(/\{appName\}/g, appName);
-    const libraryUrl = encodeURIComponent(`${location.origin}/${source}`);
+    const libraryUrl = encodeURIComponent(
+      `${escapeHTMLAttribute(origin)}/${source}`,
+    );
     inner = inner.replace(
       "{addToLib}",
       `${referrer}${useHash ? "#" : "?"}addLibrary=${libraryUrl}${
