@@ -6226,5 +6226,44 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Analog Circuits",
+    "description": "A library of (rotatable) symbols for making schematics of CMOS analog circuits",
+    "authors": [
+      {
+        "name": "Balram Pillai",
+        "github": "https://github.com/a-dag-a",
+        "twitter": "",
+        "url": "https://github.com/a-dag-a"
+      }
+    ],
+    "source": "a-dag-a/analog-circuits.excalidrawlib",
+    "preview": "a-dag-a/analog-circuits.jpg",
+    "created": "2024-03-13",
+    "updated": "2024-03-13",
+    "version": 2,
+    "itemNames": [
+      "Transformer",
+      "Transformer with center tap",
+      "Inductor (with dot)",
+      "Junction",
+      "Impedance",
+      "Differential amplifier",
+      "NMOS (with body)",
+      "PMOS (with body)",
+      "Current Source",
+      "Voltage Source",
+      "Ground",
+      "NMOS",
+      "PMOS",
+      "Transmission Line",
+      "Varactor",
+      "Capacitor",
+      "Resistor",
+      "Inductor",
+      "NPN",
+      "PNP"
+    ]
   }
 ]
