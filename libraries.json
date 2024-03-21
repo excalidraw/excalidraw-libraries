@@ -6226,5 +6226,29 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "AR",
+    "description": "Items para diagramas de AR",
+    "authors": [
+      {
+        "name": "Gonzoo",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gonzoo/ar.excalidrawlib",
+    "preview": "gonzoo/ar.jpg",
+    "created": "2024-03-21",
+    "updated": "2024-03-21",
+    "version": 2,
+    "itemNames": [
+      "router",
+      "server",
+      "equipo",
+      "switch",
+      "switch multicapa"
+    ]
   }
 ]
