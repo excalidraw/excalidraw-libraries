@@ -6226,5 +6226,32 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Schema Lib",
+    "description": "Library for schema view",
+    "authors": [
+      {
+        "name": "fckffln",
+        "github": "",
+        "twitter": "",
+        "url": "https://fckff.in"
+      }
+    ],
+    "source": "fckffln/schema-lib.excalidrawlib",
+    "preview": "fckffln/schema-lib.jpg",
+    "created": "2024-03-31",
+    "updated": "2024-03-31",
+    "version": 2,
+    "itemNames": [
+      "Core",
+      "Worker",
+      "User",
+      "View",
+      "Nginx",
+      "Balancer",
+      "Database",
+      "View storage"
+    ]
   }
 ]
