@@ -6226,5 +6226,28 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Simple System Design Components",
+    "description": "A few simple components for doing system design.",
+    "authors": [
+      {
+        "name": "Matthew McCormick",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "matthew-mccormick/simple-system-design-components.excalidrawlib",
+    "preview": "matthew-mccormick/simple-system-design-components.jpg",
+    "created": "2024-03-31",
+    "updated": "2024-03-31",
+    "version": 2,
+    "itemNames": [
+      "Application",
+      "Load Balancer",
+      "Cache",
+      "Database"
+    ]
   }
 ]
