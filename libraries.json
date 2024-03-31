@@ -6226,5 +6226,39 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "DesignMash",
+    "description": "Software Design elements",
+    "authors": [
+      {
+        "name": "Rakheen",
+        "github": "https://github.com/rakheen-dama",
+        "twitter": "",
+        "url": "https://github.com/rakheen-dama"
+      }
+    ],
+    "source": "rakheen-dama/designmash.excalidrawlib",
+    "preview": "rakheen-dama/designmash.jpg",
+    "created": "2024-03-31",
+    "updated": "2024-03-31",
+    "version": 2,
+    "itemNames": [
+      "PubSub Vertical",
+      "Queue Vertical",
+      "DNS",
+      "Network Load Balancer",
+      "Application Load Balancer",
+      "Cache",
+      "Queue",
+      "Stream Processor",
+      "CDN",
+      "App Servers",
+      "Web Servers",
+      "Object Storage",
+      "DB with Read Replica",
+      "Pub Sub",
+      "Active Passive DB"
+    ]
   }
 ]
