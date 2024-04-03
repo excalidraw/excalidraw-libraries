@@ -6226,5 +6226,27 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "System design interview templates",
+    "description": "Starting templates for online system design interview. \r\n\r\n1. Paste context and edit based on requirements\r\n2. Paste sequence if use case is complex\r\n3. Paste Containers for detailed high level design ",
+    "authors": [
+      {
+        "name": "Nikita Rusin",
+        "github": "https://github.com/rusinikita",
+        "twitter": "",
+        "url": "https://nikitarusin.com"
+      }
+    ],
+    "source": "rusinikita/system-design-interview-templates.excalidrawlib",
+    "preview": "rusinikita/system-design-interview-templates.jpg",
+    "created": "2024-04-03",
+    "updated": "2024-04-03",
+    "version": 2,
+    "itemNames": [
+      "Sequence",
+      "C4 Containers",
+      "C4 Context"
+    ]
   }
 ]
