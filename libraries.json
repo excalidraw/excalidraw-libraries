@@ -6226,5 +6226,31 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "World Map",
+    "description": "A collection of maps of the world divided by continents.",
+    "authors": [
+      {
+        "name": "hephitao",
+        "github": "https://github.com/hephitao",
+        "twitter": "https://twitter.com/Esteban_Piedrah",
+        "url": "https://github.com/hephitao"
+      }
+    ],
+    "source": "hephitao/world-map.excalidrawlib",
+    "preview": "hephitao/world-map.jpg",
+    "created": "2024-04-07",
+    "updated": "2024-04-07",
+    "version": 2,
+    "itemNames": [
+      "Oceania",
+      "Asia",
+      "Europe",
+      "Africa",
+      "North_America",
+      "South_America",
+      "World"
+    ]
   }
 ]
