@@ -6226,5 +6226,30 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Robustness Diagram",
+    "description": "Objects for robustness diagrams",
+    "authors": [
+      {
+        "name": "Joseph Chivers",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "joseph-chivers/robustness-diagram.excalidrawlib",
+    "preview": "joseph-chivers/robustness-diagram.jpg",
+    "created": "2024-04-11",
+    "updated": "2024-04-11",
+    "version": 2,
+    "itemNames": [
+      "Key",
+      "Use Case",
+      "Boundary (Interface)",
+      "Control (Process)",
+      "Entity (Domain)",
+      "Actor"
+    ]
   }
 ]
