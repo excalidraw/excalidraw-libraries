@@ -6226,5 +6226,49 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "System Design Components",
+    "description": "System Design Components",
+    "authors": [
+      {
+        "name": "APS",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "aps/system-design-components.excalidrawlib",
+    "preview": "aps/system-design-components.jpg",
+    "created": "2023-12-15",
+    "updated": "2023-12-15",
+    "version": 2,
+    "itemNames": [
+      "Server",
+      "[Any] Stack",
+      "Service1",
+      "Service2",
+      "Elasticsearch",
+      "Kafka",
+      "DB+Replica1",
+      "DB+Replica2",
+      "DB+Replica3",
+      "DB1.1",
+      "DB1.2",
+      "DB3.1",
+      "DB3.2",
+      "DB2.1",
+      "DB2.2",
+      "Cache1",
+      "Cache2",
+      "LB1",
+      "LB2",
+      "CDN1",
+      "CDN2",
+      "Web",
+      "Browser",
+      "Users",
+      "User"
+    ]
   }
 ]
