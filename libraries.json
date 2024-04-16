@@ -6226,5 +6226,33 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "System Design Components by Mohit G",
+    "description": "Basic components to quickly draw system design diagrams",
+    "authors": [
+      {
+        "name": "mohitg23",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "mohitg23/system-design-components-by-mohit-g.excalidrawlib",
+    "preview": "mohitg23/system-design-components-by-mohit-g.jpg",
+    "created": "2024-04-16",
+    "updated": "2024-04-16",
+    "version": 2,
+    "itemNames": [
+      "client",
+      "distributed_db",
+      "message_queue",
+      "msg",
+      "workers",
+      "db_store",
+      "object_db",
+      "load_balancer",
+      "cache"
+    ]
   }
 ]
