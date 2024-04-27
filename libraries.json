@@ -6226,5 +6226,36 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Electronics",
+    "description": "Electronic symbols to create schematics",
+    "authors": [
+      {
+        "name": "ihagg",
+        "github": "https://github.com/ihagg",
+        "twitter": "",
+        "url": "https://github.com/ihagg"
+      }
+    ],
+    "source": "ihagg/electronics.excalidrawlib",
+    "preview": "ihagg/electronics.jpg",
+    "created": "2024-04-27",
+    "updated": "2024-04-27",
+    "version": 2,
+    "itemNames": [
+      "AC Voltage Source Down",
+      "AC Voltage Source Up",
+      "AC Current Source Up",
+      "AC Current Source Down",
+      "DC Voltage Source Down",
+      "DC Voltage Source Up",
+      "DC Current Source Up",
+      "DC Current Source Down",
+      "Ground",
+      "VDD",
+      "PMOS-3",
+      "NMOS-3"
+    ]
   }
 ]
