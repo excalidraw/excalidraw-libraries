@@ -6226,5 +6226,28 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "Retrieval Augmented Generation (RAG)",
+    "description": "The Retrieval Augmented Generation library in Excalidraw is a set of custom graphical items designed to visualize and explain the components of a retrieval-based language generation system. It includes four main elements:\r\n\r\n    Embeddings Model: This item represents the machine learning model that transforms text into a numerical form, i.e., embeddings. It's depicted as a stylized box with the words \"Embeddings Model\" to signify the complex computations happening inside.\r\n\r\n    Chat LLM (Language Learning Model): This item symbolizes the conversational AI model that understands and generates human language, augmented with a retrieval mechanism. It's illustrated as a chat box with the acronym \"LLM\" to denote its capability to learn and understand language in a conversational context, and a magnifying glass to signify the retrieval component.\r\n\r\n    Embeddings Vector: This item is a visual representation of the numerical vectors that result from the Embeddings Model. It's drawn as a series of points or a vector in a multi-dimensional space to emphasize the high-dimensional nature of text embeddings.\r\n\r\n    Text Chunk: This item signifies a piece of text that is input into the system. It's depicted as a block of text to represent any arbitrary piece of text data that can be processed by the system.\r\n\r\nThese items can be used together to create diagrams that illustrate the flow of data and the interactions between these components in a retrieval-based language generation system.",
+    "authors": [
+      {
+        "name": "Vincent HETRU",
+        "github": "https://github.com/13pass",
+        "twitter": "",
+        "url": "https://github.com/13pass"
+      }
+    ],
+    "source": "13pass/retrieval-augmented-generation-rag.excalidrawlib",
+    "preview": "13pass/retrieval-augmented-generation-rag.jpg",
+    "created": "2024-04-30",
+    "updated": "2024-04-30",
+    "version": 2,
+    "itemNames": [
+      "Embeddings model",
+      "chat LLM",
+      "Embeddings vector",
+      "text chunk"
+    ]
   }
 ]
