@@ -6226,5 +6226,39 @@
       "Gingerbread",
       "Candy cane"
     ]
+  },
+  {
+    "name": "EPC",
+    "description": "Event process chain icons to support process modeling.",
+    "authors": [
+      {
+        "name": "jmbenedetto",
+        "github": "https://github.com/jmbenedetto",
+        "twitter": "https://twitter.com/jmbenedetto",
+        "url": "https://github.com/jmbenedetto"
+      }
+    ],
+    "source": "jmbenedetto/epc.excalidrawlib",
+    "preview": "jmbenedetto/epc.jpg",
+    "created": "2024-05-01",
+    "updated": "2024-05-01",
+    "version": 2,
+    "itemNames": [
+      "relation",
+      "direction",
+      "XOR",
+      "AND",
+      "OR",
+      "Process",
+      "Process (begin)",
+      "Process connector",
+      "Org unit",
+      "IT support system",
+      "Input/output",
+      "Role",
+      "Function",
+      "Event",
+      "All EPC"
+    ]
   }
 ]
