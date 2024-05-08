@@ -6277,5 +6277,44 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "System Design",
+    "description": "System Design",
+    "authors": [
+      {
+        "name": "Jagadish Beeram",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jagadish-beeram/system-design.excalidrawlib",
+    "preview": "jagadish-beeram/system-design.jpg",
+    "created": "2024-05-08",
+    "updated": "2024-05-08",
+    "version": 2,
+    "itemNames": [
+      "web server",
+      "clients",
+      "dns",
+      "cdn",
+      "iam",
+      "load balancer",
+      "api gateway",
+      "kafka",
+      "pipeline",
+      "mq",
+      "notifications",
+      "redis",
+      "s3",
+      "rdbms",
+      "column",
+      "document",
+      "elastisearch",
+      "graph",
+      "keyvalue",
+      "nosql"
+    ]
   }
 ]
