@@ -6277,5 +6277,29 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "PaloAltoNetworks NetSec Platform Architecture Design",
+    "description": "This is a icon store for Palo Alto NetSec platform architecture",
+    "authors": [
+      {
+        "name": "Raynor Li",
+        "github": "",
+        "twitter": "",
+        "url": "https://tt.raynorli.com"
+      }
+    ],
+    "source": "raynor-li/paloaltonetworks-netsec-platform-architecture-design.excalidrawlib",
+    "preview": "raynor-li/paloaltonetworks-netsec-platform-architecture-design.jpg",
+    "created": "2024-05-10",
+    "updated": "2024-05-10",
+    "version": 2,
+    "itemNames": [
+      "NGFW",
+      "GlobalProtect",
+      "WildFire",
+      "DataLossPrevention",
+      "VM-Series"
+    ]
   }
 ]
