@@ -6277,5 +6277,27 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "Data Flow Diagram (Demarco/Yourdon)",
+    "description": "Data Flow Diagram Demarco/Yourdon Formats",
+    "authors": [
+      {
+        "name": "dikdns",
+        "github": "https://github.com/dikdns",
+        "twitter": "",
+        "url": "https://github.com/dikdns"
+      }
+    ],
+    "source": "dikdns/data-flow-diagram-demarco-yourdon.excalidrawlib",
+    "preview": "dikdns/data-flow-diagram-demarco-yourdon.jpg",
+    "created": "2024-05-26",
+    "updated": "2024-05-26",
+    "version": 2,
+    "itemNames": [
+      "Process",
+      "Entity",
+      "Data Store"
+    ]
   }
 ]
