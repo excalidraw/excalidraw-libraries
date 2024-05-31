@@ -6277,5 +6277,28 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "Tunnet Schematic Standard",
+    "description": "A library of symbols used by the community-developed schematic standard.",
+    "authors": [
+      {
+        "name": "RD",
+        "github": "https://github.com/spy653",
+        "twitter": "",
+        "url": "https://github.com/spy653"
+      }
+    ],
+    "source": "spy653/tunnet-schematic-standard.excalidrawlib",
+    "preview": "spy653/tunnet-schematic-standard.jpg",
+    "created": "2024-05-31",
+    "updated": "2024-05-31",
+    "version": 2,
+    "itemNames": [
+      "Filter",
+      "Hub",
+      "Relay",
+      "Endpoint"
+    ]
   }
 ]
