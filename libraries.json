@@ -6277,5 +6277,39 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "Flow Chart Symbols",
+    "description": "Common symbols used in flow chart, including: Start / End, Process, Decision, Document, Multiple Document, Manaual Input, \r\nPredefined Process, Input / Output, And, Or, Database, Preparation / Initialization, \r\nDelay, Connector, Off-page Connector",
+    "authors": [
+      {
+        "name": "Fin",
+        "github": "https://github.com/finfin",
+        "twitter": "https://twitter.com/nifetuc",
+        "url": "https://www.facebook.com/thingsaboutwebdev/"
+      }
+    ],
+    "source": "finfin/flow-chart-symbols.excalidrawlib",
+    "preview": "finfin/flow-chart-symbols.jpg",
+    "created": "2024-06-08",
+    "updated": "2024-06-08",
+    "version": 2,
+    "itemNames": [
+      "Off-page Connector",
+      "Connector",
+      "Delay",
+      "Preparation / Initialization",
+      "Database",
+      "Or",
+      "And",
+      "Input / Output",
+      "Predefined Process",
+      "Manaual Input",
+      "Multiple Document",
+      "Document",
+      "Decision",
+      "Process",
+      "Start / End"
+    ]
   }
 ]
