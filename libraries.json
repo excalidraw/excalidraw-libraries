@@ -6277,5 +6277,33 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "Enterprise Network Shapes",
+    "description": "Clean, 2D shapes for enterprise network diagrams.",
+    "authors": [
+      {
+        "name": "vMambaaaa",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "vmambaaaa/enterprise-network-shapes.excalidrawlib",
+    "preview": "vmambaaaa/enterprise-network-shapes.jpg",
+    "created": "2024-06-24",
+    "updated": "2024-06-24",
+    "version": 2,
+    "itemNames": [
+      "Server",
+      "L2 Switch",
+      "Router (Blank)",
+      "Router",
+      "Firewall",
+      "L3 Switch",
+      "Load-balancer",
+      "Data Center Switch",
+      "Hub"
+    ]
   }
 ]
