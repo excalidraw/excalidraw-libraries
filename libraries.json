@@ -6277,5 +6277,34 @@
       "Presenting",
       "Making a point"
     ]
+  },
+  {
+    "name": "Confluent Platform Icons",
+    "description": "Confluent Platform for Kafka  components and ecosystem",
+    "authors": [
+      {
+        "name": "jpdias",
+        "github": "https://github.com/jpdias",
+        "twitter": "https://twitter.com/jpd1as",
+        "url": "https://jpdias.me"
+      }
+    ],
+    "source": "jpdias/confluent-platform-icons.excalidrawlib",
+    "preview": "jpdias/confluent-platform-icons.jpg",
+    "created": "2024-06-26",
+    "updated": "2024-06-26",
+    "version": 2,
+    "itemNames": [
+      "confluent streaming apps",
+      "confluent rest proxy",
+      "confluent environment",
+      "confluent kafka",
+      "confluent schema registry",
+      "confluent service account",
+      "confluent ksqldb",
+      "confluent acls",
+      "confluent control center",
+      "confluent connector"
+    ]
   }
 ]
