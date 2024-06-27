@@ -1,0 +1,169 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 409,
+          "versionNonce": 1638411685,
+          "index": "b2F",
+          "isDeleted": false,
+          "id": "gnj1J1D1S-JGgOJ8uUeOW",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1910.6948131540967,
+          "y": -683.1885428837518,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "width": 275.91430556413087,
+          "height": 108.35549335653047,
+          "seed": 643271499,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "2VV_2N40vcf5dW9CgSVCe"
+            }
+          ],
+          "updated": 1719191312894,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 445,
+          "versionNonce": 2098950533,
+          "index": "b2G",
+          "isDeleted": false,
+          "id": "2VV_2N40vcf5dW9CgSVCe",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1951.6320150694628,
+          "y": -651.5107962054865,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "width": 194.03990173339844,
+          "height": 45,
+          "seed": 956972389,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1719191317368,
+          "link": null,
+          "locked": false,
+          "fontSize": 36,
+          "fontFamily": 1,
+          "text": "Click house",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "gnj1J1D1S-JGgOJ8uUeOW",
+          "originalText": "Click house",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "KBYfAuRjSWAyOVOft0NrJ",
+      "created": 1719191325875,
+      "error": "Required",
+      "name": "node1"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 402,
+          "versionNonce": 1452084427,
+          "index": "b1S",
+          "isDeleted": false,
+          "id": "pUFBbee4WMcVK84TCSOqJ",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1851.4319789181604,
+          "y": -276.17944290942256,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "width": 275.91430556413087,
+          "height": 108.35549335653047,
+          "seed": 743178416,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "7M_Zy8HemKp1Vj6LFXIpl"
+            }
+          ],
+          "updated": 1717387583485,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 438,
+          "versionNonce": 797164933,
+          "index": "b1T",
+          "isDeleted": false,
+          "id": "7M_Zy8HemKp1Vj6LFXIpl",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1896.3481160752258,
+          "y": -242.7016962311573,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "width": 186.08203125,
+          "height": 41.4,
+          "seed": 1047030448,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1719191301203,
+          "link": null,
+          "locked": false,
+          "fontSize": 36,
+          "fontFamily": 2,
+          "text": "Click house",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "pUFBbee4WMcVK84TCSOqJ",
+          "originalText": "Click house",
+          "autoResize": true,
+          "lineHeight": 1.15
+        }
+      ],
+      "id": "QSzEgBRU5zXr_Tiu_BBly",
+      "created": 1719191302277,
+      "error": "Required",
+      "name": "node2"
+    }
+  ]
+}
