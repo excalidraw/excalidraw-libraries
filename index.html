@@ -151,7 +151,7 @@
       </header>
       <main>
         <div class="library" id="template">
-          <img data-src="{preview}" alt="{name}" class="lazy" />
+          <img data-src="{preview}" alt="{name}" class="lazy pointer" onclick="openPopup(this)" />
           <h2>{name} <a aria-label="Anchor" href="#{libraryId}">#</a></h2>
           <p class="authors">{authors}</p>
           <p class="downloads">
@@ -179,6 +179,14 @@
           </div>
         </div>
       </main>
+
+      <div id="popup" class="popup">
+        <div>
+          <img id="popupImg" src="" alt="">
+          <button id="closeButton" class="close-button">&times;</button>
+        </div>
+      </div>
+
       <footer>
         <div id="footer">
           © {currentYear} <a href="https://excalidraw.com">Excalidraw</a> •
