@@ -448,3 +448,29 @@ document.addEventListener("click", (event) => {
     }
   }
 });
+
+// Open popup of image
+function openPopup(image) {
+  var popup = document.getElementById('popup');
+  var popupImg = document.getElementById('popupImg');
+
+  popupImg.src = image.getAttribute('data-src');
+  popup.style.display = 'flex';
+}
+
+
+// Close popup of image
+document.addEventListener('DOMContentLoaded', function() {
+  var popup = document.getElementById('popup');
+  var closeButton = document.getElementById('closeButton');
+
+  closeButton.addEventListener('click', function() {
+    popup.style.display = 'none';
+  });
+
+  popup.addEventListener('click', function(e) {
+    if (e.target === popup) {
+      popup.style.display = 'none';
+    }
+  });
+});
