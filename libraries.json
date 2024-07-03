@@ -6297,5 +6297,31 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "Make Your Calendar Plus",
+    "description": "Quickly create basic calendars in Excalidraw!\r\n\r\nGrab the item with the day of the week your month starts on. Then delete the red text (it's only to make the thumbnails easier to identify) and delete any extra days (not all months have 31 days!). Edit to taste :)\r\n\r\nThis is a cleaned up version of the original \"Make your calendar\" by Surya Teja Venteddu with clearer thumbnails, aligned dates, and centered month labels.",
+    "authors": [
+      {
+        "name": "Joel Gillman",
+        "github": "https://github.com/jgillman",
+        "twitter": "",
+        "url": "https://www.joelgillman.com"
+      }
+    ],
+    "source": "jgillman/make-your-calendar-plus.excalidrawlib",
+    "preview": "jgillman/make-your-calendar-plus.jpg",
+    "created": "2024-07-03",
+    "updated": "2024-07-03",
+    "version": 2,
+    "itemNames": [
+      "Sunday Month",
+      "Monday Month",
+      "Tuesday Month",
+      "Wednesday Month",
+      "Thursday Month",
+      "Friday Month",
+      "Saturday Month"
+    ]
   }
 ]
