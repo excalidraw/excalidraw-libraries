@@ -6297,5 +6297,36 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "Flowcore IDD Diagram",
+    "description": "Flowcore Intent Driven Development Icons",
+    "authors": [
+      {
+        "name": "jbiskur",
+        "github": "https://github.com/jbiskur",
+        "twitter": "https://twitter.com/@jbiskur",
+        "url": "https://www.flowcore.com"
+      }
+    ],
+    "source": "jbiskur/flowcore-idd-diagram.excalidrawlib",
+    "preview": "jbiskur/flowcore-idd-diagram.jpg",
+    "created": "2024-07-05",
+    "updated": "2024-07-05",
+    "version": 2,
+    "itemNames": [
+      "Inheritance",
+      "Can",
+      "Requires",
+      "Could Have",
+      "Must Have",
+      "Should Have",
+      "Would Like to Have",
+      "Actor",
+      "Diagram Legend",
+      "Note",
+      "Note Arrow",
+      "Association"
+    ]
   }
 ]
