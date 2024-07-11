@@ -6297,5 +6297,43 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "UML deployment diagram basics",
+    "description": "This library contains the most basic elements of the UML deployment diagram.",
+    "authors": [
+      {
+        "name": "Gergő Balogh",
+        "github": "https://github.com/geryxyz",
+        "twitter": "",
+        "url": "https://github.com/geryxyz"
+      }
+    ],
+    "source": "geryxyz/uml-deployment-diagram-basics.excalidrawlib",
+    "preview": "geryxyz/uml-deployment-diagram-basics.jpg",
+    "created": "2024-07-11",
+    "updated": "2024-07-11",
+    "version": 2,
+    "itemNames": [
+      "deploy spec",
+      "communication",
+      "comment",
+      "target",
+      "manifest",
+      "deploy",
+      "schema",
+      "schema icon",
+      "component icon",
+      "artifact icon",
+      "tall node",
+      "wide node",
+      "square node",
+      "component",
+      "artifact",
+      "database",
+      "protocol",
+      "execution environment",
+      "device"
+    ]
   }
 ]
