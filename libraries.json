@@ -6297,5 +6297,28 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "Database relations",
+    "description": "Just database relations, nothing else",
+    "authors": [
+      {
+        "name": "Ismail",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ismail/database-relations.excalidrawlib",
+    "preview": "ismail/database-relations.jpg",
+    "created": "2024-07-16",
+    "updated": "2024-07-16",
+    "version": 2,
+    "itemNames": [
+      "optional many to many relationship",
+      "optional zero or many relationships",
+      "mandatory one or many relationships",
+      "mandatory one to one relationship"
+    ]
   }
 ]
