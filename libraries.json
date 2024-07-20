@@ -6297,5 +6297,31 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "system design library",
+    "description": "system design library",
+    "authors": [
+      {
+        "name": "Amit Srivastava",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "amit-srivastava/system-design-library.excalidrawlib",
+    "preview": "amit-srivastava/system-design-library.jpg",
+    "created": "2024-07-20",
+    "updated": "2024-07-20",
+    "version": 2,
+    "itemNames": [
+      "MediaService",
+      "NotificationService",
+      "APIGateway",
+      "Analytics",
+      "Database",
+      "SearchService",
+      "LBWithDbNRepicas"
+    ]
   }
 ]
