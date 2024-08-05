@@ -6297,5 +6297,25 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "Dummy Library 01",
+    "description": "This is for testing purpose only",
+    "authors": [
+      {
+        "name": "TEST",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "test/dummy-library-01.excalidrawlib",
+    "preview": "test/dummy-library-01.jpg",
+    "created": "2024-08-05",
+    "updated": "2024-08-05",
+    "version": 2,
+    "itemNames": [
+      "sticky-green"
+    ]
   }
 ]
