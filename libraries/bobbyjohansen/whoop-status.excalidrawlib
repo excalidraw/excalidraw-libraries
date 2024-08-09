@@ -1,0 +1,91 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://app.excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "cM2Fhqm3sEiQVc99S1wzk",
+          "type": "rectangle",
+          "x": 435.25,
+          "y": 127.6328125,
+          "width": 124.76171875,
+          "height": 38.4609375,
+          "angle": 0,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "V9qG5SMok1ZSrK5rHNNKZ"
+          ],
+          "frameId": null,
+          "index": "a2",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 2016609626,
+          "version": 32,
+          "versionNonce": 89338182,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "YbEkURNwqCdIXM18_xtTf"
+            }
+          ],
+          "updated": 1723220978933,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "YbEkURNwqCdIXM18_xtTf",
+          "type": "text",
+          "x": 465.9208679199219,
+          "y": 134.36328125,
+          "width": 63.41998291015625,
+          "height": 25,
+          "angle": 0,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "V9qG5SMok1ZSrK5rHNNKZ"
+          ],
+          "frameId": null,
+          "index": "a3",
+          "roundness": null,
+          "seed": 305414298,
+          "version": 7,
+          "versionNonce": 296218138,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1723220978933,
+          "link": null,
+          "locked": false,
+          "text": "TODO",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "cM2Fhqm3sEiQVc99S1wzk",
+          "originalText": "TODO",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "4hM3xyO8jw5UVGspT7mWV",
+      "created": 1723220986019,
+      "name": "Status TODO"
+    }
+  ]
+}
