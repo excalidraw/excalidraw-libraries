@@ -6297,5 +6297,59 @@
     "itemNames": [
       "All tokens"
     ]
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Icons",
+    "description": "A library of the common used icons for Oracle Cloud Infrastructure architecture draws like Virtual Machine, Object Storage, Autonomous Database, Route Table etc.\r\n",
+    "authors": [
+      {
+        "name": "Martin Berger",
+        "github": "https://github.com/martinberger-ch",
+        "twitter": "https://twitter.com/martinberger_ch",
+        "url": "https://www.martinberger.com"
+      }
+    ],
+    "source": "martinberger-ch/oracle-cloud-infrastructure-icons.excalidrawlib",
+    "preview": "martinberger-ch/oracle-cloud-infrastructure-icons.jpg",
+    "created": "2024-08-16",
+    "updated": "2024-08-16",
+    "version": 2,
+    "itemNames": [
+      "Alarms",
+      "Compartments",
+      "VCN Flow Logs",
+      "Events",
+      "Monitoring",
+      "Auditing",
+      "Encryption",
+      "Virtual Machine",
+      "Key Management",
+      "Key Vault",
+      "Network Security Group",
+      "Customer Premises Equipment",
+      "Load Balancer",
+      "Local Peering Gateway",
+      "Service Gateway",
+      "NAT Gateway",
+      "Internet Gateway",
+      "Dynamic Routing Gateway",
+      "Route Table and Security List",
+      "Virtual Cloud Network",
+      "Route Table",
+      "Security List",
+      "Bastion",
+      "Cloud Guard",
+      "Vault",
+      "Maximum Security Zone",
+      "Web Application Firewall",
+      "Vulnerability Scanning",
+      "Object Storage",
+      "File Storage",
+      "Block Storage",
+      "On premises Data Center",
+      "Oracle Autnomous Database",
+      "Oracle Base Database",
+      "Database"
+    ]
   }
 ]
