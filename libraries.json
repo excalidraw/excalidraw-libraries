@@ -6351,5 +6351,25 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "Harmonisation JDE-MES",
+    "description": "This library contains diagrams from the Harmonisation JDE-MES project",
+    "authors": [
+      {
+        "name": "Nico",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "nico/harmonisation-jde-mes.excalidrawlib",
+    "preview": "nico/harmonisation-jde-mes.jpg",
+    "created": "2024-08-20",
+    "updated": "2024-08-20",
+    "version": 2,
+    "itemNames": [
+      "TechnicalMessage"
+    ]
   }
 ]

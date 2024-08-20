@@ -1,0 +1,91 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 717,
+          "versionNonce": 1435985771,
+          "index": "aG",
+          "isDeleted": false,
+          "id": "nBUIyeYVoj5UiX9Zno9HG",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 669,
+          "y": 264,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 226,
+          "height": 110,
+          "seed": 2080554981,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "l8l6YeOfs93AYBXHzGl8K"
+            },
+            {
+              "id": "BHgcvwCzJXI8qhQ56mYff",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1724168174639,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 393,
+          "versionNonce": 682443275,
+          "index": "aH",
+          "isDeleted": false,
+          "id": "l8l6YeOfs93AYBXHzGl8K",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 674,
+          "y": 269,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 138.35989379882812,
+          "height": 100,
+          "seed": 1204517701,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1724168174639,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 5,
+          "text": "IMessage\n\nHeader Header\nTbody? Body",
+          "textAlign": "left",
+          "verticalAlign": "middle",
+          "containerId": "nBUIyeYVoj5UiX9Zno9HG",
+          "originalText": "IMessage\n\nHeader Header\nTbody? Body",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "j_J_rB71MdDNsfT_l8qJ4",
+      "created": 1724168336871,
+      "name": "TechnicalMessage"
+    }
+  ]
+}
