@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "http-server .",
-    "build": "yarn build:key && yarn build:stats && yarn format",
+    "build": "yarn build:key && yarn format",
     "build:stats": "python3 stats.py",
     "build:key": "python3 key.py",
     "format": "yarn format:prettier && yarn format:python",
