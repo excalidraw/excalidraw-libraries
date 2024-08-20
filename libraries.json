@@ -6351,5 +6351,35 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "system designs",
+    "description": "Common used icons",
+    "authors": [
+      {
+        "name": "Gaurav",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gaurav/system-designs.excalidrawlib",
+    "preview": "gaurav/system-designs.jpg",
+    "created": "2024-08-20",
+    "updated": "2024-08-20",
+    "version": 2,
+    "itemNames": [
+      "User",
+      "Cloud",
+      "Database",
+      "Server",
+      "Device",
+      "Load Balancer",
+      "Database",
+      "API Gateway",
+      "DocumentDb",
+      "DynamoDB",
+      "S3"
+    ]
   }
 ]
