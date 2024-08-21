@@ -6351,5 +6351,31 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "HTTP Visual Toolkit",
+    "description": "The HTTP Visual Toolkit is a collection of graphical resources designed to visually represent HTTP request operations such as GET, POST, PUT, DELETE, and others. Developed for use in Excalidraw, this library makes it easier to create API diagrams and flows, enhancing communication and documentation for developers and stakeholders.",
+    "authors": [
+      {
+        "name": "Godri",
+        "github": "https://github.com/https://github.com/godrix",
+        "twitter": "",
+        "url": "https://github.com/https://github.com/godrix"
+      }
+    ],
+    "source": "https-github-com-godrix/http-visual-toolkit.excalidrawlib",
+    "preview": "https-github-com-godrix/http-visual-toolkit.jpg",
+    "created": "2024-08-21",
+    "updated": "2024-08-21",
+    "version": 2,
+    "itemNames": [
+      "OPTIONS Request",
+      "Head Request",
+      "PUT Request",
+      "PATCH Request",
+      "DELET Request",
+      "POST Request",
+      "GET Request"
+    ]
   }
 ]
