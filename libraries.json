@@ -6351,5 +6351,37 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "Status icons",
+    "description": "Useful icons that allow you to indicate the status of a process",
+    "authors": [
+      {
+        "name": "Dmitry Sh",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dmitry-sh/status-icons.excalidrawlib",
+    "preview": "dmitry-sh/status-icons.jpg",
+    "created": "2024-08-24",
+    "updated": "2024-08-24",
+    "version": 2,
+    "itemNames": [
+      "info",
+      "question",
+      "important",
+      "plus",
+      "minus",
+      "fill_on_hold",
+      "dash_on_hold",
+      "on_hold",
+      "ended",
+      "in_progress",
+      "on_hold",
+      "completed",
+      "rejected"
+    ]
   }
 ]
