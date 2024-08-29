@@ -6351,5 +6351,27 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "openBIM Collections",
+    "description": "Set of openBIM logo for open standards of buildingSMART.",
+    "authors": [
+      {
+        "name": "Yousheng",
+        "github": "https://github.com/youshengCode",
+        "twitter": "",
+        "url": "https://yousheng.io/"
+      }
+    ],
+    "source": "youshengcode/openbim-collections.excalidrawlib",
+    "preview": "youshengcode/openbim-collections.jpg",
+    "created": "2024-08-29",
+    "updated": "2024-08-29",
+    "version": 2,
+    "itemNames": [
+      "IDS",
+      "BCF",
+      "IFC"
+    ]
   }
 ]
