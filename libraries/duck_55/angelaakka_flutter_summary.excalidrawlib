@@ -1,0 +1,52 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "text",
+          "version": 7,
+          "versionNonce": 736104572,
+          "index": "b5v",
+          "isDeleted": false,
+          "id": "0wNmxGzAo54Dz9U7LywXO",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 580.894067937295,
+          "y": 8324.38096095227,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "transparent",
+          "width": 887.4394493103027,
+          "height": 700,
+          "seed": 1675063292,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1724927004658,
+          "link": null,
+          "locked": false,
+          "fontSize": 20,
+          "fontFamily": 5,
+          "text": "The Complete 2021 Flutter Development Bootcamp with Dart\n0. WHAT IS flutter\n1. MAC Setup(Installations)\n    a. android studio\n    b. flutter\n    c. android emulator\n    d. xcode\n    e. ios simulator\n2. \"I AM RICH\" FLUTTER App from scratch\n3. Running this app on my physical device\n4. \"I AM POOR\" FLUTTER App practice\n5. Layouts (Rows and columns Widgets)\n6. MICARD Project - customizable widgets(circle avatar, Card, ListTile)\n                         - along with custom fonts and icons(material-UI)\n7. Dicee (Building app with states)\n    -Expanded widget for flexible layout\n    - click on the child and press option+enter or in flutter outline you can edit(2 ways)\n     as per your intentions\n    - functionality of the app now \n        - FlatButton is deprecated so TextButton\n        -(you can also insert images instead of text-- here dice)\n    - anonymous functions: () {\n                                    },\n    - anything should be inside build for it get updated on our simulator for \n        hot reload to work.\n    - Dart variables and datatypes (Dart is statically typed language)\n        -if you use var for variables names it means it is a dynamic variable now\n       ",
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "The Complete 2021 Flutter Development Bootcamp with Dart\n0. WHAT IS flutter\n1. MAC Setup(Installations)\n    a. android studio\n    b. flutter\n    c. android emulator\n    d. xcode\n    e. ios simulator\n2. \"I AM RICH\" FLUTTER App from scratch\n3. Running this app on my physical device\n4. \"I AM POOR\" FLUTTER App practice\n5. Layouts (Rows and columns Widgets)\n6. MICARD Project - customizable widgets(circle avatar, Card, ListTile)\n                         - along with custom fonts and icons(material-UI)\n7. Dicee (Building app with states)\n    -Expanded widget for flexible layout\n    - click on the child and press option+enter or in flutter outline you can edit(2 ways)\n     as per your intentions\n    - functionality of the app now \n        - FlatButton is deprecated so TextButton\n        -(you can also insert images instead of text-- here dice)\n    - anonymous functions: () {\n                                    },\n    - anything should be inside build for it get updated on our simulator for \n        hot reload to work.\n    - Dart variables and datatypes (Dart is statically typed language)\n        -if you use var for variables names it means it is a dynamic variable now\n       ",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "BBb7iMucc-BFvgf15Usth",
+      "created": 1724927008487,
+      "name": "Flutter_Angela_Akka_summary"
+    }
+  ]
+}
