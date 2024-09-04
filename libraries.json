@@ -6351,5 +6351,54 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "Knit Chart",
+    "description": "Common stitches used in knitting charts, including basic single stitches, increases, decreases, and cable stitches",
+    "authors": [
+      {
+        "name": "neon_fuzz",
+        "github": "https://github.com/neon_fuzz",
+        "twitter": "",
+        "url": "https://github.com/neon_fuzz"
+      }
+    ],
+    "source": "neon_fuzz/knit-chart.excalidrawlib",
+    "preview": "neon_fuzz/knit-chart.jpg",
+    "created": "2024-09-04",
+    "updated": "2024-09-04",
+    "version": 2,
+    "itemNames": [
+      "cable 2-2 left",
+      "cable 2-1 left",
+      "cable 2-1 right",
+      "cable 1-2 right",
+      "cable 1-2 left",
+      "cable 1-1 right",
+      "cable 1-1 left",
+      "inc 5",
+      "P, K, P in 1",
+      "inc 3",
+      "K, YO, K in 1",
+      "Sl3, K2tog, P3SSO",
+      "Sl*3, K1, P3SSO",
+      "K4tog",
+      "Sl2, K1, P2SSO",
+      "Sl1, K2tog, PSSO",
+      "K3tog",
+      "SSP",
+      "P2tog",
+      "SSK",
+      "K2tog",
+      "no stitch",
+      "Ktbl right",
+      "Ktbl left",
+      "Ptbl",
+      "Ktbl",
+      "YO",
+      "P",
+      "K",
+      "blank"
+    ]
   }
 ]
