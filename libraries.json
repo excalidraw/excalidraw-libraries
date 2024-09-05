@@ -6351,5 +6351,32 @@
       "Oracle Base Database",
       "Database"
     ]
+  },
+  {
+    "name": "Teco",
+    "description": "diagramas",
+    "authors": [
+      {
+        "name": "Jorge",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jorge/teco.excalidrawlib",
+    "preview": "jorge/teco.jpg",
+    "created": "2024-09-05",
+    "updated": "2024-09-05",
+    "version": 2,
+    "itemNames": [
+      "Lambda",
+      "DynamoDB",
+      "EventBridge",
+      "SQS",
+      "SNS",
+      "aml",
+      "Dashboard",
+      "Logs"
+    ]
   }
 ]
