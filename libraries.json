@@ -6437,5 +6437,30 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "AI network infrastructure",
+    "description": "o draw a leaf-spine architecture diagram for large model training network topology",
+    "authors": [
+      {
+        "name": "BearGrass",
+        "github": "https://github.com/BearGrass",
+        "twitter": "",
+        "url": "https://BearGrass.github.io/"
+      }
+    ],
+    "source": "beargrass/ai-network-infrastructure.excalidrawlib",
+    "preview": "beargrass/ai-network-infrastructure.jpg",
+    "created": "2024-09-13",
+    "updated": "2024-09-13",
+    "version": 2,
+    "itemNames": [
+      "nic",
+      "spine",
+      "leaf with 128 ports",
+      "leaf",
+      "GPU server with 8 nics",
+      "GPU server with 4 nics"
+    ]
   }
 ]
