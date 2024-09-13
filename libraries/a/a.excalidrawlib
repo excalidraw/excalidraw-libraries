@@ -1,0 +1,112 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "arrow",
+          "version": 306,
+          "versionNonce": 398828944,
+          "index": "aR",
+          "isDeleted": false,
+          "id": "us8Uph6GRR0oOyKubcYir",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1136.07421875,
+          "y": 427.10546875,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 6.1953125,
+          "height": 180.40234375,
+          "seed": 1480665488,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "egruLzp8hlKgZ2mIJD5Ap"
+            }
+          ],
+          "updated": 1726233726180,
+          "link": null,
+          "locked": false,
+          "startBinding": {
+            "elementId": "kNPSG1RbEEoGC_heqXzmT",
+            "focus": 0.14679244235522293,
+            "gap": 8.9375,
+            "fixedPoint": null
+          },
+          "endBinding": null,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": "arrow",
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.98046875,
+              87.796875
+            ],
+            [
+              6.1953125,
+              180.40234375
+            ]
+          ],
+          "elbowed": false
+        },
+        {
+          "type": "text",
+          "version": 28,
+          "versionNonce": 1700674928,
+          "index": "aS",
+          "isDeleted": false,
+          "id": "egruLzp8hlKgZ2mIJD5Ap",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1018.2467821538448,
+          "y": 509.58984375,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 104.94393569231033,
+          "height": 20,
+          "seed": 1652409712,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1726233700877,
+          "link": null,
+          "locked": false,
+          "fontSize": 16,
+          "fontFamily": 5,
+          "text": "generate SQL",
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "us8Uph6GRR0oOyKubcYir",
+          "originalText": "generate SQL",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "WHeKNUlra6vihCvsbzCJ4",
+      "created": 1726233857940,
+      "name": "a"
+    }
+  ]
+}
