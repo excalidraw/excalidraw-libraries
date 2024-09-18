@@ -6437,5 +6437,38 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "Nextflow - Seqera - nf-core",
+    "description": "Logos for Seqera and it's products (Nextflow, MultiQC, Wave, Fusion).\r\nLogo for nf-core, and components for drawing diagrams and metro maps.",
+    "authors": [
+      {
+        "name": "Phil Ewels",
+        "github": "https://github.com/ewels",
+        "twitter": "https://twitter.com/tallphil",
+        "url": "https://nf-co.re"
+      }
+    ],
+    "source": "ewels/nextflow-seqera-nf-core.excalidrawlib",
+    "preview": "ewels/nextflow-seqera-nf-core.jpg",
+    "created": "2024-09-18",
+    "updated": "2024-09-18",
+    "version": 2,
+    "itemNames": [
+      "Stations - 3",
+      "Stations - 2",
+      "VCF - multiple",
+      "BAM - multiple",
+      "FastQ - multiple",
+      "VCF file",
+      "BAM file",
+      "FastQ file",
+      "nf-core logo",
+      "Fusion logo",
+      "Wave logo",
+      "Seqera logo",
+      "MultiQC logo",
+      "Nextflow logo"
+    ]
   }
 ]
