@@ -6437,5 +6437,28 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "UMLidraw",
+    "description": "A customizable UML diagram template for Excalidraw.",
+    "authors": [
+      {
+        "name": "Alex Tanton",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "alex-tanton/umlidraw.excalidrawlib",
+    "preview": "alex-tanton/umlidraw.jpg",
+    "created": "2024-09-18",
+    "updated": "2024-09-18",
+    "version": 2,
+    "itemNames": [
+      "Class",
+      "Class with State",
+      "Interface",
+      "Package"
+    ]
   }
 ]
