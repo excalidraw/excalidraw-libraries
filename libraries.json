@@ -5276,6 +5276,53 @@
     ]
   },
   {
+    "name": "Piping and instrumentation diagram P&ID",
+    "description": "Basic symbols to quickly sketch a piping and instrumentation diagram.\r\nUsed in chemical process industry",
+    "authors": [
+      {
+        "name": "Kbentekik",
+        "github": "https://github.com/Kbentekik",
+        "twitter": "",
+        "url": "https://github.com/Kbentekik"
+      }
+    ],
+    "source": "kbentekik/piping-and-instrumentation-diagram-p-id.excalidrawlib",
+    "preview": "kbentekik/piping-and-instrumentation-diagram-p-id.jpg",
+    "created": "2024-09-18",
+    "updated": "2024-09-18",
+    "version": 2,
+    "itemNames": [
+      "Butterfly valve",
+      "Ball valve",
+      "Actuated valve",
+      "Regulating valve",
+      "Check Valve",
+      "Overpressure Valve",
+      "Burst disk",
+      "Reducer",
+      "Y-filter",
+      "Compensator",
+      "Coupling",
+      "Sight glass",
+      "Steam trap",
+      "Flame arrester",
+      "Blind plate",
+      "Orifice",
+      "Pneumatic pump",
+      "Motor driven pump",
+      "Lighting",
+      "Pressure indicator transmitter",
+      "Temperature transmitter",
+      "Level indicator transmitter",
+      "Insulation",
+      "Insulation and Tracing",
+      "Storage tank",
+      "Reactor",
+      "Cubitainer",
+      "Liquid bulk Cargo"
+    ]
+  },
+  {
     "name": "ELK Stack",
     "description": "The icons to handle ELK technologies.",
     "authors": [
