@@ -6437,5 +6437,26 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "bstream flow",
+    "description": "components to design a flow ",
+    "authors": [
+      {
+        "name": "amira",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "amira/bstream-flow.excalidrawlib",
+    "preview": "amira/bstream-flow.jpg",
+    "created": "2024-09-18",
+    "updated": "2024-09-18",
+    "version": 2,
+    "itemNames": [
+      "eth node",
+      "arb node"
+    ]
   }
 ]
