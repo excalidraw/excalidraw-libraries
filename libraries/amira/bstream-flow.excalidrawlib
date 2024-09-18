@@ -1,0 +1,165 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 109,
+          "versionNonce": 461870267,
+          "index": "b0T",
+          "isDeleted": false,
+          "id": "KBUjwuvNb98zgav7IzrmE",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 562.2857142857142,
+          "y": -27.142857142857224,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 302.8571428571429,
+          "height": 85.71428571428567,
+          "seed": 764851771,
+          "groupIds": [
+            "K99cEie-1PK5YCL1h7XKo"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "boundElements": [],
+          "updated": 1726659243044,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "text",
+          "version": 37,
+          "versionNonce": 139095573,
+          "index": "b0U",
+          "isDeleted": false,
+          "id": "D75DhTKt-Q32CFBU66NDz",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 678,
+          "y": -3.657142857142958,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 59.39996337890625,
+          "height": 45,
+          "seed": 2004498139,
+          "groupIds": [
+            "K99cEie-1PK5YCL1h7XKo"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "boundElements": [],
+          "updated": 1726659246903,
+          "link": null,
+          "locked": false,
+          "fontSize": 36,
+          "fontFamily": 8,
+          "text": "ARB",
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "ARB",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "Vd4m-O7a6Oy0QlWj1MwF-",
+      "created": 1726659253040,
+      "name": "eth node"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "WvRTxs8fOm8CrksvkAhiN",
+          "type": "rectangle",
+          "x": 542.2857142857142,
+          "y": -365.7142857142858,
+          "width": 302.8571428571429,
+          "height": 85.71428571428567,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "P8cd1UCyC1s9t7W6wDIt6"
+          ],
+          "frameId": null,
+          "index": "b0R",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 862134619,
+          "version": 89,
+          "versionNonce": 2027869397,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1726659233150,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "W9mPv9aGfzgZthYgSWVqY",
+          "type": "text",
+          "x": 658,
+          "y": -342.2285714285715,
+          "width": 59.5999755859375,
+          "height": 45,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "P8cd1UCyC1s9t7W6wDIt6"
+          ],
+          "frameId": null,
+          "index": "b0S",
+          "roundness": null,
+          "seed": 1202341051,
+          "version": 14,
+          "versionNonce": 684019451,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1726659233150,
+          "link": null,
+          "locked": false,
+          "text": "ETH",
+          "fontSize": 36,
+          "fontFamily": 8,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "ETH",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "zHFQhAoTfBC1Le-CHpFXQ",
+      "created": 1726659239107,
+      "name": "arb node"
+    }
+  ]
+}
