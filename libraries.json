@@ -6484,5 +6484,29 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "Threat Modelling",
+    "description": "Library for drawing threat models diagrams to help you to identify threat for your systems.",
+    "authors": [
+      {
+        "name": "afukaya",
+        "github": "https://github.com/afukaya",
+        "twitter": "",
+        "url": "https://github.com/afukaya"
+      }
+    ],
+    "source": "afukaya/threat-modelling.excalidrawlib",
+    "preview": "afukaya/threat-modelling.jpg",
+    "created": "2024-09-19",
+    "updated": "2024-09-19",
+    "version": 2,
+    "itemNames": [
+      "Trust Boundary",
+      "Data Flow",
+      "Data Store",
+      "External Actor",
+      "Process"
+    ]
   }
 ]
