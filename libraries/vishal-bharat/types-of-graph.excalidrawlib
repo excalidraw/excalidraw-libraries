@@ -1,0 +1,52 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "CYmZPretHBB6w65OYnQKh",
+      "status": "published",
+      "elements": [
+        {
+          "id": "1CbId1fzD4FGS6kIh6sAO",
+          "type": "text",
+          "x": -1413.4421055418716,
+          "y": 6279.840690656523,
+          "width": 695.4196090698242,
+          "height": 2550,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "aN",
+          "roundness": null,
+          "seed": 19441893,
+          "version": 1578,
+          "versionNonce": 1045470533,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1726902830751,
+          "link": null,
+          "locked": false,
+          "text": "                          Types of Graphs\n\n1. Directed Graphs\n        \n\n\n\n\n\n\n2. Undirected(Bi-Directional) Graphs\n  \n              \n\n\n\n\n\n\n3. Wieghted Graphs\n\n\n\n\n\n\n\n\n\n4. Unwieghted Graphs\n\n\n\n\n\n\n\n\n5. Complete Graph\n- Every node is connected to every other node of graph.\n\n\n\n\n\n\n\n\n\n6. Disconnected Graph\n- Graph which has more than one component\n\n\n\n\n\n\n\n\n\n7. Acyclic Graph\n\n\n\n\n\n\n\n\n8. Cyclic Graph \n\n\n\n\n\n\n\n\n\n9. Euler Graph\n- Degree of node is number of edges associated with it.\n- Euler Graph is graph in which all nodes have even degrees\n\n\n\n\n\n\n\n\n10. Hamiltonian Graph\n- A Hamiltonian graph is a graph that has a closed path, or cycle,\n  that visits each vertex exactly once and ends at the same vertex \n  it started at. This closed path is also known as a Hamiltonian cycle\n                                 \nA -> 2                        src ->\nB -> 1\nC -> 1\nD -> 1\n\n\n",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "                          Types of Graphs\n\n1. Directed Graphs\n        \n\n\n\n\n\n\n2. Undirected(Bi-Directional) Graphs\n  \n              \n\n\n\n\n\n\n3. Wieghted Graphs\n\n\n\n\n\n\n\n\n\n4. Unwieghted Graphs\n\n\n\n\n\n\n\n\n5. Complete Graph\n- Every node is connected to every other node of graph.\n\n\n\n\n\n\n\n\n\n6. Disconnected Graph\n- Graph which has more than one component\n\n\n\n\n\n\n\n\n\n7. Acyclic Graph\n\n\n\n\n\n\n\n\n8. Cyclic Graph \n\n\n\n\n\n\n\n\n\n9. Euler Graph\n- Degree of node is number of edges associated with it.\n- Euler Graph is graph in which all nodes have even degrees\n\n\n\n\n\n\n\n\n10. Hamiltonian Graph\n- A Hamiltonian graph is a graph that has a closed path, or cycle,\n  that visits each vertex exactly once and ends at the same vertex \n  it started at. This closed path is also known as a Hamiltonian cycle\n                                 \nA -> 2                        src ->\nB -> 1\nC -> 1\nD -> 1\n\n\n",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1726902888054,
+      "name": "Graphs"
+    }
+  ]
+}
