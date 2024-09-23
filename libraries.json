@@ -6484,5 +6484,32 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "Basicos DBD",
+    "description": "Elementos de uso frecuente para el diseño conceptual",
+    "authors": [
+      {
+        "name": "Santi",
+        "github": "https://github.com/santi440",
+        "twitter": "",
+        "url": "https://github.com/santi440"
+      }
+    ],
+    "source": "santi440/basicos-dbd.excalidrawlib",
+    "preview": "santi440/basicos-dbd.jpg",
+    "created": "2024-09-23",
+    "updated": "2024-09-23",
+    "version": 2,
+    "itemNames": [
+      "Jerarquia",
+      "Identificador",
+      "atributo derecha",
+      "atributo izquierda",
+      "Atributo abajo",
+      "Atributo compuesto",
+      "Entidad",
+      "Atributo arriba"
+    ]
   }
 ]
