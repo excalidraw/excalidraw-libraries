@@ -6484,5 +6484,25 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "CRC Card",
+    "description": "A Class-Responsibility-Collaboration (CRC) card is a structured tool used in object-oriented software design. \r\nIt captures essential information about a class, including its name, responsibilities, and collaborations with other classes. \r\nCRC cards facilitate collaborative discussions among team members and help in refining the design of software systems. \r\nOverall, they serve as valuable aids in the iterative process of designing and refining software solutions.",
+    "authors": [
+      {
+        "name": "Josep Lluís Ribas",
+        "github": "https://github.com/josepribas",
+        "twitter": "",
+        "url": "https://github.com/josepribas"
+      }
+    ],
+    "source": "josepribas/crc-card.excalidrawlib",
+    "preview": "josepribas/crc-card.jpg",
+    "created": "2024-09-24",
+    "updated": "2024-09-24",
+    "version": 2,
+    "itemNames": [
+      "CRC Card"
+    ]
   }
 ]
