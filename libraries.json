@@ -6484,5 +6484,32 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "EPK Standard",
+    "description": "Basic Elemente Für EPK",
+    "authors": [
+      {
+        "name": "Python.72",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "python-72/epk-standard.excalidrawlib",
+    "preview": "python-72/epk-standard.jpg",
+    "created": "2024-09-25",
+    "updated": "2024-09-25",
+    "version": 2,
+    "itemNames": [
+      "Prozess",
+      "Ressourcen",
+      "UND",
+      "ODER",
+      "XOR",
+      "Ereigniss",
+      "Organisation",
+      "Finktion"
+    ]
   }
 ]
