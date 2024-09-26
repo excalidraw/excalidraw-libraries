@@ -6484,5 +6484,33 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "SD",
+    "description": "SD",
+    "authors": [
+      {
+        "name": "MNS",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "mns/sd.excalidrawlib",
+    "preview": "mns/sd.jpg",
+    "created": "2024-09-26",
+    "updated": "2024-09-26",
+    "version": 2,
+    "itemNames": [
+      "hexa",
+      "database",
+      "cache",
+      "queue, topic",
+      "On premises Data Center",
+      "Database",
+      "Topic Simple",
+      "Store Type InMemory",
+      "API (alt1)"
+    ]
   }
 ]
