@@ -6518,5 +6518,37 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "UML Sequence Diagram Symbols",
+    "description": "A library of prebuilt symbols for UML Sequence Diagrams including:\r\n\t•\tObject Lifelines (1-6)\r\n\t•\tActivation box\r\n\t•\tMessages (sync, async, and return)\r\n\t•\tSelf-messages\r\n\t•\tAlternative / Parallel Fragments\r\n\t•\tLoop / Optional / Reference / Break fragments\r\n    •   Termination Symbol",
+    "authors": [
+      {
+        "name": "Daniel Jankowski",
+        "github": "https://github.com/djankies",
+        "twitter": "",
+        "url": "https://github.com/djankies"
+      }
+    ],
+    "source": "djankies/uml-sequence-diagram-symbols.excalidrawlib",
+    "preview": "djankies/uml-sequence-diagram-symbols.jpg",
+    "created": "2024-10-06",
+    "updated": "2024-10-06",
+    "version": 2,
+    "itemNames": [
+      "Opt/Loop/Ref/Break",
+      "Activation Box",
+      "Termination",
+      "Self Message",
+      "Response Message",
+      "Async Message",
+      "Sync Message",
+      "Object Lifelines (6)",
+      "Object Lifelines (5)",
+      "Object Lifelines (4)",
+      "Object Lifelines (3)",
+      "Object Lifeline (1)",
+      "Alt/ Par"
+    ]
   }
 ]
