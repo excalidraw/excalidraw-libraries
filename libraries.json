@@ -6518,5 +6518,28 @@
       "Legend Portrait",
       "KSTD Watermark"
     ]
+  },
+  {
+    "name": "ADAPT",
+    "description": "Elements for Application Design for Analytical Processing Technologies (ADAPT) models.",
+    "authors": [
+      {
+        "name": "Silas Meyer",
+        "github": "https://github.com/silas229",
+        "twitter": "",
+        "url": "https://silas229.me"
+      }
+    ],
+    "source": "silas229/adapt.excalidrawlib",
+    "preview": "silas229/adapt.jpg",
+    "created": "2024-10-15",
+    "updated": "2024-10-15",
+    "version": 2,
+    "itemNames": [
+      "Hierarchy Level",
+      "Dimension",
+      "Hierarchy",
+      "Cube"
+    ]
   }
 ]
