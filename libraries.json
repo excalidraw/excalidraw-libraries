@@ -6551,5 +6551,32 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Threat Modeling - PT-BR",
+    "description": "Threat Modeling componentes do Dataflow.",
+    "authors": [
+      {
+        "name": "fguisso",
+        "github": "https://github.com/fguisso",
+        "twitter": "",
+        "url": "https://guisso.dev"
+      }
+    ],
+    "source": "fguisso/threat-modeling-pt-br.excalidrawlib",
+    "preview": "fguisso/threat-modeling-pt-br.jpg",
+    "created": "2024-10-24",
+    "updated": "2024-10-24",
+    "version": 2,
+    "itemNames": [
+      "Threat Modeling Exemplo",
+      "Perimetro Seguro",
+      "Usuário",
+      "BD",
+      "Processos",
+      "Controles",
+      "Ameaças",
+      "Ativos"
+    ]
   }
 ]
