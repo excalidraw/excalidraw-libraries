@@ -6551,5 +6551,31 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Threat Modeling ",
+    "description": "An intuitive and customizable library designed for creating detailed data flows specifically for threat modeling.",
+    "authors": [
+      {
+        "name": "fguisso",
+        "github": "https://github.com/fguisso",
+        "twitter": "",
+        "url": "https://guisso.dev"
+      }
+    ],
+    "source": "fguisso/threat-modeling.excalidrawlib",
+    "preview": "fguisso/threat-modeling.jpg",
+    "created": "2024-10-24",
+    "updated": "2024-10-24",
+    "version": 2,
+    "itemNames": [
+      "Threat Modeling Sample",
+      "Trust Boundary",
+      "Control",
+      "Process",
+      "Actors/Users",
+      "Threat",
+      "Asset"
+    ]
   }
 ]
