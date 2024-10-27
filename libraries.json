@@ -6551,5 +6551,61 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Monitoring and Observability",
+    "description": "A library of common symbols and tools used in monitoring and observability.",
+    "authors": [
+      {
+        "name": "Sebastien Henne",
+        "github": "https://github.com/henneseb",
+        "twitter": "",
+        "url": "https://github.com/henneseb"
+      }
+    ],
+    "source": "henneseb/monitoring-and-observability.excalidrawlib",
+    "preview": "henneseb/monitoring-and-observability.jpg",
+    "created": "2024-10-27",
+    "updated": "2024-10-27",
+    "version": 2,
+    "itemNames": [
+      "Anomaly detection",
+      "Observability",
+      "Observability pillars",
+      "Dataviz bar chart",
+      "Dataviz pie chart",
+      "Dataviz line chart",
+      "Magnifier",
+      "Health check",
+      "Warning",
+      "Error",
+      "Event",
+      "Ringing bell",
+      "Bell",
+      "Traces",
+      "Logs",
+      "Metrics",
+      "Lumigo",
+      "Nagios",
+      "Sensu",
+      "Zabbix",
+      "Fluentd",
+      "Instana",
+      "Cortex",
+      "AppDynamics",
+      "Honeycomb",
+      "Splunk",
+      "Edge Delta",
+      "Jaeger",
+      "Datadog",
+      "Open Telemetry",
+      "Dynatrace",
+      "Prometheus",
+      "Alloy",
+      "Tempo",
+      "Loki",
+      "Mimir",
+      "Grafana"
+    ]
   }
 ]
