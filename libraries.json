@@ -6551,5 +6551,30 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "lung anatomy",
+    "description": "simple sketches of anatomical lung regions - lungs, lobes, airways.",
+    "authors": [
+      {
+        "name": "Laurens Weitkamp",
+        "github": "https://github.com/lweitkamp",
+        "twitter": "",
+        "url": "https://lweitkamp.github.io/"
+      }
+    ],
+    "source": "lweitkamp/lung-anatomy.excalidrawlib",
+    "preview": "lweitkamp/lung-anatomy.jpg",
+    "created": "2024-10-29",
+    "updated": "2024-10-29",
+    "version": 2,
+    "itemNames": [
+      "lungs",
+      "lungs with airways",
+      "lobes",
+      "lobes with airways",
+      "airways",
+      "airways sketch"
+    ]
   }
 ]
