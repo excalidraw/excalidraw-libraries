@@ -6551,5 +6551,59 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Gayatris",
+    "description": "Basic components for system design",
+    "authors": [
+      {
+        "name": "Gayatri",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gayatri/gayatris.excalidrawlib",
+    "preview": "gayatri/gayatris.jpg",
+    "created": "2024-10-31",
+    "updated": "2024-10-31",
+    "version": 2,
+    "itemNames": [
+      "Schema Registry",
+      "Kafka",
+      "Elasticsearch",
+      "No SQL Database",
+      "Data",
+      "Secret",
+      "User",
+      "Sequence",
+      "Single Server",
+      "Servers",
+      "Server",
+      "RDB",
+      "Object Storage",
+      "Cold Storage",
+      "Auth",
+      "DNS",
+      "LB",
+      "Message Broker",
+      "CDN",
+      "Mobile",
+      "Website",
+      "MapReduce",
+      "ServiceCluster",
+      "Cache",
+      "Lambda",
+      "APIGateway",
+      "DynamoDB",
+      "SQS",
+      "SNS",
+      "S3",
+      "CloudFront",
+      "CloudWatch",
+      "Step Functions",
+      "Kinesis",
+      "Route 53"
+    ]
   }
 ]
