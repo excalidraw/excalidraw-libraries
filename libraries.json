@@ -6551,5 +6551,33 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Vinicius Excalidraw Lib",
+    "description": "Descrição com alguns icones usados por mim",
+    "authors": [
+      {
+        "name": "Vinicius Pezzato Chaves",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "vinicius-pezzato-chaves/vinicius-excalidraw-lib.excalidrawlib",
+    "preview": "vinicius-pezzato-chaves/vinicius-excalidraw-lib.jpg",
+    "created": "2024-11-02",
+    "updated": "2024-11-02",
+    "version": 2,
+    "itemNames": [
+      "S3",
+      "ALB",
+      "API Gateway",
+      "CloudFront",
+      "Cognito",
+      "SQS",
+      "SNS",
+      "NLB",
+      "ECS"
+    ]
   }
 ]
