@@ -6551,5 +6551,44 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Mite Attack Flow Chart Objects",
+    "description": "The Mitre Attack Flow helps Cybersecurity Defenders to describe complex adversary behaviors in diagrams.\r\nIt is a shortlist of common objects that conform to the STIX format. \r\n",
+    "authors": [
+      {
+        "name": "Markus Malewski",
+        "github": "https://github.com/mallevf",
+        "twitter": "",
+        "url": "https://soc-expert.de"
+      }
+    ],
+    "source": "mallevf/mite-attack-flow-chart-objects.excalidrawlib",
+    "preview": "mallevf/mite-attack-flow-chart-objects.jpg",
+    "created": "2024-11-04",
+    "updated": "2024-11-04",
+    "version": 2,
+    "itemNames": [
+      "Threat Actor",
+      "Campaign",
+      "Malware",
+      "Artifact",
+      "Tool",
+      "Asset",
+      "Asset Desc.",
+      "Condition",
+      "AND Operator",
+      "OR Operator",
+      "Action",
+      "Win Reg Key",
+      "Process",
+      "File",
+      "Directory",
+      "User Account",
+      "Infrastructure",
+      "Url",
+      "IPv4 Address",
+      "IPv 6 Address"
+    ]
   }
 ]
