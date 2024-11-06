@@ -6551,5 +6551,30 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "gayatris",
+    "description": "gayatri's personal reusable shapes",
+    "authors": [
+      {
+        "name": "gayatri",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gayatri/gayatris.excalidrawlib",
+    "preview": "gayatri/gayatris.jpg",
+    "created": "2024-11-06",
+    "updated": "2024-11-06",
+    "version": 2,
+    "itemNames": [
+      "Base Service architecture",
+      "Cache",
+      "Requirements ",
+      "Queues fleet",
+      "Database table",
+      "Workers fleet"
+    ]
   }
 ]
