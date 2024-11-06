@@ -6551,5 +6551,25 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "DB",
+    "description": "DB tables",
+    "authors": [
+      {
+        "name": "koka",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "koka/db.excalidrawlib",
+    "preview": "koka/db.jpg",
+    "created": "2024-11-06",
+    "updated": "2024-11-06",
+    "version": 2,
+    "itemNames": [
+      "Table"
+    ]
   }
 ]
