@@ -6551,5 +6551,35 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "Microsoft Fabric Icons",
+    "description": "Excalidraw style icons for Microsoft Fabric workloads and services. Not an official Microsoft library.",
+    "authors": [
+      {
+        "name": "Miles Cole",
+        "github": "https://github.com/mwc360",
+        "twitter": "https://twitter.com/@MilesCole19",
+        "url": "https://milescole.dev/"
+      }
+    ],
+    "source": "mwc360/microsoft-fabric-icons.excalidrawlib",
+    "preview": "mwc360/microsoft-fabric-icons.jpg",
+    "created": "2024-11-07",
+    "updated": "2024-11-07",
+    "version": 2,
+    "itemNames": [
+      "Fabric",
+      "OneLake",
+      "Data Engineering",
+      "Data Factory",
+      "Data Warehouse",
+      "Data Science",
+      "OneRiver",
+      "Real-Time Intelligence",
+      "Power BI",
+      "Databases",
+      "Data Activator"
+    ]
   }
 ]
