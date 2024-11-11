@@ -6551,5 +6551,26 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "CBO Migration'24",
+    "description": "Contains architectural diagrams for CBO",
+    "authors": [
+      {
+        "name": "archis",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "archis/cbo-migration-24.excalidrawlib",
+    "preview": "archis/cbo-migration-24.jpg",
+    "created": "2024-11-11",
+    "updated": "2024-11-11",
+    "version": 2,
+    "itemNames": [
+      "CBO Flowchart",
+      "CBO Sequence Diagram"
+    ]
   }
 ]
