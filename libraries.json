@@ -6551,5 +6551,32 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "HLD",
+    "description": "HLD design",
+    "authors": [
+      {
+        "name": "Prince",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "prince/hld.excalidrawlib",
+    "preview": "prince/hld.jpg",
+    "created": "2024-11-11",
+    "updated": "2024-11-11",
+    "version": 2,
+    "itemNames": [
+      "Redis",
+      "DB",
+      "DB",
+      "DB",
+      "DB",
+      "User",
+      "User",
+      "User"
+    ]
   }
 ]
