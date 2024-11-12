@@ -1,0 +1,53 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "HMx4i6aabPjSqKIU6fEzB",
+          "type": "text",
+          "x": 394.125,
+          "y": 192.25,
+          "width": 808.2994384765625,
+          "height": 1400,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "a2",
+          "roundness": null,
+          "seed": 1201906947,
+          "version": 1728,
+          "versionNonce": 1230340507,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1731409226181,
+          "link": null,
+          "locked": false,
+          "text": "* Functional Requirements\n- view list of problems\n- view a particular problem and its details - Description, test cases etc\n- Test/Submit solution (in multiple languages) and get status\n- view Leaderboard during competitions\n\nOut of scope\n- User Auth/profile\n- Payments/subscriptions\n- Analytics/instrumentation\n- Social features\n\n* Non Functional Requirements\n- Availability over consistency\n- Scalable for traffic during competitions, say 100000 concurrent users\n- Should return feedback (submission status) within 5 secs\n- Isolate code executions\n\nOut of scope\n- Fault tolerance\n- GDPR and compliance\n- CI/CD pipelines\n- security for purchases\n\n\n* Core entities\n- Problem - Problem, test cases, and results\n- Submission - user submissions and results\n- LeaderBoard - leaderboard\n\n* APIs\nExternal\n\n- GET /problems?page={pageNumber}&limit={limit} -> Partial<Problem>[]\n\n- GET /problems/:id?language={preferredLanguage} -> Problem\n\n- POST /problems/:id/submit\n            {\n                id : string,\n                language : string,\n                codeBlob : string\n            }\n\nNote that userId is stored in session and passed in jwtTokens\n\n- GET /leaderboard/:competionId?page={pageNumber}&limit={limit} -> LeaderBoard\n\n\n* HIGH LEVEL DESIGN\n\n- view list of problems and a single problem\n- test/submit a solution\n- view LeaderBoard\n\n",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "* Functional Requirements\n- view list of problems\n- view a particular problem and its details - Description, test cases etc\n- Test/Submit solution (in multiple languages) and get status\n- view Leaderboard during competitions\n\nOut of scope\n- User Auth/profile\n- Payments/subscriptions\n- Analytics/instrumentation\n- Social features\n\n* Non Functional Requirements\n- Availability over consistency\n- Scalable for traffic during competitions, say 100000 concurrent users\n- Should return feedback (submission status) within 5 secs\n- Isolate code executions\n\nOut of scope\n- Fault tolerance\n- GDPR and compliance\n- CI/CD pipelines\n- security for purchases\n\n\n* Core entities\n- Problem - Problem, test cases, and results\n- Submission - user submissions and results\n- LeaderBoard - leaderboard\n\n* APIs\nExternal\n\n- GET /problems?page={pageNumber}&limit={limit} -> Partial<Problem>[]\n\n- GET /problems/:id?language={preferredLanguage} -> Problem\n\n- POST /problems/:id/submit\n            {\n                id : string,\n                language : string,\n                codeBlob : string\n            }\n\nNote that userId is stored in session and passed in jwtTokens\n\n- GET /leaderboard/:competionId?page={pageNumber}&limit={limit} -> LeaderBoard\n\n\n* HIGH LEVEL DESIGN\n\n- view list of problems and a single problem\n- test/submit a solution\n- view LeaderBoard\n\n",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "QUbSMQTO1jY2q_ZvI8twn",
+      "created": 1731409251012,
+      "error": "Required",
+      "name": "LeetCode"
+    }
+  ]
+}
