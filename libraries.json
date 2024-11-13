@@ -6551,5 +6551,29 @@
       "MultiQC logo",
       "Nextflow logo"
     ]
+  },
+  {
+    "name": "PC",
+    "description": "PC",
+    "authors": [
+      {
+        "name": "cisco",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "cisco/pc.excalidrawlib",
+    "preview": "cisco/pc.jpg",
+    "created": "2024-11-13",
+    "updated": "2024-11-13",
+    "version": 2,
+    "itemNames": [
+      "User",
+      "Firewall",
+      "Cloud",
+      "Server",
+      "Host"
+    ]
   }
 ]
