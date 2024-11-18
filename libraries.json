@@ -6612,5 +6612,30 @@
       "AWS account",
       "AWS Step Functions Workflow"
     ]
+  },
+  {
+    "name": "Circles and Angles",
+    "description": "Semicircles at specific angles, rotatable with a center pivot.\r\n\r\nI just I was annoyed at having to draw paths manually for marking angles. Especially useful for physics or geometry annotations.\r\n\r\nNumbers and markings are for UI ease of use, but are easily removed once placed, since they are grouped together",
+    "authors": [
+      {
+        "name": "Noldoran",
+        "github": "https://github.com/Noldoran",
+        "twitter": "https://twitter.com/Noldoranem",
+        "url": "https://www.noldoran.bsky.social"
+      }
+    ],
+    "source": "noldoran/circles-and-angles.excalidrawlib",
+    "preview": "noldoran/circles-and-angles.jpg",
+    "created": "2024-11-18",
+    "updated": "2024-11-18",
+    "version": 2,
+    "itemNames": [
+      "Semicircle 180° Angle",
+      "Semicircle 90° Angle",
+      "Semicircle 75° Angle",
+      "Semicircle 60° Angle",
+      "Semicircle 45° Angle",
+      "Semicircle 30° Angle"
+    ]
   }
 ]
