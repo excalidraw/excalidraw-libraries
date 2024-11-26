@@ -6717,5 +6717,34 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "ArchiMate Motivation",
+    "description": "[ArchiMate motivation elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Motivation-Elements.html) are used to\r\nmodel the motivations, or reasons, that guide the design or change of an Enterprise Architecture.",
+    "authors": [
+      {
+        "name": "Jonathan Foster",
+        "github": "https://github.com/jonathanfoster",
+        "twitter": "",
+        "url": "https://www.jonathanfoster.io"
+      }
+    ],
+    "source": "jonathanfoster/archimate-motivation.excalidrawlib",
+    "preview": "jonathanfoster/archimate-motivation.jpg",
+    "created": "2024-11-26",
+    "updated": "2024-11-26",
+    "version": 2,
+    "itemNames": [
+      "Stakeholder",
+      "Driver",
+      "Assessment",
+      "Goal",
+      "Outcome",
+      "Principle",
+      "Requirement",
+      "Constraint",
+      "Meaning",
+      "Value"
+    ]
   }
 ]
