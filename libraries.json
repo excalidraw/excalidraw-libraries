@@ -6717,5 +6717,28 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "ArchiMate Strategy",
+    "description": "[ArchiMate strategy elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Strategy-Layer.html) are used to model the\r\nstrategic direction and choices of an enterprise, as far as the impact on its architecture is concerned.",
+    "authors": [
+      {
+        "name": "Jonathan Foster",
+        "github": "https://github.com/jonathanfoster",
+        "twitter": "",
+        "url": "https://www.jonathanfoster.io"
+      }
+    ],
+    "source": "jonathanfoster/archimate-strategy.excalidrawlib",
+    "preview": "jonathanfoster/archimate-strategy.jpg",
+    "created": "2024-11-26",
+    "updated": "2024-11-26",
+    "version": 2,
+    "itemNames": [
+      "Resource",
+      "Capability",
+      "Value Stream",
+      "Course of Action"
+    ]
   }
 ]
