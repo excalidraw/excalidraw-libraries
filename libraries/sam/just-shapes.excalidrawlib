@@ -1,0 +1,187 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://content-mobbin.slite.com",
+  "libraryItems": [
+    {
+      "id": "wqgb2CVgxvmnJrB7bAmLG",
+      "status": "published",
+      "elements": [
+        {
+          "id": "e7YWieRVL7DwIbljN_BHG",
+          "type": "arrow",
+          "x": 472.92578125,
+          "y": 508.94921875,
+          "width": 87.4765625,
+          "height": 4.203125,
+          "angle": 0,
+          "strokeColor": "#495057",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 80,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 629229268,
+          "version": 1236,
+          "versionNonce": 542059476,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1732721166684,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              87.4765625,
+              -4.203125
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": {
+            "elementId": "oYI_sLo5dUXDrRFl8Fu9j",
+            "focus": -0.04007189683338718,
+            "gap": 21.723253285978004
+          },
+          "endBinding": {
+            "elementId": "4EyTs_HCJPhlKJK_Ln7Jk",
+            "focus": 0.118424282118588,
+            "gap": 17.97265625
+          },
+          "startArrowhead": null,
+          "endArrowhead": "arrow"
+        }
+      ],
+      "created": 1732721497554,
+      "name": "Arrow"
+    },
+    {
+      "id": "jBL6Vcs0IDy1F6vv64NDR",
+      "status": "published",
+      "elements": [
+        {
+          "id": "4EyTs_HCJPhlKJK_Ln7Jk",
+          "type": "rectangle",
+          "x": 578.375,
+          "y": 377.37890625,
+          "width": 277.43359375,
+          "height": 273.6640625,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#be4bdb",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "dashed",
+          "roughness": 2,
+          "opacity": 60,
+          "groupIds": [
+            "ECyJjjmEf33P29Eru3iMm"
+          ],
+          "roundness": null,
+          "seed": 1679325268,
+          "version": 906,
+          "versionNonce": 353255532,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "e7YWieRVL7DwIbljN_BHG",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1732721166684,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "created": 1732721493785,
+      "name": "Rectangle"
+    },
+    {
+      "id": "pp6rWvMbsjzlKPRMizGqK",
+      "status": "published",
+      "elements": [
+        {
+          "id": "wglQrnSEeMNBUhkHuq16Y",
+          "type": "diamond",
+          "x": 978.4375,
+          "y": 437.01953125,
+          "width": 209.47265625,
+          "height": 166.84375,
+          "angle": 0,
+          "strokeColor": "#e67700",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 80,
+          "groupIds": [],
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1062651092,
+          "version": 321,
+          "versionNonce": 1415266668,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "_DjYkZx5QeLnmgPYiP6SZ",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1732721166684,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "created": 1732721487427,
+      "name": "A shape"
+    },
+    {
+      "id": "AqBs6UUUzMxO5UbzDpQbU",
+      "status": "published",
+      "elements": [
+        {
+          "id": "oYI_sLo5dUXDrRFl8Fu9j",
+          "type": "ellipse",
+          "x": 276.41796875,
+          "y": 429.4140625,
+          "width": 175.1328125,
+          "height": 176.625,
+          "angle": 0,
+          "strokeColor": "#364fc7",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 2,
+          "opacity": 80,
+          "groupIds": [],
+          "roundness": null,
+          "seed": 1395883884,
+          "version": 584,
+          "versionNonce": 498251220,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "e7YWieRVL7DwIbljN_BHG",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1732721166684,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "created": 1732721318823,
+      "name": "Circle"
+    }
+  ]
+}
