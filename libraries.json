@@ -6717,5 +6717,31 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Business Flow",
+    "description": "Simple and Clear",
+    "authors": [
+      {
+        "name": "Maple",
+        "github": "https://github.com/cookiefinder",
+        "twitter": "",
+        "url": "https://github.com/cookiefinder"
+      }
+    ],
+    "source": "cookiefinder/business-flow.excalidrawlib",
+    "preview": "cookiefinder/business-flow.jpg",
+    "created": "2024-12-03",
+    "updated": "2024-12-03",
+    "version": 2,
+    "itemNames": [
+      "Outer System",
+      "Context",
+      "Virtual Model",
+      "Inner System",
+      "Component",
+      "Entity",
+      "Number"
+    ]
   }
 ]
