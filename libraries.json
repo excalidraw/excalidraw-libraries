@@ -6717,5 +6717,27 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Computer Adders",
+    "description": "This library contains diagram elements for illustrating different types of digital adders, including:\r\n\r\nHalf Adder: A fundamental digital circuit that adds two single-bit binary numbers, producing a sum and a carry-out.\r\nFull Adder: A digital circuit that adds three single-bit binary numbers (two inputs and one carry-in), producing a sum and a carry-out.\r\nMulti-bit Adders: Includes components for 4-bit, 8-bit, and cascaded adder configurations, enabling visualization of larger binary addition operations.",
+    "authors": [
+      {
+        "name": "Julian Alconcher",
+        "github": "https://github.com/JulianAlconcher",
+        "twitter": "https://twitter.com/AlconJulian1",
+        "url": "https://github.com/JulianAlconcher"
+      }
+    ],
+    "source": "julianalconcher/computer-adders.excalidrawlib",
+    "preview": "julianalconcher/computer-adders.jpg",
+    "created": "2024-12-05",
+    "updated": "2024-12-05",
+    "version": 2,
+    "itemNames": [
+      "Ripple Adder",
+      "Half Adder",
+      "Full Adder"
+    ]
   }
 ]
