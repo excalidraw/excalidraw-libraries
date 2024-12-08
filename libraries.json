@@ -6717,5 +6717,29 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Jimmy's Library",
+    "description": "Minimal set of items to do a design interview",
+    "authors": [
+      {
+        "name": "Jim",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jim/jimmy-s-library.excalidrawlib",
+    "preview": "jim/jimmy-s-library.jpg",
+    "created": "2024-12-08",
+    "updated": "2024-12-08",
+    "version": 2,
+    "itemNames": [
+      "tablet",
+      "smartphone",
+      "entity",
+      "multi_entity",
+      "db"
+    ]
   }
 ]
