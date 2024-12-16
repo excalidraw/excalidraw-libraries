@@ -6717,5 +6717,33 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "System Design Components",
+    "description": "Basic System Design Components",
+    "authors": [
+      {
+        "name": "Apo",
+        "github": "https://github.com/Fuzzybuckbeak",
+        "twitter": "",
+        "url": "https://github.com/Fuzzybuckbeak"
+      }
+    ],
+    "source": "fuzzybuckbeak/system-design-components.excalidrawlib",
+    "preview": "fuzzybuckbeak/system-design-components.jpg",
+    "created": "2024-12-16",
+    "updated": "2024-12-16",
+    "version": 2,
+    "itemNames": [
+      "Services",
+      "S3",
+      "CDN",
+      "Cache",
+      "Message Queue",
+      "Database",
+      "API Gateway",
+      "Load Balancer",
+      "Clients"
+    ]
   }
 ]
