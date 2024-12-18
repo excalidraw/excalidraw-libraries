@@ -6717,5 +6717,48 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "cyber-threat management",
+    "description": "Some cyberthreats management activities, like SIEM, SAST, firewal, etc. ",
+    "authors": [
+      {
+        "name": "j0rdan-m",
+        "github": "https://github.com/j0rdan-m",
+        "twitter": "",
+        "url": "https://github.com/j0rdan-m"
+      }
+    ],
+    "source": "j0rdan-m/cyber-threat-management.excalidrawlib",
+    "preview": "j0rdan-m/cyber-threat-management.jpg",
+    "created": "2024-12-18",
+    "updated": "2024-12-18",
+    "version": 2,
+    "itemNames": [
+      "applications control",
+      "account compromise monitoring",
+      "vulnerability management",
+      "connected devices monitoring",
+      "data leak detection",
+      "DDoS protection",
+      "files integrity",
+      "secure browsing",
+      "phishing filter",
+      "spam filter",
+      "edr-xdr",
+      "antivirus",
+      "firewall",
+      "dark-deep-web monitoring",
+      "sma",
+      "waf",
+      "dkim",
+      "vpn",
+      "sast",
+      "nac",
+      "sca",
+      "web-app scanner",
+      "password rules",
+      "siem"
+    ]
   }
 ]
