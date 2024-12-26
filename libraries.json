@@ -6717,5 +6717,28 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Hashing",
+    "description": "This library contains various components relating to password hashing.",
+    "authors": [
+      {
+        "name": "XenonPy",
+        "github": "https://github.com/XenonPy",
+        "twitter": "",
+        "url": "https://github.com/XenonPy"
+      }
+    ],
+    "source": "xenonpy/hashing.excalidrawlib",
+    "preview": "xenonpy/hashing.jpg",
+    "created": "2024-12-26",
+    "updated": "2024-12-26",
+    "version": 2,
+    "itemNames": [
+      "Salting",
+      "Password",
+      "Rainbow Table",
+      "Collision Attack"
+    ]
   }
 ]
