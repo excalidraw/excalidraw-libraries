@@ -6717,5 +6717,29 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Sitemap (v1.0)",
+    "description": "This is component system for sitemap with multiple brand/entity under an organization.\r\n\r\nSite includes:\r\n- Site naming system.\r\n- Location & labelling System.\r\n- Domain naming system.\r\n\r\nPage includes:\r\n- Page naming system.\r\n- Location & labelling system.\r\n- Page slug naming system.\r\n\r\nSection includes:\r\n- Section naming system.\r\n- Location & labelling system.",
+    "authors": [
+      {
+        "name": "Ezra Ravin Mateus",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ezra-ravin-mateus/sitemap-v1-0.excalidrawlib",
+    "preview": "ezra-ravin-mateus/sitemap-v1-0.jpg",
+    "created": "2025-01-01",
+    "updated": "2025-01-01",
+    "version": 2,
+    "itemNames": [
+      "Organization",
+      "Entity",
+      "Site",
+      "Page",
+      "Sectiton"
+    ]
   }
 ]
