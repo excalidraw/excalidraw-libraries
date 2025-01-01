@@ -6717,5 +6717,29 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "System Design extension",
+    "description": "Extension for the System Design library with additional icons.",
+    "authors": [
+      {
+        "name": "Ilya Mokin",
+        "github": "https://github.com/LastPirate",
+        "twitter": "",
+        "url": "https://github.com/LastPirate"
+      }
+    ],
+    "source": "lastpirate/system-design-extension.excalidrawlib",
+    "preview": "lastpirate/system-design-extension.jpg",
+    "created": "2025-01-01",
+    "updated": "2025-01-01",
+    "version": 2,
+    "itemNames": [
+      "Sharded",
+      "Websocket",
+      "S3 storage",
+      "API Gateway",
+      "Consistent Hashing"
+    ]
   }
 ]
