@@ -6717,5 +6717,25 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "k8s_icons",
+    "description": "k8s icons from Excalidraw public lib and personliaed it",
+    "authors": [
+      {
+        "name": "poloo",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "poloo/k8s_icons.excalidrawlib",
+    "preview": "poloo/k8s_icons.jpg",
+    "created": "2025-01-05",
+    "updated": "2025-01-05",
+    "version": 2,
+    "itemNames": [
+      "Deployment"
+    ]
   }
 ]
