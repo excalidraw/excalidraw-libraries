@@ -6717,5 +6717,31 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Calendar",
+    "description": "Week start from Monday",
+    "authors": [
+      {
+        "name": "Ky",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ky/calendar.excalidrawlib",
+    "preview": "ky/calendar.jpg",
+    "created": "2025-01-07",
+    "updated": "2025-01-07",
+    "version": 2,
+    "itemNames": [
+      "Sun",
+      "Sat",
+      "Frt",
+      "Thu",
+      "Wed",
+      "Tue",
+      "Mon"
+    ]
   }
 ]
