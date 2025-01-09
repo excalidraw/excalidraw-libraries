@@ -6717,5 +6717,32 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Data Architecture",
+    "description": "Data Architecture",
+    "authors": [
+      {
+        "name": "lambert",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "lambert/data-architecture.excalidrawlib",
+    "preview": "lambert/data-architecture.jpg",
+    "created": "2025-01-09",
+    "updated": "2025-01-09",
+    "version": 2,
+    "itemNames": [
+      "Power BI",
+      "AWS S3",
+      "Parquet File",
+      "Orc File",
+      "Generic Database 1",
+      "Generic Database 2",
+      "Developer",
+      "Users"
+    ]
   }
 ]
