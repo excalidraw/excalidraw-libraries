@@ -6717,5 +6717,42 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Electrical Engineering",
+    "description": "Contains most common symbols of electrical engineering components.\r\n\r\nThis library contains EU symbols.",
+    "authors": [
+      {
+        "name": "yam",
+        "github": "https://github.com/yam1917",
+        "twitter": "",
+        "url": "https://github.com/yam1917"
+      }
+    ],
+    "source": "yam1917/electrical-engineering.excalidrawlib",
+    "preview": "yam1917/electrical-engineering.jpg",
+    "created": "2025-01-15",
+    "updated": "2025-01-15",
+    "version": 2,
+    "itemNames": [
+      "voltage source",
+      "double switch",
+      "transistor NPN",
+      "transistor PNP",
+      "current source",
+      "switch NC",
+      "switch NO",
+      "spark gap",
+      "diode",
+      "null indicator",
+      "ampermeter",
+      "voltmeter",
+      "AC power source",
+      "capacitor",
+      "resistor",
+      "coil",
+      "mass",
+      "transformer"
+    ]
   }
 ]
