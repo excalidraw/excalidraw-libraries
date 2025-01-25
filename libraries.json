@@ -6717,5 +6717,48 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "My Lib",
+    "description": "My Lib",
+    "authors": [
+      {
+        "name": "Ahmed",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ahmed/my-lib.excalidrawlib",
+    "preview": "ahmed/my-lib.jpg",
+    "created": "2025-01-25",
+    "updated": "2025-01-25",
+    "version": 2,
+    "itemNames": [
+      "Topology",
+      "Sub-topology",
+      "Apache Kafka Logo",
+      "Topic Simple",
+      "Topic Default",
+      "Topic Advanced",
+      "Record",
+      "API",
+      "API (alt1)",
+      "External System (alt1)",
+      "Databases",
+      "SQL Database",
+      "Real-Time Dashboard",
+      "MySQL Database",
+      "Generic Database 1",
+      "Generic Database 2",
+      "Users",
+      "Databases",
+      "SQL Database",
+      "Real-Time Dashboard",
+      "MySQL Database",
+      "Generic Database 1",
+      "Generic Database 2",
+      "Users"
+    ]
   }
 ]
