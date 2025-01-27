@@ -6717,5 +6717,29 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "AWS",
+    "description": "aws icons",
+    "authors": [
+      {
+        "name": "henrique",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "henrique/aws.excalidrawlib",
+    "preview": "henrique/aws.jpg",
+    "created": "2025-01-27",
+    "updated": "2025-01-27",
+    "version": 2,
+    "itemNames": [
+      "Lambda",
+      "APIGateway",
+      "DynamoDB",
+      "S3",
+      "CloudWatch"
+    ]
   }
 ]
