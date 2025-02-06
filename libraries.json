@@ -6717,5 +6717,26 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "System Design",
+    "description": "System design library\r\n",
+    "authors": [
+      {
+        "name": "Anindya",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "anindya/system-design.excalidrawlib",
+    "preview": "anindya/system-design.jpg",
+    "created": "2025-02-06",
+    "updated": "2025-02-06",
+    "version": 2,
+    "itemNames": [
+      "MemoryDB for Redis",
+      "ElastiCache"
+    ]
   }
 ]
