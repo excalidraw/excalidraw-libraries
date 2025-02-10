@@ -6717,5 +6717,27 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "AWS",
+    "description": "aws",
+    "authors": [
+      {
+        "name": "arunr",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "arunr/aws.excalidrawlib",
+    "preview": "arunr/aws.jpg",
+    "created": "2025-02-10",
+    "updated": "2025-02-10",
+    "version": 2,
+    "itemNames": [
+      "APIGateway",
+      "SQS",
+      "S3"
+    ]
   }
 ]
