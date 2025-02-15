@@ -6717,5 +6717,29 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Flowchart",
+    "description": "Flowchart Diagram",
+    "authors": [
+      {
+        "name": "Root",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "root/flowchart.excalidrawlib",
+    "preview": "root/flowchart.jpg",
+    "created": "2025-02-15",
+    "updated": "2025-02-15",
+    "version": 2,
+    "itemNames": [
+      "Connector",
+      "Input / Output",
+      "Decision",
+      "Process",
+      "Start / End"
+    ]
   }
 ]
