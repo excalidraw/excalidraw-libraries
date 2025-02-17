@@ -6717,5 +6717,26 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Test",
+    "description": "Test",
+    "authors": [
+      {
+        "name": "test",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "test/test.excalidrawlib",
+    "preview": "test/test.jpg",
+    "created": "2025-02-17",
+    "updated": "2025-02-17",
+    "version": 2,
+    "itemNames": [
+      "Access Context Manager",
+      "Access Transparency"
+    ]
   }
 ]
