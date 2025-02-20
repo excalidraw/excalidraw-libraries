@@ -6717,5 +6717,30 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Databricks Unity Catalog Logos",
+    "description": "Icons used in Databricks Unity Catalog solution to define the different data objects used. ",
+    "authors": [
+      {
+        "name": "Maël DESCHAMPS",
+        "github": "https://github.com/maeld974",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/ma%C3%ABl-deschamps-b18817107/"
+      }
+    ],
+    "source": "maeld974/databricks-unity-catalog-logos.excalidrawlib",
+    "preview": "maeld974/databricks-unity-catalog-logos.jpg",
+    "created": "2025-02-20",
+    "updated": "2025-02-20",
+    "version": 2,
+    "itemNames": [
+      "Databricks View",
+      "Databricks Table",
+      "Databricks Materialized View",
+      "Databricks Delta Live Table",
+      "Databricks Schema",
+      "Databricks Catalog"
+    ]
   }
 ]
