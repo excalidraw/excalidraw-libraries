@@ -6717,5 +6717,34 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "4ynyky library",
+    "description": "Simple arch elements",
+    "authors": [
+      {
+        "name": "4ynyky",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "4ynyky/4ynyky-library.excalidrawlib",
+    "preview": "4ynyky/4ynyky-library.jpg",
+    "created": "2025-02-28",
+    "updated": "2025-02-28",
+    "version": 2,
+    "itemNames": [
+      "Golang service",
+      "PHP service",
+      "Nats stream",
+      "RabbitMQ stream",
+      "Redis stream",
+      "Kafka stream",
+      "PostgreSQL DB",
+      "Redis DB",
+      "MySQL DB",
+      "ClickHouse DB"
+    ]
   }
 ]
