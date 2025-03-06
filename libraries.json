@@ -6717,5 +6717,33 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Domain-driven Design",
+    "description": "elements of Domain-Driven Design",
+    "authors": [
+      {
+        "name": "Ale",
+        "github": "https://github.com/alessiadomuta",
+        "twitter": "",
+        "url": "https://github.com/alessiadomuta"
+      }
+    ],
+    "source": "alessiadomuta/domain-driven-design.excalidrawlib",
+    "preview": "alessiadomuta/domain-driven-design.jpg",
+    "created": "2025-03-06",
+    "updated": "2025-03-06",
+    "version": 2,
+    "itemNames": [
+      "Microservice",
+      "Bounded context detail",
+      "Aggregate",
+      "Value object",
+      "Entity",
+      "Bounded context",
+      "uniquitous language",
+      "domain expert + developer",
+      "domain expert"
+    ]
   }
 ]
