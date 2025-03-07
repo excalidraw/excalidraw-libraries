@@ -6717,5 +6717,57 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "Fortinet",
+    "description": "Unofficial library of core Fortinet Products",
+    "authors": [
+      {
+        "name": "Josh Morris",
+        "github": "https://github.com/FortiJosh",
+        "twitter": "",
+        "url": "https://github.com/FortiJosh"
+      }
+    ],
+    "source": "fortijosh/fortinet.excalidrawlib",
+    "preview": "fortijosh/fortinet.jpg",
+    "created": "2025-03-07",
+    "updated": "2025-03-07",
+    "version": 2,
+    "itemNames": [
+      "Desktop",
+      "Laptop",
+      "3rd Party L3 Switch",
+      "3rd Party L2 Switch",
+      "3rd Party Router",
+      "3rd Party Firewall",
+      "3rd Party Server",
+      "FortiEMS",
+      "FortiClient Logo",
+      "FortiGuard Logo",
+      "FortiAuthenticator",
+      "FortiRecon",
+      "FortiNDR",
+      "FortiSOAR",
+      "FortiSIEM",
+      "FortiClient",
+      "FortiCNAPP",
+      "FortiAppSec",
+      "FortiGSLB",
+      "FortiGate Cloud",
+      "FortiWeb",
+      "FortiExtender",
+      "FortiSwitch",
+      "FortiNAC",
+      "FortiADC",
+      "FortiManager",
+      "FortiAnalyzer",
+      "FortiAP",
+      "FortiSandbox",
+      "FortiSASE",
+      "FortiGate VDOM",
+      "FortiGate",
+      "Fortinet Logo"
+    ]
   }
 ]
