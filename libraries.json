@@ -6717,5 +6717,32 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "HashiCorp",
+    "description": "A collection of HashiCorp product logos.",
+    "authors": [
+      {
+        "name": "Mattias Fjellström",
+        "github": "https://github.com/mattias-fjellstrom",
+        "twitter": "",
+        "url": "https://mattias.engineer"
+      }
+    ],
+    "source": "mattias-fjellstrom/hashicorp.excalidrawlib",
+    "preview": "mattias-fjellstrom/hashicorp.jpg",
+    "created": "2025-03-09",
+    "updated": "2025-03-09",
+    "version": 2,
+    "itemNames": [
+      "Vagrant",
+      "Packer",
+      "Waypoint",
+      "Nomad",
+      "Consul",
+      "Boundary",
+      "Vault",
+      "Terraform"
+    ]
   }
 ]
