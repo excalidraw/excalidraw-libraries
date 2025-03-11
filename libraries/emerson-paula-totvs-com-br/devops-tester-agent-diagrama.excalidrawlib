@@ -1,0 +1,104 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "dSUC01g0xSR6Lodfcuafy",
+          "type": "arrow",
+          "x": 1229.5499722175118,
+          "y": 657.8035714285718,
+          "width": 268,
+          "height": 0,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b6M",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1280034298,
+          "version": 6,
+          "versionNonce": 332565434,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "X9_8IhvlNYd02rWO8GM-P"
+            }
+          ],
+          "updated": 1741702699357,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -268,
+              0
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": "arrow",
+          "elbowed": false
+        },
+        {
+          "id": "X9_8IhvlNYd02rWO8GM-P",
+          "type": "text",
+          "x": 1026.4298397712228,
+          "y": 637.8035714285718,
+          "width": 138.24026489257812,
+          "height": 40,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b6k",
+          "roundness": null,
+          "seed": 1580627962,
+          "version": 6,
+          "versionNonce": 937941690,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1741702588886,
+          "link": null,
+          "locked": false,
+          "text": "Envia relatório de\ntestes (Slack)",
+          "fontSize": 16,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "dSUC01g0xSR6Lodfcuafy",
+          "originalText": "Envia relatório de testes (Slack)",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "mBeR9nabGy7bVO3yUyHQ8",
+      "created": 1741725509086,
+      "error": "Obrigatório",
+      "name": "devops-tester-agent_sequence"
+    }
+  ]
+}
