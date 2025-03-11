@@ -6743,6 +6743,220 @@
       "Boundary",
       "Vault",
       "Terraform"
+      ]
+  },
+  {
+    "name": " GitHub Actions",
+    "description": "This library provides a set of essential items to streamline your GitHub Actions workflows.\r\n Whether you're tracking performance metrics, managing caching, or visualizing GitHub workflows, these items are designed to enhance your productivity and simplify your processes. \r\nHere's what you'll find in this library:\r\n\r\nMetrics: Keep an eye on your workflow performance with clear and concise metrics visualization.\r\nCache: Represent caching mechanisms in your workflows with this intuitive icon.\r\nGitHub Actions: A visual representation of GitHub Actions to help you map out and organize your automation processes.\r\nGitHub: The iconic GitHub logo to represent repositories, projects, or the platform itself.\r\n\r\nPerfect for developers and teams looking to optimize their workflow designs and presentations! 🚀",
+    "authors": [
+      {
+        "name": "Beussae",
+        "github": "https://github.com/DevDaejungYoon",
+        "twitter": "",
+        "url": "https://github.com/DevDaejungYoon"
+      }
+    ],
+    "source": "devdaejungyoon/github-actions.excalidrawlib",
+    "preview": "devdaejungyoon/github-actions.jpg",
+    "created": "2025-02-07",
+    "updated": "2025-02-07",
+    "version": 2,
+    "itemNames": [
+      "Metrics",
+      "Cache",
+      "GitHub Actions",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "Japanese Pitch Accent Graphs Template Collection・日本語の高低アクセントのグラフテンプレートのコレクション",
+    "description": "Binary pitch accent graphs for illustrating Japanese pitch accent.\r\n\r\nBlue = Flat accent -> Heiban\r\nGreen = Drop at the attaching particle (-1) -> Odaka\r\nRed = Drop on the first mora (1) -> Atamadaka\r\nYellow = Drop between second mora and second to last mora (inclusive) -> Nakadaka\r\n\r\n2 Varrations included, with and without mora count.\r\n\r\n日本語の高低アクセントを説明するための二値のグラフ。\r\n\r\n青＝フラットなアクセント→平板\r\n緑＝助詞の前下がる（-1）→小高\r\n赤＝最初の拍で下がる（1）→頭高\r\n黄＝2番目の拍と最後から2番目の拍の間で下がる→中高\r\n\r\n拍の数あり、拍の数なし、2つのヴァレーションが含まっている。",
+    "authors": [
+      {
+        "name": "あどり",
+        "github": "https://github.com/AdriGrana",
+        "twitter": "",
+        "url": "https://github.com/AdriGrana"
+      }
+    ],
+    "source": "adrigrana/japanese-pitch-accent-graphs-template-collection.excalidrawlib",
+    "preview": "adrigrana/japanese-pitch-accent-graphs-template-collection.jpg",
+    "created": "2025-02-28",
+    "updated": "2025-02-28",
+    "version": 2,
+    "itemNames": [
+      "Nakadaka - 9 mora, drop at 7 with count",
+      "Nakadaka - 9 mora, drop at 6 with count",
+      "Nakadaka - 9 mora, drop at 5 with count",
+      "Nakadaka - 9 mora, drop at 4 with count",
+      "Nakadaka - 9 mora, drop at 3 with count",
+      "Nakadaka - 9 mora, drop at 2 with count",
+      "Nakadaka - 8 mora, drop at 6 with count",
+      "Nakadaka - 8 mora, drop at 5 with count",
+      "Nakadaka - 8 mora, drop at 4 with count",
+      "Nakadaka - 8 mora, drop at 3 with count",
+      "Nakadaka - 8 mora, drop at 2 with count",
+      "Nakadaka - 7 mora, drop at 5 with count",
+      "Nakadaka - 7 mora, drop at 4 with count",
+      "Nakadaka - 7 mora, drop at 3 with count",
+      "Nakadaka - 7 mora, drop at 2 with count",
+      "Nakadaka - 6 mora, drop at 4 with count",
+      "Nakadaka - 6 mora, drop at 3 with count",
+      "Nakadaka - 6 mora, drop at 2 with count",
+      "Nakadaka - 5 mora, drop at 3 with count",
+      "Nakadaka - 5 mora, drop at 2 with count",
+      "Nakadaka - 4 mora with count",
+      "Atamadaka - 9 mora with count",
+      "Atamadaka - 8 mora with count",
+      "Atamadaka - 7 mora with count",
+      "Atamadaka - 6 mora with count",
+      "Atamadaka - 5 mora with count",
+      "Atamadaka - 4 mora with count",
+      "Atamadaka - 3 mora with count",
+      "Atamadaka - 2 mora with count",
+      "Odaka - 4 mora with count",
+      "Odaka - 9 mora with count",
+      "Odaka - 8 mora with count",
+      "Odaka - 7 mora with count",
+      "Odaka - 6 mora with count",
+      "Odaka - 5 mora with count",
+      "Odaka - 3 mora with count",
+      "Odaka - 2 mora with count",
+      "Heiban - 9 mora with count",
+      "Heiban - 8 mora with count",
+      "Heiban - 7 mora with count",
+      "Heiban - 6 mora with count",
+      "Heiban - 5 mora with count",
+      "Heiban - 4 mora with count",
+      "Heiban - 3 mora with count",
+      "Heiban - 2 mora with count",
+      "Nakadaka - 9 mora, drop at 7",
+      "Nakadaka - 9 mora, drop at 6",
+      "Nakadaka - 9 mora, drop at 5",
+      "Nakadaka - 9 mora, drop at 4",
+      "Nakadaka - 9 mora, drop at 3",
+      "Nakadaka - 9 mora, drop at 2",
+      "Nakadaka - 8 mora, drop at 6",
+      "Nakadaka - 8 mora, drop at 5",
+      "Nakadaka - 8 mora, drop at 4",
+      "Nakadaka - 8 mora, drop at 3",
+      "Nakadaka - 8 mora, drop at 2",
+      "Nakadaka - 7 mora, drop at 5",
+      "Nakadaka - 7 mora, drop at 4",
+      "Nakadaka - 7 mora, drop at 3",
+      "Nakadaka - 7 mora, drop at 2",
+      "Nakadaka - 6 mora, drop at 4",
+      "Nakadaka - 6 mora, drop at 3",
+      "Nakadaka - 6 mora, drop at 2",
+      "Nakadaka - 5 mora, drop at 3",
+      "Nakadaka - 5 mora, drop at 2",
+      "Nakadaka - 4 mora",
+      "Atamadaka - 9 mora",
+      "Atamadaka - 8 mora",
+      "Atamadaka - 7 mora",
+      "Atamadaka - 6 mora",
+      "Atamadaka - 5 mora",
+      "Atamadaka - 4 mora",
+      "Atamadaka - 3 mora",
+      "Atamadaka - 2 mora",
+      "Odaka - 9 mora",
+      "Odaka - 8 mora",
+      "Odaka - 7 mora",
+      "Odaka - 6 mora",
+      "Odaka - 5 mora",
+      "Odaka - 4 mora",
+      "Odaka - 3 mora",
+      "Odaka - 2 mora",
+      "Heiban - 9 mora",
+      "Heiban - 8 mora",
+      "Heiban - 7 mora",
+      "Heiban - 6 mora",
+      "Heiban - 5 mora",
+      "Heiban - 4 mora",
+      "Heiban - 3 mora",
+      "Heiban - 2 mora"
+    ]
+  },
+  {
+    "name": "ArchiMate - Application Layer",
+    "description": "Icons for Application Layer of ArchiMate - modeling language for Enterprise Architecture.",
+    "authors": [
+      {
+        "name": "Dima Patserkovskyi",
+        "github": "https://github.com/dmtwng",
+        "twitter": "",
+        "url": "https://github.com/dmtwng"
+      }
+    ],
+    "source": "dmtwng/archimate-application-layer.excalidrawlib",
+    "preview": "dmtwng/archimate-application-layer.jpg",
+    "created": "2025-02-02",
+    "updated": "2025-02-02",
+    "version": 2,
+    "itemNames": [
+      "Application Component",
+      "Application Component Icon",
+      "Application Collaboration",
+      "Application Collaboration Icon",
+      "Application Interface",
+      "Application Interface Icon",
+      "Application Function",
+      "Application Function Icon",
+      "Application Interaction",
+      "Application Interaction Icon",
+      "Application Process",
+      "Application Process Icon",
+      "Application Event",
+      "Application Event Icon",
+      "Application Service",
+      "Application Service Icon",
+      "Data Object",
+      "Data Object Icon"
+      ]
+  },
+  {
+    "name": "Checkmarks",
+    "description": "Simple checkmarks",
+    "authors": [
+      {
+        "name": "Toman",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "toman/checkmarks.excalidrawlib",
+    "preview": "toman/checkmarks.jpg",
+    "created": "2025-03-05",
+    "updated": "2025-03-05",
+    "version": 2,
+    "itemNames": [
+      "Exclamation",
+      "Nope",
+      "What",
+      "Yes"
+    ]
+  },
+  {
+    "name": "Chickens",
+    "description": "Chickens! Very useful for adding some cute flair to diagrams and illustrations.",
+    "authors": [
+      {
+        "name": "kvmet",
+        "github": "https://github.com/kvmet",
+        "twitter": "",
+        "url": "https://github.com/kvmet"
+      }
+    ],
+    "source": "kvmet/chickens.excalidrawlib",
+    "preview": "kvmet/chickens.jpg",
+    "created": "2025-02-06",
+    "updated": "2025-02-06",
+    "version": 2,
+    "itemNames": [
+      "Big Chicken",
+      "Little Chicken",
+      "Medium Chicken"
     ]
   }
 ]
