@@ -6717,5 +6717,35 @@
       "Developer",
       "Users"
     ]
+  },
+  {
+    "name": "AWS",
+    "description": "aws",
+    "authors": [
+      {
+        "name": "jay",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jay/aws.excalidrawlib",
+    "preview": "jay/aws.jpg",
+    "created": "2025-03-11",
+    "updated": "2025-03-11",
+    "version": 2,
+    "itemNames": [
+      "AWS Cloud",
+      "Region",
+      "Auto Scaling group",
+      "Lambda",
+      "APIGateway",
+      "DynamoDB",
+      "Aurora",
+      "SQS",
+      "SES",
+      "CloudWatch",
+      "Cognito"
+    ]
   }
 ]
