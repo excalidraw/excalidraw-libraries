@@ -71,30 +71,7 @@ const sortBy = {
   default: {
     label: "Default",
     func: (items) => {
-      const sortedByNewAsc = sortBy.new.func(items);
-
-      const TWO_WEEKS = 12096e5;
-
-      const timeTwoWeeksAgo = new Date(Date.now() - TWO_WEEKS);
-
-      const indexOfItemOlderThan2WeeksAsc =
-        sortedByNewAsc.length -
-        sortedByNewAsc
-          .slice()
-          .reverse()
-          .findIndex((x) => {
-            return new Date(x.created) <= timeTwoWeeksAgo;
-          });
-
-      const topNewItemsAsc = sortedByNewAsc.slice(
-        indexOfItemOlderThan2WeeksAsc,
-      );
-
-      const downloadPerWeekAsc = sortBy.downloadsWeek.func(
-        sortedByNewAsc.slice(0, indexOfItemOlderThan2WeeksAsc),
-      );
-
-      return downloadPerWeekAsc.concat(topNewItemsAsc);
+      return sortBy.downloadsTotal.func(items);
     },
   },
   new: {
