@@ -6768,7 +6768,7 @@
       "Boundary",
       "Vault",
       "Terraform"
-      ]
+    ]
   },
   {
     "name": " GitHub Actions",
@@ -6937,7 +6937,7 @@
       "Application Service Icon",
       "Data Object",
       "Data Object Icon"
-      ]
+    ]
   },
   {
     "name": "Checkmarks",
@@ -6982,6 +6982,26 @@
       "Big Chicken",
       "Little Chicken",
       "Medium Chicken"
+    ]
+  },
+  {
+    "name": "academic_library",
+    "description": "for quickly academic draw",
+    "authors": [
+      {
+        "name": "Spaky",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "spaky/academic_library.excalidrawlib",
+    "preview": "spaky/academic_library.jpg",
+    "created": "2025-03-16",
+    "updated": "2025-03-16",
+    "version": 2,
+    "itemNames": [
+      "自注意力网络"
     ]
   }
 ]
