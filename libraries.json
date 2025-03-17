@@ -6768,7 +6768,7 @@
       "Boundary",
       "Vault",
       "Terraform"
-      ]
+    ]
   },
   {
     "name": " GitHub Actions",
@@ -6937,7 +6937,7 @@
       "Application Service Icon",
       "Data Object",
       "Data Object Icon"
-      ]
+    ]
   },
   {
     "name": "Checkmarks",
@@ -6982,6 +6982,41 @@
       "Big Chicken",
       "Little Chicken",
       "Medium Chicken"
+    ]
+  },
+  {
+    "name": "Simple Code Diagrams v1",
+    "description": "A simple code architecture diagram pack, built for languages with clear distinctions between value, reference, and interface types.  C# In particular!\r\nDon't forget to swap colors of items with Shift + G!",
+    "authors": [
+      {
+        "name": "domportera",
+        "github": "https://github.com/domportera",
+        "twitter": "https://twitter.com/domportera",
+        "url": "https://github.com/domportera"
+      }
+    ],
+    "source": "domportera/simple-code-diagrams-v1.excalidrawlib",
+    "preview": "domportera/simple-code-diagrams-v1.jpg",
+    "created": "2025-03-17",
+    "updated": "2025-03-17",
+    "version": 2,
+    "itemNames": [
+      "Struct",
+      "Class / Reference Type",
+      "Interface",
+      "Class / Reference Type (Extended)",
+      "Child Function",
+      "Function",
+      "Delegate",
+      "Serialized Data",
+      "Reference / Object",
+      "Value",
+      "Group Container",
+      "Hierarchy Line",
+      "Inheritance Line",
+      "Implements Line",
+      "Logic Line",
+      "Logic Line Descriptive"
     ]
   }
 ]
