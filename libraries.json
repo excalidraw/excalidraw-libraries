@@ -6768,7 +6768,7 @@
       "Boundary",
       "Vault",
       "Terraform"
-      ]
+    ]
   },
   {
     "name": " GitHub Actions",
@@ -6937,7 +6937,7 @@
       "Application Service Icon",
       "Data Object",
       "Data Object Icon"
-      ]
+    ]
   },
   {
     "name": "Checkmarks",
@@ -6982,6 +6982,96 @@
       "Big Chicken",
       "Little Chicken",
       "Medium Chicken"
+    ]
+  },
+  {
+    "name": "Kafka Streams Topology Design",
+    "description": "Kafka Streams Topology Design is an open standard dedicated to the clear and effective description and visualisation of Kafka Stream topologies. KSTD covers all Kafka Streams DSL operators, as well as essential infrastructure and architectural building blocks.",
+    "authors": [
+      {
+        "name": "Hartmut Armbruster",
+        "github": "https://github.com/https://github.com/https://github.com/hartmut-co-uk",
+        "twitter": "",
+        "url": "https://kstd.thriving.dev/"
+      }
+    ],
+    "source": "https-github-com-https-github-com-hartmut-co-uk/kafka-streams-topology-design.excalidrawlib",
+    "preview": "https-github-com-https-github-com-hartmut-co-uk/kafka-streams-topology-design.jpg",
+    "created": "2025-03-17",
+    "updated": "2025-03-17",
+    "version": 2,
+    "itemNames": [
+      "Header",
+      "Topology",
+      "Sub-topology",
+      "Apache Kafka® Logo",
+      "Topic Simple",
+      "Topic Default",
+      "Topic Advanced",
+      "Record",
+      "Key-Value Record",
+      "Key-Value Record Typed",
+      "KStream",
+      "KTable",
+      "GlobalKTable",
+      "filter",
+      "map",
+      "mapValues",
+      "flatMap",
+      "flatMapValues",
+      "split +branch",
+      "merge",
+      "join",
+      "join (alt)",
+      "repartition",
+      "selectKey",
+      "groupBy",
+      "windowedBy",
+      "reduce; aggregate",
+      "count",
+      "peek",
+      "forEach",
+      "process",
+      "processValues",
+      "transformValues",
+      "Punctuator",
+      "Partitioner",
+      "State Store",
+      "Windowed",
+      "stateful",
+      "stateful (alt)",
+      "repartitioned",
+      "repartitioned (alt)",
+      "Store Type RocksDB",
+      "Store Type InMemory",
+      "Store Type LRUCache",
+      "Store Variant Global",
+      "Store Variant Versioned",
+      "Store Variant Read-only",
+      "Emit onUpdate",
+      "Emit onClose",
+      "Suppressed",
+      "Logged",
+      "Not Logged",
+      "Cached",
+      "Not Cached",
+      "API",
+      "API (alt1)",
+      "API (alt2)",
+      "External System",
+      "External System (alt1)",
+      "External System (alt2)",
+      "Numeric Indicator",
+      "Marker Success",
+      "Marker Alert",
+      "Marker Info",
+      "Marker Warn",
+      "Inline Note",
+      "Callout Note",
+      "Descriptions Box",
+      "Legend Landscape",
+      "Legend Portrait",
+      "KSTD Watermark"
     ]
   }
 ]
