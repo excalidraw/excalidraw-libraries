@@ -6768,7 +6768,7 @@
       "Boundary",
       "Vault",
       "Terraform"
-      ]
+    ]
   },
   {
     "name": " GitHub Actions",
@@ -6937,7 +6937,7 @@
       "Application Service Icon",
       "Data Object",
       "Data Object Icon"
-      ]
+    ]
   },
   {
     "name": "Checkmarks",
@@ -6982,6 +6982,45 @@
       "Big Chicken",
       "Little Chicken",
       "Medium Chicken"
+    ]
+  },
+  {
+    "name": "Sun and planets",
+    "description": "Includes astronomical objects like the sun, phases of the moon, planets and asteroid",
+    "authors": [
+      {
+        "name": "Amrutha",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "amrutha/sun-and-planets.excalidrawlib",
+    "preview": "amrutha/sun-and-planets.jpg",
+    "created": "2025-03-18",
+    "updated": "2025-03-18",
+    "version": 2,
+    "itemNames": [
+      "Uranus",
+      "Solar system",
+      "Asteroid",
+      "Sun",
+      "Neptune",
+      "Saturn",
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Phases of the moon",
+      "Full moon",
+      "Waning crescent moon",
+      "Waning gibbous moon",
+      "waxing gibbous moon",
+      "New moon",
+      "Last quarter moon",
+      "First quarter moon",
+      "Waxing crescent moon"
     ]
   }
 ]
