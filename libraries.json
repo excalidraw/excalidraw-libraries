@@ -6768,7 +6768,7 @@
       "Boundary",
       "Vault",
       "Terraform"
-      ]
+    ]
   },
   {
     "name": " GitHub Actions",
@@ -6937,7 +6937,7 @@
       "Application Service Icon",
       "Data Object",
       "Data Object Icon"
-      ]
+    ]
   },
   {
     "name": "Checkmarks",
@@ -6982,6 +6982,49 @@
       "Big Chicken",
       "Little Chicken",
       "Medium Chicken"
+    ]
+  },
+  {
+    "name": "AWS Custom Icons",
+    "description": "AWS Icons & Panels",
+    "authors": [
+      {
+        "name": "SSS",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sss/aws-custom-icons.excalidrawlib",
+    "preview": "sss/aws-custom-icons.jpg",
+    "created": "2025-03-21",
+    "updated": "2025-03-21",
+    "version": 2,
+    "itemNames": [
+      "AWS Cloud",
+      "Private subnet",
+      "VPC",
+      "EKS panel",
+      "Region",
+      "Parameter store",
+      "IAM Role",
+      "Aurora",
+      "S3",
+      "X-Ray",
+      "Cloudwatch",
+      "AppConfig",
+      "KMS",
+      "AWS Certificate Manager",
+      "Cognito",
+      "API Gateway",
+      "SQS",
+      "SNS",
+      "SES",
+      "AWS Secrets Manager",
+      "Elasticache for Redis",
+      "Route 53",
+      "Cloudfront",
+      "LambdaEdge"
     ]
   }
 ]
