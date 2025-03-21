@@ -6985,6 +6985,31 @@
     ]
   },
   {
+    "name": "UML Component Diagram",
+    "description": "Different UML components used for making a component diagram. \r\nComponent diagram shows components, provided and required interfaces, ports, and relationships between them. \r\nThis type of diagrams is used in Component-Based Development (CBD) to describe systems with Service-Oriented Architecture (SOA).\r\nComponent-based development is based on assumptions that previously constructed components could be reused and that components could be replaced by some other \"equivalent\" or \"conformant\" components, if needed.",
+    "authors": [
+      {
+        "name": "Jordan Geurtsen",
+        "github": "https://github.com/JordanGeurtsen",
+        "twitter": "",
+        "url": "https://github.com/JordanGeurtsen"
+      }
+    ],
+    "source": "jordangeurtsen/uml-component-diagram.excalidrawlib",
+    "preview": "jordangeurtsen/uml-component-diagram.jpg",
+    "created": "2025-03-17",
+    "updated": "2025-03-17",
+    "version": 2,
+    "itemNames": [
+      "Dependency",
+      "Port",
+      "Provided interface",
+      "Required interface",
+      "Subsystem",
+      "Component"
+      ]
+  },
+  {
     "name": "CyberArk",
     "description": "Iconography related to CyberArk's Identity Security Platform, applications, components, servers, and target systems.",
     "authors": [
