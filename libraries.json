@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,26 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "World Map",
+    "description": "A detailed and customizable world map for Excalidraw. This library includes continents, countries, and major geographical features, making it perfect for presentations, educational purposes, or planning global projects. Easily drag and drop the map into your Excalidraw canvas and customize it to suit your needs.\r\n\"tags\": [\"World Map\", \"Geography\", \"Map\", \"Globe\", \"Continents\", \"Countries\", \"Educational\", \"Presentation\", \"Planning\", \"Customizable\"], Presented and published by by Nilesh Singandhupe",
+    "authors": [
+      {
+        "name": "Nilesh Singandhupe",
+        "github": "",
+        "twitter": "https://twitter.com/incognitoPrince",
+        "url": "https://twitter.com/incognitoPrince"
+      }
+    ],
+    "source": "incognitoprince/world-map.excalidrawlib",
+    "preview": "incognitoprince/world-map.jpg",
+    "created": "2025-03-22",
+    "updated": "2025-03-22",
+    "version": 2,
+    "itemNames": [
+      "World_Map"
     ]
   }
 ]
