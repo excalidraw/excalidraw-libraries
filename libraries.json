@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,37 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "Basic System Design",
+    "description": "Basic components of a system design. ",
+    "authors": [
+      {
+        "name": "Hossein",
+        "github": "https://github.com/@seinshah",
+        "twitter": "",
+        "url": "https://github.com/@seinshah"
+      }
+    ],
+    "source": "seinshah/basic-system-design.excalidrawlib",
+    "preview": "seinshah/basic-system-design.jpg",
+    "created": "2025-03-24",
+    "updated": "2025-03-24",
+    "version": 2,
+    "itemNames": [
+      "Third-Party Service",
+      "API Definition",
+      "Entities Definition",
+      "Message Queue",
+      "Service/Application",
+      "Database Schema",
+      "Database",
+      "Load Balancer",
+      "API Gateway",
+      "Client",
+      "Non-Functional Requirements",
+      "Functional Requirements"
     ]
   }
 ]
