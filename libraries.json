@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,26 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "Lennert's Bibliothek",
+    "description": "Hier ist erstmal nicht so viel drin, abgesehen von diesem Koordinaten-System",
+    "authors": [
+      {
+        "name": "Lennert Peikert",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "lennert-peikert/lennert-s-bibliothek.excalidrawlib",
+    "preview": "lennert-peikert/lennert-s-bibliothek.jpg",
+    "created": "2025-03-24",
+    "updated": "2025-03-24",
+    "version": 2,
+    "itemNames": [
+      "Koordinaten-System -12-12"
     ]
   }
 ]
