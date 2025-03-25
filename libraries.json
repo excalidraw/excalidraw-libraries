@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,32 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "MDL 2.0",
+    "description": "Minimalist Development Language Specification",
+    "authors": [
+      {
+        "name": "Lucas Kalb",
+        "github": "https://github.com/lucaskalb",
+        "twitter": "",
+        "url": "https://github.com/lucaskalb"
+      }
+    ],
+    "source": "lucaskalb/mdl-2-0.excalidrawlib",
+    "preview": "lucaskalb/mdl-2-0.jpg",
+    "created": "2025-03-25",
+    "updated": "2025-03-25",
+    "version": 2,
+    "itemNames": [
+      "user",
+      "back-end",
+      "front-end",
+      "data",
+      "blackbox",
+      "part",
+      "boundary"
     ]
   }
 ]
