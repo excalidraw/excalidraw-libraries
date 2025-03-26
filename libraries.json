@@ -4643,6 +4643,44 @@
     "id": "2Js6svFdFO9"
   },
   {
+    "name": "Hagens Structural Enginneering Library",
+    "description": "Some typical elements that are often used for structural engineering sketches ",
+    "authors": [
+      {
+        "name": "Hagen ",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "hagen/hagens-structural-enginneering-library.excalidrawlib",
+    "preview": "hagen/hagens-structural-enginneering-library.jpg",
+    "created": "2022-12-05",
+    "updated": "2022-12-05",
+    "version": 2,
+    "itemNames": [
+      "constant load",
+      "inclined load 1",
+      "inclined load 2",
+      "trapez load 1",
+      "trapez load 2",
+      "pipe section",
+      "I section",
+      "L section",
+      "u section",
+      "clamped BC",
+      "sliding hinged BC",
+      "fixed hinged BC",
+      "damper ",
+      "rotational spring",
+      "longitudinal spring",
+      "link ",
+      "soil ",
+      "big greek letters",
+      "small greek letters"
+    ]
+  },
+  {
     "name": "logic gates",
     "description": "some of the most used logic gates",
     "authors": [
