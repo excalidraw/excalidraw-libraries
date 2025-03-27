@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,26 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "RabbitMQ",
+    "description": "Shape of rabbitmq",
+    "authors": [
+      {
+        "name": "Marius",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "marius/rabbitmq.excalidrawlib",
+    "preview": "marius/rabbitmq.jpg",
+    "created": "2025-03-27",
+    "updated": "2025-03-27",
+    "version": 2,
+    "itemNames": [
+      "RabbitMQ"
     ]
   }
 ]
