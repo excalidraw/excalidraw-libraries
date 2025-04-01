@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,83 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "Veeam Icons 2025",
+    "description": "Re-designed icons used in Veeam projects",
+    "authors": [
+      {
+        "name": "Alexey Lebedev",
+        "github": "",
+        "twitter": "",
+        "url": "https://www.linkedin.com/in/allebedev/"
+      }
+    ],
+    "source": "alexey-lebedev/veeam-icons-2025.excalidrawlib",
+    "preview": "alexey-lebedev/veeam-icons-2025.jpg",
+    "created": "2025-04-01",
+    "updated": "2025-04-01",
+    "version": 2,
+    "itemNames": [
+      "Vault",
+      "Hardened Repository",
+      "Windows Repository",
+      "Deduplication Appliance",
+      "S3-Compatible",
+      "Cloud-based Object Storage",
+      "Cloud-based Cold Object Storage",
+      "Tapes",
+      "SOBR",
+      "VBR",
+      "VONE",
+      "VRO",
+      "VBEM",
+      "VSPC",
+      "VCC",
+      "VAW",
+      "VAL",
+      "VAM",
+      "VAIX",
+      "VAOS",
+      "VBAWS",
+      "VBAzure",
+      "VBGCP",
+      "VB365",
+      "VBSF",
+      "SAP HANA Plugin",
+      "MS SQL Plugin",
+      "RMAN Plugin",
+      "Cloud File Share",
+      "Cloud DB",
+      "Cloud VM",
+      "MS SQL DB",
+      "Oracle DB",
+      "PostgreSQL DB",
+      "SAP HANA DB",
+      "My SQL DB",
+      "NAS Filer",
+      "Bucket",
+      "Laptop",
+      "Workstation",
+      "Linux server",
+      "Windows server",
+      "Hypervisor ",
+      "Hypervisor Cluster",
+      "M365",
+      "Entra",
+      "Salesforce",
+      "Tape Server",
+      "Proxy Server",
+      "Cloud gateway",
+      "Google cloud",
+      "Azure Cloud",
+      "AWS cloud",
+      "Datacenter",
+      "VM",
+      "Storage",
+      "Datastore",
+      "Disk"
     ]
   }
 ]
