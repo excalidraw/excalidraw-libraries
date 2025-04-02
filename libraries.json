@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,28 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "Dimensions",
+    "description": "用于尺寸标准",
+    "authors": [
+      {
+        "name": "bang",
+        "github": "https://github.com/bangwb",
+        "twitter": "",
+        "url": "https://github.com/bangwb"
+      }
+    ],
+    "source": "bangwb/dimensions.excalidrawlib",
+    "preview": "bangwb/dimensions.jpg",
+    "created": "2025-04-02",
+    "updated": "2025-04-02",
+    "version": 2,
+    "itemNames": [
+      "线性-竖",
+      "线性-横",
+      "直径"
     ]
   }
 ]
