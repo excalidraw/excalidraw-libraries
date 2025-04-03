@@ -7034,7 +7034,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7105,6 +7105,26 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "VB",
+    "description": "vb",
+    "authors": [
+      {
+        "name": "vb",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "vb/vb.excalidrawlib",
+    "preview": "vb/vb.jpg",
+    "created": "2025-04-03",
+    "updated": "2025-04-03",
+    "version": 2,
+    "itemNames": [
+      "texte"
     ]
   }
 ]
