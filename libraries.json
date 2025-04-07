@@ -7037,7 +7037,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7108,6 +7108,26 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "supervisor_laravel_sqm",
+    "description": "supervisor_laravel_sqm",
+    "authors": [
+      {
+        "name": "Felipe Castro",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "felipe-castro/supervisor_laravel_sqm.excalidrawlib",
+    "preview": "felipe-castro/supervisor_laravel_sqm.jpg",
+    "created": "2025-04-07",
+    "updated": "2025-04-07",
+    "version": 2,
+    "itemNames": [
+      "supervisor_laravel_sqm"
     ]
   }
 ]
