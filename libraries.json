@@ -6695,6 +6695,33 @@
     ]
   },
   {
+    "name": "Collective operation",
+    "description": "8 Collective operation",
+    "authors": [
+      {
+        "name": "Jimmy",
+        "github": "https://github.com/https://github.com/jinmingyi1998",
+        "twitter": "",
+        "url": "https://www.jmyjmy.top"
+      }
+    ],
+    "source": "https-github-com-jinmingyi1998/collective-operation.excalidrawlib",
+    "preview": "https-github-com-jinmingyi1998/collective-operation.jpg",
+    "created": "2025-03-02",
+    "updated": "2025-03-02",
+    "version": 2,
+    "itemNames": [
+      "reduce scatter",
+      "all to all",
+      "all gather",
+      "all reduce",
+      "gather",
+      "reduce",
+      "broadcast",
+      "scatter"
+    ]
+  },
+  {
     "name": "Fortinet",
     "description": "Unofficial library of core Fortinet Products",
     "authors": [
