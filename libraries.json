@@ -7064,7 +7064,7 @@
       "Required interface",
       "Subsystem",
       "Component"
-      ]
+    ]
   },
   {
     "name": "CyberArk",
@@ -7135,6 +7135,40 @@
       "hacker",
       "desktop-pc",
       "hacked-pc"
+    ]
+  },
+  {
+    "name": "flowchart symbols",
+    "description": "all",
+    "authors": [
+      {
+        "name": "tea smith",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "tea-smith/flowchart-symbols.excalidrawlib",
+    "preview": "tea-smith/flowchart-symbols.jpg",
+    "created": "2025-04-12",
+    "updated": "2025-04-12",
+    "version": 2,
+    "itemNames": [
+      "Off-page Connector",
+      "Connector",
+      "Delay",
+      "Preparation / Initialization",
+      "Database",
+      "Or",
+      "And",
+      "Input / Output",
+      "Predefined Process",
+      "Manaual Input",
+      "Multiple Document",
+      "Document",
+      "Decision",
+      "Process",
+      "Start / End"
     ]
   }
 ]
