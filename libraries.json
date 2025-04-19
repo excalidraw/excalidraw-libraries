@@ -7153,5 +7153,25 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Planner",
+    "description": "This will provide daily/ weekly planner",
+    "authors": [
+      {
+        "name": "kartik",
+        "github": "https://github.com/kartiks26",
+        "twitter": "https://twitter.com/pratikartik",
+        "url": "https://kartik.vercel.app/"
+      }
+    ],
+    "source": "kartiks26/planner.excalidrawlib",
+    "preview": "kartiks26/planner.jpg",
+    "created": "2025-04-06",
+    "updated": "2025-04-06",
+    "version": 2,
+    "itemNames": [
+      "month_planner"
+    ]
   }
 ]
