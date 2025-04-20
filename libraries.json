@@ -7153,5 +7153,26 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Batteries",
+    "description": "Batteries",
+    "authors": [
+      {
+        "name": "Varun",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "varun/batteries.excalidrawlib",
+    "preview": "varun/batteries.jpg",
+    "created": "2025-04-20",
+    "updated": "2025-04-20",
+    "version": 2,
+    "itemNames": [
+      "Normal Battery",
+      "Battery with some percent charging"
+    ]
   }
 ]
