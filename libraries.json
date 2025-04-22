@@ -7153,5 +7153,31 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Diagram Pseudocode",
+    "description": "This library is an option to pseint ",
+    "authors": [
+      {
+        "name": "Mariano Torres Leyva",
+        "github": "https://github.com/https://github.com/marianotorresleyva",
+        "twitter": "",
+        "url": "https://marianotorresleyva.wordpress.com/"
+      }
+    ],
+    "source": "https-github-com-marianotorresleyva/diagram-pseudocode.excalidrawlib",
+    "preview": "https-github-com-marianotorresleyva/diagram-pseudocode.jpg",
+    "created": "2025-04-22",
+    "updated": "2025-04-22",
+    "version": 2,
+    "itemNames": [
+      "Inicio/Fin",
+      "Proceso",
+      "Inicio/Opcion",
+      "Decision",
+      "Lectura/escritura",
+      "Comentario",
+      "Direccion"
+    ]
   }
 ]
