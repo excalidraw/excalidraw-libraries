@@ -7153,5 +7153,30 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Diagrama de flujo",
+    "description": "Diagrama de flujo orientado a la programacion",
+    "authors": [
+      {
+        "name": "Matias",
+        "github": "https://github.com/mateyyyy",
+        "twitter": "",
+        "url": "https://github.com/mateyyyy"
+      }
+    ],
+    "source": "mateyyyy/diagrama-de-flujo.excalidrawlib",
+    "preview": "mateyyyy/diagrama-de-flujo.jpg",
+    "created": "2025-04-22",
+    "updated": "2025-04-22",
+    "version": 2,
+    "itemNames": [
+      "Módulo de un problema",
+      "Inicio o fin",
+      "Decisión.",
+      "Datos de entrada",
+      "Proceso",
+      "Escritura"
+    ]
   }
 ]
