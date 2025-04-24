@@ -7153,5 +7153,31 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Logic Gates (IEC Style)",
+    "description": "Logic gates in IEC notation.",
+    "authors": [
+      {
+        "name": "tyrandus",
+        "github": "https://github.com/tyrandus",
+        "twitter": "",
+        "url": "https://github.com/tyrandus"
+      }
+    ],
+    "source": "tyrandus/logic-gates-iec-style.excalidrawlib",
+    "preview": "tyrandus/logic-gates-iec-style.jpg",
+    "created": "2025-04-24",
+    "updated": "2025-04-24",
+    "version": 2,
+    "itemNames": [
+      "XNOR-IEC",
+      "XOR-IEC",
+      "NOR-IEC",
+      "OR-IEC",
+      "NAND-IEC",
+      "AND-IEC",
+      "INV-IEC"
+    ]
   }
 ]
