@@ -7153,5 +7153,25 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Network",
+    "description": "8 Port network switch",
+    "authors": [
+      {
+        "name": "Rizan",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "rizan/network.excalidrawlib",
+    "preview": "rizan/network.jpg",
+    "created": "2025-03-25",
+    "updated": "2025-03-25",
+    "version": 2,
+    "itemNames": [
+      "8 Port switch"
+    ]
   }
 ]
