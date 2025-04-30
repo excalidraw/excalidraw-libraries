@@ -7153,5 +7153,37 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "LeanIX Meta Model",
+    "description": "Components of the LeanIX Meta Model V4 to help sketch out relationships in Enterprise Architecture\r\n\r\nhttps://docs-eam.leanix.net/docs/meta-model",
+    "authors": [
+      {
+        "name": "Chris",
+        "github": "https://github.com/thekensta",
+        "twitter": "",
+        "url": "https://github.com/thekensta"
+      }
+    ],
+    "source": "thekensta/leanix-meta-model.excalidrawlib",
+    "preview": "thekensta/leanix-meta-model.jpg",
+    "created": "2025-04-30",
+    "updated": "2025-04-30",
+    "version": 2,
+    "itemNames": [
+      "Object",
+      "Platform",
+      "Initiative",
+      "Organization",
+      "Business Capability",
+      "Business Context",
+      "Data Object",
+      "Application",
+      "Interface",
+      "Provider",
+      "IT Component",
+      "Tech Category",
+      "Relationships"
+    ]
   }
 ]
