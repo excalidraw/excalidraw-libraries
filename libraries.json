@@ -7153,5 +7153,25 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "db",
+    "description": "test",
+    "authors": [
+      {
+        "name": "test",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "test/db.excalidrawlib",
+    "preview": "test/db.jpg",
+    "created": "2025-04-07",
+    "updated": "2025-04-07",
+    "version": 2,
+    "itemNames": [
+      "database"
+    ]
   }
 ]
