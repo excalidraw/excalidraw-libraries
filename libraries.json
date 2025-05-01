@@ -7153,5 +7153,60 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Block letters and numbers",
+    "description": "The library contains uppercase block letters (A-Z) and digits (0-9)\r\nNote: To change the fill and outline of letters with enclosed areas (A, B, D, O, P, Q, R, 0, 6, 8, 9), ungroup the object and adjust the fill and outline separately. Set the outline of the inner filled area to transparent to ensure a clean appearance",
+    "authors": [
+      {
+        "name": "Amrutha",
+        "github": "https://github.com/Amrutha21A",
+        "twitter": "",
+        "url": "https://github.com/Amrutha21A"
+      }
+    ],
+    "source": "amrutha21a/block-letters-and-numbers.excalidrawlib",
+    "preview": "amrutha21a/block-letters-and-numbers.jpg",
+    "created": "2025-03-23",
+    "updated": "2025-03-23",
+    "version": 2,
+    "itemNames": [
+      "Uppercase A",
+      "Uppercase B",
+      "Uppercase C",
+      "Uppercase D",
+      "Uppercase E",
+      "Uppercase F",
+      "Uppercase G",
+      "Uppercase H",
+      "Uppercase I",
+      "Uppercase J",
+      "Uppercase K",
+      "Uppercase L",
+      "Uppercase M",
+      "Uppercase N",
+      "Uppercase O",
+      "Uppercase P",
+      "Uppercase Q",
+      "Uppercase R",
+      "Uppercase S",
+      "Uppercase T",
+      "Uppercase U",
+      "Uppercase V",
+      "Uppercase W",
+      "Uppercase X",
+      "Uppercase Y",
+      "Uppercase Z",
+      "Digit 0",
+      "Digit 1",
+      "Digit 2",
+      "Digit 3",
+      "Digit 4",
+      "Digit 5",
+      "Digit 6",
+      "Digit 7",
+      "Digit 8",
+      "Digit 9"
+    ]
   }
 ]
