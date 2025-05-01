@@ -7153,5 +7153,33 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Shivam System Design",
+    "description": "This library is for system design",
+    "authors": [
+      {
+        "name": "Shivam Gupta",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "shivam-gupta/shivam-system-design.excalidrawlib",
+    "preview": "shivam-gupta/shivam-system-design.jpg",
+    "created": "2025-05-01",
+    "updated": "2025-05-01",
+    "version": 2,
+    "itemNames": [
+      "Messgage Q",
+      "FRD",
+      "Design Name",
+      "Load Balancer",
+      "Pipeline",
+      "DB",
+      "Client",
+      "Cache",
+      "Microservice"
+    ]
   }
 ]
