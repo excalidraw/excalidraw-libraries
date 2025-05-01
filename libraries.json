@@ -7153,5 +7153,32 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "IEC Logic Gates",
+    "description": "Common logic gates as defined by IEC",
+    "authors": [
+      {
+        "name": "Niklas Treml",
+        "github": "https://github.com/niklastreml",
+        "twitter": "",
+        "url": "https://github.com/niklastreml"
+      }
+    ],
+    "source": "niklastreml/iec-logic-gates.excalidrawlib",
+    "preview": "niklastreml/iec-logic-gates.jpg",
+    "created": "2025-05-01",
+    "updated": "2025-05-01",
+    "version": 2,
+    "itemNames": [
+      "NAND",
+      "NOR",
+      "XNOR",
+      "Node",
+      "Inverter",
+      "XOR",
+      "OR",
+      "AND"
+    ]
   }
 ]
