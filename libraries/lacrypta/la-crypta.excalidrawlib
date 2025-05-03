@@ -1,0 +1,150 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "WTTay_4VXnsi60A0EodV8",
+          "type": "ellipse",
+          "x": 1826.6276041666622,
+          "y": -179.47395833333292,
+          "width": 597.4479166666663,
+          "height": 488.05989583333314,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "u9f0P4O2eF9AVlinRRgDJ"
+          ],
+          "frameId": null,
+          "index": "a9",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 2051764059,
+          "version": 88,
+          "versionNonce": 2060842267,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "1W924UVMSqKgwm8cWjXXG",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1715285691158,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "RxLxxWhwI6lXmun_uA6tf",
+          "type": "line",
+          "x": 2418.6197916666624,
+          "y": 80.76041666666697,
+          "width": 382.56510416666674,
+          "height": 0.9114583333332575,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "u9f0P4O2eF9AVlinRRgDJ"
+          ],
+          "frameId": null,
+          "index": "aA",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 953733301,
+          "version": 119,
+          "versionNonce": 1032044053,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1715285691158,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -382.56510416666674,
+              -0.9114583333332575
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null
+        },
+        {
+          "type": "line",
+          "version": 252,
+          "versionNonce": 472816059,
+          "index": "aB",
+          "isDeleted": false,
+          "id": "1W924UVMSqKgwm8cWjXXG",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 2356.903248138845,
+          "y": 71.80835834182834,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 275.6119791666665,
+          "height": 246.9921874999999,
+          "seed": 936558325,
+          "groupIds": [
+            "u9f0P4O2eF9AVlinRRgDJ"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1715285691158,
+          "link": null,
+          "locked": false,
+          "startBinding": null,
+          "endBinding": {
+            "elementId": "WTTay_4VXnsi60A0EodV8",
+            "focus": -0.5528270071166839,
+            "gap": 1
+          },
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -275.6119791666665,
+              -246.9921874999999
+            ]
+          ]
+        }
+      ],
+      "id": "mRtRq68tr1eGnbgTHelgr",
+      "created": 1715285693918,
+      "name": "logo"
+    }
+  ]
+}
