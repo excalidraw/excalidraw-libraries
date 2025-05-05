@@ -7153,5 +7153,61 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Databricks icons",
+    "description": "Databricks workspace's icon collection",
+    "authors": [
+      {
+        "name": "Pawel Bednarski",
+        "github": "https://github.com/p17b",
+        "twitter": "",
+        "url": "https://github.com/p17b"
+      }
+    ],
+    "source": "p17b/databricks-icons.excalidrawlib",
+    "preview": "p17b/databricks-icons.jpg",
+    "created": "2025-05-05",
+    "updated": "2025-05-05",
+    "version": 2,
+    "itemNames": [
+      "table",
+      "view",
+      "ingestion",
+      "lineage",
+      "vector search",
+      "volume",
+      "marketplace",
+      "compute",
+      "catalog",
+      "features",
+      "playground",
+      "jobs run",
+      "data ingestion",
+      "serving point",
+      "sql warehouse",
+      "git folder",
+      "databricks app",
+      "experiments",
+      "alert",
+      "dlt pipeline",
+      "dashboard",
+      "query",
+      "unity catalog",
+      "unity catalog OS",
+      "notebook",
+      "job",
+      "foreign key",
+      "primary key",
+      "ai assistant",
+      "delta share",
+      "catalog outside workspace",
+      "delta sahre catalog",
+      "model",
+      "function",
+      "schema",
+      "system catalog",
+      "default catalog"
+    ]
   }
 ]
