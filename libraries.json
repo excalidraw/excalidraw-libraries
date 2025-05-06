@@ -7153,5 +7153,36 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Prometheus Design Tool (PDT)",
+    "description": "Icons from the Prometheus Design Tool (PDT) for agent modeling https://dl.acm.org/doi/10.5555/1620270.1620400",
+    "authors": [
+      {
+        "name": "zachparent",
+        "github": "https://github.com/zachparent",
+        "twitter": "",
+        "url": "https://github.com/zachparent"
+      }
+    ],
+    "source": "zachparent/prometheus-design-tool-pdt.excalidrawlib",
+    "preview": "zachparent/prometheus-design-tool-pdt.jpg",
+    "created": "2025-05-06",
+    "updated": "2025-05-06",
+    "version": 2,
+    "itemNames": [
+      "Capability",
+      "Role",
+      "Plan",
+      "Data",
+      "Goal",
+      "Software Agent",
+      "Actor",
+      "Role",
+      "Action",
+      "Protocol",
+      "Percept",
+      "Scenario"
+    ]
   }
 ]
