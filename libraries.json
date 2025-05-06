@@ -7153,5 +7153,32 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Data Pipeline images",
+    "description": "Data pipeline images",
+    "authors": [
+      {
+        "name": "sritikas",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sritikas/data-pipeline-images.excalidrawlib",
+    "preview": "sritikas/data-pipeline-images.jpg",
+    "created": "2025-05-06",
+    "updated": "2025-05-06",
+    "version": 2,
+    "itemNames": [
+      "CloudSearch",
+      "EMR",
+      "Lake Formation",
+      "Data Lake",
+      "Glue",
+      "DataCatalog",
+      "S3",
+      "IAM"
+    ]
   }
 ]
