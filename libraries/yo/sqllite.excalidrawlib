@@ -1,0 +1,53 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "YfPxcxOOK2X9jQcaP0N50",
+          "type": "text",
+          "x": 550.7839557627746,
+          "y": -875.5174889942955,
+          "width": 607.19921875,
+          "height": 162,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "a8",
+          "roundness": null,
+          "seed": 1942827275,
+          "version": 135,
+          "versionNonce": 1636969807,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1746660762670,
+          "link": null,
+          "locked": false,
+          "text": "* Sincronizacion:\nDetecta cambios nuevos (usando flags isSynced, lastUpdated, etc.).\n\nSube primero los datos no sincronizados desde SQLite a Firestore.\n\nLuego actualiza datos locales desde Firestore a SQLite.",
+          "fontSize": 20,
+          "fontFamily": 6,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "* Sincronizacion:\nDetecta cambios nuevos (usando flags isSynced, lastUpdated, etc.).\n\nSube primero los datos no sincronizados desde SQLite a Firestore.\n\nLuego actualiza datos locales desde Firestore a SQLite.",
+          "autoResize": true,
+          "lineHeight": 1.35
+        }
+      ],
+      "id": "56_O-esB4MSTwpKeU-DPI",
+      "created": 1746660776699,
+      "error": "Requerido",
+      "name": "SqlLite"
+    }
+  ]
+}
