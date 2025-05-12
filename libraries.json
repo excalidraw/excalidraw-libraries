@@ -7153,5 +7153,44 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Pathology",
+    "description": "A library regrouping simple figures for AI for pathlogy",
+    "authors": [
+      {
+        "name": "Simon Thomine",
+        "github": "https://github.com/SimonThomine",
+        "twitter": "",
+        "url": "https://simonthomine.github.io/"
+      }
+    ],
+    "source": "simonthomine/pathology.excalidrawlib",
+    "preview": "simonthomine/pathology.jpg",
+    "created": "2025-05-12",
+    "updated": "2025-05-12",
+    "version": 2,
+    "itemNames": [
+      "MIL histology",
+      "MIL cytology",
+      "Embedding",
+      "Patch histo 1",
+      "Patch histo 2",
+      "Patch histo 3",
+      "Patch histo 4",
+      "Cell cyto 1",
+      "Cell cyto 2",
+      "Cell cyto 3",
+      "Cell cyto 4",
+      "Patch cyto 1",
+      "Patch cyto 2",
+      "Patch cyto 3",
+      "Patch cyto 4",
+      "Bag embeddings",
+      "Bag histology",
+      "Bag cytology",
+      "WSI cytology",
+      "WSI histology"
+    ]
   }
 ]
