@@ -7153,5 +7153,26 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Piano Roll",
+    "description": "Contains piano roll in two orientations: horizontal and vertical (like in most modern DAWs).\r\nCan be used for self-study or as a teaching aid for explaining and set up drills and exercises.",
+    "authors": [
+      {
+        "name": "ax",
+        "github": "https://github.com/architectxor",
+        "twitter": "",
+        "url": "https://github.com/architectxor"
+      }
+    ],
+    "source": "architectxor/piano-roll.excalidrawlib",
+    "preview": "architectxor/piano-roll.jpg",
+    "created": "2025-05-12",
+    "updated": "2025-05-12",
+    "version": 2,
+    "itemNames": [
+      "piano roll, vertical",
+      "piano roll"
+    ]
   }
 ]
