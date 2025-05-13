@@ -7153,5 +7153,26 @@
       "desktop-pc",
       "hacked-pc"
     ]
+  },
+  {
+    "name": "Mobile platform icons",
+    "description": "Icons for iOS and Android",
+    "authors": [
+      {
+        "name": "Giorgio Polvara",
+        "github": "https://github.com/Gpx",
+        "twitter": "https://twitter.com/Gpx",
+        "url": "https://polvara.me"
+      }
+    ],
+    "source": "gpx/mobile-platform-icons.excalidrawlib",
+    "preview": "gpx/mobile-platform-icons.jpg",
+    "created": "2025-05-13",
+    "updated": "2025-05-13",
+    "version": 2,
+    "itemNames": [
+      "Apple",
+      "Android"
+    ]
   }
 ]
