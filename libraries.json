@@ -7192,5 +7192,44 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Popsy Power BI",
+    "description": "PowerBI Azure SQL Server SQLServer Airflow",
+    "authors": [
+      {
+        "name": "Favesga",
+        "github": "https://github.com/favesga",
+        "twitter": "",
+        "url": "https://github.com/favesga"
+      }
+    ],
+    "source": "favesga/popsy-power-bi.excalidrawlib",
+    "preview": "favesga/popsy-power-bi.jpg",
+    "created": "2025-05-14",
+    "updated": "2025-05-14",
+    "version": 2,
+    "itemNames": [
+      "Power BI",
+      "Fabric",
+      "Data Warehouse",
+      "Power BI",
+      "Copilot",
+      "Mirrored SQL Database",
+      "Pipeline",
+      "Airflow Job",
+      "Dashboard",
+      "Report",
+      "App",
+      "Scorecard",
+      "Semantic Model",
+      "Dataflow Gen1",
+      "Folder",
+      "Excel File",
+      "Generic Table",
+      "SQL Database",
+      "Developer",
+      "Users"
+    ]
   }
 ]
