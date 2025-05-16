@@ -1,0 +1,169 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.ischool.utoronto.ca",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "KVydmWugWqLB6uRUgsSxA",
+          "type": "rectangle",
+          "x": 3523.4314389324777,
+          "y": 157.11798244968452,
+          "width": 149.73012584529124,
+          "height": 131.0138601146299,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ffc9c9",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b1S",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 292300705,
+          "version": 30,
+          "versionNonce": 1228935297,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "wXeOY8lH-cKbOxAw5LnLQ",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1747243361931,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "slQWu3Czaa4h1hsAS7Fth",
+          "type": "diamond",
+          "x": 3504.7151732018165,
+          "y": 398.98972419977054,
+          "width": 182.84351906107713,
+          "height": 156.92868958785357,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b1T",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1196703919,
+          "version": 67,
+          "versionNonce": 1088316111,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "wXeOY8lH-cKbOxAw5LnLQ",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1747243366210,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "5He2Xdd0KpjHAhJEVQUog",
+          "type": "ellipse",
+          "x": 3755.2251914429767,
+          "y": 134.08257847348568,
+          "width": 192.92150830066385,
+          "height": 182.84351906107702,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b1U",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1524757153,
+          "version": 38,
+          "versionNonce": 1548901071,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1747243356551,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "wXeOY8lH-cKbOxAw5LnLQ",
+          "type": "arrow",
+          "x": 3597.307259416452,
+          "y": 293.8673439944,
+          "width": 0.18399113584246152,
+          "height": 106.56867661543055,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b1V",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1776968065,
+          "version": 41,
+          "versionNonce": 1741107439,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1747243366210,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -0.18399113584246152,
+              106.56867661543055
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": {
+            "elementId": "KVydmWugWqLB6uRUgsSxA",
+            "focus": 0.019230769230756548,
+            "gap": 8.638276491074521
+          },
+          "endBinding": {
+            "elementId": "slQWu3Czaa4h1hsAS7Fth",
+            "focus": 0.009174311926606967,
+            "gap": 3.4985721394933766
+          },
+          "startArrowhead": null,
+          "endArrowhead": "arrow",
+          "elbowed": false
+        }
+      ],
+      "id": "KeHUc1lYvpAILhAayFc0G",
+      "created": 1747245467299,
+      "name": "Test"
+    }
+  ]
+}
