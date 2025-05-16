@@ -7194,5 +7194,32 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "keyboard",
+    "description": "Featuring Tab, Shift, Ctrl, Alt, and Windows keys, designed for those who need to visually explain keyboard shortcuts and key combinations clearly.",
+    "authors": [
+      {
+        "name": "Valerio",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "valerio/keyboard.excalidrawlib",
+    "preview": "valerio/keyboard.jpg",
+    "created": "2025-05-16",
+    "updated": "2025-05-16",
+    "version": 2,
+    "itemNames": [
+      "Void small",
+      "Void large",
+      "Win",
+      "Tab",
+      "Bloc maiusc",
+      "Shift",
+      "Ctrl",
+      "Alt"
+    ]
   }
 ]
