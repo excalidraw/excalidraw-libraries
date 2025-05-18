@@ -7194,5 +7194,26 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Basic Shapes",
+    "description": "Basic Shapes",
+    "authors": [
+      {
+        "name": "AD",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ad/basic-shapes.excalidrawlib",
+    "preview": "ad/basic-shapes.jpg",
+    "created": "2025-05-18",
+    "updated": "2025-05-18",
+    "version": 2,
+    "itemNames": [
+      "db",
+      "queue"
+    ]
   }
 ]
