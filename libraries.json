@@ -7194,5 +7194,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "templates",
+    "description": "these are frame templates for various usage for ex a4 page for taking notes etc",
+    "authors": [
+      {
+        "name": "yashvantvadje",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "yashvantvadje/templates.excalidrawlib",
+    "preview": "yashvantvadje/templates.jpg",
+    "created": "2025-05-18",
+    "updated": "2025-05-18",
+    "version": 2,
+    "itemNames": [
+      "A4 page 300 dpi template"
+    ]
   }
 ]
