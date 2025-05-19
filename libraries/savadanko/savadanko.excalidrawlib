@@ -1,0 +1,83 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "id": "jtI4yj1UNQKRfqQ4NEKWt",
+      "status": "published",
+      "elements": [
+        {
+          "id": "z--Z8AshGSwL4RzTU54UO",
+          "type": "rectangle",
+          "x": -556.7420505195312,
+          "y": 180.219922,
+          "width": 291.205810546875,
+          "height": 219.14102277734372,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "aG",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 337810660,
+          "version": 151,
+          "versionNonce": 630832228,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1747587525300,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "xDBpvoJI",
+          "type": "text",
+          "x": -516.2978970898437,
+          "y": 206.74798356517692,
+          "width": 210.3175048828125,
+          "height": 160.24951171875,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "aH",
+          "roundness": null,
+          "seed": 2016636508,
+          "version": 350,
+          "versionNonce": 1353224796,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1747587597062,
+          "link": null,
+          "locked": false,
+          "text": "MOV R1, O2H\nMOV R2, O3H\nADD R1, R2\nSTORE X, R1",
+          "rawText": "MOV R1, O2H\nMOV R2, O3H\nADD R1, R2\nSTORE X, R1",
+          "fontSize": 32.04990234375,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "MOV R1, O2H\nMOV R2, O3H\nADD R1, R2\nSTORE X, R1",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1747587696446,
+      "name": "Asm"
+    }
+  ]
+}
