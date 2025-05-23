@@ -7194,5 +7194,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "physic",
+    "description": "for the maths",
+    "authors": [
+      {
+        "name": "mars",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "mars/physic.excalidrawlib",
+    "preview": "mars/physic.jpg",
+    "created": "2025-05-23",
+    "updated": "2025-05-23",
+    "version": 2,
+    "itemNames": [
+      "physic periodic"
+    ]
   }
 ]
