@@ -7243,5 +7243,30 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "European Logic Gates",
+    "description": "The six main european logic gate symbols.",
+    "authors": [
+      {
+        "name": "denode",
+        "github": "https://github.com/eigentlichnurluca2",
+        "twitter": "",
+        "url": "https://github.com/eigentlichnurluca2"
+      }
+    ],
+    "source": "eigentlichnurluca2/european-logic-gates.excalidrawlib",
+    "preview": "eigentlichnurluca2/european-logic-gates.jpg",
+    "created": "2025-05-27",
+    "updated": "2025-05-27",
+    "version": 2,
+    "itemNames": [
+      "AND-Gate",
+      "OR-Gate",
+      "XOR-Gate",
+      "NAND-Gate",
+      "NOR-Gate",
+      "INV-Gate"
+    ]
   }
 ]
