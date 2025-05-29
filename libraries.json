@@ -7243,5 +7243,27 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "hexagon  tessellation",
+    "description": "A collection of hexagonal tiles intended for making maps, especially for D&D",
+    "authors": [
+      {
+        "name": "Abdool Zaid",
+        "github": "https://github.com/Abdool-Zaid",
+        "twitter": "",
+        "url": "https://github.com/Abdool-Zaid"
+      }
+    ],
+    "source": "abdool-zaid/hexagon-tessellation.excalidrawlib",
+    "preview": "abdool-zaid/hexagon-tessellation.jpg",
+    "created": "2025-05-29",
+    "updated": "2025-05-29",
+    "version": 2,
+    "itemNames": [
+      "large hexagon tile",
+      "medium hexagon tile",
+      "small hexagon tile"
+    ]
   }
 ]
