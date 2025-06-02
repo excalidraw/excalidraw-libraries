@@ -7243,5 +7243,35 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Event-driven process chain (EPC)",
+    "description": "An event-driven process chain (EPC) is a type of flow chart for business process modeling.\r\n\r\nIt was was developed within the framework of Architecture of Integrated Information Systems (ARIS) by August-Wilhelm Scheer at the Institut für Wirtschaftsinformatik, Universität des Saarlandes (Institute for Business Information Systems at the University of Saarland) in the early 1990s.",
+    "authors": [
+      {
+        "name": "Christian Hinrichs",
+        "github": "https://github.com/chh1107",
+        "twitter": "",
+        "url": "https://en.wikipedia.org/wiki/Architecture_of_Integrated_Information_Systems"
+      }
+    ],
+    "source": "chh1107/event-driven-process-chain-epc.excalidrawlib",
+    "preview": "chh1107/event-driven-process-chain-epc.jpg",
+    "created": "2025-05-16",
+    "updated": "2025-05-16",
+    "version": 2,
+    "itemNames": [
+      "Association",
+      "Information Flow",
+      "Control Flow",
+      "Supporting System",
+      "Organization Unit",
+      "Information Object",
+      "XOR",
+      "OR",
+      "AND",
+      "Function",
+      "Event"
+    ]
   }
 ]
