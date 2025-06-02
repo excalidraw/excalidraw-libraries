@@ -7243,5 +7243,46 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "systemdesign",
+    "description": "system design",
+    "authors": [
+      {
+        "name": "jbeeram",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jbeeram/systemdesign.excalidrawlib",
+    "preview": "jbeeram/systemdesign.jpg",
+    "created": "2024-06-03",
+    "updated": "2024-06-03",
+    "version": 2,
+    "itemNames": [
+      "internet",
+      "tsdb",
+      "webserver",
+      "client",
+      "dns",
+      "cdn",
+      "iam",
+      "loadbalancer",
+      "apigwy",
+      "kafka",
+      "pipeline",
+      "mq",
+      "notifications",
+      "cache",
+      "objectstore",
+      "rdbms",
+      "columnar",
+      "documentdb",
+      "search",
+      "graph",
+      "keyvalue",
+      "nosql"
+    ]
   }
 ]
