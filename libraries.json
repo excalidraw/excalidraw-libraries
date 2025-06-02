@@ -7243,5 +7243,39 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Matth Logic",
+    "description": "Some logic symbols",
+    "authors": [
+      {
+        "name": "Márcio Dias",
+        "github": "https://github.com/marciodojr",
+        "twitter": "",
+        "url": "https://github.com/marciodojr"
+      }
+    ],
+    "source": "marciodojr/matth-logic.excalidrawlib",
+    "preview": "marciodojr/matth-logic.jpg",
+    "created": "2022-12-10",
+    "updated": "2022-12-10",
+    "version": 2,
+    "itemNames": [
+      "Not Semantic Consequence",
+      "Semantic Consequence",
+      "Not Syntactic Consequence",
+      "Syntactic Consequence",
+      "Tautology",
+      "Not Equal",
+      "Equal",
+      "Biconditional",
+      "Conditional",
+      "Existential Quantifier",
+      "Universal Quantifier",
+      "Conjunction",
+      "Disjunction",
+      "Negation",
+      "Truth Table Example"
+    ]
   }
 ]
