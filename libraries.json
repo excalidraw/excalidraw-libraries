@@ -7243,5 +7243,28 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "FRONTEND Flow diagram",
+    "description": "this is a flow diagram that frontend can use",
+    "authors": [
+      {
+        "name": "G S ASHISH",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "g-s-ashish/frontend-flow-diagram.excalidrawlib",
+    "preview": "g-s-ashish/frontend-flow-diagram.jpg",
+    "created": "2025-06-04",
+    "updated": "2025-06-04",
+    "version": 2,
+    "itemNames": [
+      "SLIDER",
+      "CTA",
+      "TABS",
+      "Page"
+    ]
   }
 ]
