@@ -7243,5 +7243,27 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "UI devices",
+    "description": "Devices for UI's - feel free to resize them to your needs",
+    "authors": [
+      {
+        "name": "Patrick Gower",
+        "github": "https://github.com/curious-liberal",
+        "twitter": "",
+        "url": "https://github.com/curious-liberal"
+      }
+    ],
+    "source": "curious-liberal/ui-devices.excalidrawlib",
+    "preview": "curious-liberal/ui-devices.jpg",
+    "created": "2025-06-11",
+    "updated": "2025-06-11",
+    "version": 2,
+    "itemNames": [
+      "iPad",
+      "iPhone",
+      "Mac"
+    ]
   }
 ]
