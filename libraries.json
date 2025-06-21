@@ -7243,5 +7243,30 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Microscope Chronicle Cards",
+    "description": "For the playtest of Microscope Chronicle by Ben Robbins.",
+    "authors": [
+      {
+        "name": "toothmonster",
+        "github": "",
+        "twitter": "",
+        "url": "https://www.lamemage.com/microscope-chronicle/"
+      }
+    ],
+    "source": "toothmonster/microscope-chronicle-cards.excalidrawlib",
+    "preview": "toothmonster/microscope-chronicle-cards.jpg",
+    "created": "2025-06-21",
+    "updated": "2025-06-21",
+    "version": 2,
+    "itemNames": [
+      "Scene Card",
+      "Turn Order",
+      "Palette",
+      "Anchor Card",
+      "Event Card",
+      "Period Card"
+    ]
   }
 ]
