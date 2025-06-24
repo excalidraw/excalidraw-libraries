@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "pwned",
+    "description": "pwned",
+    "authors": [
+      {
+        "name": "pwned",
+        "github": "https://github.com/pwned",
+        "twitter": "https://twitter.com/pwned",
+        "url": "https://pwned.com"
+      }
+    ],
+    "source": "pwned/pwned.excalidrawlib",
+    "preview": "pwned/pwned.png",
+    "created": "2025-06-24",
+    "updated": "2025-06-24",
+    "version": 2,
+    "itemNames": [
+      "Final RCE"
+    ]
   }
 ]
