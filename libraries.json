@@ -7243,5 +7243,35 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "C4 Model",
+    "description": "A simple C4 Model library",
+    "authors": [
+      {
+        "name": "Duke",
+        "github": "https://github.com/dukex",
+        "twitter": "",
+        "url": "https://github.com/dukex"
+      }
+    ],
+    "source": "dukex/c4-model.excalidrawlib",
+    "preview": "dukex/c4-model.jpg",
+    "created": "2025-06-23",
+    "updated": "2025-06-23",
+    "version": 2,
+    "itemNames": [
+      "Software System",
+      "Component",
+      "Container Frame",
+      "Software System Frame",
+      "Relationship",
+      "Person",
+      "Software System External",
+      "Container",
+      "Container Web",
+      "Container DB",
+      "Container"
+    ]
   }
 ]
