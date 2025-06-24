@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "test",
+    "description": "test",
+    "authors": [
+      {
+        "name": "test",
+        "github": "https://github.com/test",
+        "twitter": "https://twitter.com/test",
+        "url": "https://test.com"
+      }
+    ],
+    "source": "test/test.excalidrawlib",
+    "preview": "test/test.png",
+    "created": "2025-06-24",
+    "updated": "2025-06-24",
+    "version": 2,
+    "itemNames": [
+      "Test xxd_hex"
+    ]
   }
 ]
