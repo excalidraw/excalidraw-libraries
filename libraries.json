@@ -7243,5 +7243,41 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "web-app-icons",
+    "description": "A really simple library with generic http, pubsub and database icons",
+    "authors": [
+      {
+        "name": "Thales Monteiro",
+        "github": "https://github.com/tmontdev",
+        "twitter": "",
+        "url": "https://github.com/tmontdev"
+      }
+    ],
+    "source": "tmontdev/web-app-icons.excalidrawlib",
+    "preview": "tmontdev/web-app-icons.jpg",
+    "created": "2025-06-25",
+    "updated": "2025-06-25",
+    "version": 2,
+    "itemNames": [
+      "SQL Database",
+      "Database",
+      "PubSub Subscribe",
+      "PubSub Publish",
+      "Publish",
+      "PubSub",
+      "Stream",
+      "https",
+      "http",
+      "web",
+      "method options",
+      "method head",
+      "method delete",
+      "method patch",
+      "method post",
+      "method put",
+      "method get"
+    ]
   }
 ]
