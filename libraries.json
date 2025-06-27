@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "patent_app",
+    "description": "overall schema of patent application",
+    "authors": [
+      {
+        "name": "Edouard Godineau",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "edouard-godineau/patent_app.excalidrawlib",
+    "preview": "edouard-godineau/patent_app.jpg",
+    "created": "2025-06-27",
+    "updated": "2025-06-27",
+    "version": 2,
+    "itemNames": [
+      "patent_application"
+    ]
   }
 ]
