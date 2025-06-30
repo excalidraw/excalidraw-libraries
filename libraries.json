@@ -7243,5 +7243,37 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Simple Networking Devices",
+    "description": "A library to sketch simple networking architectures using common network devices.",
+    "authors": [
+      {
+        "name": "notrewd",
+        "github": "https://github.com/notrewd",
+        "twitter": "",
+        "url": "https://github.com/notrewd"
+      }
+    ],
+    "source": "notrewd/simple-networking-devices.excalidrawlib",
+    "preview": "notrewd/simple-networking-devices.jpg",
+    "created": "2025-06-30",
+    "updated": "2025-06-30",
+    "version": 2,
+    "itemNames": [
+      "Packet",
+      "Access point",
+      "Dedicated server",
+      "Switch (simplified)",
+      "Router",
+      "Hub",
+      "Multilayer switch",
+      "Wireless router",
+      "Switch",
+      "Wireless modem",
+      "Modem",
+      "Smartphone",
+      "Computer"
+    ]
   }
 ]
