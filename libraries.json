@@ -7243,5 +7243,30 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Lane markings",
+    "description": "Lane markings",
+    "authors": [
+      {
+        "name": "Anlan",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "anlan/lane-markings.excalidrawlib",
+    "preview": "anlan/lane-markings.jpg",
+    "created": "2025-07-11",
+    "updated": "2025-07-11",
+    "version": 2,
+    "itemNames": [
+      "掉头",
+      "左转",
+      "右转",
+      "直行",
+      "直行或右转",
+      "直行或左转"
+    ]
   }
 ]
