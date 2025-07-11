@@ -7243,5 +7243,44 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "AWS Backup resources",
+    "description": "A collection of every AWS Backup resources icon. The size of the service and resource icons are  designed to match the \"AWS Architecture Icons\" library from  Anna Pastushko.",
+    "authors": [
+      {
+        "name": "PeskyPotato",
+        "github": "https://github.com/PeskyPotato",
+        "twitter": "",
+        "url": "https://pesky.moe/"
+      }
+    ],
+    "source": "peskypotato/aws-backup-resources.excalidrawlib",
+    "preview": "peskypotato/aws-backup-resources.jpg",
+    "created": "2025-07-11",
+    "updated": "2025-07-11",
+    "version": 2,
+    "itemNames": [
+      "AWS Backup",
+      "Backup plan",
+      "Recovery point objective",
+      "Compliance reporting",
+      "Backup vault",
+      "Recovery time objective",
+      "Backup restore",
+      "Virtual machine",
+      "Database",
+      "Gateway",
+      "Virtual machine monitor",
+      "Storage",
+      "Compute",
+      "AWS Backup Vault Lock",
+      "Legal hold",
+      "AWS Backup Audit Managerq",
+      "AWS Backup support for VMware workloads",
+      "AWS Backup support for Amazon S3",
+      "AWS Backup support for Amazon FSx for NetApp ONTAP",
+      "AWS Backup for AWS CloudFormation"
+    ]
   }
 ]
