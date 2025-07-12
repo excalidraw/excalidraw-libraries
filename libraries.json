@@ -7243,5 +7243,62 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Excalidraw Archimate Template",
+    "description": "This is a collection of Excalidraw objects, covering the business, application, and technology layer elements in the Open Group 3.1. Archimate standard.\r\n\r\nThe Excaliarch template has been designed to support the automation of integration and deployment of Archimate artefacts and related software and data resources.\r\n\r\nSee the Excaliarch repository for more detailed guidelines for usage:\r\nhttps://github.com/agileintegrator/excaliarch",
+    "authors": [
+      {
+        "name": "Timothy Galvin",
+        "github": "https://github.com/timothygalvin",
+        "twitter": "",
+        "url": "https://github.com/agileintegrator/excaliarch"
+      }
+    ],
+    "source": "timothygalvin/excalidraw-archimate-template.excalidrawlib",
+    "preview": "timothygalvin/excalidraw-archimate-template.jpg",
+    "created": "2025-07-12",
+    "updated": "2025-07-12",
+    "version": 2,
+    "itemNames": [
+      "Business object",
+      "Data object",
+      "Artifact",
+      "Business actor",
+      "Business role",
+      "Business collaboration",
+      "Business interface",
+      "Business process",
+      "Business function",
+      "Business interaction",
+      "Business event",
+      "Business service",
+      "Product",
+      "Contract",
+      "Representation",
+      "Application component",
+      "Application collaboration",
+      "Application interface",
+      "Application function",
+      "Application process",
+      "Application interaction",
+      "Application event",
+      "Application service",
+      "Node",
+      "Device",
+      "System software",
+      "Technology collaboration",
+      "Technology interface",
+      "Technology function",
+      "Technology process",
+      "Technology interaction",
+      "Technology event",
+      "Technology service",
+      "Network",
+      "Path",
+      "Group",
+      "Location",
+      "Note"
+    ]
   }
 ]
