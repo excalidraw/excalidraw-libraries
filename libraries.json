@@ -7243,5 +7243,28 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Just shapes",
+    "description": "Starter shapes",
+    "authors": [
+      {
+        "name": "Sam",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sam/just-shapes.excalidrawlib",
+    "preview": "sam/just-shapes.jpg",
+    "created": "2025-07-14",
+    "updated": "2025-07-14",
+    "version": 2,
+    "itemNames": [
+      "Circle",
+      "A shape",
+      "Arrow",
+      "Rectangle"
+    ]
   }
 ]
