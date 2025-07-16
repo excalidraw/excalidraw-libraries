@@ -7243,5 +7243,28 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Personal",
+    "description": "P",
+    "authors": [
+      {
+        "name": "rahul",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "rahul/personal.excalidrawlib",
+    "preview": "rahul/personal.jpg",
+    "created": "2025-07-16",
+    "updated": "2025-07-16",
+    "version": 2,
+    "itemNames": [
+      "DB",
+      "Queue",
+      "Balancer",
+      "pipeline"
+    ]
   }
 ]
