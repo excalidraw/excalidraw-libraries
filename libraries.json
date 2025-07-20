@@ -7243,5 +7243,36 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Components of System Design",
+    "description": "System design components are the building blocks that define the structure and functionality of a system. These components can be hardware, software, or a combination of both, and they work together to fulfill the system's requirements. ",
+    "authors": [
+      {
+        "name": "YuIT Solutions",
+        "github": "https://github.com/YuesIt17",
+        "twitter": "",
+        "url": "https://github.com/YuesIt17"
+      }
+    ],
+    "source": "yuesit17/components-of-system-design.excalidrawlib",
+    "preview": "yuesit17/components-of-system-design.jpg",
+    "created": "2025-07-20",
+    "updated": "2025-07-20",
+    "version": 2,
+    "itemNames": [
+      "Proxy services for monitoring",
+      "Sometimes one instance is not enough",
+      "Custom fancy data structures",
+      "Load balancers",
+      "Stand-by copies for Load balancers",
+      "Fast storage for simple data or cache (e.g. Redis)",
+      "Web sockets",
+      "Additional storage instances  (Columnar DBs or read/backup replicas)",
+      "Main data storage, usually ACID (PostgreSQL logo is blue)",
+      "Message queues and brokers to handle services decomposition and distributed offline processing",
+      "All other hidden services and workers",
+      "Frontend"
+    ]
   }
 ]
