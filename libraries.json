@@ -7243,5 +7243,36 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Pens",
+    "description": "I saw there are literally no library that has pens or pencils.\r\nSo here we go, there are 12 different pen & pencil variations for various use cases.",
+    "authors": [
+      {
+        "name": "EgeTheEngineer",
+        "github": "https://github.com/Ege-BULUT",
+        "twitter": "https://twitter.com/EgeTheEngineer",
+        "url": "https://www.linkedin.com/in/egebulut/"
+      }
+    ],
+    "source": "ege-bulut/pens.excalidrawlib",
+    "preview": "ege-bulut/pens.jpg",
+    "created": "2025-07-23",
+    "updated": "2025-07-23",
+    "version": 2,
+    "itemNames": [
+      "Pen-Bold-icon",
+      "Pencil-icon",
+      "Pen-Thin-icon",
+      "Pastel-icon",
+      "Pen-Excalidraw",
+      "Pen-Tipless-icon",
+      "Pen-Bold-Tipless",
+      "Pen-Tipless",
+      "Pastel",
+      "Pen-Steel",
+      "Pencil",
+      "Pen-Bold"
+    ]
   }
 ]
