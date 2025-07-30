@@ -7243,5 +7243,33 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Architecture diagram components",
+    "description": "Architecture diagram components",
+    "authors": [
+      {
+        "name": "CS",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "cs/architecture-diagram-components.excalidrawlib",
+    "preview": "cs/architecture-diagram-components.jpg",
+    "created": "2025-07-30",
+    "updated": "2025-07-30",
+    "version": 2,
+    "itemNames": [
+      "Slack",
+      "VPC",
+      "Private subnet",
+      "Public subnet",
+      "User",
+      "Users",
+      "Device",
+      "Server",
+      "Email"
+    ]
   }
 ]
