@@ -7243,5 +7243,37 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Extended Event Storming",
+    "description": "Event storing objects that extend @FIDIL event storming library.",
+    "authors": [
+      {
+        "name": "Tom Seida",
+        "github": "https://github.com/tomseida",
+        "twitter": "https://twitter.com/@seida_tom",
+        "url": "https://github.com/tomseida"
+      }
+    ],
+    "source": "tomseida/extended-event-storming.excalidrawlib",
+    "preview": "tomseida/extended-event-storming.jpg",
+    "created": "2025-08-05",
+    "updated": "2025-08-05",
+    "version": 2,
+    "itemNames": [
+      "Concern",
+      "Assumptions",
+      "Business Process",
+      "Model",
+      "Actor",
+      "Command",
+      "Policy",
+      "Domain Event",
+      "Integration Event",
+      "Details",
+      "Business Process Reference",
+      "External System",
+      "Aggregate"
+    ]
   }
 ]
