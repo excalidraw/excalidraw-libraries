@@ -7243,5 +7243,26 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "DMS something",
+    "description": "Some auxiliary tools for drawing.\r\n一些用来绘图的辅助工具。",
+    "authors": [
+      {
+        "name": "稻米鼠",
+        "github": "https://github.com/dmscode",
+        "twitter": "",
+        "url": "https://zji.me"
+      }
+    ],
+    "source": "dmscode/dms-something.excalidrawlib",
+    "preview": "dmscode/dms-something.jpg",
+    "created": "2025-08-14",
+    "updated": "2025-08-14",
+    "version": 2,
+    "itemNames": [
+      "horizontal ruler|水平标尺",
+      "vertical ruler|竖直标尺"
+    ]
   }
 ]
