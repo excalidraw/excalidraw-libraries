@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Workflow_BachViet",
+    "description": "Một vài workflow cơ bản cho web",
+    "authors": [
+      {
+        "name": "Phan Kiệt",
+        "github": "https://github.com/pKietDE",
+        "twitter": "",
+        "url": "https://github.com/pKietDE"
+      }
+    ],
+    "source": "pkietde/workflow_bachviet.excalidrawlib",
+    "preview": "pkietde/workflow_bachviet.jpg",
+    "created": "2025-08-25",
+    "updated": "2025-08-25",
+    "version": 2,
+    "itemNames": [
+      "Luồng đăng ký ôn tập"
+    ]
   }
 ]
