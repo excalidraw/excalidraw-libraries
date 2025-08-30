@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Quick Prototype Components",
+    "description": "This library will contain components required to make quick prototypes of mobile applications on excalidraw",
+    "authors": [
+      {
+        "name": "Yash Mathur",
+        "github": "https://github.com/dev-yashmathur",
+        "twitter": "",
+        "url": "https://github.com/dev-yashmathur"
+      }
+    ],
+    "source": "dev-yashmathur/quick-prototype-components.excalidrawlib",
+    "preview": "dev-yashmathur/quick-prototype-components.jpg",
+    "created": "2025-08-30",
+    "updated": "2025-08-30",
+    "version": 2,
+    "itemNames": [
+      "Calendar"
+    ]
   }
 ]
