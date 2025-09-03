@@ -7243,5 +7243,31 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Interview",
+    "description": "Interview",
+    "authors": [
+      {
+        "name": "Interview",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "interview/interview.excalidrawlib",
+    "preview": "interview/interview.jpg",
+    "created": "2025-09-03",
+    "updated": "2025-09-03",
+    "version": 2,
+    "itemNames": [
+      "Elasticsearch",
+      "S3 Bucket",
+      "iterative area",
+      "Docker Container",
+      "Redis",
+      "DB",
+      "MQ"
+    ]
   }
 ]
