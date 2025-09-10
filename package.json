@@ -10,12 +10,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "http-server .",
-    "build": "yarn build:key && yarn format",
-    "build:stats": "python3 stats.py",
-    "build:key": "python3 key.py",
-    "format": "yarn format:prettier && yarn format:python",
-    "format:prettier": "prettier . --write",
-    "format:python": "black .",
+    "build": "prettier . --write",
     "validate:libraries": "node ./scripts/validate-libraries.js"
   }
 }
