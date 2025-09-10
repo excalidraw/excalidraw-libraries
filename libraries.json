@@ -7243,5 +7243,34 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Web Wireframe UI",
+    "description": "A collection of essential web UI components (e.g, input, button, checkbox, pagination,... ) for streamlined wireframing and prototyping.",
+    "authors": [
+      {
+        "name": "codemo",
+        "github": "https://github.com/phat-dang",
+        "twitter": "",
+        "url": "https://codemo.dev"
+      }
+    ],
+    "source": "phat-dang/web-wireframe-ui.excalidrawlib",
+    "preview": "phat-dang/web-wireframe-ui.jpg",
+    "created": "2025-09-10",
+    "updated": "2025-09-10",
+    "version": 2,
+    "itemNames": [
+      "Switch",
+      "Alert",
+      "Pagination",
+      "Dialog",
+      "Checkbox",
+      "Radio",
+      "Button",
+      "Select",
+      "Select",
+      "Text"
+    ]
   }
 ]
