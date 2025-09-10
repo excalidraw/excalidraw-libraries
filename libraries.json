@@ -7243,5 +7243,28 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Quick mind-mapping",
+    "description": "degroup and delete unwanted arrows",
+    "authors": [
+      {
+        "name": "Maks",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "maks/quick-mind-mapping.excalidrawlib",
+    "preview": "maks/quick-mind-mapping.jpg",
+    "created": "2025-09-07",
+    "updated": "2025-09-07",
+    "version": 2,
+    "itemNames": [
+      "Tiny field",
+      "Small field",
+      "Medium field",
+      "Big field"
+    ]
   }
 ]
