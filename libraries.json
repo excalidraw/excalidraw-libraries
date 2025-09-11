@@ -7243,5 +7243,42 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "BPNM 2.0",
+    "description": "Basic BPNM 2.0 Shapes",
+    "authors": [
+      {
+        "name": "Ruud Wijnands",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ruud-wijnands/bpnm-2-0.excalidrawlib",
+    "preview": "ruud-wijnands/bpnm-2-0.jpg",
+    "created": "2025-08-24",
+    "updated": "2025-08-24",
+    "version": 2,
+    "itemNames": [
+      "Non-Interrupting Intermediate Event",
+      "Group",
+      "Vertical Lane",
+      "Horizontal Lane",
+      "Data Store",
+      "Annotation",
+      "Gateway",
+      "Conversation",
+      "Data Object",
+      "Pool",
+      "Transaction",
+      "Call Activity",
+      "Event Sub-Process",
+      "Task",
+      "Non-Interrupting Start Event",
+      "Intermediate Event",
+      "End Event",
+      "Start Event"
+    ]
   }
 ]
