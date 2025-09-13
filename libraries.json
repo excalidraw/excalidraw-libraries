@@ -7243,5 +7243,25 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "my-lib",
+    "description": "my-lib",
+    "authors": [
+      {
+        "name": "my-lib",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "my-lib/my-lib.excalidrawlib",
+    "preview": "my-lib/my-lib.jpg",
+    "created": "2025-09-13",
+    "updated": "2025-09-13",
+    "version": 2,
+    "itemNames": [
+      "User"
+    ]
   }
 ]
