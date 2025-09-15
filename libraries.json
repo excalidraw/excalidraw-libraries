@@ -7243,5 +7243,36 @@
       "WSI cytology",
       "WSI histology"
     ]
+  },
+  {
+    "name": "Lib DER",
+    "description": "libreria DER para armar diagramas de relacion en base de datos",
+    "authors": [
+      {
+        "name": "coli",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "coli/lib-der.excalidrawlib",
+    "preview": "coli/lib-der.jpg",
+    "created": "2025-07-22",
+    "updated": "2025-07-22",
+    "version": 2,
+    "itemNames": [
+      "entidad",
+      "tabla",
+      "nota",
+      "relacion 1 a 1",
+      "relacion 1 a N",
+      "relacion 1 a N",
+      "relacion 1 a N",
+      "relacion 1 a n",
+      "relacion 1 a 1",
+      "relacion 1 a 1",
+      "relacion 0 a 1/n",
+      "Entidad debil"
+    ]
   }
 ]
