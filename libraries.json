@@ -7286,5 +7286,26 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Box",
+    "description": "Simple parcel boxes to use them in graphic explanations of various simple and complex concepts.",
+    "authors": [
+      {
+        "name": "Shashi Kamal Chakraborty",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "shashi-kamal-chakraborty/box.excalidrawlib",
+    "preview": "shashi-kamal-chakraborty/box.jpg",
+    "created": "2025-09-23",
+    "updated": "2025-09-23",
+    "version": 2,
+    "itemNames": [
+      "Closed Box",
+      "Opened Box"
+    ]
   }
 ]
