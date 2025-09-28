@@ -7286,5 +7286,29 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Dependency Diagrams (inspired by essentialdeveloper.com)",
+    "description": "This library is inspired by essentialdeveloper.com.. To learn more you can check out their academy.",
+    "authors": [
+      {
+        "name": "Merdin",
+        "github": "https://github.com/Merdin",
+        "twitter": "",
+        "url": "https://merdin.dev"
+      }
+    ],
+    "source": "merdin/dependency-diagrams-inspired-by-essentialdeveloper-com.excalidrawlib",
+    "preview": "merdin/dependency-diagrams-inspired-by-essentialdeveloper-com.jpg",
+    "created": "2025-09-28",
+    "updated": "2025-09-28",
+    "version": 2,
+    "itemNames": [
+      "\"depends on\" (weak dependency)",
+      "\"depends on\" / \"has a\" (strong dependency)",
+      "\"conforms to\" /  \"implements\"",
+      "class",
+      "\"inherits from\" / \"is a\""
+    ]
   }
 ]
