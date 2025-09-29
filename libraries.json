@@ -7286,5 +7286,29 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Basic functions",
+    "description": "Basic functions. Work with excalidraw grid.",
+    "authors": [
+      {
+        "name": "Juliancito",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "juliancito/basic-functions.excalidrawlib",
+    "preview": "juliancito/basic-functions.jpg",
+    "created": "2025-09-29",
+    "updated": "2025-09-29",
+    "version": 2,
+    "itemNames": [
+      "|x| = y",
+      "x^3 = y",
+      "x = y",
+      "simple axes",
+      "x^2 = y"
+    ]
   }
 ]
