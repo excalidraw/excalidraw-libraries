@@ -1,0 +1,87 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "Fc1c5nUqidjmV2G6puYYK",
+      "status": "published",
+      "elements": [
+        {
+          "id": "uviB8Mh6gU-kGDirgbT_Y",
+          "type": "text",
+          "x": 181.65164000797552,
+          "y": 266.6150630378688,
+          "width": 139.55806169467442,
+          "height": 14.757308546338145,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "2LGBFuUy41ZYS4Vd0kp-6"
+          ],
+          "frameId": null,
+          "index": "a8V",
+          "roundness": null,
+          "seed": 508016200,
+          "version": 875,
+          "versionNonce": 333170248,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1759414539964,
+          "link": null,
+          "locked": false,
+          "text": "Nombre de la promoción*",
+          "fontSize": 11.805846837070515,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "Nombre de la promoción*",
+          "autoResize": false,
+          "lineHeight": 1.25
+        },
+        {
+          "id": "xjhZrAGfQWFfMzKoKBsGo",
+          "type": "rectangle",
+          "x": 181.65164000797552,
+          "y": 288.7541912984807,
+          "width": 550.262612965331,
+          "height": 33.72241369057599,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "2LGBFuUy41ZYS4Vd0kp-6"
+          ],
+          "frameId": null,
+          "index": "a9",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 1363683128,
+          "version": 107,
+          "versionNonce": 496404792,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1759414539964,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "created": 1759414543587,
+      "error": "Required",
+      "name": "text input"
+    }
+  ]
+}
