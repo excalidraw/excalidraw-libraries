@@ -7286,5 +7286,31 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Tensors, Tiling, and Memory",
+    "description": "A collection of graphics for describing tensors, how they can be tiled and decomposed by algorithms implemented on highly-parallel hardware, and how they get linearized in memory.",
+    "authors": [
+      {
+        "name": "Luke Rouleau",
+        "github": "https://github.com/LukeRouleau",
+        "twitter": "",
+        "url": "https://www.lukerouleau.com"
+      }
+    ],
+    "source": "lukerouleau/tensors-tiling-and-memory.excalidrawlib",
+    "preview": "lukerouleau/tensors-tiling-and-memory.jpg",
+    "created": "2025-10-02",
+    "updated": "2025-10-02",
+    "version": 2,
+    "itemNames": [
+      "Nested Matrix Tiling",
+      "Small Matrix Tiling",
+      "Large Matrix Tiling",
+      "Arbitrary Sized 2D Matrix",
+      "Linearized Memory for 3D Tensor",
+      "3D Tensor",
+      "Linearized Memory for 2D Tensor"
+    ]
   }
 ]
