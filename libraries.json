@@ -7286,5 +7286,37 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Steel Sections & Shapes",
+    "description": "A library of commonly used structural steel shapes. Useful for engineers and drafters drawing engineering elements in Excalidraw.",
+    "authors": [
+      {
+        "name": "George Chard",
+        "github": "https://github.com/chardgeorge",
+        "twitter": "",
+        "url": "https://github.com/chardgeorge"
+      }
+    ],
+    "source": "chardgeorge/steel-sections-shapes.excalidrawlib",
+    "preview": "chardgeorge/steel-sections-shapes.jpg",
+    "created": "2025-10-03",
+    "updated": "2025-10-03",
+    "version": 2,
+    "itemNames": [
+      "Welded SHS",
+      "Welded RHS",
+      "Welded Angle",
+      "Welded T-Section",
+      "Welded Channel",
+      "Welded I-Section",
+      "CHS",
+      "SHS",
+      "RHS",
+      "Angle",
+      "T-Section",
+      "Channel",
+      "I-Section"
+    ]
   }
 ]
