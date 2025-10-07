@@ -1,0 +1,151 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "id": "fAbSD51Y9m5fXGQ08NhZf",
+      "status": "published",
+      "elements": [
+        {
+          "id": "0UW-6EMiHTx7y6KK7ZEYX",
+          "type": "ellipse",
+          "x": -345.99159356725164,
+          "y": 530.0646311704506,
+          "width": 25.88235294117652,
+          "height": 25.423098643616186,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ced4da",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "5J6NZoFw5uXYviDQXIa8k"
+          ],
+          "frameId": null,
+          "index": "aK",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1960799905,
+          "version": 39,
+          "versionNonce": 544402575,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1759809835920,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "Q63Szc7gpzVXTCu6KnlyZ",
+          "type": "line",
+          "x": -314.7748215549613,
+          "y": 592.177818144496,
+          "width": 35.98594748750605,
+          "height": 36.39487870895516,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ced4da",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "5J6NZoFw5uXYviDQXIa8k"
+          ],
+          "frameId": null,
+          "index": "aL",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 343808929,
+          "version": 314,
+          "versionNonce": 99297249,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1759809835920,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -35.577016266057115,
+              -2.453587328693743
+            ],
+            [
+              -35.98594748750605,
+              -22.900148401140427
+            ],
+            [
+              -20.446561072446627,
+              -36.39487870895516
+            ],
+            [
+              -3.271449771591449,
+              -26.58052939418087
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": true
+        },
+        {
+          "id": "3rLrajUm",
+          "type": "text",
+          "x": -348.3071817137738,
+          "y": 595.4492679160874,
+          "width": 31.35547891771501,
+          "height": 17.639238013919112,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ced4da",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "5J6NZoFw5uXYviDQXIa8k"
+          ],
+          "frameId": null,
+          "index": "aM",
+          "roundness": null,
+          "seed": 1664919681,
+          "version": 116,
+          "versionNonce": 2141487791,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1759809835920,
+          "link": null,
+          "locked": false,
+          "text": "User",
+          "rawText": "User",
+          "fontSize": 14.111390411135297,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "User",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1759809854741,
+      "name": "user"
+    }
+  ]
+}
