@@ -7286,5 +7286,52 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Data Structures & Something More...",
+    "description": "Basic shapes for playing around lists, linked lists, queues, stacks, trees, and graphs",
+    "authors": [
+      {
+        "name": "Johnathan Calle",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "johnathan-calle/data-structures-something-more.excalidrawlib",
+    "preview": "johnathan-calle/data-structures-something-more.jpg",
+    "created": "2025-10-09",
+    "updated": "2025-10-09",
+    "version": 2,
+    "itemNames": [
+      "filled_directed_graph",
+      "filled_undirected_graph",
+      "sm_filled_directed_graph",
+      "sm_filled_weighted_undirected_graph",
+      "sm_filled_multiweighted_directed_graph",
+      "sm_filled_weighted_directed_graph",
+      "sm_filled_undirected_graph",
+      "sm_filled_directed_graphgraph",
+      "filled_binary_search_tree",
+      "sm_numfilled_binary_tree",
+      "sm_lettfilled_binary_tree",
+      "call_stack",
+      "sm_empty_binary_tree",
+      "med_numfilled_binary_tree",
+      "med_lettfilled_binary_tree",
+      "med_empty_binarytree",
+      "lar_lettfilled_binarytree",
+      "lar_numfilled_binarytree",
+      "lar_empty_binarytree",
+      "doubly_linked_list",
+      "singly_linked_list",
+      "num_filled_squ_matrix",
+      "bin_filled_matrix",
+      "empty_nonsq_matrix",
+      "empty_sq_matrix",
+      "empty_array",
+      "num_filled_array",
+      "empty_array2"
+    ]
   }
 ]
