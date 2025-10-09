@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "redis",
+    "description": "redis",
+    "authors": [
+      {
+        "name": "Gustavo",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gustavo/redis.excalidrawlib",
+    "preview": "gustavo/redis.jpg",
+    "created": "2025-10-09",
+    "updated": "2025-10-09",
+    "version": 2,
+    "itemNames": [
+      "redis"
+    ]
   }
 ]
