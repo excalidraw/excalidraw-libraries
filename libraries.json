@@ -7286,5 +7286,33 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Lacrosse",
+    "description": "A lacrosse-specific Excalidraw library designed for creating field diagrams and drills.\r\nIncludes boys’ and girls’ full-field and half-field layouts, along with cones.\r\n\r\nIdeal for coaches and creators using PrakticePlan to store custom lacrosse drills or anyone looking to draw up lacrosse drills and plays in seconds. \r\n\r\nUsed in tutorial: https:///prakticeplan.com/resources/excalidraw-drill-diagrams/",
+    "authors": [
+      {
+        "name": "PrakticePlan",
+        "github": "",
+        "twitter": "",
+        "url": "https://prakticeplan.com"
+      }
+    ],
+    "source": "prakticeplan/lacrosse.excalidrawlib",
+    "preview": "prakticeplan/lacrosse.jpg",
+    "created": "2025-10-12",
+    "updated": "2025-10-12",
+    "version": 2,
+    "itemNames": [
+      "Men's Full Field",
+      "Women's Full Field Vertical",
+      "Men's Half Field Vertical",
+      "Men's Half Field Side",
+      "Men's Full Field Side",
+      "Women's Full Field Side",
+      "Women's Half Field",
+      "Cone",
+      "Men's Half Field Above GLE"
+    ]
   }
 ]
