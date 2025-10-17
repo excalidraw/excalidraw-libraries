@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "PVE",
+    "description": "Proxmox PVE items",
+    "authors": [
+      {
+        "name": "Javier Lobato Alonso",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "javier-lobato-alonso/pve.excalidrawlib",
+    "preview": "javier-lobato-alonso/pve.jpg",
+    "created": "2025-10-17",
+    "updated": "2025-10-17",
+    "version": 2,
+    "itemNames": [
+      "Proxmox PVE"
+    ]
   }
 ]
