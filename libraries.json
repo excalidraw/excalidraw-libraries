@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Mouse and Keyboard input display",
+    "description": "High fidelity mouse and keyboard representation. Left and right mouse buttons as well as wheel are separate shapes, can have fill color changed to represent that the device has been \"clicked\"\r\neach keyboard a key can be selected individually, and increasing the opacity of only certain characters can allow you to visually display keyboard shortcuts.",
+    "authors": [
+      {
+        "name": "MalartBecomes",
+        "github": "https://github.com/Crackerfracks",
+        "twitter": "",
+        "url": "https://github.com/Crackerfracks"
+      }
+    ],
+    "source": "crackerfracks/mouse-and-keyboard-input-display.excalidrawlib",
+    "preview": "crackerfracks/mouse-and-keyboard-input-display.jpg",
+    "created": "2025-10-18",
+    "updated": "2025-10-18",
+    "version": 2,
+    "itemNames": [
+      "Input display (tutorial creation)"
+    ]
   }
 ]
