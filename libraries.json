@@ -7286,5 +7286,30 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "UMP: Software Micro-Service",
+    "description": "Библиотека компонентво и севрисов для создания draft-представлений арзиетктуры решений микросервисной архиетктуры",
+    "authors": [
+      {
+        "name": "Grishaev Roman",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "grishaev-roman/ump-software-micro-service.excalidrawlib",
+    "preview": "grishaev-roman/ump-software-micro-service.jpg",
+    "created": "2025-10-20",
+    "updated": "2025-10-20",
+    "version": 2,
+    "itemNames": [
+      "Доменная область",
+      "Клиент",
+      "Сервис",
+      "Пользователь",
+      "Топик",
+      "База данных"
+    ]
   }
 ]
