@@ -7286,5 +7286,26 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Unity Diagram",
+    "description": "all asset graph for unity",
+    "authors": [
+      {
+        "name": "Mono",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "mono/unity-diagram.excalidrawlib",
+    "preview": "mono/unity-diagram.jpg",
+    "created": "2025-10-28",
+    "updated": "2025-10-28",
+    "version": 2,
+    "itemNames": [
+      "gameObject",
+      "Script"
+    ]
   }
 ]
