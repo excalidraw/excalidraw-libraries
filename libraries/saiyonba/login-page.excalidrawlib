@@ -1,0 +1,53 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "A2MtxDUfbcKVT1P8B3koG",
+          "type": "text",
+          "x": 289.17024141141815,
+          "y": 3987.7633897734577,
+          "width": 679.47119140625,
+          "height": 1080,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0a",
+          "roundness": null,
+          "seed": 1155271911,
+          "version": 119,
+          "versionNonce": 1751769991,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1761789126801,
+          "link": null,
+          "locked": false,
+          "text": "\n<body>\n\n    <div class=\"container\" id=\"container\">\n        <div class=\"form-container sign-up\">\n            <form>\n                <h1>Create Account</h1>\n                <div class=\"social-icons\">\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-google-plus-g\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-facebook-f\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-github\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-linkedin-in\"></i></a>\n                </div>\n                <span>or use your email for registeration</span>\n                <input type=\"text\" placeholder=\"Name\">\n                <input type=\"email\" placeholder=\"Email\">\n                <input type=\"password\" placeholder=\"Password\">\n                <button>Sign Up</button>\n            </form>\n        </div>\n        <div class=\"form-container sign-in\">\n            <form>\n                <h1>Sign In</h1>\n                <div class=\"social-icons\">\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-google-plus-g\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-facebook-f\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-github\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-linkedin-in\"></i></a>\n                </div>\n                <span>or use your email password</span>\n                <input type=\"email\" placeholder=\"Email\">\n                <input type=\"password\" placeholder=\"Password\">\n                <a href=\"#\">Forget Your Password?</a>\n                <button>Sign In</button>\n            </form>\n        </div>\n        <div class=\"toggle-container\">\n            <div class=\"toggle\">\n                <div class=\"toggle-panel toggle-left\">\n                    <h1>Welcome Back!</h1>\n                    <p>Enter your personal details to use all of site features</p>\n                    <button class=\"hidden\" id=\"login\">Sign In</button>\n                </div>\n                <div class=\"toggle-panel toggle-right\">\n                    <h1>Hello, Friend!</h1>\n                    <p>Register with your personal details to use all of site features</p>\n                    <button class=\"hidden\" id=\"register\">Sign Up</button>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>",
+          "fontSize": 16,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "\n<body>\n\n    <div class=\"container\" id=\"container\">\n        <div class=\"form-container sign-up\">\n            <form>\n                <h1>Create Account</h1>\n                <div class=\"social-icons\">\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-google-plus-g\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-facebook-f\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-github\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-linkedin-in\"></i></a>\n                </div>\n                <span>or use your email for registeration</span>\n                <input type=\"text\" placeholder=\"Name\">\n                <input type=\"email\" placeholder=\"Email\">\n                <input type=\"password\" placeholder=\"Password\">\n                <button>Sign Up</button>\n            </form>\n        </div>\n        <div class=\"form-container sign-in\">\n            <form>\n                <h1>Sign In</h1>\n                <div class=\"social-icons\">\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-google-plus-g\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-facebook-f\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-github\"></i></a>\n                    <a href=\"#\" class=\"icon\"><i class=\"fa-brands fa-linkedin-in\"></i></a>\n                </div>\n                <span>or use your email password</span>\n                <input type=\"email\" placeholder=\"Email\">\n                <input type=\"password\" placeholder=\"Password\">\n                <a href=\"#\">Forget Your Password?</a>\n                <button>Sign In</button>\n            </form>\n        </div>\n        <div class=\"toggle-container\">\n            <div class=\"toggle\">\n                <div class=\"toggle-panel toggle-left\">\n                    <h1>Welcome Back!</h1>\n                    <p>Enter your personal details to use all of site features</p>\n                    <button class=\"hidden\" id=\"login\">Sign In</button>\n                </div>\n                <div class=\"toggle-panel toggle-right\">\n                    <h1>Hello, Friend!</h1>\n                    <p>Register with your personal details to use all of site features</p>\n                    <button class=\"hidden\" id=\"register\">Sign Up</button>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <script src=\"script.js\"></script>\n</body>",
+          "autoResize": false,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "iFY8ApqQ4RAIr8XkE0I1K",
+      "created": 1761789616492,
+      "error": "Required",
+      "name": "yhguyg"
+    }
+  ]
+}
