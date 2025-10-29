@@ -9,8 +9,6 @@ import json
 SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
 VIEW_ID = "208661610"
 
-THRESSHOLD = 10
-
 ROOT_DIR = os.path.dirname(os.path.realpath(__file__))
 STATS_DIR = os.path.join(ROOT_DIR, "stats")
 KEY_FILE = os.path.join(ROOT_DIR, "excalidraw-key.json")
