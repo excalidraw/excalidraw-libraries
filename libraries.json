@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Options Graphs",
+    "description": "Options Graph to help users visualize various financial options",
+    "authors": [
+      {
+        "name": "money_mane",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "money_mane/options-graphs.excalidrawlib",
+    "preview": "money_mane/options-graphs.jpg",
+    "created": "2025-11-02",
+    "updated": "2025-11-02",
+    "version": 2,
+    "itemNames": [
+      "Options Parity Graph"
+    ]
   }
 ]
