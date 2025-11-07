@@ -7286,5 +7286,35 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Music app library",
+    "description": "Some templates for a music app",
+    "authors": [
+      {
+        "name": "Francisco",
+        "github": "https://github.com/fran13109",
+        "twitter": "",
+        "url": "https://github.com/fran13109"
+      }
+    ],
+    "source": "fran13109/music-app-library.excalidrawlib",
+    "preview": "fran13109/music-app-library.jpg",
+    "created": "2025-11-07",
+    "updated": "2025-11-07",
+    "version": 2,
+    "itemNames": [
+      "music app sign in",
+      "music app register",
+      "music app forgot password",
+      "music app home",
+      "music app album player",
+      "music app user's profile",
+      "music app settings",
+      "music app compact player",
+      "music app notifications",
+      "music app icons",
+      "music app artist/group visualizer"
+    ]
   }
 ]
