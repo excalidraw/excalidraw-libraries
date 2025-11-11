@@ -7286,5 +7286,39 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "ShopKit UI",
+    "description": "A flexible library of essential e-commerce prefabs, including product cards, variant selectors, and a complete checkout system.",
+    "authors": [
+      {
+        "name": "JoseJimenez-M",
+        "github": "https://github.com/JoseJimenez-M",
+        "twitter": "",
+        "url": "https://github.com/JoseJimenez-M"
+      }
+    ],
+    "source": "josejimenez-m/shopkit-ui.excalidrawlib",
+    "preview": "josejimenez-m/shopkit-ui.jpg",
+    "created": "2025-11-11",
+    "updated": "2025-11-11",
+    "version": 2,
+    "itemNames": [
+      "Wishlist Empty",
+      "Mini-Cart Popup",
+      "Added to Cart Modal",
+      "Rating Stars",
+      "Breadcrumbs",
+      "Variant Selector",
+      "Quantity Stepper",
+      "Cart Item",
+      "Product Card",
+      "Bag Empty",
+      "Filter Group",
+      "Range Slider",
+      "Payment Method",
+      "Address Form",
+      "Checkout Step"
+    ]
   }
 ]
