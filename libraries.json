@@ -7286,5 +7286,27 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "ecc-os",
+    "description": "Shapes for Executive Context Control (ecc-os) Daily River drawing.",
+    "authors": [
+      {
+        "name": "Mark Brown",
+        "github": "https://github.com/markebrown",
+        "twitter": "",
+        "url": "https://www.ecc-os.com/"
+      }
+    ],
+    "source": "markebrown/ecc-os.excalidrawlib",
+    "preview": "markebrown/ecc-os.jpg",
+    "created": "2025-11-14",
+    "updated": "2025-11-14",
+    "version": 2,
+    "itemNames": [
+      "Cancel",
+      "Complete",
+      "Pause"
+    ]
   }
 ]
