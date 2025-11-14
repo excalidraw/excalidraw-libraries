@@ -7286,5 +7286,40 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Cell-Based Architecture",
+    "description": "A collection of shapes for drawing Cell-Based Architecture diagrams.\r\nMore details on GitHub: https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md",
+    "authors": [
+      {
+        "name": "Binura Gunasekara",
+        "github": "https://github.com/binura-g",
+        "twitter": "https://twitter.com/@binura_g",
+        "url": "https://github.com/binura-g"
+      }
+    ],
+    "source": "binura-g/cell-based-architecture.excalidrawlib",
+    "preview": "binura-g/cell-based-architecture.jpg",
+    "created": "2025-11-14",
+    "updated": "2025-11-14",
+    "version": 2,
+    "itemNames": [
+      "Adapter",
+      "API",
+      "ESB",
+      "Legacy Service",
+      "Governance and Utilities",
+      "Data Service Variant 1",
+      "Data Service Variant 2",
+      "Legacy and Data Services",
+      "Frontend Clients",
+      "User",
+      "External Endpoint",
+      "Component - Variation 1",
+      "Component - Variation 2",
+      "Microservice Component",
+      "Gateway",
+      "Cell"
+    ]
   }
 ]
