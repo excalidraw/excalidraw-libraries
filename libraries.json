@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Arqui",
+    "description": "risk-v",
+    "authors": [
+      {
+        "name": "gucher",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gucher/arqui.excalidrawlib",
+    "preview": "gucher/arqui.jpg",
+    "created": "2025-11-15",
+    "updated": "2025-11-15",
+    "version": 2,
+    "itemNames": [
+      "Adder"
+    ]
   }
 ]
