@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "HW",
+    "description": "Cette bibliothèque contient des composants matériels.",
+    "authors": [
+      {
+        "name": "Fabien RODRIGO",
+        "github": "https://github.com/mypkb",
+        "twitter": "",
+        "url": "https://mypkb.fr"
+      }
+    ],
+    "source": "mypkb/hw.excalidrawlib",
+    "preview": "mypkb/hw.jpg",
+    "created": "2025-11-19",
+    "updated": "2025-11-19",
+    "version": 2,
+    "itemNames": [
+      "VM-Debian-GUI"
+    ]
   }
 ]
