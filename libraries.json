@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "infoElement Relationships",
+    "description": "templates for relationships between information elements, stakeholders, and sources to describe how they are connected to each other.",
+    "authors": [
+      {
+        "name": "Alex Burton",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "alex-burton/infoelement-relationships.excalidrawlib",
+    "preview": "alex-burton/infoelement-relationships.jpg",
+    "created": "2025-11-24",
+    "updated": "2025-11-24",
+    "version": 2,
+    "itemNames": [
+      "decision"
+    ]
   }
 ]
