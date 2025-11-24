@@ -7286,5 +7286,44 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Digital Circuit Elements",
+    "description": "Commonly used digital circuit logical and electrical elements.",
+    "authors": [
+      {
+        "name": "Qian Shen",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "qian-shen/digital-circuit-elements.excalidrawlib",
+    "preview": "qian-shen/digital-circuit-elements.jpg",
+    "created": "2025-11-24",
+    "updated": "2025-11-24",
+    "version": 2,
+    "itemNames": [
+      "B Flop (Side Clock)",
+      "A Flop (Side Clock)",
+      "B Flop",
+      "A Flop",
+      "XNOR2",
+      "XOR2",
+      "NOR2",
+      "OR2",
+      "NAND2",
+      "NAND",
+      "Inverter",
+      "Buffer",
+      "PMOS",
+      "NMOS",
+      "Voltage Source",
+      "Current Source",
+      "Capacitor",
+      "Resistor",
+      "VDD",
+      "GND"
+    ]
   }
 ]
