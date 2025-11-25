@@ -1,0 +1,104 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "Gq45rYzRpFKhbNRABSL4E",
+          "type": "ellipse",
+          "x": -140.60267539334956,
+          "y": -80.16966705461536,
+          "width": 58.27767974121094,
+          "height": 58.27767974121094,
+          "angle": 0,
+          "strokeColor": "#404040",
+          "backgroundColor": "#fb6a6a",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "FFHblC8mDsFB1GNqujygf"
+          ],
+          "frameId": null,
+          "index": "aE",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 1565771646,
+          "version": 543,
+          "versionNonce": 1075186558,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "QChdQcR8GwMeRJkRKOmyl",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1764046038048,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "QChdQcR8GwMeRJkRKOmyl",
+          "type": "arrow",
+          "x": -81.96351666497559,
+          "y": -49.42143469767619,
+          "width": 19.317141911413373,
+          "height": 7.105427357601002e-15,
+          "angle": 0,
+          "strokeColor": "#404040",
+          "backgroundColor": "#fb6a6a",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "FFHblC8mDsFB1GNqujygf"
+          ],
+          "frameId": null,
+          "index": "aF",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 145369022,
+          "version": 799,
+          "versionNonce": 2093020002,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1764046038048,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              19.317141911413373,
+              7.105427357601002e-15
+            ]
+          ],
+          "lastCommittedPoint": null,
+          "startBinding": {
+            "elementId": "Gq45rYzRpFKhbNRABSL4E",
+            "focus": 0.05523186556089373,
+            "gap": 1
+          },
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "elbowed": false
+        }
+      ],
+      "id": "jtbrqIFsAOwJ4S4akquQp",
+      "created": 1764046046576,
+      "name": "node_red"
+    }
+  ]
+}

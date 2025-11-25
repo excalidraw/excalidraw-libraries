@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Git Tree Symbols",
+    "description": "Collection of symbols used to make git tree diagrams.",
+    "authors": [
+      {
+        "name": "JimJamBimBam",
+        "github": "https://github.com/JimJamBimBam",
+        "twitter": "",
+        "url": "https://github.com/JimJamBimBam"
+      }
+    ],
+    "source": "jimjambimbam/git-tree-symbols.excalidrawlib",
+    "preview": "jimjambimbam/git-tree-symbols.jpg",
+    "created": "2025-11-25",
+    "updated": "2025-11-25",
+    "version": 2,
+    "itemNames": [
+      "node_red"
+    ]
   }
 ]
