@@ -7286,5 +7286,39 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Chat and Messaging Prefabs",
+    "description": "A comprehensive library of prefabs for building modern chat interfaces, including message bubbles, conversation lists, and input controls.",
+    "authors": [
+      {
+        "name": "JoseJimenez-M",
+        "github": "https://github.com/JoseJimenez-M",
+        "twitter": "",
+        "url": "https://github.com/JoseJimenez-M"
+      }
+    ],
+    "source": "josejimenez-m/chat-and-messaging-prefabs.excalidrawlib",
+    "preview": "josejimenez-m/chat-and-messaging-prefabs.jpg",
+    "created": "2025-11-25",
+    "updated": "2025-11-25",
+    "version": 2,
+    "itemNames": [
+      "Audio Note Bubble",
+      "Video Call Card (PiP)",
+      "Chat List Item",
+      "Chat Input Bar (Simple)",
+      "Search Chats Input",
+      "Chat Header",
+      "Read Receipts",
+      "Timestamp Separator",
+      "Typing Indicator",
+      "New Chat Button (FAB)",
+      "Message Bubble (Outgoing)",
+      "File Attachment Bubble",
+      "Message Bubble (Incoming)",
+      "Message Bubble",
+      "Active Status Head"
+    ]
   }
 ]
