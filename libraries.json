@@ -7286,5 +7286,29 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "deep_learn_element",
+    "description": "深度学习的元素",
+    "authors": [
+      {
+        "name": "smallzh",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "smallzh/deep_learn_element.excalidrawlib",
+    "preview": "smallzh/deep_learn_element.jpg",
+    "created": "2025-11-25",
+    "updated": "2025-11-25",
+    "version": 2,
+    "itemNames": [
+      "conn_2d",
+      "linear",
+      "addition",
+      "multiplication",
+      "dot_product"
+    ]
   }
 ]
