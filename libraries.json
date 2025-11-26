@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Test",
+    "description": "Test",
+    "authors": [
+      {
+        "name": "Test",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "test/test.excalidrawlib",
+    "preview": "test/test.jpg",
+    "created": "2025-11-26",
+    "updated": "2025-11-26",
+    "version": 2,
+    "itemNames": [
+      "Test"
+    ]
   }
 ]
