@@ -7286,5 +7286,39 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Whiteboard Universal App UI Kit",
+    "description": "A flexible, system-ready set of UI prefabs for any app.\r\nIncludes core components like CTA buttons, payment fields, search bars, toggles, navigation bars, and cards — all available in light and dark themes.\r\nIdeal for quick prototyping and production-ready UI flows.",
+    "authors": [
+      {
+        "name": "jessica n hattori",
+        "github": "https://github.com/Jessenahat",
+        "twitter": "",
+        "url": "https://github.com/Jessenahat"
+      }
+    ],
+    "source": "jessenahat/whiteboard-universal-app-ui-kit.excalidrawlib",
+    "preview": "jessenahat/whiteboard-universal-app-ui-kit.jpg",
+    "created": "2025-11-27",
+    "updated": "2025-11-27",
+    "version": 2,
+    "itemNames": [
+      "Card Placeholder",
+      "HearderNotes",
+      "HearderUser",
+      "HeaderSearchBar",
+      "HearderPaginationControl",
+      "HeaderDateSegment",
+      "Bottom Navigation",
+      "Card Placeholder_darkmode",
+      "Payment Form",
+      "Payment Form_darkmode",
+      "CTAButtons_darkmode",
+      "CTAButtons",
+      "ToggleSwitches",
+      "SearchBar",
+      "SearchBar_darkmode"
+    ]
   }
 ]
