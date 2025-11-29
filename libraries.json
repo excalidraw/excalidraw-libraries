@@ -7286,5 +7286,39 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Microservice Architecture Design",
+    "description": "System Design components for building microservice architecture design",
+    "authors": [
+      {
+        "name": "Aman Singhal",
+        "github": "https://github.com/amnsinghl",
+        "twitter": "https://twitter.com/amnsinghl",
+        "url": "https://github.com/amnsinghl"
+      }
+    ],
+    "source": "amnsinghl/microservice-architecture-design.excalidrawlib",
+    "preview": "amnsinghl/microservice-architecture-design.jpg",
+    "created": "2025-11-29",
+    "updated": "2025-11-29",
+    "version": 2,
+    "itemNames": [
+      "Config",
+      "Browser",
+      "User",
+      "Users",
+      "Email",
+      "Object Store",
+      "Database",
+      "Service",
+      "Internet",
+      "Queue",
+      "Cache",
+      "DNS",
+      "Loadbalancer",
+      "CDN",
+      "Mobile"
+    ]
   }
 ]
