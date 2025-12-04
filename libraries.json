@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Pentest Flow",
+    "description": "Task Flow for pentesting",
+    "authors": [
+      {
+        "name": "Kondecigs",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "kondecigs/pentest-flow.excalidrawlib",
+    "preview": "kondecigs/pentest-flow.jpg",
+    "created": "2025-12-04",
+    "updated": "2025-12-04",
+    "version": 2,
+    "itemNames": [
+      "HTTP"
+    ]
   }
 ]
