@@ -7286,5 +7286,39 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Universal App Micro Widgets library",
+    "description": "A collection of 15 universal micro-widgets designed for any app interface. Includes sliders, dialogs, action bars, list selectors, account cards, and more — all built in a clean mint-and-charcoal system optimized for mobile and desktop UI prototyping.",
+    "authors": [
+      {
+        "name": "jessica n hattori",
+        "github": "https://github.com/Jessenahat",
+        "twitter": "",
+        "url": "https://github.com/Jessenahat"
+      }
+    ],
+    "source": "jessenahat/universal-app-micro-widgets-library.excalidrawlib",
+    "preview": "jessenahat/universal-app-micro-widgets-library.jpg",
+    "created": "2025-12-04",
+    "updated": "2025-12-04",
+    "version": 2,
+    "itemNames": [
+      "VerticalQuickActionsBar",
+      "NotificationPermissionModal",
+      "FeatureQuickActions",
+      "SecurityScanCard",
+      "AccountSwitcherCard",
+      "StatusPillToolbar",
+      "AppInfoPauseControl",
+      "VolumeSlider",
+      "SegmentedListMenu",
+      "OptionListSelector",
+      "IconActionBar",
+      "TitleBarWithActions",
+      "FullScreenFormDialog",
+      "MailSidebarPanel",
+      "InfoStateDialog"
+    ]
   }
 ]
