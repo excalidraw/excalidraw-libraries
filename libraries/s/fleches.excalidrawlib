@@ -1,0 +1,115 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "o9FOu1boq3kqgv7mOYOXw",
+      "status": "published",
+      "elements": [
+        {
+          "id": "-NuRCm32B6UqgkEibgcYp",
+          "type": "arrow",
+          "x": 3746.6425502144175,
+          "y": -509.2445311474303,
+          "width": 350.6479116402834,
+          "height": 14.454785296509272,
+          "angle": 0,
+          "strokeColor": "#2f9e44",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0E",
+          "roundness": null,
+          "seed": 2051551776,
+          "version": 1610,
+          "versionNonce": 549349344,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "U_A7cDoPP-WQsAad6ET7s"
+            }
+          ],
+          "updated": 1764841340988,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -350.6479116402834,
+              14.454785296509272
+            ]
+          ],
+          "startBinding": {
+            "elementId": "MShs6qnHKhlU2sOcO505L",
+            "mode": "orbit",
+            "fixedPoint": [
+              0.5001,
+              0.5218088069635948
+            ]
+          },
+          "endBinding": {
+            "elementId": "vC1Kp-gZmQPAYnxqLPArg",
+            "mode": "orbit",
+            "fixedPoint": [
+              0.5001,
+              0.5432071109742368
+            ]
+          },
+          "startArrowhead": null,
+          "endArrowhead": "triangle_outline",
+          "elbowed": false,
+          "moveMidPointsWithElement": false
+        },
+        {
+          "id": "U_A7cDoPP-WQsAad6ET7s",
+          "type": "text",
+          "x": 3624.336433384691,
+          "y": -558.7518029638272,
+          "width": 100.32394409179688,
+          "height": 35,
+          "angle": 0,
+          "strokeColor": "#2f9e44",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0EV",
+          "roundness": null,
+          "seed": 1331058208,
+          "version": 14,
+          "versionNonce": 1600320480,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1764841238523,
+          "link": null,
+          "locked": false,
+          "text": "Maladie",
+          "fontSize": 28,
+          "fontFamily": 6,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "-NuRCm32B6UqgkEibgcYp",
+          "originalText": "Maladie",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1764841428048,
+      "name": "Flêche maladie"
+    }
+  ]
+}
