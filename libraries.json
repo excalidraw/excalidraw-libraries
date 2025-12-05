@@ -7286,5 +7286,30 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Media Player Kit",
+    "description": "A library of UI components for wireframing video players, music apps, and podcast interfaces.",
+    "authors": [
+      {
+        "name": "Joshua Ndala",
+        "github": "https://github.com/joshndala",
+        "twitter": "",
+        "url": "https://github.com/joshndala"
+      }
+    ],
+    "source": "joshndala/media-player-kit.excalidrawlib",
+    "preview": "joshndala/media-player-kit.jpg",
+    "created": "2025-12-05",
+    "updated": "2025-12-05",
+    "version": 2,
+    "itemNames": [
+      "Volume Slider",
+      "Control Row",
+      "Progress Bar",
+      "Media Frame",
+      "Track Row",
+      "Main Player Button"
+    ]
   }
 ]
