@@ -7286,5 +7286,45 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Mappi Math library",
+    "description": "Used for mathematical operations in calculations",
+    "authors": [
+      {
+        "name": "Andreas Ahlin",
+        "github": "https://github.com/andreas-ahlin",
+        "twitter": "",
+        "url": "https://www.mappi.ai/"
+      }
+    ],
+    "source": "andreas-ahlin/mappi-math-library.excalidrawlib",
+    "preview": "andreas-ahlin/mappi-math-library.jpg",
+    "created": "2025-12-08",
+    "updated": "2025-12-08",
+    "version": 2,
+    "itemNames": [
+      "PQ-formula",
+      "Square bracket left",
+      "Square bracket right",
+      "Divison",
+      "brackets",
+      "left bracket",
+      "right bracket",
+      "square root small",
+      "Square rott big",
+      "absolute value ",
+      "F( )",
+      "f'( )",
+      "f( )",
+      "dot",
+      "ln",
+      "lg",
+      "sin",
+      "abs",
+      "cos",
+      "tan",
+      "limes to"
+    ]
   }
 ]
