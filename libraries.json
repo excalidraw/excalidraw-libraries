@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "C4 Model",
+    "description": "Library for C4 Model diagrams",
+    "authors": [
+      {
+        "name": "Thiago Rangel",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "thiago-rangel/c4-model.excalidrawlib",
+    "preview": "thiago-rangel/c4-model.jpg",
+    "created": "2025-12-09",
+    "updated": "2025-12-09",
+    "version": 2,
+    "itemNames": [
+      "Software System"
+    ]
   }
 ]
