@@ -7286,5 +7286,36 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Delivery UI Kit library",
+    "description": "The Delivery UI Kit provides a complete set of ready-made prefabs for building modern delivery, logistics, and courier workflows. Featuring dashboards, calendar trackers, parcel status cards, support chat, route maps, and user profile screens, this library helps teams visualize delivery journeys with clarity and speed. Fully customizable and optimized for mobile layouts.",
+    "authors": [
+      {
+        "name": "jessica n hattori",
+        "github": "https://github.com/Jessenahat",
+        "twitter": "",
+        "url": "https://github.com/Jessenahat"
+      }
+    ],
+    "source": "jessenahat/delivery-ui-kit-library.excalidrawlib",
+    "preview": "jessenahat/delivery-ui-kit-library.jpg",
+    "created": "2025-12-10",
+    "updated": "2025-12-10",
+    "version": 2,
+    "itemNames": [
+      "DeliveryRegisterPage",
+      "ProfileInfoCard",
+      "ProfileActionsPage",
+      "DeliveryDetailsCard",
+      "DeliveryRouteMap",
+      "DeliveryFilterTags",
+      "ChatSupportPage",
+      "UnitConverter",
+      "DeliveryOrderStatus",
+      "DeliverySearchInfo",
+      "DeliveryCalendarTracker",
+      "DeliveryDashboard"
+    ]
   }
 ]
