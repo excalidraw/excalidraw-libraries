@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "FH-biblio-excalidraw",
+    "description": "FEUILLE D'EMARGEMENT POUR FORMATION/REUNION/GHS/CAUSERIE",
+    "authors": [
+      {
+        "name": "FH",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "fh/fh-biblio-excalidraw.excalidrawlib",
+    "preview": "fh/fh-biblio-excalidraw.jpg",
+    "created": "2025-12-11",
+    "updated": "2025-12-11",
+    "version": 2,
+    "itemNames": [
+      "feuille-emargement"
+    ]
   }
 ]
