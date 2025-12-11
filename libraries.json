@@ -7286,5 +7286,37 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "Cybersecurity UI Kit",
+    "description": "High-fidelity, dark-mode components for Security Operations Centers (SOC) and Threat Monitoring dashboards.\r\n\r\n",
+    "authors": [
+      {
+        "name": "Joshua Ndala",
+        "github": "https://github.com/joshndala",
+        "twitter": "",
+        "url": "https://github.com/joshndala"
+      }
+    ],
+    "source": "joshndala/cybersecurity-ui-kit.excalidrawlib",
+    "preview": "joshndala/cybersecurity-ui-kit.jpg",
+    "created": "2025-12-11",
+    "updated": "2025-12-11",
+    "version": 2,
+    "itemNames": [
+      "Face ID Scanner",
+      "Encryption Status Lock",
+      "Terminal Window",
+      "Firewall Rule Row",
+      "Threat Detection Alert",
+      "User Privilege Toggle",
+      "User Privilege Toggle",
+      "MFA (2-Factor) Prompt",
+      "Secure Login",
+      "Network Node Status",
+      "Bandwidth Traffic Graph",
+      "Threat Map Widget",
+      "Server Health Card"
+    ]
   }
 ]
