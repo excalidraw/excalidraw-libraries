@@ -7286,5 +7286,34 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "TinyMiniMicro",
+    "description": "Small Form Factor PC's",
+    "authors": [
+      {
+        "name": "ElementalShift",
+        "github": "https://github.com/ELEMENTALSHIFT",
+        "twitter": "",
+        "url": "https://github.com/ELEMENTALSHIFT"
+      }
+    ],
+    "source": "elementalshift/tinyminimicro.excalidrawlib",
+    "preview": "elementalshift/tinyminimicro.jpg",
+    "created": "2025-12-19",
+    "updated": "2025-12-19",
+    "version": 2,
+    "itemNames": [
+      "OptiPlex 10th Gen",
+      "EliteDesk G6 ",
+      "ThinkCentre M90q Tiny",
+      "OptiPlex",
+      "ProDesk G1/G2",
+      "EliteDesk G1/G2",
+      "ThinkCentre M720/M920",
+      "ThinkCentre M600/M700",
+      "ProDesk G3/G4/G5",
+      "EliteDesk G3/G4/G5"
+    ]
   }
 ]
