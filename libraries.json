@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "ESP32-S3-DevKitC-1",
+    "description": "The ESP32-S3-DevKitC-1 is an entry-level development board equipped with ESP32-S3-WROOM-1, ESP32-S3-WROOM-1U, or ESP32-S3-WROOM-2, a general-purpose Wi-Fi + Bluetooth® Low Energy MCU module that integrates complete Wi-Fi and Bluetooth Low Energy functions.\r\n\r\nMost of the I/O pins on the module are broken out to the pin headers on both sides of this board for easy interfacing. Developers can either connect peripherals with jumper wires or mount ESP32-S3-DevKitC-1 on a breadboard.",
+    "authors": [
+      {
+        "name": "Welton",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "welton/esp32-s3-devkitc-1.excalidrawlib",
+    "preview": "welton/esp32-s3-devkitc-1.jpg",
+    "created": "2025-12-26",
+    "updated": "2025-12-26",
+    "version": 2,
+    "itemNames": [
+      "ESP32-S3-DevKitC-1"
+    ]
   }
 ]
