@@ -1,0 +1,53 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "57c4fZ-LqyODSUAPnVibT",
+          "type": "text",
+          "x": -6785.497185822056,
+          "y": -1829.5297042104687,
+          "width": 846.6835080029568,
+          "height": 2286.310595730485,
+          "angle": 0,
+          "strokeColor": "#1971c2",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "a4",
+          "roundness": null,
+          "seed": 856792714,
+          "version": 570,
+          "versionNonce": 1638831894,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1766837358127,
+          "link": null,
+          "locked": false,
+          "text": " {\n            \"id\": \"6d56cfcc-de81-4d9c-8d2a-4d2b1bf62ba6\",\n            \"source_type\": \"AZURE_LOG_ANALYTICS\",\n            \"status\": \"ENABLED_WITH_CLIENT_CREDENTIALS\",\n            \"status_updated_at\": null,\n            \"creds_scanners_updated_at\": \"2025-12-27T11:54:08.903658+00:00\",\n            \"last_used_at\": null,\n            \"connectivity_last_checked_at\": \"2025-12-27T11:54:08.903661+00:00\",\n            \"connectivity_last_check_status\": \"SUCCESS\",\n            \"fields\": [\n                {\n                    \"name\": \"workspace_id\",\n                    \"value\": \"f5ae0a05-7d6a-4de8-bb04-d40ed5fa54c8\",\n                    \"label\": \"Workspace ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"tenant_id\",\n                    \"value\": \"dfbb0d3b-8276-4581-97a4-2b844a84ea35\",\n                    \"label\": \"Tenant ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"client_id\",\n                    \"value\": \"fdba3b64-86ef-4ffa-bfb1-2ff42b440e13\",\n                    \"label\": \"Client ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"client_secret\",\n                    \"value\": \"\",\n                    \"label\": \"Client Secret\",\n                    \"type\": \"SECRET\",\n                    \"placeholder\": \"Client Secret\",\n                    \"validation_rules\": null,\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"subscription_id\",\n                    \"value\": null,\n                    \"label\": \"Subscription ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": true\n                },\n                {\n                    \"name\": \"resource_group_name\",\n                    \"value\": null,\n                    \"label\": \"Resource Group Name\",\n                    \"type\": \"STRING\",\n                    \"placeholder\": \"e.g. rg-myapp-prod-uks-001\",\n                    \"validation_rules\": null,\n                    \"is_optional\": true\n                },\n                {\n                    \"name\": \"workspace_name\",\n                    \"value\": null,\n                    \"label\": \"Workspace Name\",\n                    \"type\": \"STRING\",\n                    \"placeholder\": \"e.g. log-myapp-prod-uks-001\",\n                    \"validation_rules\": null,\n                    \"is_optional\": true\n                }\n            ],\n            \"scanners\": [\n                \"EmailEvents\",\n                \"EmailUrlInfo\",\n                \"SigninLogs\",\n                \"_Im_NetworkSession\",\n                \"OfficeActivity\",\n                \"_ASim_Authentication\",\n                \"IdentityDirectoryEvents\",\n                \"DeviceProcessEvents\",\n                \"DeviceNetworkEvents\",\n                \"EmailAttachmentInfo\",\n                \"AlertEvidence\",\n                \"UrlClickEvents\",\n                \"SecurityIncident\",\n                \"DeviceFileEvents\"\n            ],\n            \"has_credentials\": true\n        },",
+          "fontSize": 19.88096170200422,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": " {\n            \"id\": \"6d56cfcc-de81-4d9c-8d2a-4d2b1bf62ba6\",\n            \"source_type\": \"AZURE_LOG_ANALYTICS\",\n            \"status\": \"ENABLED_WITH_CLIENT_CREDENTIALS\",\n            \"status_updated_at\": null,\n            \"creds_scanners_updated_at\": \"2025-12-27T11:54:08.903658+00:00\",\n            \"last_used_at\": null,\n            \"connectivity_last_checked_at\": \"2025-12-27T11:54:08.903661+00:00\",\n            \"connectivity_last_check_status\": \"SUCCESS\",\n            \"fields\": [\n                {\n                    \"name\": \"workspace_id\",\n                    \"value\": \"f5ae0a05-7d6a-4de8-bb04-d40ed5fa54c8\",\n                    \"label\": \"Workspace ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"tenant_id\",\n                    \"value\": \"dfbb0d3b-8276-4581-97a4-2b844a84ea35\",\n                    \"label\": \"Tenant ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"client_id\",\n                    \"value\": \"fdba3b64-86ef-4ffa-bfb1-2ff42b440e13\",\n                    \"label\": \"Client ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"client_secret\",\n                    \"value\": \"\",\n                    \"label\": \"Client Secret\",\n                    \"type\": \"SECRET\",\n                    \"placeholder\": \"Client Secret\",\n                    \"validation_rules\": null,\n                    \"is_optional\": false\n                },\n                {\n                    \"name\": \"subscription_id\",\n                    \"value\": null,\n                    \"label\": \"Subscription ID\",\n                    \"type\": \"UUID\",\n                    \"placeholder\": \"00000000-0000-0000-0000-000000000000\",\n                    \"validation_rules\": \"uuid\",\n                    \"is_optional\": true\n                },\n                {\n                    \"name\": \"resource_group_name\",\n                    \"value\": null,\n                    \"label\": \"Resource Group Name\",\n                    \"type\": \"STRING\",\n                    \"placeholder\": \"e.g. rg-myapp-prod-uks-001\",\n                    \"validation_rules\": null,\n                    \"is_optional\": true\n                },\n                {\n                    \"name\": \"workspace_name\",\n                    \"value\": null,\n                    \"label\": \"Workspace Name\",\n                    \"type\": \"STRING\",\n                    \"placeholder\": \"e.g. log-myapp-prod-uks-001\",\n                    \"validation_rules\": null,\n                    \"is_optional\": true\n                }\n            ],\n            \"scanners\": [\n                \"EmailEvents\",\n                \"EmailUrlInfo\",\n                \"SigninLogs\",\n                \"_Im_NetworkSession\",\n                \"OfficeActivity\",\n                \"_ASim_Authentication\",\n                \"IdentityDirectoryEvents\",\n                \"DeviceProcessEvents\",\n                \"DeviceNetworkEvents\",\n                \"EmailAttachmentInfo\",\n                \"AlertEvidence\",\n                \"UrlClickEvents\",\n                \"SecurityIncident\",\n                \"DeviceFileEvents\"\n            ],\n            \"has_credentials\": true\n        },",
+          "autoResize": false,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "mJpkjRejLbOAxUIZ8puJ5",
+      "created": 1766837382411,
+      "error": "Required",
+      "name": "Profile Source"
+    }
+  ]
+}
