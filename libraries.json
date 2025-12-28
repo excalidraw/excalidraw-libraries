@@ -7286,5 +7286,25 @@
       "Dashboards",
       "Agent Bricks"
     ]
+  },
+  {
+    "name": "PaloAltoNetworks",
+    "description": "Palo Alto Networks Icons",
+    "authors": [
+      {
+        "name": "Kobi",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "kobi/paloaltonetworks.excalidrawlib",
+    "preview": "kobi/paloaltonetworks.jpg",
+    "created": "2025-12-28",
+    "updated": "2025-12-28",
+    "version": 2,
+    "itemNames": [
+      "FW"
+    ]
   }
 ]
