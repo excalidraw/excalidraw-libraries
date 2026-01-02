@@ -7312,5 +7312,36 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Notifications and Alerts",
+    "description": "This library provides a comprehensive set of high-fidelity UI feedback components designed to map out system responses and user journey states in whiteboard mockups. It bridges the gap between static design and functional logic by offering pre-built assets for everything from action confirmations to critical system status updates.",
+    "authors": [
+      {
+        "name": "Joshua Ndala",
+        "github": "https://github.com/joshndala",
+        "twitter": "",
+        "url": "https://github.com/joshndala"
+      }
+    ],
+    "source": "joshndala/notifications-and-alerts.excalidrawlib",
+    "preview": "joshndala/notifications-and-alerts.jpg",
+    "created": "2026-01-02",
+    "updated": "2026-01-02",
+    "version": 2,
+    "itemNames": [
+      "Background Syncing",
+      "New Message Notification",
+      "Subscription/Paywall Alert",
+      "Form Validation Alert",
+      "In-App News/Update",
+      "Critical Error State (Connection Lost)",
+      "Permission Request",
+      "Progress Notification",
+      "Cookie/Privacy Consent",
+      "System Maintenance Banner",
+      "Destructive Action Warning",
+      "Success Toast"
+    ]
   }
 ]
