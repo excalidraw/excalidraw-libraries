@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Default",
+    "description": "Default items for a system design interview",
+    "authors": [
+      {
+        "name": "Gael",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gael/default.excalidrawlib",
+    "preview": "gael/default.jpg",
+    "created": "2026-01-07",
+    "updated": "2026-01-07",
+    "version": 2,
+    "itemNames": [
+      "Kubernetes"
+    ]
   }
 ]
