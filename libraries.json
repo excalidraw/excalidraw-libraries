@@ -7312,5 +7312,37 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "UML - Sequence diagram",
+    "description": "Based in:\r\n• https://www.uml-diagrams.org/sequence-diagrams.html\r\n• https://mermaid.ai/open-source/syntax/sequenceDiagram.html",
+    "authors": [
+      {
+        "name": "Samuel Sampaio",
+        "github": "https://github.com/samukasmk",
+        "twitter": "https://twitter.com/samukasmk",
+        "url": "https://github.com/samukasmk"
+      }
+    ],
+    "source": "samukasmk/uml-sequence-diagram.excalidrawlib",
+    "preview": "samukasmk/uml-sequence-diagram.jpg",
+    "created": "2026-01-08",
+    "updated": "2026-01-08",
+    "version": 2,
+    "itemNames": [
+      "Control",
+      "Boundary",
+      "User",
+      "ocurrence",
+      "Loop",
+      "Stage",
+      "Lifeline #1",
+      "Lifeline #2",
+      "Note",
+      "Collections",
+      "Participant",
+      "Queue",
+      "DB"
+    ]
   }
 ]
