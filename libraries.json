@@ -7312,5 +7312,39 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Foursys",
+    "description": ".",
+    "authors": [
+      {
+        "name": "Gus",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gus/foursys.excalidrawlib",
+    "preview": "gus/foursys.jpg",
+    "created": "2026-01-08",
+    "updated": "2026-01-08",
+    "version": 2,
+    "itemNames": [
+      "Off-page Connector",
+      "Connector",
+      "Delay",
+      "Preparation / Initialization",
+      "Database",
+      "Or",
+      "And",
+      "Input / Output",
+      "Predefined Process",
+      "Manaual Input",
+      "Multiple Document",
+      "Document",
+      "Decision",
+      "Process",
+      "Start / End"
+    ]
   }
 ]
