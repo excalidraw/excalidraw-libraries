@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Electricité",
+    "description": "Schéma Electrique",
+    "authors": [
+      {
+        "name": "Julien",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "julien/electricite.excalidrawlib",
+    "preview": "julien/electricite.jpg",
+    "created": "2026-01-08",
+    "updated": "2026-01-08",
+    "version": 2,
+    "itemNames": [
+      "RC_Charge"
+    ]
   }
 ]
