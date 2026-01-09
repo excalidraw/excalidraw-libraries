@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "sequence",
+    "description": "block on sequence diagram",
+    "authors": [
+      {
+        "name": "kundahn",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "kundahn/sequence.excalidrawlib",
+    "preview": "kundahn/sequence.jpg",
+    "created": "2026-01-09",
+    "updated": "2026-01-09",
+    "version": 2,
+    "itemNames": [
+      "block"
+    ]
   }
 ]
