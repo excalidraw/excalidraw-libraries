@@ -1,0 +1,131 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "5pFpKCvo",
+          "type": "text",
+          "x": 169.5116302285777,
+          "y": -700.9063751233834,
+          "width": 71.45293277457631,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 0.5,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "6Lrv4FBD_bhe6h4puIg4f"
+          ],
+          "frameId": "T16er4qxiaM_iUKWBOtad",
+          "index": "aE",
+          "roundness": null,
+          "seed": 746941818,
+          "version": 463,
+          "versionNonce": 1406638458,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1768341611303,
+          "locked": false,
+          "text": "<<port>>",
+          "rawText": "<<port>>",
+          "fontSize": 16,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "<<port>>",
+          "autoResize": false,
+          "lineHeight": 1.25,
+          "hasTextLink": false
+        },
+        {
+          "id": "aKXqGjH3lLpFd-V9Q25_f",
+          "type": "ellipse",
+          "x": -9.120701707863077,
+          "y": -681.9788261873322,
+          "width": 236.45764351174202,
+          "height": 49,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 0.5,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "6Lrv4FBD_bhe6h4puIg4f"
+          ],
+          "frameId": "T16er4qxiaM_iUKWBOtad",
+          "index": "aF",
+          "roundness": null,
+          "seed": 940530598,
+          "version": 661,
+          "versionNonce": 1374112058,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "mOe5sKJh"
+            }
+          ],
+          "updated": 1768341623321,
+          "link": null,
+          "locked": false,
+          "hasTextLink": false
+        },
+        {
+          "id": "mOe5sKJh",
+          "type": "text",
+          "x": 33.86780298642732,
+          "y": -669.8029423264026,
+          "width": 150.2798309326172,
+          "height": 25,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 4,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "6Lrv4FBD_bhe6h4puIg4f"
+          ],
+          "frameId": "T16er4qxiaM_iUKWBOtad",
+          "index": "aG",
+          "roundness": null,
+          "seed": 1647376102,
+          "version": 598,
+          "versionNonce": 2136871418,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1768341623321,
+          "locked": false,
+          "text": "UserRepository",
+          "rawText": "UserRepository",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "aKXqGjH3lLpFd-V9Q25_f",
+          "originalText": "UserRepository",
+          "autoResize": true,
+          "lineHeight": 1.25,
+          "hasTextLink": false
+        }
+      ],
+      "id": "SpHCM4haayYTkmfuEcGjl",
+      "created": 1768341632428,
+      "name": "Port"
+    }
+  ]
+}
