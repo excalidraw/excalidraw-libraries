@@ -7312,5 +7312,32 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Kanji Writing Tools",
+    "description": "Lined and unlined boxes styled after Genkō yōshi  grid paper, helpful for practicing Japanese characters. ",
+    "authors": [
+      {
+        "name": "stellRC",
+        "github": "https://github.com/stellRC",
+        "twitter": "",
+        "url": "https://github.com/stellRC"
+      }
+    ],
+    "source": "stellrc/kanji-writing-tools.excalidrawlib",
+    "preview": "stellrc/kanji-writing-tools.jpg",
+    "created": "2026-01-16",
+    "updated": "2026-01-16",
+    "version": 2,
+    "itemNames": [
+      "Multi-character No Subgrid",
+      "No Subgrid",
+      "Dashed Subbergrid",
+      "Multi-character Solid Subgrid",
+      "Multi-character Dashed Subgrid",
+      "Dashed Subgrid Sloppy Border",
+      "Solid Subgrid",
+      "Dashed Subgrid"
+    ]
   }
 ]
