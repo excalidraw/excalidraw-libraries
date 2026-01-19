@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "n8n designer",
+    "description": "A fast way to design n8n workflows",
+    "authors": [
+      {
+        "name": "Shinra",
+        "github": "https://github.com/xivshinra",
+        "twitter": "https://twitter.com/xivshinra",
+        "url": "https://github.com/xivshinra"
+      }
+    ],
+    "source": "xivshinra/n8n-designer.excalidrawlib",
+    "preview": "xivshinra/n8n-designer.jpg",
+    "created": "2026-01-19",
+    "updated": "2026-01-19",
+    "version": 2,
+    "itemNames": [
+      "Node card"
+    ]
   }
 ]

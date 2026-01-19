@@ -1,0 +1,134 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "SDQZyxn3Dk-4_y0sczUlU",
+          "type": "rectangle",
+          "x": 1304.2849752571256,
+          "y": -186.4183769447819,
+          "width": 626,
+          "height": 297,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 70,
+          "groupIds": [
+            "3bE9fRgDSKruvfGMQxzcQ"
+          ],
+          "frameId": null,
+          "index": "b0V1",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 500836608,
+          "version": 1964,
+          "versionNonce": 1337214720,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "GMqzi8CVOkNivG-mF8jvv"
+            },
+            {
+              "id": "sVVruzTedmwp5DoEqOwuX",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1768820770258,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "GMqzi8CVOkNivG-mF8jvv",
+          "type": "text",
+          "x": 1554.0049993660123,
+          "y": -181.4183769447819,
+          "width": 126.55995178222656,
+          "height": 70,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 70,
+          "groupIds": [
+            "3bE9fRgDSKruvfGMQxzcQ"
+          ],
+          "frameId": null,
+          "index": "b0V2",
+          "roundness": null,
+          "seed": 313329920,
+          "version": 2064,
+          "versionNonce": 793184512,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1768820770258,
+          "link": null,
+          "locked": false,
+          "text": "\nNew node",
+          "fontSize": 28,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "top",
+          "containerId": "SDQZyxn3Dk-4_y0sczUlU",
+          "originalText": "\nNew node",
+          "autoResize": true,
+          "lineHeight": 1.25
+        },
+        {
+          "id": "JOK3lsCQ5kS1rSrMyykUg",
+          "type": "text",
+          "x": 1336.7443209978142,
+          "y": -79.61553894478189,
+          "width": 561.0813085186228,
+          "height": 125,
+          "angle": 0,
+          "strokeColor": "#868e96",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "3bE9fRgDSKruvfGMQxzcQ"
+          ],
+          "frameId": null,
+          "index": "b0V6",
+          "roundness": null,
+          "seed": 1874774272,
+          "version": 1410,
+          "versionNonce": 323618560,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1768820770258,
+          "link": null,
+          "locked": false,
+          "text": "Description du node, son rôle, ses objectifs et ses\nbesoins. Lorem ipsum dolor sit amet consectetur. Lorem\nipsum dolor sit amet consectetur. Lorem ipsum dolor sit\namet consectetur. Lorem ipsum dolor sit amet\nconsectetur.",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "Description du node, son rôle, ses objectifs et ses besoins. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet consectetur.",
+          "autoResize": false,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "IAdfWOnJZuotuihLCgQiP",
+      "created": 1768820777785,
+      "name": "Node card"
+    }
+  ]
+}
