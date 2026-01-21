@@ -7312,5 +7312,27 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "LinearList",
+    "description": "The structures of linearlist",
+    "authors": [
+      {
+        "name": "kimo",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "kimo/linearlist.excalidrawlib",
+    "preview": "kimo/linearlist.jpg",
+    "created": "2026-01-21",
+    "updated": "2026-01-21",
+    "version": 2,
+    "itemNames": [
+      "DulLinkedList",
+      "SingleLinkedList",
+      "SequenceList"
+    ]
   }
 ]
