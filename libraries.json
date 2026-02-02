@@ -7312,5 +7312,28 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "BranchSketch or DirTree Visuals",
+    "description": "A collection of reusable elements for visually representing directory trees, hierarchical structures, and branching diagrams in Excalidraw. This library includes classic ASCII-style connectors such as vertical lines, branch connectors, and end connectors, making it easy to sketch project structures, file hierarchies, and organizational charts with clarity and style.",
+    "authors": [
+      {
+        "name": "RodolffoNMS",
+        "github": "https://github.com/sirnivass@gmail.com",
+        "twitter": "https://twitter.com/sirnivass",
+        "url": "https://github.com/sirnivass@gmail.com"
+      }
+    ],
+    "source": "sirnivass-gmail-com/branchsketch-or-dirtree-visuals.excalidrawlib",
+    "preview": "sirnivass-gmail-com/branchsketch-or-dirtree-visuals.jpg",
+    "created": "2026-02-02",
+    "updated": "2026-02-02",
+    "version": 2,
+    "itemNames": [
+      "BranchConnector",
+      "VerticalLine",
+      "EndConnector",
+      "Sumary"
+    ]
   }
 ]
