@@ -1,0 +1,91 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "id": "p-BrkN1bEGa45wrDgcBL3",
+      "status": "published",
+      "elements": [
+        {
+          "id": "FjzHJhiHQyu3CoW98Uv2a",
+          "type": "rectangle",
+          "x": 699.4917287995384,
+          "y": -212.28774329235807,
+          "width": 142.92350750253078,
+          "height": 48.37302492251922,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "seed": 8588687,
+          "version": 1138,
+          "versionNonce": 1807774689,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "H5B6hbj0"
+            }
+          ],
+          "updated": 1770083238058,
+          "link": null,
+          "locked": false,
+          "index": "am",
+          "frameId": null,
+          "roundness": {
+            "type": 1
+          }
+        },
+        {
+          "id": "H5B6hbj0",
+          "type": "text",
+          "x": 743.481505316917,
+          "y": -198.10123083109846,
+          "width": 54.94395446777344,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "seed": 185107375,
+          "version": 1227,
+          "versionNonce": 1050110031,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1770083220205,
+          "link": null,
+          "locked": false,
+          "text": "Activity",
+          "fontSize": 16,
+          "fontFamily": 6,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 32,
+          "containerId": "FjzHJhiHQyu3CoW98Uv2a",
+          "originalText": "Activity",
+          "index": "an",
+          "frameId": null,
+          "roundness": {
+            "type": 2
+          },
+          "rawText": "Activity",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1770083249609,
+      "name": "Activity"
+    }
+  ]
+}
