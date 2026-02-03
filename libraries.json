@@ -7312,5 +7312,30 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Big O Functions",
+    "description": "Useful for discussing Big O notation",
+    "authors": [
+      {
+        "name": "CubeOfCheese",
+        "github": "https://github.com/cubeofcheese",
+        "twitter": "",
+        "url": "https://cubeofcheese.com"
+      }
+    ],
+    "source": "cubeofcheese/big-o-functions.excalidrawlib",
+    "preview": "cubeofcheese/big-o-functions.jpg",
+    "created": "2026-02-03",
+    "updated": "2026-02-03",
+    "version": 2,
+    "itemNames": [
+      "Factorial",
+      "Exponential",
+      "Constant",
+      "Quadratic",
+      "Logarithmic",
+      "Linear"
+    ]
   }
 ]
