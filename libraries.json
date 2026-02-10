@@ -7312,5 +7312,32 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Basic LLM & Agents",
+    "description": "A library of shapes suitable for LLM-focused generative AI systems, with a focus on Agents. ",
+    "authors": [
+      {
+        "name": "Minda Myers",
+        "github": "https://github.com/minda",
+        "twitter": "https://twitter.com/https://x.com/MindaMyers",
+        "url": "http://www.mindamyers.com"
+      }
+    ],
+    "source": "minda/basic-llm-agents.excalidrawlib",
+    "preview": "minda/basic-llm-agents.jpg",
+    "created": "2026-02-10",
+    "updated": "2026-02-10",
+    "version": 2,
+    "itemNames": [
+      "context window",
+      "LLM",
+      "RAG / Vector DB",
+      "User",
+      "Agent",
+      "Neural Net",
+      "output",
+      "prompt"
+    ]
   }
 ]
