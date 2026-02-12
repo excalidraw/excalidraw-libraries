@@ -7312,5 +7312,26 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Custom CPU architecture and components",
+    "description": "This Library includes a diagram of components for a custom made central processing unit (cpu).",
+    "authors": [
+      {
+        "name": "Pyro9k",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "pyro9k/custom-cpu-architecture-and-components.excalidrawlib",
+    "preview": "pyro9k/custom-cpu-architecture-and-components.jpg",
+    "created": "2026-02-12",
+    "updated": "2026-02-12",
+    "version": 2,
+    "itemNames": [
+      "Program Counter",
+      "Instruction Memory"
+    ]
   }
 ]
