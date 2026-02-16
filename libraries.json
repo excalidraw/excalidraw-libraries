@@ -7312,5 +7312,34 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "notifications/popups",
+    "description": "collection of popup/modal messages",
+    "authors": [
+      {
+        "name": "Matthew",
+        "github": "https://github.com/l-matthew07",
+        "twitter": "",
+        "url": "https://github.com/l-matthew07"
+      }
+    ],
+    "source": "l-matthew07/notifications-popups.excalidrawlib",
+    "preview": "l-matthew07/notifications-popups.jpg",
+    "created": "2026-02-16",
+    "updated": "2026-02-16",
+    "version": 2,
+    "itemNames": [
+      "save",
+      "error",
+      "purchase",
+      "timeout",
+      "leave site",
+      "delete",
+      "error",
+      "info",
+      "success",
+      "warning"
+    ]
   }
 ]
