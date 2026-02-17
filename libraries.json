@@ -7312,5 +7312,40 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "HSC Software Engineering Symbols",
+    "description": "The symbols in this library are designed to match those used by NESA in the HSC Exam platform for Software Engineering students in NSW. They form a collection of common components found in various diagrams that are useful for a high school computer science course.",
+    "authors": [
+      {
+        "name": "Michael Kelly",
+        "github": "https://github.com/mkelly133",
+        "twitter": "",
+        "url": "https://github.com/mkelly133"
+      }
+    ],
+    "source": "mkelly133/hsc-software-engineering-symbols.excalidrawlib",
+    "preview": "mkelly133/hsc-software-engineering-symbols.jpg",
+    "created": "2026-02-17",
+    "updated": "2026-02-17",
+    "version": 2,
+    "itemNames": [
+      "DFD - Process",
+      "DFD - Data Store",
+      "DFD - External Entity",
+      "DFD - Data Flow",
+      "SC - Data",
+      "SC - Flag",
+      "AF - Subprogram",
+      "AF - Input Output",
+      "AF - Decision",
+      "AF - Terminator",
+      "SC/AF - Process",
+      "SC - Decision",
+      "SC - Repetition",
+      "Devops",
+      "CD - Simple",
+      "CD - Standard"
+    ]
   }
 ]
