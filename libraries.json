@@ -7312,5 +7312,33 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Oriv",
+    "description": "Elements for Oriv",
+    "authors": [
+      {
+        "name": "Karthik",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "karthik/oriv.excalidrawlib",
+    "preview": "karthik/oriv.jpg",
+    "created": "2026-02-21",
+    "updated": "2026-02-21",
+    "version": 2,
+    "itemNames": [
+      "Ongoing",
+      "pending",
+      "done",
+      "event",
+      "database",
+      "Task block",
+      "Third party service",
+      "nats producer",
+      "nats consumer"
+    ]
   }
 ]
