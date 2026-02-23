@@ -7312,5 +7312,35 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Quantum Network Components",
+    "description": "Quantum network components, as specified by R. Van Meter et al.,\"A Quantum Internet Architecture\" (2022)",
+    "authors": [
+      {
+        "name": "toftpokk",
+        "github": "https://github.com/https://github.com/toftpokk",
+        "twitter": "",
+        "url": "https://github.com/https://github.com/toftpokk"
+      }
+    ],
+    "source": "https-github-com-toftpokk/quantum-network-components.excalidrawlib",
+    "preview": "https-github-com-toftpokk/quantum-network-components.jpg",
+    "created": "2026-02-23",
+    "updated": "2026-02-23",
+    "version": 2,
+    "itemNames": [
+      "Repeater Graph State Source (MEAS)",
+      "Advanced Bell State Analyzer (ABSA)",
+      "Optical Switch (OSW)",
+      "Bell State Analyzer (BSA)",
+      "Entangled Photon Pair Source (EPPS)",
+      "Router (RTR)",
+      "1G Repeater (REP1)",
+      "2G Repeater (REP2)",
+      "Sensor (SNSR)",
+      "Computer (COMP)",
+      "Measure (MEAS)"
+    ]
   }
 ]
