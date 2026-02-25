@@ -1,0 +1,86 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "cMHx5G9Ze16sozLNythhl",
+      "status": "published",
+      "elements": [
+        {
+          "id": "mNOKqVqwjTlmZT2aSoGt3",
+          "type": "rectangle",
+          "x": 6854.787785784116,
+          "y": 1490.5183677306557,
+          "width": 152.5,
+          "height": 50.83333333333333,
+          "angle": 0,
+          "strokeColor": "#2f9e44",
+          "backgroundColor": "#b2f2bb",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "nQHVamHfVcjJQoiw5uG7g"
+          ],
+          "frameId": null,
+          "index": "b1H",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 2080452976,
+          "version": 156,
+          "versionNonce": 1582628752,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1771981060637,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "fmFOxgYA30gNgBIbgPp8L",
+          "type": "text",
+          "x": 6872.468945204406,
+          "y": 1496.0437300494962,
+          "width": 116.80169434478319,
+          "height": 39.78260869565218,
+          "angle": 0,
+          "strokeColor": "#2f9e44",
+          "backgroundColor": "#b2f2bb",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "nQHVamHfVcjJQoiw5uG7g"
+          ],
+          "frameId": null,
+          "index": "b1I",
+          "roundness": null,
+          "seed": 1293811600,
+          "version": 63,
+          "versionNonce": 145657232,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1771981060637,
+          "link": null,
+          "locked": false,
+          "text": "Guardar",
+          "fontSize": 31.826086956521742,
+          "fontFamily": 6,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "Guardar",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1771981063666,
+      "name": "Boton guardar"
+    }
+  ]
+}
