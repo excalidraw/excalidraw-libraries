@@ -7312,5 +7312,27 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "More ELK icons",
+    "description": "Addition to existing ELK icon pack",
+    "authors": [
+      {
+        "name": "Brille",
+        "github": "https://github.com/ItsMeBrille",
+        "twitter": "",
+        "url": "https://github.com/ItsMeBrille"
+      }
+    ],
+    "source": "itsmebrille/more-elk-icons.excalidrawlib",
+    "preview": "itsmebrille/more-elk-icons.jpg",
+    "created": "2026-03-05",
+    "updated": "2026-03-05",
+    "version": 2,
+    "itemNames": [
+      "Elastic Fleet Server",
+      "Elastic Packetbeat",
+      "Elastic Agent"
+    ]
   }
 ]
