@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "experiments",
+    "description": "Items for A/B testing modeling.",
+    "authors": [
+      {
+        "name": "Camilo Andres Castro Sanabria",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "camilo-andres-castro-sanabria/experiments.excalidrawlib",
+    "preview": "camilo-andres-castro-sanabria/experiments.jpg",
+    "created": "2026-03-05",
+    "updated": "2026-03-05",
+    "version": 2,
+    "itemNames": [
+      "retrieval_experiment"
+    ]
   }
 ]
