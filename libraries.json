@@ -7312,5 +7312,27 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Mirrors",
+    "description": "This library consists of different mirrors. These are intended to be used for teaching ray optics to students. ",
+    "authors": [
+      {
+        "name": "Sourav Karmakar",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sourav-karmakar/mirrors.excalidrawlib",
+    "preview": "sourav-karmakar/mirrors.jpg",
+    "created": "2026-03-08",
+    "updated": "2026-03-08",
+    "version": 2,
+    "itemNames": [
+      "Plane Mirror",
+      "Convex Mirror",
+      "Concave Mirror"
+    ]
   }
 ]
