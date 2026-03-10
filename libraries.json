@@ -7312,5 +7312,31 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Cisco Icons",
+    "description": "Custom icons for Excalidraw by Cisco. Used for Networking / Architecture diagrams.\r\n\r\nIncludes: Cloud, PC, Server, Router, Switch, L3 Switch/Multilayer Switch, Firewall.",
+    "authors": [
+      {
+        "name": "Devinsu Collins",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "devinsu-collins/cisco-icons.excalidrawlib",
+    "preview": "devinsu-collins/cisco-icons.jpg",
+    "created": "2026-03-10",
+    "updated": "2026-03-10",
+    "version": 2,
+    "itemNames": [
+      "Cloud",
+      "PC",
+      "Server",
+      "Router",
+      "Switch",
+      "Firewall",
+      "L3 Switch"
+    ]
   }
 ]
