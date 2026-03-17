@@ -7312,5 +7312,29 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Equation",
+    "description": "some symbols to help you write methematics equations",
+    "authors": [
+      {
+        "name": "gemtech",
+        "github": "https://github.com/gemtechd",
+        "twitter": "",
+        "url": "https://github.com/gemtechd"
+      }
+    ],
+    "source": "gemtechd/equation.excalidrawlib",
+    "preview": "gemtechd/equation.jpg",
+    "created": "2026-03-17",
+    "updated": "2026-03-17",
+    "version": 2,
+    "itemNames": [
+      "sum",
+      "radical",
+      "frac-sub",
+      "fraction",
+      "sub"
+    ]
   }
 ]
