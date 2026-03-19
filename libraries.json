@@ -7312,5 +7312,65 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Candlestick Types",
+    "description": "This Candlestick Types Library is a specialized collection of charting elements designed for traders, analysts, and educators who want to visualize candlestick patterns directly within Excalidraw. It provides a wide range of commonly recognized candlestick types used in technical analysis, making it easier to illustrate market psychology and price action concepts in a clear, interactive way.",
+    "authors": [
+      {
+        "name": "Kunal Kalore",
+        "github": "https://github.com/kunalnkalore",
+        "twitter": "",
+        "url": "https://github.com/kunalnkalore"
+      }
+    ],
+    "source": "kunalnkalore/candlestick-types.excalidrawlib",
+    "preview": "kunalnkalore/candlestick-types.jpg",
+    "created": "2026-03-19",
+    "updated": "2026-03-19",
+    "version": 2,
+    "itemNames": [
+      "Red wid Low wick",
+      "Green wid Low wick",
+      "Gravestone",
+      "Inverted Dragonfly",
+      "Inverted Gravestone",
+      "Dragonfly",
+      "Volatile2 Green",
+      "Volatile2 Green",
+      "Small Red wid wick",
+      "Small Green wid wick",
+      "Mid Red wid wick",
+      "Mid Green wid wick",
+      "Long Lower Wick Red",
+      "Long Lower Wick Green",
+      "Long Upper Wick Red",
+      "Long Upper Wick Green",
+      "Low wick small red",
+      "Low wick small green",
+      "Up wick small red",
+      "Up wick small green",
+      "Spinning Top Red",
+      "Spinning Top Green",
+      "Inverted Cross Doji Red",
+      "Inverted Cross Doji Green",
+      "Cross Doji Red",
+      "Cross Doji Green",
+      "Volatile1 Red",
+      "Volatile1 Green",
+      "Zero Body",
+      "Indecision Red",
+      "Indecision Green",
+      "Red Upper Wick",
+      "Green Upper Wick",
+      "Red with Wick",
+      "Green with Wick",
+      "Hanging man Red",
+      "Hammer Green",
+      "Invert Hammer Green",
+      "Invert Hammer Red",
+      "Strong Red",
+      "Strong Green"
+    ]
   }
 ]
