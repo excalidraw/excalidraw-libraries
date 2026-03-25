@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Raspberry Pi 5",
+    "description": "Library with Raspberry Pi 5 elements",
+    "authors": [
+      {
+        "name": "pixlgltch",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "pixlgltch/raspberry-pi-5.excalidrawlib",
+    "preview": "pixlgltch/raspberry-pi-5.jpg",
+    "created": "2026-03-25",
+    "updated": "2026-03-25",
+    "version": 2,
+    "itemNames": [
+      "Raspberry Pi 5 GPIO"
+    ]
   }
 ]
