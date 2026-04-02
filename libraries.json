@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Electrical Components",
+    "description": "A library of components for circuit diagrams",
+    "authors": [
+      {
+        "name": "sonusdrums",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "sonusdrums/electrical-components.excalidrawlib",
+    "preview": "sonusdrums/electrical-components.jpg",
+    "created": "2026-04-02",
+    "updated": "2026-04-02",
+    "version": 2,
+    "itemNames": [
+      "Resistor"
+    ]
   }
 ]
