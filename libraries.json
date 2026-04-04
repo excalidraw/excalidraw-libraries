@@ -7312,5 +7312,28 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "C4 Architecture Model Adapted Notation",
+    "description": "C4 architecture model notation adapted for quick and most convenient usage with Excalidraw primitives.\r\n\r\nExpected usage: \r\n- install library to your Excalidraw app, \r\n- add item for each level on your board,\r\n- find useful items from the library and add it to your personal library,\r\n- use these items and feel free to edit them.\r\n",
+    "authors": [
+      {
+        "name": "e1turin",
+        "github": "https://github.com/e1turin",
+        "twitter": "",
+        "url": "https://github.com/e1turin"
+      }
+    ],
+    "source": "e1turin/c4-architecture-model-adapted-notation.excalidrawlib",
+    "preview": "e1turin/c4-architecture-model-adapted-notation.jpg",
+    "created": "2026-04-04",
+    "updated": "2026-04-04",
+    "version": 2,
+    "itemNames": [
+      "c4-context",
+      "c4-container",
+      "c4-component",
+      "c4-code"
+    ]
   }
 ]
