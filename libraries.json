@@ -7312,5 +7312,29 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "ExcaliMath — Statistics",
+    "description": "5 statistics chart frames for grades 5-12 math and science education: bar chart, pie chart (4 segments), histogram, scatter plot with data points, and box plot with quartile labels. Part of the ExcaliMath project.\r\n",
+    "authors": [
+      {
+        "name": "TamerAW",
+        "github": "https://github.com/tamerUAE",
+        "twitter": "",
+        "url": "https://github.com/tamerUAE/excalimath"
+      }
+    ],
+    "source": "tameruae/excalimath-statistics.excalidrawlib",
+    "preview": "tameruae/excalimath-statistics.jpg",
+    "created": "2026-04-05",
+    "updated": "2026-04-05",
+    "version": 2,
+    "itemNames": [
+      "Bar Chart Frame",
+      "Pie Chart (4 segments)",
+      "Histogram Frame",
+      "Scatter Plot Axes",
+      "Box Plot Frame"
+    ]
   }
 ]
