@@ -7312,5 +7312,49 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "ExcaliMath — Electronics & Circuits",
+    "description": "25 standard circuit schematic symbols for electronics and physics education. Includes resistors, capacitors, battery, cell, switches, inductor, diode, LED, transistors (NPN/PNP), ammeter, voltmeter, motor, lamp, buzzer, fuse, thermistor, variable resistor, LDR, ground, and wire. All symbols follow ANSI/IEC conventions. Part of the ExcaliMath project.",
+    "authors": [
+      {
+        "name": "TamerAW",
+        "github": "https://github.com/tamerUAE",
+        "twitter": "",
+        "url": "https://github.com/tamerUAE/excalimath"
+      }
+    ],
+    "source": "tameruae/excalimath-electronics-circuits.excalidrawlib",
+    "preview": "tameruae/excalimath-electronics-circuits.jpg",
+    "created": "2026-04-05",
+    "updated": "2026-04-05",
+    "version": 2,
+    "itemNames": [
+      "Wire",
+      "Cell",
+      "Battery",
+      "Switch (Open)",
+      "Switch (Closed)",
+      "Ground",
+      "Resistor",
+      "Resistor (IEC Box)",
+      "Variable Resistor",
+      "Thermistor",
+      "Fuse",
+      "LDR",
+      "Capacitor",
+      "Inductor",
+      "Diode",
+      "LED",
+      "Transistor (NPN)",
+      "Transistor (PNP)",
+      "Ammeter",
+      "Voltmeter",
+      "Motor",
+      "Lamp",
+      "Buzzer",
+      "Force Arrow",
+      "Force Arrows (Balanced)"
+    ]
   }
 ]
