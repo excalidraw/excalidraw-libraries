@@ -7312,5 +7312,28 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "BJT",
+    "description": "BJT Symbol(4x4 grid)",
+    "authors": [
+      {
+        "name": "Nurul Hasan",
+        "github": "https://github.com/nurulhasan-ade",
+        "twitter": "",
+        "url": "https://github.com/nurulhasan-ade"
+      }
+    ],
+    "source": "nurulhasan-ade/bjt.excalidrawlib",
+    "preview": "nurulhasan-ade/bjt.jpg",
+    "created": "2026-04-09",
+    "updated": "2026-04-09",
+    "version": 2,
+    "itemNames": [
+      "Phototransistor NPN",
+      "Phototransistor PNP",
+      "NPN",
+      "PNP"
+    ]
   }
 ]
