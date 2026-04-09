@@ -7312,5 +7312,30 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "MOSFETS",
+    "description": "Mosfet symbol(4x4 grid)",
+    "authors": [
+      {
+        "name": "Nurul Hasan",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "nurul-hasan/mosfets.excalidrawlib",
+    "preview": "nurul-hasan/mosfets.jpg",
+    "created": "2026-04-09",
+    "updated": "2026-04-09",
+    "version": 2,
+    "itemNames": [
+      "nmos_dig",
+      "nmos_4t",
+      "pmos_3t",
+      "pmos_dig",
+      "pmos_4t",
+      "nmos_3t"
+    ]
   }
 ]
