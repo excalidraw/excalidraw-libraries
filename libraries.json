@@ -7312,5 +7312,41 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Industrial_Component",
+    "description": "A collection of hand-drawn industrial and automation components for quick, clear technical diagrams. Ideal for sketching systems, layouts, and workflows with consistency and ease.",
+    "authors": [
+      {
+        "name": "Massimiliano Gaffurini",
+        "github": "https://github.com/MGaffurini",
+        "twitter": "",
+        "url": "https://github.com/MGaffurini"
+      }
+    ],
+    "source": "mgaffurini/industrial_component.excalidrawlib",
+    "preview": "mgaffurini/industrial_component.jpg",
+    "created": "2026-04-16",
+    "updated": "2026-04-16",
+    "version": 2,
+    "itemNames": [
+      "se",
+      "sv",
+      "ft",
+      "switch1",
+      "network_sniffer",
+      "pc_scada",
+      "switch2",
+      "master_io_link",
+      "level_sensor",
+      "motor2",
+      "motor1",
+      "vibration_sensor",
+      "pressure_transmitter",
+      "hmi",
+      "proximity_sensor",
+      "temperature_sensor",
+      "plc"
+    ]
   }
 ]
