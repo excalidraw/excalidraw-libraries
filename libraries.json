@@ -7312,5 +7312,39 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Nätverk",
+    "description": "Nätverkskomponenter",
+    "authors": [
+      {
+        "name": "Anders",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "anders/natverk.excalidrawlib",
+    "preview": "anders/natverk.jpg",
+    "created": "2026-04-16",
+    "updated": "2026-04-16",
+    "version": 2,
+    "itemNames": [
+      "Switch",
+      "Router",
+      "Brandvägg",
+      "Accesspunkt",
+      "4G/5G",
+      "Internet",
+      "Fil",
+      "Databas",
+      "Dator",
+      "IT-System",
+      "Katalog",
+      "Mobil enhet",
+      "Användarfgrupp",
+      "Användare",
+      "Klient"
+    ]
   }
 ]
