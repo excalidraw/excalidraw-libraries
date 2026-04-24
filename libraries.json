@@ -7312,5 +7312,31 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Sequence Diagram",
+    "description": "Simple sequence Diagram elements",
+    "authors": [
+      {
+        "name": "Josef Dostál",
+        "github": "https://github.com/josefdostal",
+        "twitter": "",
+        "url": "https://github.com/josefdostal"
+      }
+    ],
+    "source": "josefdostal/sequence-diagram.excalidrawlib",
+    "preview": "josefdostal/sequence-diagram.jpg",
+    "created": "2026-04-24",
+    "updated": "2026-04-24",
+    "version": 2,
+    "itemNames": [
+      "User",
+      "Entity",
+      "Process",
+      "Callback",
+      "Message",
+      "Loop",
+      "Optional"
+    ]
   }
 ]
