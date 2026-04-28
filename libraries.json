@@ -7312,5 +7312,28 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Monitoring",
+    "description": "Open pit monitoring",
+    "authors": [
+      {
+        "name": "Wismut",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "wismut/monitoring.excalidrawlib",
+    "preview": "wismut/monitoring.jpg",
+    "created": "2026-04-28",
+    "updated": "2026-04-28",
+    "version": 2,
+    "itemNames": [
+      "Open pit",
+      "GBINSAR",
+      "Total station",
+      "GNSS"
+    ]
   }
 ]
