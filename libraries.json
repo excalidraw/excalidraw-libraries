@@ -7312,5 +7312,33 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Genogram",
+    "description": "Zeichen für das Genogram",
+    "authors": [
+      {
+        "name": "Armin",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "armin/genogram.excalidrawlib",
+    "preview": "armin/genogram.jpg",
+    "created": "2026-04-28",
+    "updated": "2026-04-28",
+    "version": 2,
+    "itemNames": [
+      "Haustier",
+      "Versöhnung nach Trennphase",
+      "Versöhnung nach Scheidung",
+      "getrennt lebende Eheleute",
+      "Beziehung",
+      "Frau (Lesbisch)",
+      "(Mann (schwul)",
+      "Frau (hetero)",
+      "Mann (Hetero)"
+    ]
   }
 ]
