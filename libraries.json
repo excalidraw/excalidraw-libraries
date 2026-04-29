@@ -7312,5 +7312,30 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "program logic design",
+    "description": "Library to design the logic of a small program.",
+    "authors": [
+      {
+        "name": "bazaluga",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "bazaluga/program-logic-design.excalidrawlib",
+    "preview": "bazaluga/program-logic-design.jpg",
+    "created": "2026-04-29",
+    "updated": "2026-04-29",
+    "version": 2,
+    "itemNames": [
+      "loop",
+      "next",
+      "instruction",
+      "false",
+      "true",
+      "condition"
+    ]
   }
 ]
