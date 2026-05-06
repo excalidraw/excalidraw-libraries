@@ -7312,5 +7312,29 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Formula of Bayes' theorem",
+    "description": "the math.previewexcalidraw  is essential for rendering the LateX formulas",
+    "authors": [
+      {
+        "name": "Klaus Böhmer",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "klaus-bohmer/formula-of-bayes-theorem.excalidrawlib",
+    "preview": "klaus-bohmer/formula-of-bayes-theorem.jpg",
+    "created": "2026-05-06",
+    "updated": "2026-05-06",
+    "version": 2,
+    "itemNames": [
+      "P_B(A) = long",
+      "P_B(A) = medium",
+      "P_B(A) = short",
+      "P_A(B) = short",
+      "P_A(non B)"
+    ]
   }
 ]
