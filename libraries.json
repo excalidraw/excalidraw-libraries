@@ -7312,5 +7312,45 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "C4 Model - Solution architecture by Ruy",
+    "description": "C4 elements, Person, Web App, Mobile App, Component, System,  External System, Database, Store and more.",
+    "authors": [
+      {
+        "name": "Ruy JFS",
+        "github": "https://github.com/ruyjfs",
+        "twitter": "https://twitter.com/ruyjfs",
+        "url": "https://ruyjfs.com/"
+      }
+    ],
+    "source": "ruyjfs/c4-model-solution-architecture-by-ruy.excalidrawlib",
+    "preview": "ruyjfs/c4-model-solution-architecture-by-ruy.jpg",
+    "created": "2026-05-07",
+    "updated": "2026-05-07",
+    "version": 2,
+    "itemNames": [
+      "Existing Micro-Service",
+      "New Micro-Service",
+      "Changed Micro-Service",
+      "External Micro-Service",
+      "Deleted Micro-Service",
+      "Existing Service",
+      "New Service",
+      "Changed Service",
+      "External Service",
+      "Deleted Service",
+      "Existing System",
+      "New System",
+      "Changed System",
+      "External System",
+      "Deleted System",
+      "Person",
+      "Web App",
+      "Mobile App",
+      "Database",
+      "Queue",
+      "Store"
+    ]
   }
 ]
