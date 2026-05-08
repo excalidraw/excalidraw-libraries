@@ -1,0 +1,132 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "app://obsidian.md",
+  "libraryItems": [
+    {
+      "id": "YvH4hAR1-C12LAGaIXqWz",
+      "status": "published",
+      "elements": [
+        {
+          "id": "RELSIUGC",
+          "type": "rectangle",
+          "x": 360,
+          "y": 720,
+          "width": 140,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b16",
+          "roundness": null,
+          "seed": 1424680734,
+          "version": 17,
+          "versionNonce": 1021343454,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1778262982604,
+          "link": null,
+          "locked": false,
+          "hasTextLink": false
+        },
+        {
+          "id": "sbPyOGMA2BVrciIDXAMYC",
+          "type": "line",
+          "x": 500,
+          "y": 720,
+          "width": 20,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b17",
+          "roundness": null,
+          "seed": 311713218,
+          "version": 5,
+          "versionNonce": 2056750210,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1778262998165,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -20,
+              20
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": false,
+          "hasTextLink": false
+        },
+        {
+          "id": "KbnmhP8AO8KESQAW3XhV0",
+          "type": "line",
+          "x": 500,
+          "y": 740,
+          "width": 20,
+          "height": 0,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b18",
+          "roundness": null,
+          "seed": 1721250690,
+          "version": 11,
+          "versionNonce": 1748998594,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1778263006577,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -20,
+              0
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": false,
+          "hasTextLink": false
+        }
+      ],
+      "created": 1778263061311,
+      "name": "Note symbol - UML "
+    }
+  ]
+}
