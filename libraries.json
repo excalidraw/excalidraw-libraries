@@ -7312,5 +7312,36 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Cisco Network Devices",
+    "description": "Cisco common network devices. Use them to create your network topologies.",
+    "authors": [
+      {
+        "name": "Gustavo Brustolin",
+        "github": "https://github.com/gustavobps",
+        "twitter": "",
+        "url": "https://github.com/gustavobps"
+      }
+    ],
+    "source": "gustavobps/cisco-network-devices.excalidrawlib",
+    "preview": "gustavobps/cisco-network-devices.jpg",
+    "created": "2026-05-11",
+    "updated": "2026-05-11",
+    "version": 2,
+    "itemNames": [
+      "Cloud",
+      "Firewall",
+      "Mobile",
+      "Access Point",
+      "Computer",
+      "Secure Computer",
+      "Wireless Controller",
+      "Load Balancer",
+      "Router",
+      "Server",
+      "L3 Switch",
+      "L2 Switch"
+    ]
   }
 ]
