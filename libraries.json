@@ -7312,5 +7312,34 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Enterprise Banking Legacy",
+    "description": "10 components for diagramming legacy banking infrastructure: IBM Mainframe, DB2, AS/400, IBM MQ, ESB, Core Banking System, ATM Switch, HSM, Batch Processor, and Host Terminal. Built with a dark enterprise aesthetic faithful to the hardware found in financial institutions.",
+    "authors": [
+      {
+        "name": "Franklin Asto",
+        "github": "https://github.com/https://github.com/FranklinRuiz",
+        "twitter": "",
+        "url": "https://github.com/https://github.com/FranklinRuiz"
+      }
+    ],
+    "source": "https-github-com-franklinruiz/enterprise-banking-legacy.excalidrawlib",
+    "preview": "https-github-com-franklinruiz/enterprise-banking-legacy.jpg",
+    "created": "2026-05-19",
+    "updated": "2026-05-19",
+    "version": 2,
+    "itemNames": [
+      "Host system",
+      "Batch",
+      "HSM",
+      "ATM",
+      "Core banking",
+      "ESB",
+      "IBM MQ",
+      "AS400",
+      "DB2",
+      "Mainframe"
+    ]
   }
 ]
