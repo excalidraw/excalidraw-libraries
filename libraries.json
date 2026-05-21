@@ -7312,5 +7312,31 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "initial_lib",
+    "description": "initial_lib",
+    "authors": [
+      {
+        "name": "bae",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "bae/initial_lib.excalidrawlib",
+    "preview": "bae/initial_lib.jpg",
+    "created": "2026-05-21",
+    "updated": "2026-05-21",
+    "version": 2,
+    "itemNames": [
+      "object",
+      "database",
+      "stack",
+      "pipe",
+      "pages",
+      "browser",
+      "server"
+    ]
   }
 ]
