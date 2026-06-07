@@ -7312,5 +7312,26 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "AWS Nitro Enclaves",
+    "description": "Diagrams for AWS Nitro Enclaves",
+    "authors": [
+      {
+        "name": "chemonoworld",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "chemonoworld/aws-nitro-enclaves.excalidrawlib",
+    "preview": "chemonoworld/aws-nitro-enclaves.jpg",
+    "created": "2026-06-07",
+    "updated": "2026-06-07",
+    "version": 2,
+    "itemNames": [
+      "Internal Structure of Nitro Enclaves",
+      "EC2 with enclaves"
+    ]
   }
 ]
