@@ -7312,5 +7312,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Test Library",
+    "description": "A test library for Excalidraw UI testing",
+    "authors": [
+      {
+        "name": "TestUser",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "testuser/test-library.excalidrawlib",
+    "preview": "testuser/test-library.jpg",
+    "created": "2026-06-10",
+    "updated": "2026-06-10",
+    "version": 2,
+    "itemNames": [
+      "Test Shape"
+    ]
   }
 ]
