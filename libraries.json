@@ -7312,5 +7312,34 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "UML essentials diagram library",
+    "description": "A lightweight UML component library for class diagrams; includes relationship arrows (association, composition, aggregation, inheritance), multiplicity markers, and color-coded building blocks for classes, interfaces, and abstract types.",
+    "authors": [
+      {
+        "name": "Pranjal Kumar",
+        "github": "https://github.com/pranjal-barnwal",
+        "twitter": "https://twitter.com/PranjalKumar__",
+        "url": "https://www.linkedin.com/in/pranjal--kumar"
+      }
+    ],
+    "source": "pranjal-barnwal/uml-essentials-diagram-library.excalidrawlib",
+    "preview": "pranjal-barnwal/uml-essentials-diagram-library.jpg",
+    "created": "2026-06-12",
+    "updated": "2026-06-12",
+    "version": 2,
+    "itemNames": [
+      "Normal Arrow / relation",
+      "Abstract",
+      "Green component class",
+      "Yellow component class",
+      "Many to One relation",
+      "Many to Many relation",
+      "One to One relation",
+      "One to Many relation",
+      "Blue component class",
+      "Red component class"
+    ]
   }
 ]
