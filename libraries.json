@@ -7335,5 +7335,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Test Library",
+    "description": "A test library for spinner verification",
+    "authors": [
+      {
+        "name": "Test Author",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "test-author/test-library.excalidrawlib",
+    "preview": "test-author/test-library.jpg",
+    "created": "2026-06-12",
+    "updated": "2026-06-12",
+    "version": 2,
+    "itemNames": [
+      "Test Rectangle"
+    ]
   }
 ]
