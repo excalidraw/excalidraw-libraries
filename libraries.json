@@ -7335,5 +7335,35 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Microcontrollers & Prototyping Kit",
+    "description": "A comprehensive collection of essential electronic components for IoT architecture and circuit diagramming. Includes ESP-32 and Arduino boards, LCD displays, potentiometers, buttons, LEDs, and basic sensors.",
+    "authors": [
+      {
+        "name": "Santiago Caffaro",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "santiago-caffaro/microcontrollers-prototyping-kit.excalidrawlib",
+    "preview": "santiago-caffaro/microcontrollers-prototyping-kit.jpg",
+    "created": "2026-06-17",
+    "updated": "2026-06-17",
+    "version": 2,
+    "itemNames": [
+      "OLED",
+      "Slide Potentiometer",
+      "ESP32",
+      "Potentiometer",
+      "Button",
+      "Resistence",
+      "LED",
+      "LCD",
+      "CHIP-1",
+      "CHIP-2",
+      "MINI-CHIP"
+    ]
   }
 ]
