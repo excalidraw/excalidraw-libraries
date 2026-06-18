@@ -269,6 +269,7 @@ input:focus {
   padding: 0.7em 1.2em;
   border-radius: 0.8em;
   width: 300px;
+  height: 2.5em;
   max-width: 90%;
   border: 1px solid var(--oc-gray-5);
 }
