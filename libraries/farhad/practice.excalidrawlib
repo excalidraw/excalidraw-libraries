@@ -1,0 +1,52 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "dj_S7_y5vVcrqZtnIzuzT",
+          "type": "text",
+          "x": 436.2095959469473,
+          "y": -457.7011522993665,
+          "width": 1116.7991943359375,
+          "height": 675,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "b0C",
+          "roundness": null,
+          "seed": 1418503331,
+          "version": 1064,
+          "versionNonce": 663486257,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1778693207517,
+          "link": null,
+          "locked": false,
+          "text": "FR\n- riders should be able to put the destination and see available drivers around them\n- drivers should be able to see the riders' requests and select/confirm the ride\n- riders should be able to see the location of drivers live for the duration of the trip\n\nNFR\n- system should be available 99.99% and eventual consistency up to 10seconds is tolerable\n- latency should be <200ms for users (riders/drivers) interactions\n- System should be fault tolerant so if a partition/server fails during a trip, the trip is still completed sucessfully\n- System should be able to support 10M users with 10K DAU\n\nScale\n10M users\n100K ADU\n\nCore Entity\n- Rider\n- Driver\n- Trip\n- Map\n\nAPI Endpoints\n- POST /riders/{destination}\n- GET /map/nearby-drivers\n- POST /drivers/confirm-ride\n- GET /riders/selected-driver\n-GET maps/{trip-ID}",
+          "fontSize": 20,
+          "fontFamily": 5,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "containerId": null,
+          "originalText": "FR\n- riders should be able to put the destination and see available drivers around them\n- drivers should be able to see the riders' requests and select/confirm the ride\n- riders should be able to see the location of drivers live for the duration of the trip\n\nNFR\n- system should be available 99.99% and eventual consistency up to 10seconds is tolerable\n- latency should be <200ms for users (riders/drivers) interactions\n- System should be fault tolerant so if a partition/server fails during a trip, the trip is still completed sucessfully\n- System should be able to support 10M users with 10K DAU\n\nScale\n10M users\n100K ADU\n\nCore Entity\n- Rider\n- Driver\n- Trip\n- Map\n\nAPI Endpoints\n- POST /riders/{destination}\n- GET /map/nearby-drivers\n- POST /drivers/confirm-ride\n- GET /riders/selected-driver\n-GET maps/{trip-ID}",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "Y2JZ_agMpxoWz4LKgOYF0",
+      "created": 1778693320488,
+      "name": "Uber"
+    }
+  ]
+}
