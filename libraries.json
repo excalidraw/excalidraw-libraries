@@ -7335,5 +7335,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "My Lib",
+    "description": "Test",
+    "authors": [
+      {
+        "name": "SkyIsTheLimit",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "skyisthelimit/my-lib.excalidrawlib",
+    "preview": "skyisthelimit/my-lib.jpg",
+    "created": "2026-06-01",
+    "updated": "2026-06-01",
+    "version": 2,
+    "itemNames": [
+      "Test"
+    ]
   }
 ]
