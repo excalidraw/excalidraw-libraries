@@ -7335,5 +7335,29 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Redes-basica",
+    "description": "son iconos simples para todo el mundo",
+    "authors": [
+      {
+        "name": "Remba",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "remba/redes-basica.excalidrawlib",
+    "preview": "remba/redes-basica.jpg",
+    "created": "2026-06-24",
+    "updated": "2026-06-24",
+    "version": 2,
+    "itemNames": [
+      "Router",
+      "Wan",
+      "Swicht",
+      "Server",
+      "Firewalls"
+    ]
   }
 ]
