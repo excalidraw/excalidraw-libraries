@@ -1,0 +1,96 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "eBel4rN2p0WAvfpprF1Zi",
+      "status": "published",
+      "elements": [
+        {
+          "id": "FErd2R-8pV05vJk56koTv",
+          "type": "ellipse",
+          "x": 827,
+          "y": 406,
+          "width": 90,
+          "height": 80,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "XfImnGdBMPbvPznSC6naf"
+          ],
+          "frameId": null,
+          "index": "a0",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 641499512,
+          "version": 37,
+          "versionNonce": 590988552,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1768476547717,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "9lXl1GvgtY4dqkqLiyOpF",
+          "type": "line",
+          "x": 854,
+          "y": 440,
+          "width": 49,
+          "height": 26,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "XfImnGdBMPbvPznSC6naf"
+          ],
+          "frameId": null,
+          "index": "a1",
+          "roundness": null,
+          "seed": 1053910136,
+          "version": 179,
+          "versionNonce": 435613560,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1768476547717,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              19,
+              11
+            ],
+            [
+              49,
+              -15
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": false
+        }
+      ],
+      "created": 1768476558788,
+      "name": "timer"
+    }
+  ]
+}
