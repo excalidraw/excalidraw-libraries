@@ -7335,5 +7335,28 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Flow",
+    "description": "Flow templates",
+    "authors": [
+      {
+        "name": "Gitesh",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "gitesh/flow.excalidrawlib",
+    "preview": "gitesh/flow.jpg",
+    "created": "2026-06-28",
+    "updated": "2026-06-28",
+    "version": 2,
+    "itemNames": [
+      "user",
+      "Process",
+      "Service",
+      "Database"
+    ]
   }
 ]
