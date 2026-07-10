@@ -7335,5 +7335,46 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Performance testing",
+    "description": "Set of objects for drawing load sources and load objects and explanations of test types",
+    "authors": [
+      {
+        "name": "Marat Nevmyanov",
+        "github": "https://github.com/VenaM17",
+        "twitter": "https://twitter.com/VenaM1204",
+        "url": "https://github.com/VenaM17"
+      }
+    ],
+    "source": "venam17/performance-testing.excalidrawlib",
+    "preview": "venam17/performance-testing.jpg",
+    "created": "2026-07-10",
+    "updated": "2026-07-10",
+    "version": 2,
+    "itemNames": [
+      "Stub server",
+      "RPS",
+      "Web server",
+      "balancer",
+      "Load source",
+      "Load object",
+      "Node exporter",
+      "Prometheus",
+      "Monitoring server",
+      "InfluxDB",
+      "Telegraf",
+      "Gatling",
+      "Apache Jmeter",
+      "Grafana",
+      "DB",
+      "App server",
+      "https left",
+      "https right",
+      "pacing",
+      "example scheme",
+      "Stability test",
+      "FindMax test"
+    ]
   }
 ]
