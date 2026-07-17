@@ -272,3 +272,10 @@ input:focus {
   max-width: 90%;
   border: 1px solid var(--oc-gray-5);
 }
+
+/* Prevent SVG color override in documents */
+svg {
+  color: unset !important;
+  fill: unset !important;
+  stroke: unset !important;
+}
