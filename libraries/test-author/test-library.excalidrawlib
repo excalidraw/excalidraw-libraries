@@ -1,0 +1,43 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "libraryItems": [
+    {
+      "id": "test-lib-item-1",
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 2,
+          "versionNonce": 1246487963,
+          "isDeleted": false,
+          "id": "rect-test-1",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 0,
+          "y": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#ffffff",
+          "width": 100,
+          "height": 100,
+          "seed": 1,
+          "groupIds": [],
+          "boundElements": [],
+          "updated": 1784536317350,
+          "frameId": null,
+          "link": null,
+          "locked": false,
+          "index": "a0",
+          "roundness": null
+        }
+      ],
+      "created": 1700000000000,
+      "name": "Test Item"
+    }
+  ]
+}
