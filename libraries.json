@@ -7392,5 +7392,21 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Interactions — Pointers & Cursors",
+    "description": "Standard mouse-pointer and touch-interaction items for design and interaction explanations. Cursors: pointer (arrow), hand pointer, text (I-beam), crosshair, move, resize (NS/EW/NWSE/NESW), grab, grabbing, not-allowed, zoom in/out. Interaction indicators: click/tap, double click, long press/hold, drag, and a pointer + click ripple. All items are grouped and fully editable. Public domain (CC0).",
+    "authors": [
+      {
+        "name": "JustGoscha",
+        "github": "https://github.com/JustGoscha",
+        "url": "https://github.com/JustGoscha/excalidraw-libs"
+      }
+    ],
+    "source": "JustGoscha/interactions.excalidrawlib",
+    "preview": "JustGoscha/interactions.jpg",
+    "created": "2026-07-21",
+    "updated": "2026-07-21",
+    "version": 2
   }
 ]
