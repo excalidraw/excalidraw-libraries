@@ -7392,5 +7392,30 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Coordinate Axes",
+    "description": "A small library of coordinate system axes for common 3D environments (primary game engines and graphics libraries) ",
+    "authors": [
+      {
+        "name": "Jeremy Stark",
+        "github": "https://github.com/starkjj",
+        "twitter": "https://twitter.com/jeremy_stark",
+        "url": "https://github.com/starkjj"
+      }
+    ],
+    "source": "starkjj/coordinate-axes.excalidrawlib",
+    "preview": "starkjj/coordinate-axes.jpg",
+    "created": "2026-07-22",
+    "updated": "2026-07-22",
+    "version": 2,
+    "itemNames": [
+      "ISO Coordinate",
+      "ISO-Signed Coordinate",
+      "Unity Coordinate",
+      "OpenGL Coordinate",
+      "Godot Coordinate",
+      "Unreal Coordinate"
+    ]
   }
 ]
