@@ -7392,5 +7392,43 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "UI/UX Interactions - Pointers",
+    "description": "Different mouse pointers and interaction modes. ",
+    "authors": [
+      {
+        "name": "justgoscha",
+        "github": "https://github.com/justgoscha",
+        "twitter": "",
+        "url": "https://www.justgoscha.com"
+      }
+    ],
+    "source": "justgoscha/ui-ux-interactions-pointers.excalidrawlib",
+    "preview": "justgoscha/ui-ux-interactions-pointers.jpg",
+    "created": "2026-07-23",
+    "updated": "2026-07-23",
+    "version": 2,
+    "itemNames": [
+      "Pointer (Arrow)",
+      "Hand pointer (Finger)",
+      "Text (I-beam)",
+      "Crosshair",
+      "Move (4-way)",
+      "Resize ↕ (NS)",
+      "Resize ↔ (EW)",
+      "Resize ⤡ (NWSE)",
+      "Resize ⤢ (NESW)",
+      "Grabbing (closed hand)",
+      "Grab (open hand)",
+      "Not allowed",
+      "Zoom in",
+      "Zoom out",
+      "Click / Tap",
+      "Double click",
+      "Long press / Hold",
+      "Drag",
+      "Pointer + click"
+    ]
   }
 ]
