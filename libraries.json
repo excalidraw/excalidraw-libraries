@@ -7392,5 +7392,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "diag",
+    "description": "alert system diagram",
+    "authors": [
+      {
+        "name": "ruhi",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ruhi/diag.excalidrawlib",
+    "preview": "ruhi/diag.jpg",
+    "created": "2024-06-13",
+    "updated": "2024-06-13",
+    "version": 2,
+    "itemNames": [
+      "Alert system"
+    ]
   }
 ]
