@@ -1,0 +1,163 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "id": "qSBxEo9gM9o3xze3bdcbX",
+      "status": "published",
+      "elements": [
+        {
+          "id": "tbC8VXKJjL2QqJo-PBXlg",
+          "type": "rectangle",
+          "x": 1326.379009226471,
+          "y": -999.5985144289211,
+          "width": 124,
+          "height": 78.66668701171875,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "TlAlH6LGrF7o2Ud9dZLSA"
+          ],
+          "frameId": null,
+          "index": "b78",
+          "roundness": null,
+          "seed": 1515204215,
+          "version": 68,
+          "versionNonce": 2000100825,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "bojRzmPDWmRNmoHF_6VT1"
+            }
+          ],
+          "updated": 1783949726065,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "bojRzmPDWmRNmoHF_6VT1",
+          "type": "text",
+          "x": 1361.879009226471,
+          "y": -970.2651709230618,
+          "width": 53,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "TlAlH6LGrF7o2Ud9dZLSA"
+          ],
+          "frameId": null,
+          "index": "b79",
+          "roundness": null,
+          "seed": 1263617943,
+          "version": 37,
+          "versionNonce": 297076791,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1783949726065,
+          "link": null,
+          "locked": false,
+          "text": "Service",
+          "fontSize": 16,
+          "fontFamily": 6,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "tbC8VXKJjL2QqJo-PBXlg",
+          "originalText": "Service",
+          "autoResize": true,
+          "lineHeight": 1.25
+        },
+        {
+          "id": "qioT0n3WoOwy4T2s3Y07u",
+          "type": "rectangle",
+          "x": 1292.7124442850647,
+          "y": -999.5985144289211,
+          "width": 33.33325195312501,
+          "height": 78.66668701171875,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "TlAlH6LGrF7o2Ud9dZLSA"
+          ],
+          "frameId": null,
+          "index": "b7A",
+          "roundness": null,
+          "seed": 1796357303,
+          "version": 487,
+          "versionNonce": 1445460665,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "4f9IFlty9d2IjVXUyfHBM"
+            }
+          ],
+          "updated": 1783949726065,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "4f9IFlty9d2IjVXUyfHBM",
+          "type": "text",
+          "x": 1299.3790702616272,
+          "y": -970.2651709230618,
+          "width": 20,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#a5d8ff",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [
+            "TlAlH6LGrF7o2Ud9dZLSA"
+          ],
+          "frameId": null,
+          "index": "b7B",
+          "roundness": null,
+          "seed": 221744599,
+          "version": 481,
+          "versionNonce": 2088036695,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1783949726065,
+          "link": null,
+          "locked": false,
+          "text": "LB",
+          "fontSize": 16,
+          "fontFamily": 6,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "qioT0n3WoOwy4T2s3Y07u",
+          "originalText": "LB",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "created": 1783949729116,
+      "name": "Microservice with LoadBalance"
+    }
+  ]
+}
