@@ -1,0 +1,95 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "1uT2DHagvCvlDYixEqGrF",
+          "type": "rectangle",
+          "x": 848.8094580298324,
+          "y": -2215.329459333094,
+          "width": 624.8671875,
+          "height": 1070,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "bA0",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 358350553,
+          "version": 10,
+          "versionNonce": 1042436025,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "oiSkbvhBNs7GSrbPMqBvd"
+            },
+            {
+              "id": "VEjd4ssX8tXDkjkzgcAK5",
+              "type": "arrow"
+            },
+            {
+              "id": "u2wdSafomWXtlAbdQkV-q",
+              "type": "arrow"
+            }
+          ],
+          "updated": 1775806425714,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "oiSkbvhBNs7GSrbPMqBvd",
+          "type": "text",
+          "x": 1082.9551184302231,
+          "y": -2210.329459333094,
+          "width": 156.57586669921875,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "bA1",
+          "roundness": null,
+          "seed": 2131278777,
+          "version": 9,
+          "versionNonce": 1740006487,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1775806425714,
+          "link": null,
+          "locked": false,
+          "text": "Authentication Flow",
+          "fontSize": 16,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "top",
+          "containerId": "1uT2DHagvCvlDYixEqGrF",
+          "originalText": "Authentication Flow",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "Qzr9l5E5YBRrE3R-D-qPX",
+      "created": 1775978812178,
+      "name": "3213213"
+    }
+  ]
+}
