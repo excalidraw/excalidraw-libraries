@@ -7392,5 +7392,27 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Canban Board",
+    "description": "Just a simple canban board ;-)",
+    "authors": [
+      {
+        "name": "tghdfgs",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "tghdfgs/canban-board.excalidrawlib",
+    "preview": "tghdfgs/canban-board.jpg",
+    "created": "2026-07-28",
+    "updated": "2026-07-28",
+    "version": 2,
+    "itemNames": [
+      "Empty Board",
+      "Empty Task",
+      "Full Board"
+    ]
   }
 ]
