@@ -1,0 +1,45 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://host.docker.internal:3000",
+  "libraryItems": [
+    {
+      "id": "9H12FVGeb-blp_URPTagH",
+      "status": "published",
+      "elements": [
+        {
+          "id": "UcceNvzw50UVG0ocz7pWf",
+          "type": "rectangle",
+          "x": 400,
+          "y": 400,
+          "width": 150,
+          "height": 100,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "a0",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 888104152,
+          "version": 12,
+          "versionNonce": 46392024,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1781127013565,
+          "link": null,
+          "locked": false
+        }
+      ],
+      "created": 1781127018723,
+      "name": "Test Rectangle Shape"
+    }
+  ]
+}
