@@ -285,6 +285,7 @@ const handleSort = (sortType) => {
 
   libraries_ = sortBy[sortType ?? "default"].func(libraries_);
   populateLibraryList();
+  ImagePreview()
   if (currSort) {
     const prev = document.getElementById(currSort);
     prev.classList.remove("option-selected");
@@ -425,3 +426,25 @@ document.addEventListener("click", (event) => {
     }
   }
 });
+
+const ImagePreview = () => {
+  const libraryItems = document.querySelectorAll(".library:not(#template)");
+  const fullscreenModal = document.getElementById("fullscreen");
+  const fullscreenImage = fullscreenModal.querySelector("img");
+
+  fullscreenModal.addEventListener("click", () => {
+    fullscreenModal.style.display = "none";
+  });
+
+  libraryItems.forEach((library) => {
+    const img = library.querySelector("img");
+    if (!img) {
+      return;
+    }
+
+    img.addEventListener("click", () => {
+      fullscreenImage.src = img.src;
+      fullscreenModal.style.display = "block";
+    });
+  });
+};
