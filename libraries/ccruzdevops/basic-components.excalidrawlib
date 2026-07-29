@@ -1,0 +1,164 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "puZsQESNG_d6FwmC82mJC",
+          "type": "rectangle",
+          "x": 400,
+          "y": 160,
+          "width": 240,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": "epQWVQjWmkGt4qBrJObTA",
+          "index": "b0Xzd",
+          "roundness": {
+            "type": 3
+          },
+          "seed": 537626743,
+          "version": 34,
+          "versionNonce": 770605879,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "type": "text",
+              "id": "QNAaYqjzTYcW7wOwjcIco"
+            }
+          ],
+          "updated": 1785358231518,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "QNAaYqjzTYcW7wOwjcIco",
+          "type": "text",
+          "x": 456.26202392578125,
+          "y": 167.5,
+          "width": 127.4759521484375,
+          "height": 45,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "MVjq4qzTiDb_OB1rABMK2"
+          ],
+          "frameId": "epQWVQjWmkGt4qBrJObTA",
+          "index": "b0Xzl",
+          "roundness": null,
+          "seed": 881942935,
+          "version": 37,
+          "versionNonce": 1352118201,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1785358231518,
+          "link": null,
+          "locked": false,
+          "text": "Button",
+          "fontSize": 36,
+          "fontFamily": 5,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "containerId": "puZsQESNG_d6FwmC82mJC",
+          "originalText": "Button",
+          "autoResize": true,
+          "lineHeight": 1.25
+        }
+      ],
+      "id": "LTPN1p3jhalmM2qGrhIW3",
+      "created": 1785358235507,
+      "name": "button"
+    },
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "LApaKGYU6qxq2GOveZtFo",
+          "type": "line",
+          "x": 471.8559326511123,
+          "y": 186.0957510719511,
+          "width": 43.49824482009967,
+          "height": 42.15761974209087,
+          "angle": 0.3436770352791969,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": "epQWVQjWmkGt4qBrJObTA",
+          "index": "b0XzV",
+          "roundness": null,
+          "seed": 2000973369,
+          "version": 1374,
+          "versionNonce": 1291098905,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1785358213325,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              14.842729568608547,
+              42.15761974209087
+            ],
+            [
+              26.093250044587876,
+              29.218246982637368
+            ],
+            [
+              37.07462018888873,
+              38.1965097279529
+            ],
+            [
+              42.52609045581028,
+              31.597458403343353
+            ],
+            [
+              31.759578327985878,
+              22.412191490410123
+            ],
+            [
+              43.49824482009967,
+              10.181154649798941
+            ],
+            [
+              0,
+              0
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": true
+        }
+      ],
+      "id": "yf74ppuR9i8rDOeJ5xIFz",
+      "created": 1785358223388,
+      "name": "cursor"
+    }
+  ]
+}

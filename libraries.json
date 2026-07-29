@@ -7392,5 +7392,26 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Basic Components",
+    "description": "Componets for make a sample web templates",
+    "authors": [
+      {
+        "name": "Carlos Cruz",
+        "github": "https://github.com/ccruzdevops",
+        "twitter": "",
+        "url": "https://github.com/ccruzdevops"
+      }
+    ],
+    "source": "ccruzdevops/basic-components.excalidrawlib",
+    "preview": "ccruzdevops/basic-components.jpg",
+    "created": "2026-07-29",
+    "updated": "2026-07-29",
+    "version": 2,
+    "itemNames": [
+      "button",
+      "cursor"
+    ]
   }
 ]
