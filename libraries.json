@@ -7392,5 +7392,39 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Lo-Fi Atomic Design System",
+    "description": "A low fidelity design system broken up into atoms, molecules, organisms, templates and pages",
+    "authors": [
+      {
+        "name": "Tutorial Doctor",
+        "github": "https://github.com/TutorialDoctor",
+        "twitter": "",
+        "url": "https://tutorialdoctor.github.io"
+      }
+    ],
+    "source": "tutorialdoctor/lo-fi-atomic-design-system.excalidrawlib",
+    "preview": "tutorialdoctor/lo-fi-atomic-design-system.jpg",
+    "created": "2026-07-30",
+    "updated": "2026-07-30",
+    "version": 2,
+    "itemNames": [
+      "EntireCollection",
+      "Credits",
+      "Page",
+      "Template",
+      "RadioList",
+      "DetailView",
+      "Error Modal",
+      "Dropdown",
+      "SearchField",
+      "PasswordField",
+      "List",
+      "PrimaryButton",
+      "SecondaryButton",
+      "Atoms",
+      "AtomLegend"
+    ]
   }
 ]
