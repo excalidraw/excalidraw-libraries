@@ -7392,5 +7392,38 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Data Storytelling Kit by drawcharts",
+    "description": "Editable hand-drawn chart, metric, table, legend, and annotation templates for reports, product updates, and data storytelling.",
+    "authors": [
+      {
+        "name": "drawcharts",
+        "github": "",
+        "twitter": "",
+        "url": "https://drawcharts.xyz/excalidraw/?utm_source=excalidraw&utm_medium=library_marketplace&utm_campaign=data_storytelling_kit"
+      }
+    ],
+    "source": "drawcharts/data-storytelling-kit-by-drawcharts.excalidrawlib",
+    "preview": "drawcharts/data-storytelling-kit-by-drawcharts.jpg",
+    "created": "2026-08-02",
+    "updated": "2026-08-02",
+    "version": 2,
+    "itemNames": [
+      "Bar chart — single series",
+      "Bar chart — grouped comparison",
+      "Line chart — trend",
+      "Donut chart — composition",
+      "KPI card — value and change",
+      "KPI card — target progress",
+      "Chart legend — four series",
+      "Insight callout",
+      "Source and methodology note",
+      "Metric comparison table",
+      "Before-and-after comparison",
+      "SaaS metrics snapshot",
+      "Product experiment report",
+      "Investor or quarterly update"
+    ]
   }
 ]
