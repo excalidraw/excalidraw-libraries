@@ -7392,5 +7392,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Cell Grid for Voxel Dev",
+    "description": "Each grid cell is a perfect square instead of being built from lines. I built this to help me draw visualizations for my voxel engine.",
+    "authors": [
+      {
+        "name": "Robert Ware",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "robert-ware/cell-grid-for-voxel-dev.excalidrawlib",
+    "preview": "robert-ware/cell-grid-for-voxel-dev.jpg",
+    "created": "2026-08-19",
+    "updated": "2026-08-19",
+    "version": 2,
+    "itemNames": [
+      "Cell Grid"
+    ]
   }
 ]
