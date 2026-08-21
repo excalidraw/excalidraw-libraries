@@ -1,0 +1,43 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "libraryItems": [
+    {
+      "id": "test-lib-item-1",
+      "status": "published",
+      "elements": [
+        {
+          "id": "rect-test-1",
+          "type": "rectangle",
+          "x": 10,
+          "y": 10,
+          "width": 100,
+          "height": 100,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": null,
+          "seed": 1,
+          "version": 2,
+          "versionNonce": 759114233,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1787299051000,
+          "link": null,
+          "locked": false,
+          "index": "a0"
+        }
+      ],
+      "created": 1000000,
+      "name": "Test Shape"
+    }
+  ]
+}
