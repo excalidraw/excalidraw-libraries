@@ -7392,5 +7392,52 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Sequence Diagram Kit",
+    "description": "Building blocks for UML sequence diagrams: participants with lifelines (actor, browser, database, queue, external system), activation bars, messages with the correct UML arrowheads (sync, async, return, self, create, lost, found), combined fragments (alt, loop, opt, par), notes, and two ready-made scaffolds.",
+    "authors": [
+      {
+        "name": "Vikash Kumar",
+        "github": "https://github.com/vikraj01",
+        "url": "https://github.com/vikraj01"
+      }
+    ],
+    "source": "vikraj01/sequence-diagram-kit.excalidrawlib",
+    "preview": "vikraj01/sequence-diagram-kit.png",
+    "created": "2026-08-22",
+    "updated": "2026-08-22",
+    "version": 2,
+    "id": "HgiKXSjjarv",
+    "itemNames": [
+      "Participant",
+      "Actor (stick figure)",
+      "Client (browser)",
+      "Database",
+      "Queue / topic",
+      "External system (dashed)",
+      "Lifeline (bare)",
+      "Activation bar",
+      "Activation bar (nested)",
+      "Destroy marker (X)",
+      "Delay / lifeline break",
+      "Sync call",
+      "Async message",
+      "Return / reply (dashed)",
+      "Self message (loop back)",
+      "Create message",
+      "Lost message",
+      "Found message",
+      "alt fragment",
+      "loop fragment",
+      "opt fragment",
+      "par fragment",
+      "Fragment tab (relabel me)",
+      "Note (folded corner)",
+      "Phase divider",
+      "Title block",
+      "Scaffold: 3 lanes",
+      "Scaffold: request round trip"
+    ]
   }
 ]
