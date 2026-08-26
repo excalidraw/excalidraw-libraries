@@ -7392,5 +7392,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "My Test Library",
+    "description": "A test library for demonstrating the publish dialog",
+    "authors": [
+      {
+        "name": "TestUser",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "testuser/my-test-library.excalidrawlib",
+    "preview": "testuser/my-test-library.jpg",
+    "created": "2026-08-26",
+    "updated": "2026-08-26",
+    "version": 2,
+    "itemNames": [
+      "Test Rectangle"
+    ]
   }
 ]
