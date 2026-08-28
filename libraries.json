@@ -7392,5 +7392,25 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "My Library",
+    "description": "My own Designs",
+    "authors": [
+      {
+        "name": "Ahmed",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "ahmed/my-library.excalidrawlib",
+    "preview": "ahmed/my-library.jpg",
+    "created": "2026-08-28",
+    "updated": "2026-08-28",
+    "version": 2,
+    "itemNames": [
+      "Model Binding Entity"
+    ]
   }
 ]
