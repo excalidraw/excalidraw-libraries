@@ -7392,5 +7392,32 @@
       "Jira Software",
       "Bitbucket"
     ]
+  },
+  {
+    "name": "Simple UML",
+    "description": "Shapes for UML & ER diagrams",
+    "authors": [
+      {
+        "name": "Tainan Abatti",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "tainan-abatti/simple-uml.excalidrawlib",
+    "preview": "tainan-abatti/simple-uml.jpg",
+    "created": "2026-09-01",
+    "updated": "2026-09-01",
+    "version": 2,
+    "itemNames": [
+      "Interface",
+      "Simple Interface",
+      "Gateway",
+      "Use case",
+      "Actor",
+      "Entity",
+      "End",
+      "Begin"
+    ]
   }
 ]
