@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "ProUI Kit",
+    "description": "Free UI kit with common elements",
+    "authors": [
+      {
+        "name": "Pro Designer",
+        "github": "https://github.com/prodesigner",
+        "twitter": "https://twitter.com/pro",
+        "url": "https://pro.example.com"
+      }
+    ],
+    "source": "prodesigner/proui-kit.excalidrawlib",
+    "preview": "prodesigner/proui-kit.png",
+    "created": "2026-09-09",
+    "updated": "2026-09-09",
+    "version": 2,
+    "itemNames": [
+      "poc-evil-element"
+    ]
   }
 ]

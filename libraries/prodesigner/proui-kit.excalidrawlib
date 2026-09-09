@@ -1,0 +1,32 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://evil.example.com",
+  "libraryItems": [
+    {
+      "id": "poc-evil",
+      "name": "poc-evil-element",
+      "elements": [
+        {
+          "type": "rectangle",
+          "id": "evil1",
+          "x": 0,
+          "y": 0,
+          "width": 100,
+          "height": 100,
+          "seed": 1,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1,
+          "link": "https://evil.example.com",
+          "locked": false
+        }
+      ],
+      "created": 1690000000000,
+      "updated": 1690000000000,
+      "status": "published"
+    }
+  ]
+}
