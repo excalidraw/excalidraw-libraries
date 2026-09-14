@@ -7464,5 +7464,29 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "C&C View",
+    "description": "Elements used in Component and Connectors View (Software Architecture)",
+    "authors": [
+      {
+        "name": "ssuarezs",
+        "github": "https://github.com/ssuarezs",
+        "twitter": "",
+        "url": "https://github.com/ssuarezs"
+      }
+    ],
+    "source": "ssuarezs/c-c-view.excalidrawlib",
+    "preview": "ssuarezs/c-c-view.jpg",
+    "created": "2026-09-14",
+    "updated": "2026-09-14",
+    "version": 2,
+    "itemNames": [
+      "queue",
+      "comp",
+      "data store",
+      "lollipop",
+      "port"
+    ]
   }
 ]
