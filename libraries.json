@@ -7464,5 +7464,27 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "id": "taoxiesz-tencent-cloud-pencil",
+    "name": "Tencent Cloud Pencil Infrastructure",
+    "description": "Four editable pencil-style infrastructure icons: CVM virtual machine, CLB load balancer, DNS and COS object storage. Square frames, colored hatching and simple black outlines for architecture diagrams. Unofficial community symbols.",
+    "authors": [
+      {
+        "name": "Tao Xie",
+        "url": "https://github.com/TaoXieSZ"
+      }
+    ],
+    "source": "taoxiesz/tencent-cloud-pencil.excalidrawlib",
+    "preview": "taoxiesz/tencent-cloud-pencil.png",
+    "created": "2026-09-22",
+    "updated": "2026-09-22",
+    "version": 2,
+    "itemNames": [
+      "CVM - Cloud Virtual Machine",
+      "CLB - Cloud Load Balancer",
+      "DNS - Domain Name System",
+      "COS - Cloud Object Storage"
+    ]
   }
 ]
