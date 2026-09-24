@@ -5,7 +5,7 @@
 ## Create your own library
 
 1. Open [Excalidraw](https://excalidraw.com/) and draw some objects.
-2. Optional: Make sure every object is it's own group (by selecting it and clicking "Group selection" or `Ctrl`+`G`).
+2. Optional: Make sure every object is its own group (by selecting it and clicking "Group selection" or `Ctrl`+`G`).
 3. Add each object you want in your library like so:
 
 - Select the object

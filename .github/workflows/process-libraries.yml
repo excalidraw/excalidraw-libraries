@@ -11,7 +11,7 @@ jobs:
         with:
           token: ${{ secrets.EXCALIBOT_PAT_WORKFLOWS }}
           ref: ${{ github.event.pull_request.head.ref }}
-      - name: regenrate-item-names
+      - name: regenerate-item-names
         run: node scripts/gen-item-names.mjs
       - name: Commit changes
         run: |
