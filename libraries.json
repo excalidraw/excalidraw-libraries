@@ -7464,5 +7464,37 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Mobile Internals",
+    "description": "Clean pieces to explain what's inside a phone: device frames, OS layers, secure storage and sensors ",
+    "authors": [
+      {
+        "name": "Franklin Asto",
+        "github": "https://github.com/FranklinRuiz",
+        "twitter": "",
+        "url": "https://github.com/FranklinRuiz"
+      }
+    ],
+    "source": "franklinruiz/mobile-internals.excalidrawlib",
+    "preview": "franklinruiz/mobile-internals.jpg",
+    "created": "2026-09-25",
+    "updated": "2026-09-25",
+    "version": 2,
+    "itemNames": [
+      "iPhone · Blank (portrait)",
+      "iPhone · Blank (landscape)",
+      "Phone cross-section · 3 layers",
+      "Storage · Local",
+      "Storage · Cache",
+      "Storage · Keychain / Keystore",
+      "Hardware · Secure chip",
+      "Sensor · Camera",
+      "Sensor · GPS",
+      "Sensor · Fingerprint",
+      "Sensor · Face ID",
+      "Sensor · NFC",
+      "Sensor · Microphone"
+    ]
   }
 ]
