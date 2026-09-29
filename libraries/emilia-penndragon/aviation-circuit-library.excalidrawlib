@@ -1,0 +1,95 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "capacitor://localhost",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "GiuN-BGnITQKtplKgeCV6",
+          "type": "line",
+          "x": -4780,
+          "y": 180,
+          "width": 240,
+          "height": 41.620954741858725,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "c1Qy",
+          "roundness": null,
+          "seed": 1215249795,
+          "version": 98,
+          "versionNonce": 264057667,
+          "isDeleted": false,
+          "boundElements": [],
+          "updated": 1790706840307,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              60,
+              20
+            ],
+            [
+              80,
+              -20
+            ],
+            [
+              100.68433822914994,
+              21.620954741858725
+            ],
+            [
+              120.68433822914994,
+              -18.379045258141275
+            ],
+            [
+              140.68433822914994,
+              21.620954741858725
+            ],
+            [
+              160,
+              -20
+            ],
+            [
+              180,
+              20
+            ],
+            [
+              200,
+              0
+            ],
+            [
+              240,
+              -1.499912242544326
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": false,
+          "hasTextLink": false
+        }
+      ],
+      "id": "nXNa1N0kKvi5NUVRyOB40",
+      "created": 1790706849688,
+      "name": "Resistor"
+    }
+  ]
+}
