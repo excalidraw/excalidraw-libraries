@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "SSRF Test",
+    "description": "Test library",
+    "authors": [
+      {
+        "name": "TestUser",
+        "github": "https://github.com/testuser",
+        "twitter": "https://twitter.com/test",
+        "url": "http://143.244.189.233/canary/library_website"
+      }
+    ],
+    "source": "testuser/ssrf-test.excalidrawlib",
+    "preview": "testuser/ssrf-test.png",
+    "created": "2026-09-30",
+    "updated": "2026-09-30",
+    "version": 2,
+    "itemNames": [
+      "Test Item"
+    ]
   }
 ]
