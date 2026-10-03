@@ -7464,5 +7464,36 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "MY-1",
+    "description": "basic design diagram boxes -1",
+    "authors": [
+      {
+        "name": "Michael",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "michael/my-1.excalidrawlib",
+    "preview": "michael/my-1.jpg",
+    "created": "2026-10-03",
+    "updated": "2026-10-03",
+    "version": 2,
+    "itemNames": [
+      "docker",
+      "json",
+      "k8",
+      "redis",
+      "postgres",
+      "dns",
+      "box",
+      "object store",
+      "S3",
+      "message bus",
+      "files",
+      "file system"
+    ]
   }
 ]
