@@ -7464,5 +7464,33 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Quantum Gates",
+    "description": "Quantum circuit gate library, reusable stencils for drawing quantum circuits.\r\nsingle-qubit, controlled, swap/entangling and multi-qubit gates, plus circuit building blocks (control, ⊕ target, swap, wires, measurement) and reference examples.",
+    "authors": [
+      {
+        "name": "Cyberistic",
+        "github": "https://github.com/Cyberistic",
+        "twitter": "https://twitter.com/Cyb3ristic",
+        "url": "https://sudokw.com"
+      }
+    ],
+    "source": "cyberistic/quantum-gates.excalidrawlib",
+    "preview": "cyberistic/quantum-gates.jpg",
+    "created": "2026-10-06",
+    "updated": "2026-10-06",
+    "version": 2,
+    "itemNames": [
+      "Swap gate",
+      "CCNOT (Toffoli) gate",
+      "boxed multi-qubit gate",
+      "bell state",
+      "bloch sphere",
+      "unit circle",
+      "wires",
+      "multi-qubit gates",
+      "single-qubit gates"
+    ]
   }
 ]
