@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "sec-test",
+    "description": "security test",
+    "authors": [
+      {
+        "name": "pentester",
+        "github": "https://github.com/pentester",
+        "twitter": "https://twitter.com/",
+        "url": "https://example.com"
+      }
+    ],
+    "source": "pentester/sec-test.excalidrawlib",
+    "preview": "pentester/sec-test.png",
+    "created": "2026-10-10",
+    "updated": "2026-10-10",
+    "version": 2,
+    "itemNames": [
+      "sec-test"
+    ]
   }
 ]
