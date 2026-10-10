@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "traversal",
+    "description": "path traversal test",
+    "authors": [
+      {
+        "name": "pt",
+        "github": "https://github.com/../../sectest",
+        "twitter": "https://twitter.com/x",
+        "url": "https://example.com"
+      }
+    ],
+    "source": "sectest/traversal.excalidrawlib",
+    "preview": "sectest/traversal.png",
+    "created": "2026-10-10",
+    "updated": "2026-10-10",
+    "version": 2,
+    "itemNames": [
+      "pt"
+    ]
   }
 ]
