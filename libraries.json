@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "sec-test-lib2",
+    "description": "ssrf-probe",
+    "authors": [
+      {
+        "name": "tester2",
+        "github": "https://github.com/gh",
+        "twitter": "https://twitter.com/tw",
+        "url": "http://169.254.169.254/latest/meta-data/"
+      }
+    ],
+    "source": "gh/sec-test-lib2.excalidrawlib",
+    "preview": "gh/sec-test-lib2.png",
+    "created": "2026-10-10",
+    "updated": "2026-10-10",
+    "version": 2,
+    "itemNames": [
+      "sec-test-item"
+    ]
   }
 ]
