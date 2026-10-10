@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "sec-test-lib",
+    "description": "security-poc",
+    "authors": [
+      {
+        "name": "tester",
+        "github": "https://github.com/gh",
+        "twitter": "https://twitter.com/tw",
+        "url": "https://example.com"
+      }
+    ],
+    "source": "gh/sec-test-lib.excalidrawlib",
+    "preview": "gh/sec-test-lib.png",
+    "created": "2026-10-10",
+    "updated": "2026-10-10",
+    "version": 2,
+    "itemNames": [
+      "sec-test-item"
+    ]
   }
 ]
