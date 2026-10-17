@@ -7464,5 +7464,62 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "System Design Interview Kit",
+    "description": "38 hand-drawn building blocks for system design interviews and architecture sketches: clients, DNS, CDN, load balancer, API gateway, rate limiter, app servers, microservices, workers, SQL/NoSQL databases, read replicas, shards, cache, object storage, message queue, pub/sub, Kafka-style event stream, WebSocket server, auth, monitoring, consistent hashing ring, region/AZ boundary, sync/async connectors and step badges.",
+    "authors": [
+      {
+        "name": "Aniruddha Dhawad",
+        "github": "https://github.com/Aniruddha124",
+        "twitter": "https://twitter.com/_aniruddha_d",
+        "url": "https://canvaskeep.com"
+      }
+    ],
+    "source": "aniruddha124/system-design-interview-kit.excalidrawlib",
+    "preview": "aniruddha124/system-design-interview-kit.jpg",
+    "created": "2026-10-17",
+    "updated": "2026-10-17",
+    "version": 2,
+    "itemNames": [
+      "Web client",
+      "Mobile client",
+      "User",
+      "DNS",
+      "CDN",
+      "Load balancer",
+      "API gateway",
+      "Rate limiter",
+      "Firewall / WAF",
+      "App server",
+      "Microservice",
+      "Worker",
+      "Serverless function",
+      "Scheduler / cron",
+      "Container / pod",
+      "SQL database",
+      "NoSQL database",
+      "Primary + read replicas",
+      "Sharded database",
+      "Cache",
+      "Object storage",
+      "Search index",
+      "Data warehouse",
+      "File / blob",
+      "Message queue",
+      "Pub/Sub topic",
+      "Event stream / log",
+      "WebSocket server",
+      "Notification service",
+      "Auth service",
+      "Monitoring",
+      "Consistent hash ring",
+      "Third-party API",
+      "Sync request",
+      "Async message",
+      "Region / VPC boundary",
+      "Step number",
+      "Trade-off note"
+    ]
   }
 ]
