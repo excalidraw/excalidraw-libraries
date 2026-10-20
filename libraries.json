@@ -7464,5 +7464,54 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Value Stream Mapping (Lean)",
+    "description": "Standard value stream mapping (VSM) symbols for lean and six sigma work: process and data boxes, inventory, supermarket, FIFO lane, push and pull arrows, truck shipment, kanban cards and post, heijunka box, kaizen burst, timeline. Follows the Learning to See conventions.",
+    "authors": [
+      {
+        "name": "Robin Lawrence",
+        "github": "https://github.com/ROBEAZY",
+        "twitter": "",
+        "url": "https://github.com/ROBEAZY"
+      }
+    ],
+    "source": "robeazy/value-stream-mapping-lean.excalidrawlib",
+    "preview": "robeazy/value-stream-mapping-lean.jpg",
+    "created": "2026-10-20",
+    "updated": "2026-10-20",
+    "version": 2,
+    "itemNames": [
+      "Process",
+      "Process with data box",
+      "Data box",
+      "Outside source (supplier / customer)",
+      "Inventory",
+      "Safety / buffer stock",
+      "Supermarket",
+      "FIFO lane",
+      "Push arrow",
+      "Shipment arrow (to customer)",
+      "Truck shipment",
+      "Material pull (withdrawal)",
+      "Sequenced pull ball",
+      "Operator",
+      "Work cell",
+      "Manual information arrow",
+      "Electronic information arrow",
+      "Kanban path (dashed)",
+      "Production control",
+      "Schedule",
+      "Production kanban",
+      "Withdrawal kanban",
+      "Signal kanban",
+      "Kanban arriving in batches",
+      "Kanban post",
+      "Load levelling (heijunka) box",
+      "Go-see scheduling",
+      "Kaizen burst",
+      "Timeline segment",
+      "Timeline totals"
+    ]
   }
 ]
