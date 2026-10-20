@@ -7464,5 +7464,36 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "ASME Flow Process Chart",
+    "description": "ASME process chart symbols for method study and process analysis: operation, transport, inspection, delay, storage, combined operation and inspection, plus a flow process chart template, summary block and operation process chart column. Industrial engineering, work study, lean.",
+    "authors": [
+      {
+        "name": "Robin Lawrence",
+        "github": "https://github.com/ROBEAZY",
+        "twitter": "",
+        "url": "https://github.com/ROBEAZY"
+      }
+    ],
+    "source": "robeazy/asme-flow-process-chart.excalidrawlib",
+    "preview": "robeazy/asme-flow-process-chart.jpg",
+    "created": "2026-10-20",
+    "updated": "2026-10-20",
+    "version": 2,
+    "itemNames": [
+      "Operation",
+      "Operation, numbered",
+      "Transport",
+      "Inspection",
+      "Inspection, numbered",
+      "Delay",
+      "Storage",
+      "Combined operation and inspection",
+      "ASME symbol legend",
+      "Flow process chart template",
+      "Flow process chart summary",
+      "Operation process chart column"
+    ]
   }
 ]
