@@ -7464,5 +7464,39 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Lean Workplace",
+    "description": "Visual management and shop-floor lean tools: kanban board and sticky notes, andon light stack, 5S red tag and 5S cycle, RAG status indicators, spaghetti diagram paths, workstation, operator balance chart (takt vs cycle time), standard work combination sheet, hour-by-hour board, safety cross.",
+    "authors": [
+      {
+        "name": "Robin Lawrence",
+        "github": "https://github.com/ROBEAZY",
+        "twitter": "",
+        "url": "https://github.com/ROBEAZY"
+      }
+    ],
+    "source": "robeazy/lean-workplace.excalidrawlib",
+    "preview": "robeazy/lean-workplace.jpg",
+    "created": "2026-10-20",
+    "updated": "2026-10-20",
+    "version": 2,
+    "itemNames": [
+      "Kanban board",
+      "Sticky note, yellow",
+      "Sticky note, pink",
+      "Sticky note, blue",
+      "Andon light stack",
+      "5S red tag",
+      "5S cycle",
+      "RAG status indicators",
+      "Spaghetti path, red",
+      "Spaghetti path, blue",
+      "Workstation with operator position",
+      "Operator balance chart (takt vs cycle time)",
+      "Standard work combination sheet",
+      "Hour-by-hour board",
+      "Safety cross (31 days)"
+    ]
   }
 ]
