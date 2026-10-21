@@ -7464,5 +7464,39 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "UML Class Driagram",
+    "description": "A set of UML class diagram elements",
+    "authors": [
+      {
+        "name": "Nicholas Mendez",
+        "github": "https://github.com/snickdx",
+        "twitter": "https://twitter.com/snickdx",
+        "url": "https://mendez.codes"
+      }
+    ],
+    "source": "snickdx/uml-class-driagram.excalidrawlib",
+    "preview": "snickdx/uml-class-driagram.jpg",
+    "created": "2026-10-21",
+    "updated": "2026-10-21",
+    "version": 2,
+    "itemNames": [
+      "realization",
+      "inheritance",
+      "aggregation",
+      "association",
+      "navigable association",
+      "composition",
+      "realization",
+      "enumeration",
+      "abstract class",
+      "interface",
+      "concrete class",
+      "note",
+      "customer",
+      "repository",
+      "account"
+    ]
   }
 ]
