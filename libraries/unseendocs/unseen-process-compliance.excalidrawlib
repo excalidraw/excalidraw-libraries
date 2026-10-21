@@ -1,0 +1,503 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://unseendocs.in",
+  "libraryItems": [
+    {
+      "id": "item-process-step",
+      "status": "published",
+      "name": "Process Step",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-step-shape",
+          "type": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 180,
+          "height": 70,
+          "angle": 0,
+          "strokeColor": "#334155",
+          "backgroundColor": "#ffffff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-step"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "seed": 3124956865,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-step-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-step-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 160,
+          "height": 50,
+          "angle": 0,
+          "strokeColor": "#1e293b",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-step"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 3124956866,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Process Step\n\nExecute operational procedure",
+          "fontSize": 14,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 14,
+          "containerId": "stencil-step-shape",
+          "originalText": "Process Step\n\nExecute operational procedure",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "id": "item-decision-gate",
+      "status": "published",
+      "name": "Decision Gate",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-decision-shape",
+          "type": "diamond",
+          "x": 0,
+          "y": 0,
+          "width": 160,
+          "height": 80,
+          "angle": 0,
+          "strokeColor": "#2563eb",
+          "backgroundColor": "#eff6ff",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-decision"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 888336441,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-decision-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-decision-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 140,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#1e3a8a",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-decision"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 888336442,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Decision Gate\n\nEvaluate criteria",
+          "fontSize": 13,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 13,
+          "containerId": "stencil-decision-shape",
+          "originalText": "Decision Gate\n\nEvaluate criteria",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "id": "item-audit-checkpoint",
+      "status": "published",
+      "name": "Audit Checkpoint",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-audit-shape",
+          "type": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 180,
+          "height": 70,
+          "angle": 0,
+          "strokeColor": "#d97706",
+          "backgroundColor": "#fffbeb",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "dashed",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-audit"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "seed": 3550076010,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-audit-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-audit-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 160,
+          "height": 50,
+          "angle": 0,
+          "strokeColor": "#92400e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-audit"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 3550076011,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Audit Checkpoint\n\nVerify compliance evidence",
+          "fontSize": 13,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 13,
+          "containerId": "stencil-audit-shape",
+          "originalText": "Audit Checkpoint\n\nVerify compliance evidence",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "id": "item-escalation-flow",
+      "status": "published",
+      "name": "Escalation Flow",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-escalation-shape",
+          "type": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 180,
+          "height": 70,
+          "angle": 0,
+          "strokeColor": "#dc2626",
+          "backgroundColor": "#fef2f2",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-escalation"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "seed": 1423014342,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-escalation-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-escalation-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 160,
+          "height": 50,
+          "angle": 0,
+          "strokeColor": "#991b1b",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-escalation"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 1423014343,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Escalation Flow\n\nTrigger incident response",
+          "fontSize": 13,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 13,
+          "containerId": "stencil-escalation-shape",
+          "originalText": "Escalation Flow\n\nTrigger incident response",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "id": "item-actor-badge",
+      "status": "published",
+      "name": "Actor Badge",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-actor-shape",
+          "type": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 160,
+          "height": 40,
+          "angle": 0,
+          "strokeColor": "#16a34a",
+          "backgroundColor": "#f0fdf4",
+          "fillStyle": "solid",
+          "strokeWidth": 1.5,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-actor"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "seed": 3143207992,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-actor-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-actor-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 140,
+          "height": 20,
+          "angle": 0,
+          "strokeColor": "#166534",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-actor"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 3143207993,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Actor: Operations Lead",
+          "fontSize": 12,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 12,
+          "containerId": "stencil-actor-shape",
+          "originalText": "Actor: Operations Lead",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    },
+    {
+      "id": "item-terminator-pill",
+      "status": "published",
+      "name": "Start / End Terminator",
+      "created": 1729500000000,
+      "elements": [
+        {
+          "id": "stencil-terminator-shape",
+          "type": "rectangle",
+          "x": 0,
+          "y": 0,
+          "width": 140,
+          "height": 44,
+          "angle": 0,
+          "strokeColor": "#475569",
+          "backgroundColor": "#f8fafc",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-terminator"
+          ],
+          "frameId": null,
+          "roundness": {
+            "type": 3
+          },
+          "seed": 4106007806,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": [
+            {
+              "id": "stencil-terminator-text",
+              "type": "text"
+            }
+          ],
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false
+        },
+        {
+          "id": "stencil-terminator-text",
+          "type": "text",
+          "x": 10,
+          "y": 10,
+          "width": 120,
+          "height": 24,
+          "angle": 0,
+          "strokeColor": "#334155",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [
+            "group-stencil-terminator"
+          ],
+          "frameId": null,
+          "roundness": null,
+          "seed": 4106007807,
+          "version": 1,
+          "versionNonce": 1,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1729500000000,
+          "link": null,
+          "locked": false,
+          "text": "Start / End",
+          "fontSize": 13,
+          "fontFamily": 1,
+          "textAlign": "center",
+          "verticalAlign": "middle",
+          "baseline": 13,
+          "containerId": "stencil-terminator-shape",
+          "originalText": "Start / End",
+          "lineHeight": 1.25,
+          "autoResize": true
+        }
+      ]
+    }
+  ]
+}
