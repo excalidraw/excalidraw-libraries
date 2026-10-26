@@ -7464,5 +7464,41 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Electrical & Electronic Symbols",
+    "description": "Simple library of common electrical/electronic components that helps drawing circuits with big and editable blocks",
+    "authors": [
+      {
+        "name": "5im0C4v4",
+        "github": "https://github.com/5im0C4v4",
+        "twitter": "",
+        "url": "https://github.com/5im0C4v4"
+      }
+    ],
+    "source": "5im0c4v4/electrical-electronic-symbols.excalidrawlib",
+    "preview": "5im0c4v4/electrical-electronic-symbols.jpg",
+    "created": "2026-10-26",
+    "updated": "2026-10-26",
+    "version": 2,
+    "itemNames": [
+      "Battery",
+      "Arrow",
+      "Resistor",
+      "Node 1",
+      "Node 2",
+      "Operational Amplifier",
+      "Earth Ground",
+      "Chassis Ground",
+      "Digital / Common Ground",
+      "Voltage Source",
+      "Controlled Current Source",
+      "Controlled Voltage Source",
+      "Current Source",
+      "Voltage Source",
+      "Switch",
+      "Inductor",
+      "Capacitor"
+    ]
   }
 ]
