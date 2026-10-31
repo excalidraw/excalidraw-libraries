@@ -7464,5 +7464,54 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Agentic Flows",
+    "description": "Hand-drawn icons for diagramming agentic systems: agents, LLMs and models, tools, memory, data sources, orchestration (routers, planners, sub-agents, queues, guardrails) and providers. Clean and casual styles included.",
+    "authors": [
+      {
+        "name": "Jon Rasmussen",
+        "github": "https://github.com/jonra",
+        "twitter": "",
+        "url": "https://github.com/jonra"
+      }
+    ],
+    "source": "jonra/agentic-flows.excalidrawlib",
+    "preview": "jonra/agentic-flows.jpg",
+    "created": "2026-10-31",
+    "updated": "2026-10-31",
+    "version": 2,
+    "itemNames": [
+      "Agentic Flows (cover)",
+      "Agent",
+      "LLM / Model",
+      "Tool",
+      "Trigger",
+      "Output",
+      "Generated Artifact",
+      "Human-in-loop",
+      "Retry / Loop",
+      "Memory",
+      "Database",
+      "Document",
+      "Web / URL",
+      "File",
+      "API",
+      "Knowledge Base",
+      "Vector Store",
+      "Git",
+      "Router",
+      "Planner",
+      "Sub-agent",
+      "Queue",
+      "Parallel Fan-out",
+      "Guardrail",
+      "Evaluator",
+      "Anthropic",
+      "OpenAI",
+      "Local Model",
+      "GitHub",
+      "beebeeone"
+    ]
   }
 ]
