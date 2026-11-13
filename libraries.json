@@ -7464,5 +7464,25 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Electronic Schematics",
+    "description": "Components for schematics",
+    "authors": [
+      {
+        "name": "Bailando",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "bailando/electronic-schematics.excalidrawlib",
+    "preview": "bailando/electronic-schematics.jpg",
+    "created": "2026-11-13",
+    "updated": "2026-11-13",
+    "version": 2,
+    "itemNames": [
+      "Voltage Source"
+    ]
   }
 ]
