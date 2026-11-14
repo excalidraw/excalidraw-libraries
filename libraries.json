@@ -7464,5 +7464,50 @@
       "Network Chart",
       "Data Viz Fairy Credit"
     ]
+  },
+  {
+    "name": "Sketch icons for Google Cloud – Categories",
+    "description": "Unofficial sketch-style versions of the 26 product category icons from Google Cloud's official icon library (as defined in https://cloud.google.com/icons): Databases, Networking, Data Analytics, AI / Machine Learning, and more. Google uses each category icon for every product that has no core product icon of its own (for example, Pub/Sub uses Data Analytics). Not drawn by hand: generated automatically from the official SVGs with vector tracing and an AI model, in Excalidraw's hand-drawn style. For architecture diagrams. Not affiliated with Google.",
+    "authors": [
+      {
+        "name": "Gabriel Chaperon",
+        "github": "https://github.com/gchaperon",
+        "twitter": "",
+        "url": "https://github.com/gchaperon/excalidraw-google-cloud-sketch-icons"
+      }
+    ],
+    "source": "gchaperon/sketch-icons-for-google-cloud-categories.excalidrawlib",
+    "preview": "gchaperon/sketch-icons-for-google-cloud-categories.jpg",
+    "created": "2026-11-14",
+    "updated": "2026-11-14",
+    "version": 2,
+    "itemNames": [
+      "AI / Machine Learning",
+      "AI Applications & Agents",
+      "Business Intelligence",
+      "Collaboration",
+      "Compute",
+      "Containers",
+      "Data Analytics",
+      "Databases",
+      "Developer Tools",
+      "DevOps",
+      "Google Cloud Marketplace",
+      "Hybrid & Multicloud",
+      "Integration Services",
+      "Management Tools",
+      "Maps & Geospatial",
+      "Media Services",
+      "Migration",
+      "Mixed Reality",
+      "Networking",
+      "Observability",
+      "Operations",
+      "Security & Identity",
+      "Serverless Computing",
+      "Storage",
+      "Web & Mobile",
+      "Web3"
+    ]
   }
 ]
